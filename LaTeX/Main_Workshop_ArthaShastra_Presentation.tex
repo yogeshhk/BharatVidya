@@ -1,0 +1,32 @@
+\documentclass[xcolor=dvipsnames,compress,t,pdf,9pt]{beamer}
+\input{template_presentation}
+\usepackage{polyglossia}
+\setdefaultlanguage{sanskrit}
+\setotherlanguage{english}
+
+\usepackage{fontspec}
+\setmainfont{Segoe UI}
+% \newfontfamily\devanagarifont[Scale=MatchUppercase]{Nakula}
+\newfontfamily\devanagarifont[Script=Devanagari]{Nakula}
+\newfontfamily\devanagarifontsf[Script=Devanagari]{Nakula}
+\newfontfamily\devtransl[Mapping=DevRom]{Segoe UI}
+
+\graphicspath{{images/}}
+\title[\insertframenumber /\inserttotalframenumber]{Introduction to ArthaShastra}
+
+
+\begin{document}
+
+	\begin{frame}
+	\titlepage
+	\end{frame}
+	
+	\input{workshop_arthashastra_content}
+	
+	\begin{frame}[c]{}
+	Thanks ...
+	\vspace{5mm}
+	yogeshkulkarni@yahoo.com
+	\end{frame}
+
+\end{document}

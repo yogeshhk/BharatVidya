@@ -16,8 +16,15 @@ This repository aims to explore and document the key aspects of the Indian Knowl
 2. **Science**: Examine the contributions of ancient Indian scientists and their pioneering discoveries.
 3. **Medicine**: Discover the traditional medical practices and holistic healing methods prevalent in India.
 4. **Mathematics**: Uncover the mathematical advancements made by Indian scholars through the ages.
+5. **Samskrit**: Predominant language in which this Vidya exists. More info [here](./README_samskrit.md)
+5. **YogaShastra**: Yoga way of life. More info [here](./README_yogashastra.md)
+5. **ArthaShastra**: Predominant text on geopolitics and governance. More info [here](./README_arthashastra.md)
 
-## ToDos
+## References
+
+- [Introduction to Bharatiya Knowledge Systems (IKS) - Bori](https://bharatvidya.in/courses/enrolled/2460044)
+
+## Contribution
 
 We invite you to contribute to the development of this repository. Here are some ways you can get involved:
 
