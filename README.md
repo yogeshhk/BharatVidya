@@ -22,8 +22,21 @@ The Indian Knowledge System is a rich and diverse repository of ancient wisdom, 
 5. **ArthaShastra**: Predominant text on geopolitics and governance. More info [here](./README_arthashastra.md)
 
 ## References
-
+- [Indian Knowledge Systems (IKS) Division](https://iksindia.org/)  Division of Ministry of Education (MoE) located in the AICTE, New Delhi.
 - [Introduction to Bharatiya Knowledge Systems (IKS) - Bori](https://bharatvidya.in/courses/enrolled/2460044)
+- [Brhat | Bṛhat | बृहत्](https://www.brhat.in/) a culture engine to power creatives, research and design rooted in the Indian civilizational consciousness.
+- [Course: IIT Gandhinagar 1st edition](https://www.youtube.com/playlist?list=PLRfu94TCePTtVPR-kC4RpIGIwo7-ViCGP)
+- [Course: IIT Gandhinagar 2nd edition](https://www.youtube.com/playlist?list=PLRfu94TCePTtWtu0x145H_63WgoeYickE)
+- [Course: IIT Gandhinagar 3rd edition](https://www.youtube.com/playlist?list=PLRfu94TCePTtLuEYSzmJXNYK_EnDSvY3N)
+- [Course: IIT Gandhinagar 5th edition](https://www.youtube.com/playlist?list=PLRfu94TCePTu5cSVW9rWkX9-5vn5BDgpZ)
+- [Course: IIT Gandhinagar 7th edition](https://www.youtube.com/playlist?list=PLRfu94TCePTt0JaPrZfTiQTNu9dlT-xiB)
+- [Indian Knowledge System (IKS) : Concepts and Applications in Engineering](https://onlinecourses.swayam2.ac.in/imb24_mg20/preview) By Prof. B. Mahadevan, Dr. Vinayak Rajat Bhat, Dr. R Venkata Raghavan   |   Indian Institute of Management Bangalore (IIMB), Chanakya University, Bangalore
+- [Indian Knowledge System (IKS) : Concepts and Applications in Science](https://onlinecourses.swayam2.ac.in/imb24_mg21/preview)
+- [Indian Knowledge System (IKS) : Humanities and Social Sciences](https://onlinecourses.swayam2.ac.in/imb24_mg22/preview)
+- [IKS FDP 2022 IITKgp CoEIKS](https://www.youtube.com/playlist?list=PLah-i6t8ZCQC76b9txCybHF9j_9l2kyrF)
+- [Faculty Development Program 2021 in India’s Knowledge Systems (IKS)](https://www.youtube.com/watch?v=tip5_-Ep3gA) 9 hrs
+- [IKS FDP on India's Knowledge Systems: Sources, Theories, Concepts and Practices (FDP_IKS:STCP 2021)](https://www.youtube.com/watch?v=TvMsKRP6FlQ)
+
 
 ## Contribution
 

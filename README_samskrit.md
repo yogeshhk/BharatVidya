@@ -30,6 +30,8 @@ For learning and developing Sanskrit related tools and resources
 - [Ten Day Spoken Sanskrit Classes by Prof B Mahadevan](https://www.youtube.com/playlist?list=PLWjpkY4mU2RDq1GVq0dQwnNsuYnKXoLkV) Very Good, lively.
 - [Spoken Sanskrit-December 2019](https://www.youtube.com/playlist?list=PLwczsAlRTlwZbehc9qkdX5VmVflzolWYG)
 - ['Sanskrit for Kids' & 'Sanskrit is fun' | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-ETKBOIwXVgV91hv9bNWwPsb)
+- [Introduction to Basic Spoken Sanskrit by Prof. Anuradha Choudry](https://www.youtube.com/playlist?list=PLbRMhDVUMngfYG2GVf2bQnIgsI0Y923g3), [Gdrive](https://drive.google.com/drive/folders/1gqUBL_TNU7O9VP0Emeh2POen13Hky2U8)
+- [NOC July 2019: Intermediate Level of Spoken Sanskrit](https://www.youtube.com/playlist?list=PLbRMhDVUMngdobke8cyLDAJTj7CtZGiie), [GDrive](https://drive.google.com/drive/folders/1p2J_gjoPGI5CCQRglR32eW176GhjUzYM)
 
 ## Subhashitani
 - [Learn to chant Simple Subhashitas](https://www.youtube.com/playlist?list=PLmozlYyYE-ETcqXq8XNVDEMdwGmwrkKxy)
