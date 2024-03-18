@@ -1,17 +1,18 @@
 # Bharat Vidya (aka Indian Knowledge System)
 Welcome to the Indian Knowledge System (IKS) repository! This project aims to explore and celebrate the rich heritage of traditional Indian knowledge across various domains. Whether you're interested in ancient sciences, arts, literature, or holistic practices, this repository is a hub for interdisciplinary research and collaboration.
 
-## Introduction
-The Indian Knowledge System is a rich and diverse repository of ancient wisdom, encompassing various fields such as philosophy, science, medicine, mathematics, and more. Rooted in centuries-old traditions, it offers valuable insights into the cultural and intellectual heritage of India.
-
 ## Purpose
+Under NEP (New Education Policy) 2020, IKS (Indian Knowledge System) is being recommended for even for Engineering streams.
+
 This repository aims to explore and document the key aspects of the Indian Knowledge System, shedding light on its significance, evolution, and relevance in the modern world. By delving into its intricacies, we seek to promote a deeper understanding and appreciation of this invaluable heritage.
 
 - Foster interdisciplinary research: IKS bridges the gap between ancient wisdom and modern challenges. By studying IKS, we can find innovative solutions to contemporary problems.
 - Promote cultural heritage: Through this repository, we aim to celebrate India's rich intellectual legacy and encourage dialogue across disciplines.
 - Empower learners: Whether you're a student, researcher, or enthusiast, IKS provides a platform to engage with traditional knowledge and contribute to its revival.
 
-## Subtopics
+## Introduction
+The Indian Knowledge System is a rich and diverse repository of ancient wisdom, encompassing various fields such as philosophy, science, medicine, mathematics, and more. Rooted in centuries-old traditions, it offers valuable insights into the cultural and intellectual heritage of India.
+
 1. **Philosophy**: Explore the philosophical foundations of the Indian Knowledge System.
 2. **Science**: Examine the contributions of ancient Indian scientists and their pioneering discoveries.
 3. **Medicine**: Discover the traditional medical practices and holistic healing methods prevalent in India.
