@@ -36,7 +36,8 @@ The Indian Knowledge System is a rich and diverse repository of ancient wisdom, 
 - [IKS FDP 2022 IITKgp CoEIKS](https://www.youtube.com/playlist?list=PLah-i6t8ZCQC76b9txCybHF9j_9l2kyrF)
 - [Faculty Development Program 2021 in India’s Knowledge Systems (IKS)](https://www.youtube.com/watch?v=tip5_-Ep3gA) 9 hrs
 - [IKS FDP on India's Knowledge Systems: Sources, Theories, Concepts and Practices (FDP_IKS:STCP 2021)](https://www.youtube.com/watch?v=TvMsKRP6FlQ)
-
+- [AICTE Teaching Material](https://fdp-si.aicte-india.org/SIPTeachMaterialM8.php)
+- [IITGN Readings](https://iks.iitgn.ac.in/readings_2016/)
 
 ## Contribution
 
