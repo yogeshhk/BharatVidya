@@ -25,6 +25,15 @@ For learning and developing Sanskrit related tools and resources
 - [How to decode a Sanskrit Verse - Unique workshop | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-EQ45XW0GuPMJkFcIaDV_uVP)
 - [Sanskrit Grammar workshop | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-ESNJWhcCrJh7gz_gMiRBxXN)
 - [Sanskrit Vocabulary for daily use | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-ET3UJzPaj1BBdGq81CIZiyd)
+- [Perseus Digital Library](http://www.perseus.tufts.edu/hopper) showcases collections and services
+- [Sanskrit Library](https://sanskritlibrary.org) providing access to digitized primary texts and computerized research and study tools to analyze and maximize their utility
+- [The Sanskrit Heritage Site](https://sanskrit.inria.fr) provides various services for the computational treatment of Sanskrit
+- [Veda Web - Rigveda online](http://vedaweb.uni-koeln.de/rigveda)
+- [अंबुद A breakthrough Sanskrit library](http://ambuda.org) Sanskrit literature with word-by-word analysis and integrated dictionaries. All in a free online library that works on all devices.
+- [Saṁsādhanī](https://sanskrit.uohyd.ac.in/scl) The Department of Sanskrit Studies, University of Hyderabad, is engaged in developing various computational tools for the analysis of Sanskrit text following the Indian Grammatical Tradition
+- [Digital Corpus of Sanskrit](http://www.sanskrit-linguistics.org/dcs) a Sandhi-split corpus of Sanskrit texts with full morphological and lexical analysis.
+- [SanskritShala](http://cnerg.iitkgp.ac.in/sanskritshala/) a neural Sanskrit Natural Language Processing (NLP) toolset designed to allow computational linguistic analysis for a variety of tasks, including word segmentation, morphological tagging, dependency parsing, and compound type recognition
+- [START Sanskrit Teaching Annotation Research Tool](http://scl.samsaadhanii.in/start/) Need login
 
 ## Speaking Sanskrit
 - [Ten Day Spoken Sanskrit Classes by Prof B Mahadevan](https://www.youtube.com/playlist?list=PLWjpkY4mU2RDq1GVq0dQwnNsuYnKXoLkV) Very Good, lively.
