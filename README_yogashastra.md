@@ -43,6 +43,7 @@ Meditation can not be done. It will happen. Prepare body and breathe-mind.
 - [Anandmurti Gurumaa](https://www.youtube.com/watch?v=9oEfutjvAi0&list=PLTfDtaImcXfsvYGDfjxrEPQ03DgpVD7Tc&index=2&t=0s)
 - [The Secret Teachings Of Patanjali Yoga Sutras - YouTube](https://www.youtube.com/watch?v=Il7d6fXDOD4)
 - [Patanjali Yoga Sutra - Hindi - YouTube](https://www.youtube.com/playlist?list=PLnc0uXpfPvYwNtXrP3eeAv_WHeKqE_AEz)
+- [Yoga Sutras of Patanjali by Dr Vishwas Mandlik](https://www.youtube.com/playlist?list=PLHDygCsgSb2tk0C9Lz7TTfrudS5Arig5U)
 - [The Secret Teachings Of Patanjali Yoga Sutras](https://www.youtube.com/watch?v=Il7d6fXDOD4&pp=ygUJeW9nYXN1dHJh)
 - [Patanjali Yoga Sutras | Explanation by Anandmurti Gurumaa - YouTube](https://www.youtube.com/playlist?list=PLTfDtaImcXfsvYGDfjxrEPQ03DgpVD7Tc)
 - [Patanjali's Yoga Sutras | Swami Tattwamayananda - YouTube](https://www.youtube.com/playlist?list=PLDqahtm2vA70qrUoOPzu4PPpf0bL2PAot)
