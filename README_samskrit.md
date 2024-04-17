@@ -66,6 +66,14 @@ For learning and developing Sanskrit related tools and resources
 - [Samskrit Bharati Level 3 Shiksha | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-ETly_Ngqtg601fX7_bDMMbn) 27 videos
 - [Samskrit Bharati Level 4 Kovida | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-EQt3Iw5cN7ctvfTbmNr7IGi) 52 videos
 - [Samskrit Bharati Level 1 Pravesha | Vanisri Ragupati](https://www.youtube.com/playlist?list=PLWV98cyTzbXzF0LyF8liA00e2JYcNtCTU) 88 videos
+- [Sanskrit Course - Samskrita Bharati (Level 2) - Parichaya
+Vanisri Ragupati](https://www.youtube.com/playlist?list=PLWV98cyTzbXyK6n--Y_h3N67I_LHl1F03)
+- [Sanskrit Course - Samskrita Bharati (Level 3) - Shiksha
+Vanisri Ragupati](https://www.youtube.com/playlist?list=PLWV98cyTzbXzmLCoKhZl6qaec-COtIm2L)
+- [Sanskrit Course - Samskrita Bharati (Level 4) - Kovida
+Vanisri Ragupati](https://www.youtube.com/playlist?list=PLWV98cyTzbXxZlwoTcbRvPI8oemBzQWDz)
+- [Sanskrit course - Samskrita Bharati - Shiksha - Batch 2
+Vanisri Ragupati](https://www.youtube.com/playlist?list=PLWV98cyTzbXyigW8hDD4GF5qa-HUfDG5p)
 - [High School Sanskrit Grammar Made Easy | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLWV98cyTzbXzF0LyF8liA00e2JYcNtCTU) 310 videos
 - [Samskrit Bharati Level 1 Pravesha | English | Samskrita Shikshanam](https://www.youtube.com/playlist?list=PL8h88F5SX5QhDiEC055dkbmvh02Hb-7pN)
 - [Samskrit Bharati Level 2 Parichaya | Hindi | Samskrita Shikshanam](https://www.youtube.com/playlist?list=PL8h88F5SX5Qg8yPyMB62oppB6MZKMxvU_)
@@ -103,6 +111,15 @@ For learning and developing Sanskrit related tools and resources
 - [std 8th | sanskrit| marathi medium - shikshan katta](https://www.youtube.com/playlist?list=PLilq6e64k5FPqgvvFj-IAkSZHyRmkI3Ib)
 - [संस्कृत क्रियापद व त्यांचे अर्थ - SANSKRIT TEACHER](https://www.youtube.com/playlist?list=PLL7hynOJqNcQ0SA1NJowXDMwaJlRwgQEo)
 - [CBSC Sanskrit#english #10th Board_Exam#summery - Vasant Patil](https://www.youtube.com/playlist?list=PLL7hynOJqNcS7Wbnwi80sfvLJKVdwNnzr)
+- [Samskrita Shikshanam - Parichaya Exam - Samskrita Bharati - Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_nd6fnl5cbwsd4N0GmdKdsr)
+- [Pravesha - English G3 - May2022
+Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_lQyoTu1VZ6hK8y3CLi9AiL)
+- [Parichaya - English E1 - Nov2023
+Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_l3RcIeBgxSmVaUHdXiBJKc)
+- [Parichaya - English G2 - May2023
+Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_l9U87PDbBmpf3ei0gaFKp9)
+- [Shiksha - English G2 - Nov2021
+Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rlebgjhS)
 
 ## Folks, Channels, Institutes
 - [Sanskrit From Home | Vyoma Labs](https://www.sanskritfromhome.org/course-listing.php) Learning Paths, Courses, very comprehensive

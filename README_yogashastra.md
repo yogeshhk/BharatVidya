@@ -34,7 +34,7 @@ Meditation can not be done. It will happen. Prepare body and breathe-mind.
 	- [2](https://www.youtube.com/playlist?list=PLzYmcsEAq-EipdSLbURIecVYA_unkWCmV),
 	- [3](https://www.youtube.com/playlist?list=PLzYmcsEAq-EghdK_64BBgUjgiQJTuHjwG),
 	- [4](https://www.youtube.com/playlist?list=PLzYmcsEAq-EjeBKU_XkfU_-td1dW2TG6T) 
-- [Patanjali Yoga Sutra - Hindi](https://www.youtube.com/playlist?list=PLnc0uXpfPvYwNtXrP3eeAv_WHeKqE_AEz) Good explanation by Dr Vikrant Singh Tomar
+- [Patanjali Yoga Sutra - Hindi - United Consciousness](https://www.youtube.com/playlist?list=PLnc0uXpfPvYwNtXrP3eeAv_WHeKqE_AEz) Good explanation by Dr Vikrant Singh Tomar
 - [Patanjali Yoga Sutra Live Streams](https://www.youtube.com/playlist?list=PLAPrVB8wngPnXpf5OhUqYgE_i6JlhtL8a)
 - [Patanjali Yoga Sutras - English](https://www.youtube.com/playlist?list=PLAV4BpXSJLOqHHfh6BNF53wfiA_bjcde2)
 - [Atha Yoganusasanam](https://sanskritdocuments.org/sites/athayoga/sutra_ch1n.html)
