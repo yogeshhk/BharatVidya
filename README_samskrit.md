@@ -5,12 +5,21 @@ For learning and developing Sanskrit related tools and resources
 	- Witty, terse, minimalist witty language
 	- World needs the knowledge still hidden in texts, new IKS research
 	- Build solutions with AI + Sanskrit or indic languages, talks and teachings, along with Yoga
+	- IKIGAI / Specific knowledge: Unique expertise of old-new Sanskrit with Machine Learning, demand outside
 	
 - What?
 	- To be able to teach upto std 10
 	- To speak basic conversation
 	- With mentor guidance, read classic texts, do *sandhi-vigraha*
 	- Apply AI, embedding, bharat gpt, good script OCR, knowledge shastra map graph, LLM chatbot on top, for research 
+
+- How?
+	-	Do Samskrit Bharati level 4 courses
+	- 	Conduct 10 days Sambhashan Shibir
+	-	Teach upto 10 std, songs, kids shibir
+	-	Read Parv, Sarth etc books, text books
+	-	Research: Sharada OCR, namami manuscripts
+
 
 # References
 
@@ -59,6 +68,20 @@ For learning and developing Sanskrit related tools and resources
 
 
 ## School classes, Courses, Correspondence
+- [Learn Sanskrit](https://www.youtube.com/channel/UCwTNT6Mrrx8fY_lcFoputSQ/playlists)
+- [Samskrita Shikshanam](https://www.youtube.com/channel/UC0hjxSl7vsrnYKuADFg1ITw)
+- [Sanskrit City]( https://www.youtube.com/watch?v=PkNRRziSdxY&list=PL5wQEJFZymLYejXPEEeuBTb6HBSHQHtff)
+- [Learn to Speak Sanskrit in 10 days by ISKCON Desire Tree](https://www.youtube.com/watch?v=1S4KXO5tgDU)
+- [Advaita Academy]( https://www.youtube.com/user/AdvaitaAcademy/playlists?view=50&sort=dd&shelf_id=6)
+- [Dr. Vasudev Prasad]( https://www.youtube.com/channel/UCTzswi3SceY7mI8ZpknFBhA/playlists)
+- [Sundaresan Subramanian]( https://www.youtube.com/watch?v=A5nWbxEbpCE&list=PLQ5oNpr1XhOQq_N1iaYoqLTmBjK6A15-a&index=2)
+- [Ten day spoken Sanskrit Classes](https://www.youtube.com/watch?v=X_jOCKELg5s)
+- [पत्राचार द्वारा संस्कृतम्, परिचयः ](https://www.youtube.com/watch?v=X2El7rURhmY)
+- [Spoken Sanskrit Series](https://www.youtube.com/channel/UCfRauUnvkjE-kUulFXCUMyg)
+- [Sanskrit Grammar](https://www.youtube.com/watch?v=vVGjopZqXBo&list=PLSlaQsqK6Jy_l1q8lPEwDgoHS40yiF9Z8)
+- [Swati Devale Sanskrit for 10th Std]( https://www.youtube.com/channel/UCDKtVQefz7LleJdySOhSOMA/videos)
+- [Learn Sanskrit in Easy Way](https://www.youtube.com/watch?v=ad5fWyQV48U), [2](https://www.youtube.com/watch?v=FK9YOsF7w08)
+- [Easy Sanskrit Course - Chinmay MIssion](https://www.chinfo.org/index.php/easy-sanskrit-course/easy-sanskrit-course-category?donation)
 - [Samskrit Bharati | Samskrit Shikshanam | Correspondence course, Geeta Shikshanam, Balakendram](https://www.samskritashikshanam.in/pattrachar)
 - [Sanskrit Basic Grammar and Learning Materials (Class VI -X)](https://kv2libraipur.home.blog/sanskrit-basic-grammar-and-learning-materials-class-vi-x/)
 - [SANSKRIT TEACHER](https://www.youtube.com/@SANSKRITTEACHER1994) Std 8-9-10 study in Marathi
@@ -128,6 +151,22 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Shaastra Setu - Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5rSF0DGqrD-atPq0wMn_O1k)
 - [Samsaadhanii Praveshikaa - Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5q4Mln6VX_lniW6iDLRNyTm)
 - [Sujit Dhekane - Sanskrit Subhashite - Marathi and English Translated](https://www.youtube.com/@sujitdhekane/videos)
+
+## References
+- [Dictionary](http://spokensanskrit.org/)
+- [Grammar](https://sanskrit.inria.fr/DICO/grammar.html)
+- [Sandhi tool](http://greenmesg.org/sanskrit_online_tools/sanskrit_sandhi_tool.php)
+- [UCB Sanskrit tools](https://ubcsanskrit.ca/)
+- [Sharada Project](http://sanskrit.jnu.ac.in/sharada/index.jsp)
+- [Namami ancient text project](https://www.namami.gov.in/)
+- [Rashtriya Sanskrit Sansthan](http://www.sanskrit.nic.in/)
+- [Teachers and Institutes for Learning Sanskrit]( https://sanskritdocuments.org/sanskritteachers.html)
+- [A Machine Learning project to translate Sanskrit text to English]( http://shivanikohli.me/SanTran/ https://github.com/shivanikohlii/SanTran)
+- [Vyomshastra Pathshala](https://sanskritfromhome.in/courses/language/sanskrit)
+- [Myth of Sanskrit being most suitable language for Computers]( https://fuzzlabs.wordpress.com/2015/09/28/the-best-programming-language-myth/comment-page-1/)
+- [Machine Learning Final Project: Handwritten Sanskrit Recognition using a Multi-class SVM with K-NN Guidance]( https://people.csail.mit.edu/yichangshih/mywebsite/sanskrit.pdf)
+- [Bengali Handwritten Character Classification using Transfer Learning on Deep Convolutional Neural Network](https://arxiv.org/html/1902.11133)
+- [Chinmaya International Foundation]( https://www.chinfo.org/index.php/digital-gallery/video/chinmaya-international-foundation)
 
 
 ### Indian Knowledge System
