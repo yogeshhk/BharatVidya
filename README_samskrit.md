@@ -25,6 +25,10 @@ For learning and developing Sanskrit related tools and resources
 
 ## Overall Sanskrit
 - [Digital Sanskrit Learning - Level 1 - Bori](https://www.bharatvidya.in/p/spoken-sanskrit-level-1), [login](https://bharatvidya.in/courses/enrolled/1893789)
+- [Dhatu Roop - My Coaching](https://mycoaching.in/dhatu-roop)
+- [Grammar - My Coaching](https://mycoaching.in/sanskrit)
+- [Sandhi Vichchhed - My Coaching](https://mycoaching.in/sanskrit-me-sandhi)
+- [Samas - My Coaching](https://mycoaching.in/samas-in-sanskrit)
 - [Sanskrit School - संस्कृतम्  by Rashtriya Sanskrit Sansthan, www.sanskrit.nic.in](https://www.youtube.com/playlist?list=PLgp0aDWIOdvJ5ZgxFwQRJxddDWTexoBtt) Very comprehensive, old, 60+ videos
 - [Sanskrit Language Courses](https://www.youtube.com/playlist?list=PLNKc9XA6KRsPiNk9grlpwJwnnfY5dr2dN) 90 videos, looks comprehensive
 - [Sanskrit Amritmala](https://www.youtube.com/playlist?list=PLNKc9XA6KRsMbeLPkZu3M4H6PbZcfeDL2) 50 videos
@@ -143,6 +147,9 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_l3RcIeBgxSmVaUHd
 Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_l9U87PDbBmpf3ei0gaFKp9)
 - [Shiksha - English G2 - Nov2021
 Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rlebgjhS)
+- [SSC 8th l Sanskrit : Amod l इयत्ता ८ वी : आमोद l Sanskrit Amod with Amit S Nagare](https://www.youtube.com/playlist?list=PLBuQFtY0aaI81z4PgzFX3qI4GbLLed1zE)
+- [SSC 9th l Sanskrit : Amod l इयत्ता ९ वी : आमोद l Sanskrit Amod with Amit S Nagare](https://www.youtube.com/playlist?list=PLBuQFtY0aaI-DKVOBiGv14UPrHL7fIDyx)
+- [SSC 10th l Sanskrit : Amod l इयत्ता १० वी : आमोद l Sanskrit Amod with Amit S Nagare](https://www.youtube.com/playlist?list=PLBuQFtY0aaI9pXUd7rtFx3txwQKgb1cvo)
 
 ## Folks, Channels, Institutes
 - [Sanskrit From Home | Vyoma Labs](https://www.sanskritfromhome.org/course-listing.php) Learning Paths, Courses, very comprehensive
