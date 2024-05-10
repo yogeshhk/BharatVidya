@@ -1,27 +1,54 @@
 # Samskrita Shastra
 For learning and developing Sanskrit related tools and resources
 
-- WHY? 
+## WHY? 
 	- Witty, terse, minimalist witty language
 	- World needs the knowledge still hidden in texts, new IKS research
 	- Build solutions with AI + Sanskrit or indic languages, talks and teachings, along with Yoga
 	- IKIGAI / Specific knowledge: Unique expertise of old-new Sanskrit with Machine Learning, demand outside
 	
-- What?
+## What?
 	- To be able to teach upto std 10
 	- To speak basic conversation
 	- With mentor guidance, read classic texts, do *sandhi-vigraha*
 	- Apply AI, embedding, bharat gpt, good script OCR, knowledge shastra map graph, LLM chatbot on top, for research 
 
-- How?
+## How?
 	-	Do Samskrit Bharati level 4 courses
 	- 	Conduct 10 days Sambhashan Shibir
 	-	Teach upto 10 std, songs, kids shibir
 	-	Read Parv, Sarth etc books, text books
 	-	Research: Sharada OCR, namami manuscripts
 
+## Computational Sanskrit
+Can NLP (Natural Language Processing) of Indic (Indo Aryan family) leverage Sanskrit as base-class or neutral data-structure for processing?
+Meaning if Tokenization of Sanskrit is designed, it can then be leveraged to tokenize Hindi, Marathi, etc. Need to see if the rules-set have Parent-Child relationship?
+
+Sanskrit poses one peculiar challenge though. Word embedding for order-agnostic languages (word2vec for Sanskrit)
+
+### Order-agnostic languages
+In languages like English, meaning of a sentence is dependent on the order of the words in it. E.g. “John loves Mary” has different meaning than “Mary loves John”. But in more evolved/formal languages, like Sanskrit, the meaning is order-agnostic. Because each word is suffixed (declension? Vibhakti) so that its purpose is clear. John is changed to its nominative case form (prathamā) and Mary is changed to her accusative case form (dvitīyā). So, wherever they appear in the sentence, meaning remains unchanged.
+
+### Working of wored2vec
+It’s a single layer neural network with random weights to start with. A sentence is examined by a running window of n words (n-gram) with focus word in the middle. Value of the focus word is determined based on the values of the neighbouring word values. This results in measuring likelihood of words being associated with the focus words. Thus, similarity or associations can be computed easily.
+But that’s not the case with Sanskrit. As the words in a sentence are order independent, word associations computed in traditional manner are not correct.
+
+### Proposed S-gram approach
+Instead of running window on n-grams, for Sanskrit, we need to look at one full sentence at one time. Give equal values to all the words in it. Move to the next sentence. So, it’s a S-gram (Sentence at a time) approach.
+
+### Next steps
+- Find Sanskrit data
+- Modify word2vec implementation
+- Test the proposed S-gram hypothesis
+
 
 # References
+
+## NLP
+- DCS - Digital Corpus of Sanskrit http://kjc-sv013.kjc.uni-heidelberg.de/dcs/index.php 
+- [Myth of Sanskrit being most suitable language for Computers]( https://fuzzlabs.wordpress.com/2015/09/28/the-best-programming-language-myth/comment-page-1/)
+- [Machine Learning Final Project: Handwritten Sanskrit Recognition using a Multi-class SVM with K-NN Guidance]( https://people.csail.mit.edu/yichangshih/mywebsite/sanskrit.pdf)
+- [Bengali Handwritten Character Classification using Transfer Learning on Deep Convolutional Neural Network](https://arxiv.org/html/1902.11133)
 
 ## Overall Sanskrit
 - [Digital Sanskrit Learning - Level 1 - Bori](https://www.bharatvidya.in/p/spoken-sanskrit-level-1), [login](https://bharatvidya.in/courses/enrolled/1893789)
@@ -159,7 +186,7 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Samsaadhanii Praveshikaa - Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5q4Mln6VX_lniW6iDLRNyTm)
 - [Sujit Dhekane - Sanskrit Subhashite - Marathi and English Translated](https://www.youtube.com/@sujitdhekane/videos)
 
-## References
+## Projects
 - [Dictionary](http://spokensanskrit.org/)
 - [Grammar](https://sanskrit.inria.fr/DICO/grammar.html)
 - [Sandhi tool](http://greenmesg.org/sanskrit_online_tools/sanskrit_sandhi_tool.php)
@@ -170,10 +197,8 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Teachers and Institutes for Learning Sanskrit]( https://sanskritdocuments.org/sanskritteachers.html)
 - [A Machine Learning project to translate Sanskrit text to English]( http://shivanikohli.me/SanTran/ https://github.com/shivanikohlii/SanTran)
 - [Vyomshastra Pathshala](https://sanskritfromhome.in/courses/language/sanskrit)
-- [Myth of Sanskrit being most suitable language for Computers]( https://fuzzlabs.wordpress.com/2015/09/28/the-best-programming-language-myth/comment-page-1/)
-- [Machine Learning Final Project: Handwritten Sanskrit Recognition using a Multi-class SVM with K-NN Guidance]( https://people.csail.mit.edu/yichangshih/mywebsite/sanskrit.pdf)
-- [Bengali Handwritten Character Classification using Transfer Learning on Deep Convolutional Neural Network](https://arxiv.org/html/1902.11133)
 - [Chinmaya International Foundation]( https://www.chinfo.org/index.php/digital-gallery/video/chinmaya-international-foundation)
+
 
 
 ### Indian Knowledge System
