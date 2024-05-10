@@ -27,6 +27,7 @@ Meditation can not be done. It will happen. Prepare body and breathe-mind.
 - thoughts come from mind, truth is in no-mind state
 
 ## References
+### Yogasutra
 - [Yogdhara - Online education through the ages - A series of talks by Sri Prashant Iyengar on Yoga in the tradition of Yogacharya BKS Iyengar](https://www.youtube.com/playlist?list=PLzYmcsEAq-Eh1XvnwZ9PRxUGNmIApMCcb)
 - [Zenyoga by Ashish Shuka](https://www.youtube.com/c/DeepKnowledgeSpirituality/playlists)
 - Patanjali yoga sutras on Sundays at RIMYI, very authorative series by Shri Prashant Iyyengar
@@ -61,4 +62,15 @@ Meditation can not be done. It will happen. Prepare body and breathe-mind.
 - [Yoga Sutras - Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYW5hbmRhLm9yZy92aWRlby9wb2RjYXN0L3Nlcmllcy9kZW15c3RpZnlpbmctcGF0YW5qYWxpLXRoZS15b2dhLXN1dHJhcy8)
 - [Yoga Sutra Vedanta Guruji](https://www.youtube.com/playlist?list=PLgiYC40Ul9jpFr-FwN-4vmgXVArBJ7QHM)
 
-
+### Yoga Certification Board Exams
+- [YCB Level 1 - 200 Hrs Yoga TTC | Theory Lectures - Ayushman Yog](https://www.youtube.com/playlist?list=PL3EqlKH94cs4R6dM7IObWxxVERMVq6ujb)
+- [YCB Level 2 - Yoga Wellness Instructor Course Yogapointindia](https://www.youtube.com/playlist?list=PLHDygCsgSb2t-E-BCmsvc9CbNbiz2PdXp)
+- [Yoga Teacher Training 200 Hours Yogapointindia](https://www.youtube.com/playlist?list=PLHDygCsgSb2sIXFisA-jVjPyBfn_V22k9)
+- [YCB Level-1 ( Yoga Protocol Instructor ) - Practical and viva exam](https://www.youtube.com/watch?v=hIn-4tIbqzY)
+- [Training by Ayushman Yog](https://www.ayushmanyog.com/)
+- [Why YCB Exam is important? | Full details of YCB Exam || हिंदी में](https://www.youtube.com/watch?v=dcgclaWQlBE)
+- [How to CRACK YCB EXAM in FIRST attempt | पूरी जानकारी || हिंदी में](https://www.youtube.com/watch?v=uJmlKFNzqTw)
+- [Certification of Yoga Professionals Guidebook for level 1](https://www.amazon.in/Certification-Yoga-Professionals-Guidebook-level/dp/8183231837)
+- [Yog CEC](https://www.youtube.com/playlist?list=PLNsppmbLKJ8JNXNwd8CRnXmjuEMwJp9TX)
+- [Yoga Certification - By YCB Yog Aurora](https://www.youtube.com/playlist?list=PLCCm_6ZMItDNbits0GVY2sTDmPZ8lzlt0)
+- 
