@@ -45,10 +45,13 @@ Instead of running window on n-grams, for Sanskrit, we need to look at one full 
 # References
 
 ## NLP
-- DCS - Digital Corpus of Sanskrit http://kjc-sv013.kjc.uni-heidelberg.de/dcs/index.php 
+- [DCS - Digital Corpus of Sanskrit](http://kjc-sv013.kjc.uni-heidelberg.de/dcs/index.php )
+- [Sanskrit Online Tools - Be in touch with this divine language](https://greenmesg.org/sanskrit_online_tools/)
 - [Myth of Sanskrit being most suitable language for Computers]( https://fuzzlabs.wordpress.com/2015/09/28/the-best-programming-language-myth/comment-page-1/)
 - [Machine Learning Final Project: Handwritten Sanskrit Recognition using a Multi-class SVM with K-NN Guidance]( https://people.csail.mit.edu/yichangshih/mywebsite/sanskrit.pdf)
 - [Bengali Handwritten Character Classification using Transfer Learning on Deep Convolutional Neural Network](https://arxiv.org/html/1902.11133)
+- [NLP for Sanskrit](https://github.com/goru001/nlp-for-sanskrit)
+- [Sansadhani U O Hyd](https://sanskrit.uohyd.ac.in/scl/)
 
 ## Overall Sanskrit
 - [Digital Sanskrit Learning - Level 1 - Bori](https://www.bharatvidya.in/p/spoken-sanskrit-level-1), [login](https://bharatvidya.in/courses/enrolled/1893789)
@@ -75,6 +78,14 @@ Instead of running window on n-grams, for Sanskrit, we need to look at one full 
 - [SanskritShala](http://cnerg.iitkgp.ac.in/sanskritshala/) a neural Sanskrit Natural Language Processing (NLP) toolset designed to allow computational linguistic analysis for a variety of tasks, including word segmentation, morphological tagging, dependency parsing, and compound type recognition
 - [START Sanskrit Teaching Annotation Research Tool](http://scl.samsaadhanii.in/start/) Need login
 - [Sandhi (English) - Vasant Patil](https://www.youtube.com/playlist?list=PLL7hynOJqNcSxa66ggZ8oebzPG0vRvuF3)
+- [Sanskrit for Beginners by Ashok Sanskrit.Today](https://www.youtube.com/playlist?list=PL8hlzSD3smGgf8BA3XcWMUlgB1tsoYyD-)
+- [Sanskrit for Beginners (Level 1) Sanskrit.Today bhasha pravesh for begineers by Samskrit Bharati](https://www.youtube.com/playlist?list=PL8hlzSD3smGixvT7yjBakJKOpyXtqbsby)
+- [Sanskrit for Beginners (Level 2) Sanskrit.Today bhasha pravesh for begineers by Samskrit Bharati](https://www.youtube.com/playlist?list=PL8hlzSD3smGj4pGm-wAtegltn5tZN27UZ)
+- [Sanskrit Grammar Sanskrit.Today](https://www.youtube.com/playlist?list=PL8hlzSD3smGgY-0h6-EBycw58NfTQbORj)
+- [Learn Sanskrit through Sanskrit (Rashtriya Sanskrit Sansthan) Kāvya and Shāstra](https://www.youtube.com/playlist?list=PLudSN7Po9muLeRM6545s68eakbxwZRpEJ)
+- [Introductory Sanskrit @ UBC 2021-22 UBC Sanskrit](https://www.youtube.com/playlist?list=PLjsWpqFRmbAW0_j_tFTgroDv4R0DqYij5)
+- [Nptel Sanskrit course Sonali Khairnar](https://www.youtube.com/playlist?list=PLgJBbDIE_z4wOaygHynl-vPxV0m3dzNJS)
+- [Sanskrit Language Teaching Central Sanskrit University](https://www.sanskrit.nic.in/sanskrit_language_teaching.php)
 
 ## Speaking Sanskrit
 - [Ten Day Spoken Sanskrit Classes by Prof B Mahadevan](https://www.youtube.com/playlist?list=PLWjpkY4mU2RDq1GVq0dQwnNsuYnKXoLkV) Very Good, lively.
@@ -86,7 +97,7 @@ Instead of running window on n-grams, for Sanskrit, we need to look at one full 
 - [ससंस्कृतमध्ये बोलूया Let's talk in Sanskrit - SANSKRIT TEACHER](https://www.youtube.com/playlist?list=PLyY6qLVtS8GSE0ya2RK8a0SOUdwjxP7Jz)
 - [संस्कृत शिका - Vasant Patil](https://www.youtube.com/playlist?list=PLL7hynOJqNcSLwpQUcixpzjSrSyxezpJa)
 
-## Subhashitani, Geetani, Shlok, Essays
+## Subhashitani, Geetani, Shlok, Essays, Stories
 - [Learn to chant Simple Subhashitas](https://www.youtube.com/playlist?list=PLmozlYyYE-ETcqXq8XNVDEMdwGmwrkKxy)
 - [Wisdom from Subhashitas for a Successful life - I](https://www.youtube.com/playlist?list=PLmozlYyYE-ERaqtMxe6_Hq8Ay8AexmLpY)
 - [Wisdom from Subhashitas for a Successful life - II](https://www.youtube.com/playlist?list=PLmozlYyYE-ESLutoSfZufcrhBfQs-Y89v)
@@ -96,7 +107,8 @@ Instead of running window on n-grams, for Sanskrit, we need to look at one full 
 - [Samskrit Song - Samskrit Tutorial](https://www.youtube.com/playlist?list=PLgESsMf2gnAdfa5VvaU4x09fmvGY-BYBO)
 - [Sanskit shlok Marathi arth /संस्कृत श्लोक मराठी अर्थ - Sanskrit & Story Learners](https://www.youtube.com/playlist?list=PLvZhKfOFcYztEfu56UK8tP6OOeGF_ledM)
 - [Ssanskrit world - Sanskrit & Story Learners](https://www.youtube.com/playlist?list=PLvZhKfOFcYzvYMvwrgcXa0Y4-erpvIEsa)
-
+- [Stories in Sanskrit Madras Sanskrit College](https://www.youtube.com/playlist?list=PLnnFGi5KwfGF89tdSXx7bCLDuUbeQMheL)
+- [Sanskrit Stories | Samskritam Stories | Gurukula.com www.Gurukula.com](https://www.youtube.com/playlist?list=PLVLtzIisXuIFqEVLt6gSzPypBiPYYb8Zw)
 
 ## School classes, Courses, Correspondence
 - [Learn Sanskrit](https://www.youtube.com/channel/UCwTNT6Mrrx8fY_lcFoputSQ/playlists)
@@ -116,7 +128,7 @@ Instead of running window on n-grams, for Sanskrit, we need to look at one full 
 - [Samskrit Bharati | Samskrit Shikshanam | Correspondence course, Geeta Shikshanam, Balakendram](https://www.samskritashikshanam.in/pattrachar)
 - [Sanskrit Basic Grammar and Learning Materials (Class VI -X)](https://kv2libraipur.home.blog/sanskrit-basic-grammar-and-learning-materials-class-vi-x/)
 - [SANSKRIT TEACHER](https://www.youtube.com/@SANSKRITTEACHER1994) Std 8-9-10 study in Marathi
-- [Samskrit Bharati Level 1 Pravesha | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-ERHYgYJ3cdjXaaJ_FP2ji5N) 96 videos
+- [Samskrit Bharati Level 1 Pravesha | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-ERHYgYJ3cdjXaaJ_FP2ji5N) 96 videos, follows the  book
 - [Samskrit Bharati Level 3 Shiksha | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-ETly_Ngqtg601fX7_bDMMbn) 27 videos
 - [Samskrit Bharati Level 4 Kovida | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-EQt3Iw5cN7ctvfTbmNr7IGi) 52 videos
 - [Samskrit Bharati Level 1 Pravesha | Vanisri Ragupati](https://www.youtube.com/playlist?list=PLWV98cyTzbXzF0LyF8liA00e2JYcNtCTU) 88 videos
@@ -185,6 +197,7 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Shaastra Setu - Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5rSF0DGqrD-atPq0wMn_O1k)
 - [Samsaadhanii Praveshikaa - Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5q4Mln6VX_lniW6iDLRNyTm)
 - [Sujit Dhekane - Sanskrit Subhashite - Marathi and English Translated](https://www.youtube.com/@sujitdhekane/videos)
+- [Central Sanskrit University](https://www.sanskrit.nic.in/)
 
 ## Projects
 - [Dictionary](http://spokensanskrit.org/)
@@ -198,7 +211,8 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [A Machine Learning project to translate Sanskrit text to English]( http://shivanikohli.me/SanTran/ https://github.com/shivanikohlii/SanTran)
 - [Vyomshastra Pathshala](https://sanskritfromhome.in/courses/language/sanskrit)
 - [Chinmaya International Foundation]( https://www.chinfo.org/index.php/digital-gallery/video/chinmaya-international-foundation)
-
+- [Digitized SLM Sasnkrit Learning Material?](https://www.sanskrit.nic.in/msp/digitized_slm.php)
+- [Vedavaapi](https://www.vedavaapi.org/vedic-knowledge-systems/)
 
 
 ### Indian Knowledge System
