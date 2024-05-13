@@ -86,6 +86,16 @@ Instead of running window on n-grams, for Sanskrit, we need to look at one full 
 - [Introductory Sanskrit @ UBC 2021-22 UBC Sanskrit](https://www.youtube.com/playlist?list=PLjsWpqFRmbAW0_j_tFTgroDv4R0DqYij5)
 - [Nptel Sanskrit course Sonali Khairnar](https://www.youtube.com/playlist?list=PLgJBbDIE_z4wOaygHynl-vPxV0m3dzNJS)
 - [Sanskrit Language Teaching Central Sanskrit University](https://www.sanskrit.nic.in/sanskrit_language_teaching.php)
+- [NCERT Sanskrit Class 6 to 10 by Kailash Sharma संस्कृत संवादः](https://www.youtube.com/playlist?list=PL6OCpxoxDlObCMJTj_rnRnJeQBmjtAVRG)
+- [संस्कृतशिक्षा – देववाणी संस्कृतम् संस्कृत संवादः](https://www.youtube.com/playlist?list=PL6OCpxoxDlOaYtZ7hahinyEL7rxk5S9jR)
+- [Patrachar Samskritam of Samskrita Bharati by Samskrita Shikhanam संस्कृत संवादः](https://www.youtube.com/playlist?list=PL6OCpxoxDlOZpjocJq10rYzJH7tyFAD34)
+- [Learn Sanskrit by Prof. Narasing Rao – Advaita Academy संस्कृत संवादः](https://www.youtube.com/playlist?list=PL6OCpxoxDlObh266rAvpeCAOLUJeX4jPF)
+- [Learn Sanskrit : Be Modern by CEC संस्कृत संवादः](https://www.youtube.com/playlist?list=PL6OCpxoxDlOala6DaR0hPViTtTes1_ms6)
+- [भाषापाकः – Neelesh Bodas Ashtadhyayi.com संस्कृत संवादः](https://www.youtube.com/playlist?list=PL6OCpxoxDlOYYK87UDiJzdL3FA8hUdDix)
+- [SKT 305 | Introduction to Pāṇinian Grammar](https://www.yogicstudies.com/skt-305)
+- [SKT 306 | Pāṇinian Grammar Level II](https://www.yogicstudies.com/skt-306)
+- [Samskrit-1 MIT](https://mitvedicsciences.edu.in/education/certificate-courses/samskrit-1)
+- [Sanskrit 1: Thinking in Sanskrit MIT](https://mitiiks.org.in/product/sanskrit-1-thinking-in-sanskrit/)
 
 ## Speaking Sanskrit
 - [Ten Day Spoken Sanskrit Classes by Prof B Mahadevan](https://www.youtube.com/playlist?list=PLWjpkY4mU2RDq1GVq0dQwnNsuYnKXoLkV) Very Good, lively.
@@ -96,6 +106,7 @@ Instead of running window on n-grams, for Sanskrit, we need to look at one full 
 - [ChamuKS - Samskrit Tutorial](https://www.youtube.com/playlist?list=PLgESsMf2gnAc_MN_lzLbe5TYXHP41ZJ_L)
 - [ससंस्कृतमध्ये बोलूया Let's talk in Sanskrit - SANSKRIT TEACHER](https://www.youtube.com/playlist?list=PLyY6qLVtS8GSE0ya2RK8a0SOUdwjxP7Jz)
 - [संस्कृत शिका - Vasant Patil](https://www.youtube.com/playlist?list=PLL7hynOJqNcSLwpQUcixpzjSrSyxezpJa)
+- [Sanskrit by Neelesh Bodas - Ramana Kodati](https://www.youtube.com/playlist?list=PLrzrp4HwjKA3TbhQrbLSGM4yBrXtAVv6a)
 
 ## Subhashitani, Geetani, Shlok, Essays, Stories
 - [Learn to chant Simple Subhashitas](https://www.youtube.com/playlist?list=PLmozlYyYE-ETcqXq8XNVDEMdwGmwrkKxy)
