@@ -73,4 +73,4 @@ Meditation can not be done. It will happen. Prepare body and breathe-mind.
 - [Certification of Yoga Professionals Guidebook for level 1](https://www.amazon.in/Certification-Yoga-Professionals-Guidebook-level/dp/8183231837)
 - [Yog CEC](https://www.youtube.com/playlist?list=PLNsppmbLKJ8JNXNwd8CRnXmjuEMwJp9TX)
 - [Yoga Certification - By YCB Yog Aurora](https://www.youtube.com/playlist?list=PLCCm_6ZMItDNbits0GVY2sTDmPZ8lzlt0)
-- 
+

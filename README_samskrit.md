@@ -44,15 +44,6 @@ Instead of running window on n-grams, for Sanskrit, we need to look at one full 
 
 # References
 
-## NLP
-- [DCS - Digital Corpus of Sanskrit](http://kjc-sv013.kjc.uni-heidelberg.de/dcs/index.php )
-- [Sanskrit Online Tools - Be in touch with this divine language](https://greenmesg.org/sanskrit_online_tools/)
-- [Myth of Sanskrit being most suitable language for Computers]( https://fuzzlabs.wordpress.com/2015/09/28/the-best-programming-language-myth/comment-page-1/)
-- [Machine Learning Final Project: Handwritten Sanskrit Recognition using a Multi-class SVM with K-NN Guidance]( https://people.csail.mit.edu/yichangshih/mywebsite/sanskrit.pdf)
-- [Bengali Handwritten Character Classification using Transfer Learning on Deep Convolutional Neural Network](https://arxiv.org/html/1902.11133)
-- [NLP for Sanskrit](https://github.com/goru001/nlp-for-sanskrit)
-- [Sansadhani U O Hyd](https://sanskrit.uohyd.ac.in/scl/)
-
 ## Overall Sanskrit
 - [Digital Sanskrit Learning - Level 1 - Bori](https://www.bharatvidya.in/p/spoken-sanskrit-level-1), [login](https://bharatvidya.in/courses/enrolled/1893789)
 - [Dhatu Roop - My Coaching](https://mycoaching.in/dhatu-roop)
@@ -200,6 +191,7 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [SSC 8th l Sanskrit : Amod l इयत्ता ८ वी : आमोद l Sanskrit Amod with Amit S Nagare](https://www.youtube.com/playlist?list=PLBuQFtY0aaI81z4PgzFX3qI4GbLLed1zE)
 - [SSC 9th l Sanskrit : Amod l इयत्ता ९ वी : आमोद l Sanskrit Amod with Amit S Nagare](https://www.youtube.com/playlist?list=PLBuQFtY0aaI-DKVOBiGv14UPrHL7fIDyx)
 - [SSC 10th l Sanskrit : Amod l इयत्ता १० वी : आमोद l Sanskrit Amod with Amit S Nagare](https://www.youtube.com/playlist?list=PLBuQFtY0aaI9pXUd7rtFx3txwQKgb1cvo)
+- [yogadarśanam Central Sanskrit University - Sanskrit via Yogadarshanam](https://csu.learnsamskrit.online/course-details?name/=VFZFOVBRPT0=)
 
 ## Folks, Channels, Institutes
 - [Sanskrit From Home | Vyoma Labs](https://www.sanskritfromhome.org/course-listing.php) Learning Paths, Courses, very comprehensive
@@ -225,8 +217,16 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Digitized SLM Sasnkrit Learning Material?](https://www.sanskrit.nic.in/msp/digitized_slm.php)
 - [Vedavaapi](https://www.vedavaapi.org/vedic-knowledge-systems/)
 
+## NLP
+- [DCS - Digital Corpus of Sanskrit](http://kjc-sv013.kjc.uni-heidelberg.de/dcs/index.php )
+- [Sanskrit Online Tools - Be in touch with this divine language](https://greenmesg.org/sanskrit_online_tools/)
+- [Myth of Sanskrit being most suitable language for Computers]( https://fuzzlabs.wordpress.com/2015/09/28/the-best-programming-language-myth/comment-page-1/)
+- [Machine Learning Final Project: Handwritten Sanskrit Recognition using a Multi-class SVM with K-NN Guidance]( https://people.csail.mit.edu/yichangshih/mywebsite/sanskrit.pdf)
+- [Bengali Handwritten Character Classification using Transfer Learning on Deep Convolutional Neural Network](https://arxiv.org/html/1902.11133)
+- [NLP for Sanskrit](https://github.com/goru001/nlp-for-sanskrit)
+- [Sansadhani U O Hyd](https://sanskrit.uohyd.ac.in/scl/)
 
-### Indian Knowledge System
+## Indian Knowledge System
 - [Learn Sharada Lipi | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-ETiEDyzg3UYg4pbNz31nCEG)
 - [National Seminar on Manuscripts](https://www.youtube.com/playlist?list=PLjFl99f9x7pvwoBi498eUvDVG4Fp5PIZu)
 - [Dharohar](https://dharohar.org/en/the-cataloguing-process), [Sangrah](https://sangrah.org/), [Sanjaya Singhal](https://www.securemeters.com/in/council/sanjaya-singhal/)
