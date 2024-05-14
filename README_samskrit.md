@@ -111,6 +111,7 @@ Instead of running window on n-grams, for Sanskrit, we need to look at one full 
 - [Ssanskrit world - Sanskrit & Story Learners](https://www.youtube.com/playlist?list=PLvZhKfOFcYzvYMvwrgcXa0Y4-erpvIEsa)
 - [Stories in Sanskrit Madras Sanskrit College](https://www.youtube.com/playlist?list=PLnnFGi5KwfGF89tdSXx7bCLDuUbeQMheL)
 - [Sanskrit Stories | Samskritam Stories | Gurukula.com www.Gurukula.com](https://www.youtube.com/playlist?list=PLVLtzIisXuIFqEVLt6gSzPypBiPYYb8Zw)
+- [Sanskrit Sahitya NIOS](https://nios.ac.in/online-course-material/secondary-courses/sanskrit-sahitya-(248).aspx)
 
 ## School classes, Courses, Correspondence
 - [Learn Sanskrit](https://www.youtube.com/channel/UCwTNT6Mrrx8fY_lcFoputSQ/playlists)
@@ -191,8 +192,9 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [SSC 8th l Sanskrit : Amod l इयत्ता ८ वी : आमोद l Sanskrit Amod with Amit S Nagare](https://www.youtube.com/playlist?list=PLBuQFtY0aaI81z4PgzFX3qI4GbLLed1zE)
 - [SSC 9th l Sanskrit : Amod l इयत्ता ९ वी : आमोद l Sanskrit Amod with Amit S Nagare](https://www.youtube.com/playlist?list=PLBuQFtY0aaI-DKVOBiGv14UPrHL7fIDyx)
 - [SSC 10th l Sanskrit : Amod l इयत्ता १० वी : आमोद l Sanskrit Amod with Amit S Nagare](https://www.youtube.com/playlist?list=PLBuQFtY0aaI9pXUd7rtFx3txwQKgb1cvo)
-- [yogadarśanam Central Sanskrit University - Sanskrit via Yogadarshanam](https://csu.learnsamskrit.online/course-details?name/=VFZFOVBRPT0=)
-
+- [yogadarśanam Certificate Central Sanskrit University - Sanskrit via Yogadarshanam](https://csu.learnsamskrit.online/course-details?name/=VFZFOVBRPT0=)
+- [yogadarśanam (pātañjalayogasūtram) Diploma  Central Sanskrit University - Sanskrit via Yogadarshanam](https://csu.learnsamskrit.online/course-details?name/=VDBFOVBRPT0=)
+- [https://nios.ac.in/online-course-material/secondary-courses/sanskrit-vyakarana-(246).aspx)
 ## Folks, Channels, Institutes
 - [Sanskrit From Home | Vyoma Labs](https://www.sanskritfromhome.org/course-listing.php) Learning Paths, Courses, very comprehensive
 - [Dr. Vasudev Prasad](https://www.youtube.com/playlist?list=PLhRKsB88RuSmldpHV7ZfjktP1aGsGBVbF)
@@ -201,6 +203,7 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Samsaadhanii Praveshikaa - Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5q4Mln6VX_lniW6iDLRNyTm)
 - [Sujit Dhekane - Sanskrit Subhashite - Marathi and English Translated](https://www.youtube.com/@sujitdhekane/videos)
 - [Central Sanskrit University](https://www.sanskrit.nic.in/)
+- [Sanskrit Vyakarana](https://nios.ac.in/online-course-material/secondary-courses/sanskrit-vyakarana-(246).aspx)
 
 ## Projects
 - [Dictionary](http://spokensanskrit.org/)
