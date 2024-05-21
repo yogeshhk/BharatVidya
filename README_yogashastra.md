@@ -27,9 +27,17 @@ Meditation can not be done. It will happen. Prepare body and breathe-mind.
 - thoughts come from mind, truth is in no-mind state
 
 ## References
-### Yogasutra
-- [Yogdhara - Online education through the ages - A series of talks by Sri Prashant Iyengar on Yoga in the tradition of Yogacharya BKS Iyengar](https://www.youtube.com/playlist?list=PLzYmcsEAq-Eh1XvnwZ9PRxUGNmIApMCcb)
+
+### Yoga
 - [Zenyoga by Ashish Shuka](https://www.youtube.com/c/DeepKnowledgeSpirituality/playlists)
+
+### Yogasutra
+
+- [Patanjali Yoga Sutras - Vivekananda Rock Memorial & Vivekananda](https://www.youtube.com/playlist?list=PLM4rzq7OuKeJN3kxPKgMlY8U_KBktmSYj) verse by verse
+- [Patanjali Yoga Sutras - English Yogic Gurukul - Anvita Dixit · Podcast](https://www.youtube.com/playlist?list=PLAV4BpXSJLOqHHfh6BNF53wfiA_bjcde2)
+- [Swami J Patanjali Yoga Sutra](https://swamij.com/yoga-sutras.htm)
+
+- [Yogdhara - Online education through the ages - A series of talks by Sri Prashant Iyengar on Yoga in the tradition of Yogacharya BKS Iyengar](https://www.youtube.com/playlist?list=PLzYmcsEAq-Eh1XvnwZ9PRxUGNmIApMCcb)
 - Patanjali yoga sutras on Sundays at RIMYI, very authorative series by Shri Prashant Iyyengar
 	- [1](https://www.youtube.com/playlist?list=PLzYmcsEAq-EjS97yhjyaRCjpPe2h-YBKk),
 	- [2](https://www.youtube.com/playlist?list=PLzYmcsEAq-EipdSLbURIecVYA_unkWCmV),
@@ -39,7 +47,7 @@ Meditation can not be done. It will happen. Prepare body and breathe-mind.
 - [Patanjali Yoga Sutra Live Streams](https://www.youtube.com/playlist?list=PLAPrVB8wngPnXpf5OhUqYgE_i6JlhtL8a)
 - [Patanjali Yoga Sutras - English](https://www.youtube.com/playlist?list=PLAV4BpXSJLOqHHfh6BNF53wfiA_bjcde2)
 - [Atha Yoganusasanam](https://sanskritdocuments.org/sites/athayoga/sutra_ch1n.html)
-- [Swami J Patanjali Yoga Sutra](https://swamij.com/yoga-sutras.htm)
+
 - [Patanjali Yoga Sutra Baba ramdev](https://patanjaliyogasutra.in/)
 - [Anandmurti Gurumaa](https://www.youtube.com/watch?v=9oEfutjvAi0&list=PLTfDtaImcXfsvYGDfjxrEPQ03DgpVD7Tc&index=2&t=0s)
 - [The Secret Teachings Of Patanjali Yoga Sutras - YouTube](https://www.youtube.com/watch?v=Il7d6fXDOD4)
