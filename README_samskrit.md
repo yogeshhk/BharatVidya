@@ -194,7 +194,9 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [SSC 10th l Sanskrit : Amod l इयत्ता १० वी : आमोद l Sanskrit Amod with Amit S Nagare](https://www.youtube.com/playlist?list=PLBuQFtY0aaI9pXUd7rtFx3txwQKgb1cvo)
 - [yogadarśanam Certificate Central Sanskrit University - Sanskrit via Yogadarshanam](https://csu.learnsamskrit.online/course-details?name/=VFZFOVBRPT0=)
 - [yogadarśanam (pātañjalayogasūtram) Diploma  Central Sanskrit University - Sanskrit via Yogadarshanam](https://csu.learnsamskrit.online/course-details?name/=VDBFOVBRPT0=)
-- [https://nios.ac.in/online-course-material/secondary-courses/sanskrit-vyakarana-(246).aspx)
+- [Sanskrit Vyakarana (246)](https://nios.ac.in/online-course-material/secondary-courses/sanskrit-vyakarana-(246).aspx)
+- [Sanskrit (209)](https://nios.ac.in/online-course-material/secondary-courses/Sanskrit-(209)-Syllabus.aspx)
+
 ## Folks, Channels, Institutes
 - [Sanskrit From Home | Vyoma Labs](https://www.sanskritfromhome.org/course-listing.php) Learning Paths, Courses, very comprehensive
 - [Dr. Vasudev Prasad](https://www.youtube.com/playlist?list=PLhRKsB88RuSmldpHV7ZfjktP1aGsGBVbF)
