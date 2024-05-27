@@ -87,6 +87,7 @@ Instead of running window on n-grams, for Sanskrit, we need to look at one full 
 - [SKT 306 | Pāṇinian Grammar Level II](https://www.yogicstudies.com/skt-306)
 - [Samskrit-1 MIT](https://mitvedicsciences.edu.in/education/certificate-courses/samskrit-1)
 - [Sanskrit 1: Thinking in Sanskrit MIT](https://mitiiks.org.in/product/sanskrit-1-thinking-in-sanskrit/)
+- [Learning Sanskrit Series Academy of Indian Philosophy](https://www.youtube.com/playlist?list=PLeHXGl3tGtBKdCY7gV55K7NgRG71CbgrD)
 
 ## Speaking Sanskrit
 - [Ten Day Spoken Sanskrit Classes by Prof B Mahadevan](https://www.youtube.com/playlist?list=PLWjpkY4mU2RDq1GVq0dQwnNsuYnKXoLkV) Very Good, lively.

@@ -30,12 +30,18 @@ Meditation can not be done. It will happen. Prepare body and breathe-mind.
 
 ### Yoga
 - [Zenyoga by Ashish Shuka](https://www.youtube.com/c/DeepKnowledgeSpirituality/playlists)
+- [Yoga Nidra(Hindi) - Kaushal Yog](https://www.youtube.com/playlist?list=PLiiaHydaB-DA728kyHx97bTgHMlLGV8rC)
+- [YOGA THEORY-I  Form Course : Bachelor of Science Dr. Ram Kishore](https://gyansanchay.csjmu.ac.in/bpt-2nd-year/)
 
 ### Yogasutra
 
 - [Patanjali Yoga Sutras - Vivekananda Rock Memorial & Vivekananda](https://www.youtube.com/playlist?list=PLM4rzq7OuKeJN3kxPKgMlY8U_KBktmSYj) verse by verse
 - [Patanjali Yoga Sutras - English Yogic Gurukul - Anvita Dixit · Podcast](https://www.youtube.com/playlist?list=PLAV4BpXSJLOqHHfh6BNF53wfiA_bjcde2)
 - [Swami J Patanjali Yoga Sutra](https://swamij.com/yoga-sutras.htm)
+- [Patanjali Yog Sutra - Samadhi Pada - Kaushal Yog](https://www.youtube.com/playlist?list=PLiiaHydaB-DDw2dwcxcgU_KIYRyERQl-B)
+- [Patanjali Yoga Sutra- Sadhan Pada - Kaushal Yog](https://www.youtube.com/playlist?list=PLiiaHydaB-DC5kReC956k83JUwBV9lpVB)
+- [Patanjali Yoga Sutra - Vibhuti Pada - Kaushal Yog](https://www.youtube.com/playlist?list=PLiiaHydaB-DCH2mkZifIgu8SNtG7koSuD)
+- [Patanjali Yoga Sutra - Kaivalya Pada - Kaushal Yog](https://www.youtube.com/playlist?list=PLiiaHydaB-DCjG8E1HMvhP9L_j0utpMHL)
 
 - [Yogdhara - Online education through the ages - A series of talks by Sri Prashant Iyengar on Yoga in the tradition of Yogacharya BKS Iyengar](https://www.youtube.com/playlist?list=PLzYmcsEAq-Eh1XvnwZ9PRxUGNmIApMCcb)
 - Patanjali yoga sutras on Sundays at RIMYI, very authorative series by Shri Prashant Iyyengar
@@ -69,6 +75,11 @@ Meditation can not be done. It will happen. Prepare body and breathe-mind.
 - [Patanjali's Yogasutra (A Chanting Guide in the Tradition of T. Krishnamacharya) - YouTube](https://www.youtube.com/playlist?list=OLAK5uy_m9kMFlD54yeL-cSAZTKJWXj_EfS0YM_kA)
 - [Yoga Sutras - Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYW5hbmRhLm9yZy92aWRlby9wb2RjYXN0L3Nlcmllcy9kZW15c3RpZnlpbmctcGF0YW5qYWxpLXRoZS15b2dhLXN1dHJhcy8)
 - [Yoga Sutra Vedanta Guruji](https://www.youtube.com/playlist?list=PLgiYC40Ul9jpFr-FwN-4vmgXVArBJ7QHM)
+- [Patanajli's Yogasutras: The Vision and Practices for Daily Enlightenment - 11 Online Lectures by Swami Bodhananda Sambodh Foundation INDIA](https://www.youtube.com/playlist?list=PLnQX00Jg336HeBOdda7rsdA3y-k1Hvjr8)
+- [Yoga Sutra Lectures - Yogaprasad Institute](https://www.youtube.com/playlist?list=PLgKbHNqLRT1a1zZ4kIJKblq7Ye0Vu00zL)
+- [Yogasūtras of Patañjali Academy of Indian Philosophy](https://www.youtube.com/playlist?list=PLeHXGl3tGtBIb8j6QNOlXE-OqN4K4jtt3)
+- [Sage Patanjali's Yogasutra with Rajen Vakil (in English) Rajen Vakil](https://www.youtube.com/playlist?list=PLq9JHTtAAy1xDYp6bxJ76T0b1C4VVTK7G)
+- [Patanjali's Yogasutra Dr. Kausthub Desikachar](https://www.youtube.com/playlist?list=PLkcXr3YO0UgpYbQU_Tm8l9pZiCrlj1qCx)
 
 ### Yoga Certification Board Exams
 - [YCB Level 1 - 200 Hrs Yoga TTC | Theory Lectures - Ayushman Yog](https://www.youtube.com/playlist?list=PL3EqlKH94cs4R6dM7IObWxxVERMVq6ujb)
