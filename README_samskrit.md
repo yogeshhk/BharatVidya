@@ -88,9 +88,11 @@ Instead of running window on n-grams, for Sanskrit, we need to look at one full 
 - [Samskrit-1 MIT](https://mitvedicsciences.edu.in/education/certificate-courses/samskrit-1)
 - [Sanskrit 1: Thinking in Sanskrit MIT](https://mitiiks.org.in/product/sanskrit-1-thinking-in-sanskrit/)
 - [Learning Sanskrit Series Academy of Indian Philosophy](https://www.youtube.com/playlist?list=PLeHXGl3tGtBKdCY7gV55K7NgRG71CbgrD)
+- [High School Sanskrit Grammar Made Easy प्रौढशाला-संस्कृत-व्याकरणम् Vyoma](https://www.youtube.com/playlist?list=PLmozlYyYE-ET72Pz5n8WDtKHH31K06QhW)
 
 ## Speaking Sanskrit
 - [Ten Day Spoken Sanskrit Classes by Prof B Mahadevan](https://www.youtube.com/playlist?list=PLWjpkY4mU2RDq1GVq0dQwnNsuYnKXoLkV) Very Good, lively.
+- [Spoken Sanskrit in 10 Days जयतु संस्कृतम्](https://www.youtube.com/playlist?list=PLmFm5HIcK-Mi0BRyEYI234pwOa1CXVTVH)
 - [Spoken Sanskrit-December 2019](https://www.youtube.com/playlist?list=PLwczsAlRTlwZbehc9qkdX5VmVflzolWYG)
 - ['Sanskrit for Kids' & 'Sanskrit is fun' | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-ETKBOIwXVgV91hv9bNWwPsb)
 - [Introduction to Basic Spoken Sanskrit by Prof. Anuradha Choudry](https://www.youtube.com/playlist?list=PLbRMhDVUMngfYG2GVf2bQnIgsI0Y923g3), [Gdrive](https://drive.google.com/drive/folders/1gqUBL_TNU7O9VP0Emeh2POen13Hky2U8)

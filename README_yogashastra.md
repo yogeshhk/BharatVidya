@@ -42,7 +42,7 @@ Meditation can not be done. It will happen. Prepare body and breathe-mind.
 - [Patanjali Yoga Sutra- Sadhan Pada - Kaushal Yog](https://www.youtube.com/playlist?list=PLiiaHydaB-DC5kReC956k83JUwBV9lpVB)
 - [Patanjali Yoga Sutra - Vibhuti Pada - Kaushal Yog](https://www.youtube.com/playlist?list=PLiiaHydaB-DCH2mkZifIgu8SNtG7koSuD)
 - [Patanjali Yoga Sutra - Kaivalya Pada - Kaushal Yog](https://www.youtube.com/playlist?list=PLiiaHydaB-DCjG8E1HMvhP9L_j0utpMHL)
-
+- [KYG Patanjali Yoga Sutras KYG Yoga](https://www.youtube.com/playlist?list=PL-6kJd9CsN4rsWA0J3GDmigdAqhQZUnfE)
 - [Yogdhara - Online education through the ages - A series of talks by Sri Prashant Iyengar on Yoga in the tradition of Yogacharya BKS Iyengar](https://www.youtube.com/playlist?list=PLzYmcsEAq-Eh1XvnwZ9PRxUGNmIApMCcb)
 - Patanjali yoga sutras on Sundays at RIMYI, very authorative series by Shri Prashant Iyyengar
 	- [1](https://www.youtube.com/playlist?list=PLzYmcsEAq-EjS97yhjyaRCjpPe2h-YBKk),
