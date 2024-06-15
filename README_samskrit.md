@@ -44,7 +44,7 @@ Instead of running window on n-grams, for Sanskrit, we need to look at one full 
 
 # References
 
-## Overall Sanskrit
+## Sanskrit Grammar
 - [Digital Sanskrit Learning - Level 1 - Bori](https://www.bharatvidya.in/p/spoken-sanskrit-level-1), [login](https://bharatvidya.in/courses/enrolled/1893789)
 - [Dhatu Roop - My Coaching](https://mycoaching.in/dhatu-roop)
 - [Grammar - My Coaching](https://mycoaching.in/sanskrit)
@@ -89,34 +89,6 @@ Instead of running window on n-grams, for Sanskrit, we need to look at one full 
 - [Sanskrit 1: Thinking in Sanskrit MIT](https://mitiiks.org.in/product/sanskrit-1-thinking-in-sanskrit/)
 - [Learning Sanskrit Series Academy of Indian Philosophy](https://www.youtube.com/playlist?list=PLeHXGl3tGtBKdCY7gV55K7NgRG71CbgrD)
 - [High School Sanskrit Grammar Made Easy प्रौढशाला-संस्कृत-व्याकरणम् Vyoma](https://www.youtube.com/playlist?list=PLmozlYyYE-ET72Pz5n8WDtKHH31K06QhW)
-
-## Speaking Sanskrit
-- [Ten Day Spoken Sanskrit Classes by Prof B Mahadevan](https://www.youtube.com/playlist?list=PLWjpkY4mU2RDq1GVq0dQwnNsuYnKXoLkV) Very Good, lively.
-- [Spoken Sanskrit in 10 Days जयतु संस्कृतम्](https://www.youtube.com/playlist?list=PLmFm5HIcK-Mi0BRyEYI234pwOa1CXVTVH)
-- [Spoken Sanskrit-December 2019](https://www.youtube.com/playlist?list=PLwczsAlRTlwZbehc9qkdX5VmVflzolWYG)
-- ['Sanskrit for Kids' & 'Sanskrit is fun' | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-ETKBOIwXVgV91hv9bNWwPsb)
-- [Introduction to Basic Spoken Sanskrit by Prof. Anuradha Choudry](https://www.youtube.com/playlist?list=PLbRMhDVUMngfYG2GVf2bQnIgsI0Y923g3), [Gdrive](https://drive.google.com/drive/folders/1gqUBL_TNU7O9VP0Emeh2POen13Hky2U8)
-- [NOC July 2019: Intermediate Level of Spoken Sanskrit](https://www.youtube.com/playlist?list=PLbRMhDVUMngdobke8cyLDAJTj7CtZGiie), [GDrive](https://drive.google.com/drive/folders/1p2J_gjoPGI5CCQRglR32eW176GhjUzYM)
-- [ChamuKS - Samskrit Tutorial](https://www.youtube.com/playlist?list=PLgESsMf2gnAc_MN_lzLbe5TYXHP41ZJ_L)
-- [ससंस्कृतमध्ये बोलूया Let's talk in Sanskrit - SANSKRIT TEACHER](https://www.youtube.com/playlist?list=PLyY6qLVtS8GSE0ya2RK8a0SOUdwjxP7Jz)
-- [संस्कृत शिका - Vasant Patil](https://www.youtube.com/playlist?list=PLL7hynOJqNcSLwpQUcixpzjSrSyxezpJa)
-- [Sanskrit by Neelesh Bodas - Ramana Kodati](https://www.youtube.com/playlist?list=PLrzrp4HwjKA3TbhQrbLSGM4yBrXtAVv6a)
-
-## Subhashitani, Geetani, Shlok, Essays, Stories
-- [Learn to chant Simple Subhashitas](https://www.youtube.com/playlist?list=PLmozlYyYE-ETcqXq8XNVDEMdwGmwrkKxy)
-- [Wisdom from Subhashitas for a Successful life - I](https://www.youtube.com/playlist?list=PLmozlYyYE-ERaqtMxe6_Hq8Ay8AexmLpY)
-- [Wisdom from Subhashitas for a Successful life - II](https://www.youtube.com/playlist?list=PLmozlYyYE-ESLutoSfZufcrhBfQs-Y89v)
-- [samskrit Geetaani](https://www.youtube.com/playlist?list=PLgESsMf2gnAdqsuT5uNz1XgXayFGJbc9Y)
-- [Free Samskrit - Samskrit Tutorial](https://www.youtube.com/playlist?list=PLgESsMf2gnAe1eUjwCBgrIaAwGQdJmrkh)
-- [Samskrit Story - Samskrit Tutorial](https://www.youtube.com/playlist?list=PLgESsMf2gnAdkt551gT4TCBIUFbzcdU3O)
-- [Samskrit Song - Samskrit Tutorial](https://www.youtube.com/playlist?list=PLgESsMf2gnAdfa5VvaU4x09fmvGY-BYBO)
-- [Sanskit shlok Marathi arth /संस्कृत श्लोक मराठी अर्थ - Sanskrit & Story Learners](https://www.youtube.com/playlist?list=PLvZhKfOFcYztEfu56UK8tP6OOeGF_ledM)
-- [Ssanskrit world - Sanskrit & Story Learners](https://www.youtube.com/playlist?list=PLvZhKfOFcYzvYMvwrgcXa0Y4-erpvIEsa)
-- [Stories in Sanskrit Madras Sanskrit College](https://www.youtube.com/playlist?list=PLnnFGi5KwfGF89tdSXx7bCLDuUbeQMheL)
-- [Sanskrit Stories | Samskritam Stories | Gurukula.com www.Gurukula.com](https://www.youtube.com/playlist?list=PLVLtzIisXuIFqEVLt6gSzPypBiPYYb8Zw)
-- [Sanskrit Sahitya NIOS](https://nios.ac.in/online-course-material/secondary-courses/sanskrit-sahitya-(248).aspx)
-
-## School classes, Courses, Correspondence
 - [Learn Sanskrit](https://www.youtube.com/channel/UCwTNT6Mrrx8fY_lcFoputSQ/playlists)
 - [Samskrita Shikshanam](https://www.youtube.com/channel/UC0hjxSl7vsrnYKuADFg1ITw)
 - [Sanskrit City]( https://www.youtube.com/watch?v=PkNRRziSdxY&list=PL5wQEJFZymLYejXPEEeuBTb6HBSHQHtff)
@@ -199,8 +171,52 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [yogadarśanam (pātañjalayogasūtram) Diploma  Central Sanskrit University - Sanskrit via Yogadarshanam](https://csu.learnsamskrit.online/course-details?name/=VDBFOVBRPT0=)
 - [Sanskrit Vyakarana (246)](https://nios.ac.in/online-course-material/secondary-courses/sanskrit-vyakarana-(246).aspx)
 - [Sanskrit (209)](https://nios.ac.in/online-course-material/secondary-courses/Sanskrit-(209)-Syllabus.aspx)
+- [Course-1 (Lecture + Practice Videos) Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5opzYmpnYpJqBAm_bEhhGUg)
+- [1Bridge2 (Shubhashitam Samskritam) Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5q4Z58w0Seu7DBEYCWc67Eb)
+- [Course-2 (Lecture + Practice Videos) Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5qizTm1kp65BpWdkWpIt02f)
+- [Course-3 (Lecture + Practice Videos) Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5qCDgFHdcmbYKGgibQU836x)
+- [Course-4 (Lecture + Practice Videos) Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5oum7pBe4UD4auB6SP4BtZf)
+- [Course-5 (Lecture + Practice Videos) Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5ro7h4YSbZxwwH9iwDwuG5e)
+
+
+## Speaking Sanskrit
+- [Ten Day Spoken Sanskrit Classes by Prof B Mahadevan](https://www.youtube.com/playlist?list=PLWjpkY4mU2RDq1GVq0dQwnNsuYnKXoLkV) Very Good, lively.
+- [Spoken Sanskrit in 10 Days जयतु संस्कृतम्](https://www.youtube.com/playlist?list=PLmFm5HIcK-Mi0BRyEYI234pwOa1CXVTVH)
+- [Spoken Sanskrit-December 2019](https://www.youtube.com/playlist?list=PLwczsAlRTlwZbehc9qkdX5VmVflzolWYG)
+- ['Sanskrit for Kids' & 'Sanskrit is fun' | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-ETKBOIwXVgV91hv9bNWwPsb)
+- [Introduction to Basic Spoken Sanskrit by Prof. Anuradha Choudry](https://www.youtube.com/playlist?list=PLbRMhDVUMngfYG2GVf2bQnIgsI0Y923g3), [Gdrive](https://drive.google.com/drive/folders/1gqUBL_TNU7O9VP0Emeh2POen13Hky2U8)
+- [NOC July 2019: Intermediate Level of Spoken Sanskrit](https://www.youtube.com/playlist?list=PLbRMhDVUMngdobke8cyLDAJTj7CtZGiie), [GDrive](https://drive.google.com/drive/folders/1p2J_gjoPGI5CCQRglR32eW176GhjUzYM)
+- [ChamuKS - Samskrit Tutorial](https://www.youtube.com/playlist?list=PLgESsMf2gnAc_MN_lzLbe5TYXHP41ZJ_L)
+- [ससंस्कृतमध्ये बोलूया Let's talk in Sanskrit - SANSKRIT TEACHER](https://www.youtube.com/playlist?list=PLyY6qLVtS8GSE0ya2RK8a0SOUdwjxP7Jz)
+- [संस्कृत शिका - Vasant Patil](https://www.youtube.com/playlist?list=PLL7hynOJqNcSLwpQUcixpzjSrSyxezpJa)
+- [Sanskrit by Neelesh Bodas - Ramana Kodati](https://www.youtube.com/playlist?list=PLrzrp4HwjKA3TbhQrbLSGM4yBrXtAVv6a)
+- [Spoken Samskrit Camp 2013 Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5rYvvC-f86FVIptsWaDwgdW)
+- [Spoken Samskrit Camp 2015 Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5rQjmrRdFb9oatzp4sITUSj)
+
+## Subhashitani, Geetani, Shlok, Essays, Stories
+- [Learn to chant Simple Subhashitas](https://www.youtube.com/playlist?list=PLmozlYyYE-ETcqXq8XNVDEMdwGmwrkKxy)
+- [Wisdom from Subhashitas for a Successful life - I](https://www.youtube.com/playlist?list=PLmozlYyYE-ERaqtMxe6_Hq8Ay8AexmLpY)
+- [Wisdom from Subhashitas for a Successful life - II](https://www.youtube.com/playlist?list=PLmozlYyYE-ESLutoSfZufcrhBfQs-Y89v)
+- [samskrit Geetaani](https://www.youtube.com/playlist?list=PLgESsMf2gnAdqsuT5uNz1XgXayFGJbc9Y)
+- [Free Samskrit - Samskrit Tutorial](https://www.youtube.com/playlist?list=PLgESsMf2gnAe1eUjwCBgrIaAwGQdJmrkh)
+- [Samskrit Story - Samskrit Tutorial](https://www.youtube.com/playlist?list=PLgESsMf2gnAdkt551gT4TCBIUFbzcdU3O)
+- [Samskrit Song - Samskrit Tutorial](https://www.youtube.com/playlist?list=PLgESsMf2gnAdfa5VvaU4x09fmvGY-BYBO)
+- [Sanskit shlok Marathi arth /संस्कृत श्लोक मराठी अर्थ - Sanskrit & Story Learners](https://www.youtube.com/playlist?list=PLvZhKfOFcYztEfu56UK8tP6OOeGF_ledM)
+- [Ssanskrit world - Sanskrit & Story Learners](https://www.youtube.com/playlist?list=PLvZhKfOFcYzvYMvwrgcXa0Y4-erpvIEsa)
+- [Stories in Sanskrit Madras Sanskrit College](https://www.youtube.com/playlist?list=PLnnFGi5KwfGF89tdSXx7bCLDuUbeQMheL)
+- [Sanskrit Stories | Samskritam Stories | Gurukula.com www.Gurukula.com](https://www.youtube.com/playlist?list=PLVLtzIisXuIFqEVLt6gSzPypBiPYYb8Zw)
+- [Sanskrit Sahitya NIOS](https://nios.ac.in/online-course-material/secondary-courses/sanskrit-sahitya-(248).aspx)
 
 ## Folks, Channels, Institutes
+- [Gerard Huet INRIA](https://pauillac.inria.fr/~huet/) [LinkedIn](https://www.linkedin.com/in/g%C3%A9rard-huet-bb25a93/)
+- [Girish Nath Jha](https://www.linkedin.com/in/gnjha/) professor of Computational Linguistics at Jawaharlal Nehru University(JNU) at the School of Sanskrit and Indic Studies
+- [Amba Kulkarni](https://www.linkedin.com/in/amba-anantpur-rao-kulkarni-2bb8868/), [univ](https://sanskrit.uohyd.ac.in/faculty/amba/) Interested in applying Panini's grammar to different languages in the world
+- [Varsha Sarda, Sanskrit Vagyajna Kulam](https://www.facebook.com/SanskritVagyajnaKulam)
+- [Mandar Gokhale](https://www.linkedin.com/in/mandarkg/) वाग्यज्ञकुलम् (Vagyajna Kulam) - A Sanskrit Language Institute
+- [Sanskrit Activities at IIT Kanpur](https://sanskrit.iitk.ac.in/)
+- [Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/)  Sanskrit Computational Linguistics, [LinkedIn](https://www.linkedin.com/in/pawan-goyal-08a6001a/)
+- [Hrishikesh Terdalkar](https://hrishikeshrt.github.io/)
+- [Arnab Bhattacharya](https://cse.iitk.ac.in/users/arnabb/)
 - [Sanskrit From Home | Vyoma Labs](https://www.sanskritfromhome.org/course-listing.php) Learning Paths, Courses, very comprehensive
 - [Dr. Vasudev Prasad](https://www.youtube.com/playlist?list=PLhRKsB88RuSmldpHV7ZfjktP1aGsGBVbF)
 - [Sanskrit & Computational Linguistics | Dr Pawan Goyal, IIT Kharagpur](https://www.youtube.com/watch?v=m6IBfoE0hzA)
@@ -212,6 +228,10 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 
 ## Projects
 - [Dictionary](http://spokensanskrit.org/)
+- [Sanskrit Computational Linguistics Tools](https://github.com/samsaadhanii/scl)
+- [TransLIST : A Transformer-Based Linguistically Informed Sanskrit Tokenizer](https://github.com/rsingha108/translist), [Paper](https://arxiv.org/abs/2210.11753)
+- [AI4Bharat indicnlp](https://indicnlp.ai4bharat.org/pages/indicnlp-resources/)
+- [Indic Transliteration](https://github.com/indic-transliteration/indic_transliteration_py) English to Sanskrit transliteration py program
 - [Grammar](https://sanskrit.inria.fr/DICO/grammar.html)
 - [Sandhi tool](http://greenmesg.org/sanskrit_online_tools/sanskrit_sandhi_tool.php)
 - [UCB Sanskrit tools](https://ubcsanskrit.ca/)
@@ -224,15 +244,14 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Chinmaya International Foundation]( https://www.chinfo.org/index.php/digital-gallery/video/chinmaya-international-foundation)
 - [Digitized SLM Sasnkrit Learning Material?](https://www.sanskrit.nic.in/msp/digitized_slm.php)
 - [Vedavaapi](https://www.vedavaapi.org/vedic-knowledge-systems/)
-
-## NLP
+- 7th ISCLS 15th February 2024, Auroville - [Day 1](https://www.youtube.com/watch?v=W-SOlU26M58), [Day 2](https://www.youtube.com/watch?v=8IpQ1tCPDmw), [Day 3](https://www.youtube.com/watch?v=n1SPshTzcbg)
 - [DCS - Digital Corpus of Sanskrit](http://kjc-sv013.kjc.uni-heidelberg.de/dcs/index.php )
 - [Sanskrit Online Tools - Be in touch with this divine language](https://greenmesg.org/sanskrit_online_tools/)
 - [Myth of Sanskrit being most suitable language for Computers]( https://fuzzlabs.wordpress.com/2015/09/28/the-best-programming-language-myth/comment-page-1/)
 - [Machine Learning Final Project: Handwritten Sanskrit Recognition using a Multi-class SVM with K-NN Guidance]( https://people.csail.mit.edu/yichangshih/mywebsite/sanskrit.pdf)
 - [Bengali Handwritten Character Classification using Transfer Learning on Deep Convolutional Neural Network](https://arxiv.org/html/1902.11133)
 - [NLP for Sanskrit](https://github.com/goru001/nlp-for-sanskrit)
-- [Sansadhani U O Hyd](https://sanskrit.uohyd.ac.in/scl/)
+- [Sansadhani U O Hyd](https://sanskrit.uohyd.ac.in/scl/), [Youtube Playlist Samsaadhani Praveshika](https://www.youtube.com/playlist?list=PLjFz5TMhii5q4Mln6VX_lniW6iDLRNyTm)
 
 ## Indian Knowledge System
 - [Learn Sharada Lipi | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-ETiEDyzg3UYg4pbNz31nCEG)
@@ -247,3 +266,4 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Shaastric Modeling Course](https://mitvedicsciences.edu.in/enroll/shaastric-modeling)
 - [National Youth Conference on Indian Knowledge Systems at Chinmaya Vishwa Vidyapeeth](https://www.youtube.com/playlist?list=PLbQHD8oHpmE066jXXY7rMSazzwlR4JepN)
 - [वैदिक गणितम् - Vasant Patil](https://www.youtube.com/playlist?list=PLL7hynOJqNcTdQ1-P3sxut67hZFANxs4t)
+- [Shaastra Setu Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5rSF0DGqrD-atPq0wMn_O1k)
