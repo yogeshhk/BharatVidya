@@ -261,6 +261,8 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [7th ISCLS 17th February 2024, Auroville - Day 1](https://www.youtube.com/watch?v=n1SPshTzcbg)
 - [7th ISCLS 17th February 2024, Auroville - Day 2](https://www.youtube.com/watch?v=8IpQ1tCPDmw)
 - [7th ISCLS 17th February 2024, Auroville - Day 3](https://www.youtube.com/watch?v=W-SOlU26M58)
+- [Sanskrit Computational Linguistics: An Introduction Amba Kulkarni](https://www.youtube.com/watch?v=HzM1JbnLYpA)
+- [Sanskrit & Computational Linguistics | Dr Pawan Goyal, IIT Kharagpur](https://www.youtube.com/watch?v=m6IBfoE0hzA)
 
 ## Indian Knowledge System
 - [Learn Sharada Lipi | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-ETiEDyzg3UYg4pbNz31nCEG)
@@ -276,3 +278,4 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [National Youth Conference on Indian Knowledge Systems at Chinmaya Vishwa Vidyapeeth](https://www.youtube.com/playlist?list=PLbQHD8oHpmE066jXXY7rMSazzwlR4JepN)
 - [वैदिक गणितम् - Vasant Patil](https://www.youtube.com/playlist?list=PLL7hynOJqNcTdQ1-P3sxut67hZFANxs4t)
 - [Shaastra Setu Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5rSF0DGqrD-atPq0wMn_O1k)
+- [Battle For Sanskrit Infinity Foundation Official](https://www.youtube.com/playlist?list=PLGQElwzyJxty6OI0BeJf88mFbQtR1smoM)
