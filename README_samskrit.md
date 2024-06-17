@@ -225,6 +225,7 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Sujit Dhekane - Sanskrit Subhashite - Marathi and English Translated](https://www.youtube.com/@sujitdhekane/videos)
 - [Central Sanskrit University](https://www.sanskrit.nic.in/)
 - [Sanskrit Vyakarana](https://nios.ac.in/online-course-material/secondary-courses/sanskrit-vyakarana-(246).aspx)
+- [Malhar Kulkarni](https://homepages.iitb.ac.in/~malhar/)
 
 ## Projects
 - [Dictionary](http://spokensanskrit.org/)
@@ -252,6 +253,14 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Bengali Handwritten Character Classification using Transfer Learning on Deep Convolutional Neural Network](https://arxiv.org/html/1902.11133)
 - [NLP for Sanskrit](https://github.com/goru001/nlp-for-sanskrit)
 - [Sansadhani U O Hyd](https://sanskrit.uohyd.ac.in/scl/), [Youtube Playlist Samsaadhani Praveshika](https://www.youtube.com/playlist?list=PLjFz5TMhii5q4Mln6VX_lniW6iDLRNyTm)
+- [Sanskrit Computational Linguistics U o Delhi](https://cl.sanskrit.du.ac.in/)
+- [Sanskrit Computational Linguistics JNU](http://sanskrit.jnu.ac.in/index.jsp), [Sandhi Splitter](http://sanskrit.jnu.ac.in/sandhi/viccheda.jsp)
+- [सं-भाषा Karnataka Samskrit University](https://sambhasha.ksu.ac.in/CompLing/index.html)
+- [Online Computational Sanskrit Workshop 27May-02 June 2020 -full day's videos COLING at JNU](https://www.youtube.com/playlist?list=PL2VJQoDg2326giqOzuFfDfvcNSXw_l6C2)
+- [Sanskrit Non-Translatables Infinity Foundation Official](https://www.youtube.com/playlist?list=PLGQElwzyJxtxD5Psen74AdlvU-rkQBWqo)
+- [7th ISCLS 17th February 2024, Auroville - Day 1](https://www.youtube.com/watch?v=n1SPshTzcbg)
+- [7th ISCLS 17th February 2024, Auroville - Day 2](https://www.youtube.com/watch?v=8IpQ1tCPDmw)
+- [7th ISCLS 17th February 2024, Auroville - Day 3](https://www.youtube.com/watch?v=W-SOlU26M58)
 
 ## Indian Knowledge System
 - [Learn Sharada Lipi | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-ETiEDyzg3UYg4pbNz31nCEG)
