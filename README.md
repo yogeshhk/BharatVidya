@@ -1,4 +1,5 @@
 # Bharat Vidya (aka Indian Knowledge System)
+
 Welcome to the Indian Knowledge System (IKS) repository! This project aims to explore and celebrate the rich heritage of traditional Indian knowledge across various domains. Whether you're interested in ancient sciences, arts, literature, or holistic practices, this repository is a hub for interdisciplinary research and collaboration.
 
 ## Purpose
@@ -17,9 +18,9 @@ The Indian Knowledge System is a rich and diverse repository of ancient wisdom, 
 2. **Science**: Examine the contributions of ancient Indian scientists and their pioneering discoveries.
 3. **Medicine**: Discover the traditional medical practices and holistic healing methods prevalent in India.
 4. **Mathematics**: Uncover the mathematical advancements made by Indian scholars through the ages.
-5. **Samskrit**: Predominant language in which this Vidya exists. More info [here](./README_samskrit.md)
-5. **YogaShastra**: Yoga way of life. More info [here](./README_yogashastra.md)
-5. **ArthaShastra**: Predominant text on geopolitics and governance. More info [here](./README_arthashastra.md)
+5. **Samskrit**: Predominant language in which this Vidya exists. More info [here](./Awesome_samskrit.md)
+5. **YogaShastra**: Yoga way of life. More info [here](./Awesome_yogashastra.md)
+5. **ArthaShastra**: Predominant text on geopolitics and governance. More info [here](./Awesome_arthashastra.md)
 
 ## References
 - [Indian Knowledge Systems (IKS) Division](https://iksindia.org/)  Division of Ministry of Education (MoE) located in the AICTE, New Delhi.

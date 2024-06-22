@@ -1,6 +1,8 @@
-# Samskrita Shastra
-For learning and developing Sanskrit related tools and resources
+# Awesome Sanskrit
 
+Repository for learning and developing Sanskrit related tools and resources
+
+<!-- 
 ## WHY? 
 	- Witty, terse, minimalist witty language
 	- World needs the knowledge still hidden in texts, new IKS research
@@ -40,9 +42,59 @@ Instead of running window on n-grams, for Sanskrit, we need to look at one full 
 - Find Sanskrit data
 - Modify word2vec implementation
 - Test the proposed S-gram hypothesis
+ -->
 
+# Awesome Sanskrit
 
-# References
+Sanskrit, the classical language of ancient India, is known for its rich literary tradition and profound influence on many modern languages and cultures. It is the language in which many of the oldest texts of Hinduism, Buddhism, and Jainism were composed. This repository is a curated collection of resources on Sanskrit, including learning materials, texts, academic research, books, multimedia content, and online courses.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Learning Resources](#learning-resources)
+- [Texts and Literature](#texts-and-literature)
+- [Academic Papers and Research](#academic-papers-and-research)
+- [Books](#books)
+- [Multimedia](#multimedia)
+- [Online Courses and Classes](#online-courses-and-classes)
+- [How to Contribute](#how-to-contribute)
+
+## Learning Resources
+
+- [Learn Sanskrit Online](https://learnsanskrit.org/) - Comprehensive resource for learning Sanskrit, including grammar, vocabulary, and exercises.
+- [Sanskrit Dictionary](https://www.sanskrit-lexicon.uni-koeln.de/) - Online dictionary for Sanskrit with multiple lexicons.
+- [The Sanskrit Language](https://www.amazon.com/Sanskrit-Language-William-Dwight-Whitney/dp/0486217803) by William Dwight Whitney - A classic introduction to the Sanskrit language and its grammar.
+
+## Texts and Literature
+
+- [Sacred Texts: Hinduism](https://www.sacred-texts.com/hin/index.htm) - A collection of important Hindu texts available in Sanskrit and English.
+- [Digital Library of India](https://www.dli.ernet.in/) - Access to a vast collection of ancient Sanskrit texts.
+- [Mahabharata](http://www.sacred-texts.com/hin/maha/index.htm) - The complete text of the Mahabharata, one of the greatest epics in Sanskrit.
+
+## Academic Papers and Research
+
+- [Sanskrit Computational Linguistics](https://link.springer.com/book/10.1007/978-3-642-01396-2) - Proceedings of a conference on computational approaches to Sanskrit.
+- [Sanskrit and Indian Culture](https://www.jstor.org/stable/1177465) - A study on the influence of Sanskrit on Indian culture.
+- [Panini's Grammar and Modern Linguistics](https://www.jstor.org/stable/4193705) - An analysis of Panini’s contributions to the field of linguistics.
+
+## Books
+
+- [A Sanskrit Grammar for Students](https://www.amazon.com/Sanskrit-Grammar-Students-Arthur-Macdonell/dp/019815431X) by Arthur A. Macdonell - A beginner-friendly introduction to Sanskrit grammar.
+- [Sanskrit: An Appreciation without Apprehension](https://www.amazon.com/Sanskrit-Appreciation-without-Apprehension-Teachers/dp/8120813329) by Ashok Aklujkar - A book aimed at appreciating the beauty of Sanskrit without the intimidation of complex grammar.
+- [Sanskrit Grammar](https://www.amazon.com/Sanskrit-Grammar-William-Dwight-Whitney/dp/0486431363) by William Dwight Whitney - An authoritative reference on Sanskrit grammar.
+
+## Multimedia
+
+- [Sanskrit Studies Podcast](https://open.spotify.com/show/4S7kl3A6ez51kP3Zp2oZ9S) - A podcast exploring various aspects of Sanskrit language and literature.
+- [Sanskrit YouTube Channel](https://www.youtube.com/channel/UC2O9H3hy0F-2nR9NPb8qmrA) - YouTube channel with lessons and resources for learning Sanskrit.
+- [Sanskrit Chanting](https://www.youtube.com/playlist?list=PL10A5DBCA7E666A93) - A playlist of traditional Sanskrit chants and recitations.
+
+## Online Courses and Classes
+
+- [Coursera: Learn Sanskrit Language](https://www.coursera.org/learn/learn-sanskrit-language) - An online course for beginners in Sanskrit.
+- [EdX: Introduction to Sanskrit](https://www.edx.org/course/introduction-to-sanskrit) - A course offering a comprehensive introduction to the Sanskrit language.
+- [Samskrita Bharati](https://samskritabharatiusa.org/) - An organization offering online and in-person Sanskrit courses and workshops.
+
 
 ## Sanskrit Grammar
 - [Digital Sanskrit Learning - Level 1 - Bori](https://www.bharatvidya.in/p/spoken-sanskrit-level-1), [login](https://bharatvidya.in/courses/enrolled/1893789)
@@ -279,3 +331,19 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [वैदिक गणितम् - Vasant Patil](https://www.youtube.com/playlist?list=PLL7hynOJqNcTdQ1-P3sxut67hZFANxs4t)
 - [Shaastra Setu Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5rSF0DGqrD-atPq0wMn_O1k)
 - [Battle For Sanskrit Infinity Foundation Official](https://www.youtube.com/playlist?list=PLGQElwzyJxty6OI0BeJf88mFbQtR1smoM)
+
+## How to Contribute
+
+1. **Fork the Repository**: Click on the 'Fork' button at the top right of this repository page.
+2. **Clone the Forked Repository**: Clone the repository to your local machine using `git clone <your-forked-repo-url>`.
+3. **Create a New Branch**: Create a new branch for your changes using `git checkout -b <new-branch-name>`.
+4. **Make Changes**: Add your changes and improvements.
+5. **Commit Changes**: Commit your changes with a meaningful commit message using `git commit -m "Description of changes"`.
+6. **Push Changes**: Push your changes to your forked repository using `git push origin <new-branch-name>`.
+7. **Submit a Pull Request**: Go to the original repository and submit a pull request. Provide a detailed description of your changes and any relevant information.
+
+Contributions are welcome! Please ensure your pull requests are well-documented and align with the overall content and style of the repository.
+
+---
+
+Dive into the fascinating world of Sanskrit and explore the wealth of resources available to enrich your knowledge and appreciation of this ancient language!
