@@ -1,7 +1,5 @@
 # Awesome Yoga
 
-Repository related to learning Yoga shastra.
-
 Yoga, a holistic discipline originating in ancient India, encompasses physical, mental, and spiritual practices aimed at achieving harmony and balance in life. From physical postures (asanas) and breathing techniques (pranayama) to meditation and ethical principles, yoga offers a comprehensive approach to health and well-being. This repository is a curated collection of resources on yoga, including instructional guides, academic research, books, multimedia content, and online courses.
 
 ## Table of Contents

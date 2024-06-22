@@ -1,8 +1,5 @@
 # Awesome Kautilya's Arthashastra
 
-Repository related to learning Kautilya's ArthaShastra.
-
-
 The **Arthashastra**, authored by Kautilya (also known as Chanakya), is an ancient Indian treatise on statecraft, economic policy, and military strategy. Composed in Sanskrit, it is a comprehensive manual for rulers and administrators, detailing aspects of governance, law, economics, and diplomacy. This repository serves as a curated collection of resources about the Arthashastra, including translations, analyses, academic papers, and related multimedia content.
 
 ## Table of Contents

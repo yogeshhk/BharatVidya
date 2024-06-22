@@ -1,51 +1,5 @@
 # Awesome Sanskrit
 
-Repository for learning and developing Sanskrit related tools and resources
-
-<!-- 
-## WHY? 
-	- Witty, terse, minimalist witty language
-	- World needs the knowledge still hidden in texts, new IKS research
-	- Build solutions with AI + Sanskrit or indic languages, talks and teachings, along with Yoga
-	- IKIGAI / Specific knowledge: Unique expertise of old-new Sanskrit with Machine Learning, demand outside
-	
-## What?
-	- To be able to teach upto std 10
-	- To speak basic conversation
-	- With mentor guidance, read classic texts, do *sandhi-vigraha*
-	- Apply AI, embedding, bharat gpt, good script OCR, knowledge shastra map graph, LLM chatbot on top, for research 
-
-## How?
-	-	Do Samskrit Bharati level 4 courses
-	- 	Conduct 10 days Sambhashan Shibir
-	-	Teach upto 10 std, songs, kids shibir
-	-	Read Parv, Sarth etc books, text books
-	-	Research: Sharada OCR, namami manuscripts
-
-## Computational Sanskrit
-Can NLP (Natural Language Processing) of Indic (Indo Aryan family) leverage Sanskrit as base-class or neutral data-structure for processing?
-Meaning if Tokenization of Sanskrit is designed, it can then be leveraged to tokenize Hindi, Marathi, etc. Need to see if the rules-set have Parent-Child relationship?
-
-Sanskrit poses one peculiar challenge though. Word embedding for order-agnostic languages (word2vec for Sanskrit)
-
-### Order-agnostic languages
-In languages like English, meaning of a sentence is dependent on the order of the words in it. E.g. “John loves Mary” has different meaning than “Mary loves John”. But in more evolved/formal languages, like Sanskrit, the meaning is order-agnostic. Because each word is suffixed (declension? Vibhakti) so that its purpose is clear. John is changed to its nominative case form (prathamā) and Mary is changed to her accusative case form (dvitīyā). So, wherever they appear in the sentence, meaning remains unchanged.
-
-### Working of wored2vec
-It’s a single layer neural network with random weights to start with. A sentence is examined by a running window of n words (n-gram) with focus word in the middle. Value of the focus word is determined based on the values of the neighbouring word values. This results in measuring likelihood of words being associated with the focus words. Thus, similarity or associations can be computed easily.
-But that’s not the case with Sanskrit. As the words in a sentence are order independent, word associations computed in traditional manner are not correct.
-
-### Proposed S-gram approach
-Instead of running window on n-grams, for Sanskrit, we need to look at one full sentence at one time. Give equal values to all the words in it. Move to the next sentence. So, it’s a S-gram (Sentence at a time) approach.
-
-### Next steps
-- Find Sanskrit data
-- Modify word2vec implementation
-- Test the proposed S-gram hypothesis
- -->
-
-# Awesome Sanskrit
-
 Sanskrit, the classical language of ancient India, is known for its rich literary tradition and profound influence on many modern languages and cultures. It is the language in which many of the oldest texts of Hinduism, Buddhism, and Jainism were composed. This repository is a curated collection of resources on Sanskrit, including learning materials, texts, academic research, books, multimedia content, and online courses.
 
 ## Table of Contents
@@ -347,3 +301,46 @@ Contributions are welcome! Please ensure your pull requests are well-documented 
 ---
 
 Dive into the fascinating world of Sanskrit and explore the wealth of resources available to enrich your knowledge and appreciation of this ancient language!
+
+<!-- 
+## WHY? 
+	- Witty, terse, minimalist witty language
+	- World needs the knowledge still hidden in texts, new IKS research
+	- Build solutions with AI + Sanskrit or indic languages, talks and teachings, along with Yoga
+	- IKIGAI / Specific knowledge: Unique expertise of old-new Sanskrit with Machine Learning, demand outside
+	
+## What?
+	- To be able to teach upto std 10
+	- To speak basic conversation
+	- With mentor guidance, read classic texts, do *sandhi-vigraha*
+	- Apply AI, embedding, bharat gpt, good script OCR, knowledge shastra map graph, LLM chatbot on top, for research 
+
+## How?
+	-	Do Samskrit Bharati level 4 courses
+	- 	Conduct 10 days Sambhashan Shibir
+	-	Teach upto 10 std, songs, kids shibir
+	-	Read Parv, Sarth etc books, text books
+	-	Research: Sharada OCR, namami manuscripts
+
+## Computational Sanskrit
+Can NLP (Natural Language Processing) of Indic (Indo Aryan family) leverage Sanskrit as base-class or neutral data-structure for processing?
+Meaning if Tokenization of Sanskrit is designed, it can then be leveraged to tokenize Hindi, Marathi, etc. Need to see if the rules-set have Parent-Child relationship?
+
+Sanskrit poses one peculiar challenge though. Word embedding for order-agnostic languages (word2vec for Sanskrit)
+
+### Order-agnostic languages
+In languages like English, meaning of a sentence is dependent on the order of the words in it. E.g. “John loves Mary” has different meaning than “Mary loves John”. But in more evolved/formal languages, like Sanskrit, the meaning is order-agnostic. Because each word is suffixed (declension? Vibhakti) so that its purpose is clear. John is changed to its nominative case form (prathamā) and Mary is changed to her accusative case form (dvitīyā). So, wherever they appear in the sentence, meaning remains unchanged.
+
+### Working of wored2vec
+It’s a single layer neural network with random weights to start with. A sentence is examined by a running window of n words (n-gram) with focus word in the middle. Value of the focus word is determined based on the values of the neighbouring word values. This results in measuring likelihood of words being associated with the focus words. Thus, similarity or associations can be computed easily.
+But that’s not the case with Sanskrit. As the words in a sentence are order independent, word associations computed in traditional manner are not correct.
+
+### Proposed S-gram approach
+Instead of running window on n-grams, for Sanskrit, we need to look at one full sentence at one time. Give equal values to all the words in it. Move to the next sentence. So, it’s a S-gram (Sentence at a time) approach.
+
+### Next steps
+- Find Sanskrit data
+- Modify word2vec implementation
+- Test the proposed S-gram hypothesis
+ -->
+
