@@ -18,39 +18,6 @@ Sanskrit, the classical language of ancient India, is known for its rich literar
 - [Learn Sanskrit Online](https://learnsanskrit.org/) - Comprehensive resource for learning Sanskrit, including grammar, vocabulary, and exercises.
 - [Sanskrit Dictionary](https://www.sanskrit-lexicon.uni-koeln.de/) - Online dictionary for Sanskrit with multiple lexicons.
 - [The Sanskrit Language](https://www.amazon.com/Sanskrit-Language-William-Dwight-Whitney/dp/0486217803) by William Dwight Whitney - A classic introduction to the Sanskrit language and its grammar.
-
-## Texts and Literature
-
-- [Sacred Texts: Hinduism](https://www.sacred-texts.com/hin/index.htm) - A collection of important Hindu texts available in Sanskrit and English.
-- [Digital Library of India](https://www.dli.ernet.in/) - Access to a vast collection of ancient Sanskrit texts.
-- [Mahabharata](http://www.sacred-texts.com/hin/maha/index.htm) - The complete text of the Mahabharata, one of the greatest epics in Sanskrit.
-
-## Academic Papers and Research
-
-- [Sanskrit Computational Linguistics](https://link.springer.com/book/10.1007/978-3-642-01396-2) - Proceedings of a conference on computational approaches to Sanskrit.
-- [Sanskrit and Indian Culture](https://www.jstor.org/stable/1177465) - A study on the influence of Sanskrit on Indian culture.
-- [Panini's Grammar and Modern Linguistics](https://www.jstor.org/stable/4193705) - An analysis of Panini’s contributions to the field of linguistics.
-
-## Books
-
-- [A Sanskrit Grammar for Students](https://www.amazon.com/Sanskrit-Grammar-Students-Arthur-Macdonell/dp/019815431X) by Arthur A. Macdonell - A beginner-friendly introduction to Sanskrit grammar.
-- [Sanskrit: An Appreciation without Apprehension](https://www.amazon.com/Sanskrit-Appreciation-without-Apprehension-Teachers/dp/8120813329) by Ashok Aklujkar - A book aimed at appreciating the beauty of Sanskrit without the intimidation of complex grammar.
-- [Sanskrit Grammar](https://www.amazon.com/Sanskrit-Grammar-William-Dwight-Whitney/dp/0486431363) by William Dwight Whitney - An authoritative reference on Sanskrit grammar.
-
-## Multimedia
-
-- [Sanskrit Studies Podcast](https://open.spotify.com/show/4S7kl3A6ez51kP3Zp2oZ9S) - A podcast exploring various aspects of Sanskrit language and literature.
-- [Sanskrit YouTube Channel](https://www.youtube.com/channel/UC2O9H3hy0F-2nR9NPb8qmrA) - YouTube channel with lessons and resources for learning Sanskrit.
-- [Sanskrit Chanting](https://www.youtube.com/playlist?list=PL10A5DBCA7E666A93) - A playlist of traditional Sanskrit chants and recitations.
-
-## Online Courses and Classes
-
-- [Coursera: Learn Sanskrit Language](https://www.coursera.org/learn/learn-sanskrit-language) - An online course for beginners in Sanskrit.
-- [EdX: Introduction to Sanskrit](https://www.edx.org/course/introduction-to-sanskrit) - A course offering a comprehensive introduction to the Sanskrit language.
-- [Samskrita Bharati](https://samskritabharatiusa.org/) - An organization offering online and in-person Sanskrit courses and workshops.
-
-
-## Sanskrit Grammar
 - [Digital Sanskrit Learning - Level 1 - Bori](https://www.bharatvidya.in/p/spoken-sanskrit-level-1), [login](https://bharatvidya.in/courses/enrolled/1893789)
 - [Dhatu Roop - My Coaching](https://mycoaching.in/dhatu-roop)
 - [Grammar - My Coaching](https://mycoaching.in/sanskrit)
@@ -183,9 +150,6 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Course-3 (Lecture + Practice Videos) Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5qCDgFHdcmbYKGgibQU836x)
 - [Course-4 (Lecture + Practice Videos) Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5oum7pBe4UD4auB6SP4BtZf)
 - [Course-5 (Lecture + Practice Videos) Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5ro7h4YSbZxwwH9iwDwuG5e)
-
-
-## Speaking Sanskrit
 - [Ten Day Spoken Sanskrit Classes by Prof B Mahadevan](https://www.youtube.com/playlist?list=PLWjpkY4mU2RDq1GVq0dQwnNsuYnKXoLkV) Very Good, lively.
 - [Spoken Sanskrit in 10 Days जयतु संस्कृतम्](https://www.youtube.com/playlist?list=PLmFm5HIcK-Mi0BRyEYI234pwOa1CXVTVH)
 - [Spoken Sanskrit-December 2019](https://www.youtube.com/playlist?list=PLwczsAlRTlwZbehc9qkdX5VmVflzolWYG)
@@ -198,6 +162,39 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Sanskrit by Neelesh Bodas - Ramana Kodati](https://www.youtube.com/playlist?list=PLrzrp4HwjKA3TbhQrbLSGM4yBrXtAVv6a)
 - [Spoken Samskrit Camp 2013 Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5rYvvC-f86FVIptsWaDwgdW)
 - [Spoken Samskrit Camp 2015 Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5rQjmrRdFb9oatzp4sITUSj)
+
+
+## Texts and Literature
+
+- [Sacred Texts: Hinduism](https://www.sacred-texts.com/hin/index.htm) - A collection of important Hindu texts available in Sanskrit and English.
+- [Digital Library of India](https://www.dli.ernet.in/) - Access to a vast collection of ancient Sanskrit texts.
+- [Mahabharata](http://www.sacred-texts.com/hin/maha/index.htm) - The complete text of the Mahabharata, one of the greatest epics in Sanskrit.
+
+## Academic Papers and Research
+
+- [Sanskrit Computational Linguistics](https://link.springer.com/book/10.1007/978-3-642-01396-2) - Proceedings of a conference on computational approaches to Sanskrit.
+- [Sanskrit and Indian Culture](https://www.jstor.org/stable/1177465) - A study on the influence of Sanskrit on Indian culture.
+- [Panini's Grammar and Modern Linguistics](https://www.jstor.org/stable/4193705) - An analysis of Panini’s contributions to the field of linguistics.
+
+## Books
+
+- [A Sanskrit Grammar for Students](https://www.amazon.com/Sanskrit-Grammar-Students-Arthur-Macdonell/dp/019815431X) by Arthur A. Macdonell - A beginner-friendly introduction to Sanskrit grammar.
+- [Sanskrit: An Appreciation without Apprehension](https://www.amazon.com/Sanskrit-Appreciation-without-Apprehension-Teachers/dp/8120813329) by Ashok Aklujkar - A book aimed at appreciating the beauty of Sanskrit without the intimidation of complex grammar.
+- [Sanskrit Grammar](https://www.amazon.com/Sanskrit-Grammar-William-Dwight-Whitney/dp/0486431363) by William Dwight Whitney - An authoritative reference on Sanskrit grammar.
+
+## Multimedia
+
+- [Sanskrit Studies Podcast](https://open.spotify.com/show/4S7kl3A6ez51kP3Zp2oZ9S) - A podcast exploring various aspects of Sanskrit language and literature.
+- [Sanskrit YouTube Channel](https://www.youtube.com/channel/UC2O9H3hy0F-2nR9NPb8qmrA) - YouTube channel with lessons and resources for learning Sanskrit.
+- [Sanskrit Chanting](https://www.youtube.com/playlist?list=PL10A5DBCA7E666A93) - A playlist of traditional Sanskrit chants and recitations.
+
+## Online Courses and Classes
+
+- [Coursera: Learn Sanskrit Language](https://www.coursera.org/learn/learn-sanskrit-language) - An online course for beginners in Sanskrit.
+- [EdX: Introduction to Sanskrit](https://www.edx.org/course/introduction-to-sanskrit) - A course offering a comprehensive introduction to the Sanskrit language.
+- [Samskrita Bharati](https://samskritabharatiusa.org/) - An organization offering online and in-person Sanskrit courses and workshops.
+
+
 
 ## Subhashitani, Geetani, Shlok, Essays, Stories
 - [Learn to chant Simple Subhashitas](https://www.youtube.com/playlist?list=PLmozlYyYE-ETcqXq8XNVDEMdwGmwrkKxy)
@@ -270,22 +267,6 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Sanskrit Computational Linguistics: An Introduction Amba Kulkarni](https://www.youtube.com/watch?v=HzM1JbnLYpA)
 - [Sanskrit & Computational Linguistics | Dr Pawan Goyal, IIT Kharagpur](https://www.youtube.com/watch?v=m6IBfoE0hzA)
 
-## Indian Knowledge System
-- [Learn Sharada Lipi | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-ETiEDyzg3UYg4pbNz31nCEG)
-- [National Seminar on Manuscripts](https://www.youtube.com/playlist?list=PLjFl99f9x7pvwoBi498eUvDVG4Fp5PIZu)
-- [Dharohar](https://dharohar.org/en/the-cataloguing-process), [Sangrah](https://sangrah.org/), [Sanjaya Singhal](https://www.securemeters.com/in/council/sanjaya-singhal/)
-- [Namami - National Mission for Manuscripts](https://www.namami.gov.in/)
-- [Bori](https://bori.ac.in/), [Shrinand Bapat](https://bori.academia.edu/ShreenandBapat)
-- [Prof Ravikiran](https://www.iiit.ac.in/people/faculty/ravi.kiran/) AI/ML for text detection IIITH [Intelligent Historical Document Image Analysis (IHDIA)](https://ihdia.iiit.ac.in/)
-- [Sai Surasal](https://mitvedicsciences.edu.in/archives/team/dr-sai-ramakrishna-susarla), [VedVaapi](https://www.vedavaapi.org/), MIT-ADT Pune, Knowledge Graph, web platform, [Shastra Maps](https://mitvedicsciences.edu.in/shaastric-modeling-fdp)
-- [Pawan Goyal IIT KGP](https://www.iitkgp.ac.in/department/CS/faculty/cs-pawang), [Sanskrit Heritage Site](https://sanskrit.inria.fr/)
-- [Shaastra Maps: Enabling Conceptual Exploration of Indic Shaastra Texts](https://www.youtube.com/watch?v=S72Bj7EC--U)
-- [Shaastric Modeling Course](https://mitvedicsciences.edu.in/enroll/shaastric-modeling)
-- [National Youth Conference on Indian Knowledge Systems at Chinmaya Vishwa Vidyapeeth](https://www.youtube.com/playlist?list=PLbQHD8oHpmE066jXXY7rMSazzwlR4JepN)
-- [वैदिक गणितम् - Vasant Patil](https://www.youtube.com/playlist?list=PLL7hynOJqNcTdQ1-P3sxut67hZFANxs4t)
-- [Shaastra Setu Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5rSF0DGqrD-atPq0wMn_O1k)
-- [Battle For Sanskrit Infinity Foundation Official](https://www.youtube.com/playlist?list=PLGQElwzyJxty6OI0BeJf88mFbQtR1smoM)
-
 ## How to Contribute
 
 1. **Fork the Repository**: Click on the 'Fork' button at the top right of this repository page.
@@ -302,7 +283,11 @@ Contributions are welcome! Please ensure your pull requests are well-documented 
 
 Dive into the fascinating world of Sanskrit and explore the wealth of resources available to enrich your knowledge and appreciation of this ancient language!
 
+
 <!-- 
+
+# Sanskrit
+
 ## WHY? 
 	- Witty, terse, minimalist witty language
 	- World needs the knowledge still hidden in texts, new IKS research
@@ -343,4 +328,3 @@ Instead of running window on n-grams, for Sanskrit, we need to look at one full 
 - Modify word2vec implementation
 - Test the proposed S-gram hypothesis
  -->
-
