@@ -43,6 +43,8 @@ Yoga, a holistic discipline originating in ancient India, encompasses physical, 
 - [Yoga Journal](https://www.yogajournal.com/) - Articles, videos, and resources on various aspects of yoga.
 - [Headspace: Yoga and Meditation](https://www.headspace.com/yoga) - Guided yoga and meditation sessions.
 - [The Mindful Movement](https://www.youtube.com/channel/UCu_mPlZbomAgNzfAUElRL7w) - YouTube channel offering yoga, meditation, and mindfulness practices.
+- [Global Festival of Yoga: Celebrating Wellness Indica Yoga](https://www.youtube.com/playlist?list=PLjf9jsY7WV0y4bwq8nxTGPlviTyJBas0c) a mix of insightful talks and practical sessions that will inspire and motivate you to keep your commitment to your spiritual and physical well-being.
+- [Chitta Shuddhi - Yoga sutra Nirakula Yoga](https://www.youtube.com/playlist?list=PLaw7iQ4VOj0k8_-JCwB3wSGoysJyAiWRv)
 
 ## Online Courses and Classes
 
@@ -100,6 +102,7 @@ Yoga, a holistic discipline originating in ancient India, encompasses physical, 
 - [Yogasūtras of Patañjali Academy of Indian Philosophy](https://www.youtube.com/playlist?list=PLeHXGl3tGtBIb8j6QNOlXE-OqN4K4jtt3)
 - [Sage Patanjali's Yogasutra with Rajen Vakil (in English) Rajen Vakil](https://www.youtube.com/playlist?list=PLq9JHTtAAy1xDYp6bxJ76T0b1C4VVTK7G)
 - [Patanjali's Yogasutra Dr. Kausthub Desikachar](https://www.youtube.com/playlist?list=PLkcXr3YO0UgpYbQU_Tm8l9pZiCrlj1qCx)
+- [PATANJAL YOG SUTRA Yog Guru Kaushal Kumar Kamal](https://www.youtube.com/playlist?list=PLVv56_OLfXSy5gVPjyRFOyeinosmR8Txm) classes for UGC NET JRF
 
 ## Yoga Certification Board Exams
 - [YCB Level 1 - 200 Hrs Yoga TTC | Theory Lectures - Ayushman Yog](https://www.youtube.com/playlist?list=PL3EqlKH94cs4R6dM7IObWxxVERMVq6ujb)
