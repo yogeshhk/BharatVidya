@@ -162,7 +162,18 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Sanskrit by Neelesh Bodas - Ramana Kodati](https://www.youtube.com/playlist?list=PLrzrp4HwjKA3TbhQrbLSGM4yBrXtAVv6a)
 - [Spoken Samskrit Camp 2013 Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5rYvvC-f86FVIptsWaDwgdW)
 - [Spoken Samskrit Camp 2015 Sanskrit Club IIT Roorkee](https://www.youtube.com/playlist?list=PLjFz5TMhii5rQjmrRdFb9oatzp4sITUSj)
-
+- [Pravesha Beginners Course Sanskrit.Today](https://www.youtube.com/playlist?list=PL8hlzSD3smGgg_KpfdL17tqCMo-NWATt5)
+- [Samskrita Bharati Pravesha Level Exam Preparation Part 1 | Revise for Exam | Sanskrit With Shevadhi](https://www.youtube.com/watch?v=buFhIsVjsbc&list=PLLtauEHA9tbwjoC6F58LYxlUua__VWmMH&index=7)
+- [Samskrita Bharati Pravesha Level Exam Preparation Part 2 | Revise for Exam | Sanskrit With Shevadhi](https://www.youtube.com/watch?v=8jk48eO9KFA&list=PLLtauEHA9tbwjoC6F58LYxlUua__VWmMH&index=8)
+- [Samskrita Bharati Pravesha Level Exam Preparation Part 3 | Revise for Exam | Sanskrit With Shevadhi](https://www.youtube.com/watch?v=1mE-WoRQnTw&list=PLLtauEHA9tbwjoC6F58LYxlUua__VWmMH&index=9)
+- [Samskrita Bharati Pravesha Level Exam Preparation Part 4 | Revise for Exam | Sanskrit With Shevadhi](https://www.youtube.com/watch?v=PwecekDLrT4&list=PLLtauEHA9tbwjoC6F58LYxlUua__VWmMH&index=10)
+- [Samskrita Bharati Pravesha Level Exam Preparation Part 5 | Revise for Exam | Sanskrit With Shevadhi](https://www.youtube.com/watch?v=E95uBUW2Gog&list=PLLtauEHA9tbwjoC6F58LYxlUua__VWmMH&index=11)
+- [Pravesha (पत्राचार-संस्कृतम्) Samskrit Promotion](https://www.youtube.com/playlist?list=PLTygkA7RQBQ0IV5HGcBgIrnYpHbZinB90)
+- [Pravesha English Samskrita Shikshanam](https://www.youtube.com/playlist?list=PL8h88F5SX5QhDiEC055dkbmvh02Hb-7pN)
+- [Parichaya Samskrita Shikshanam](https://www.youtube.com/playlist?list=PL8h88F5SX5Qg8yPyMB62oppB6MZKMxvU_)
+- [Shiksha Samskrita Shikshanam](https://www.youtube.com/playlist?list=PL8h88F5SX5QgFk58Dp3DeooZOpCah1yVU)
+- [Kovida Samskrita Shikshanam](https://www.youtube.com/playlist?list=PL8h88F5SX5Qgru3ByMlJcH99T10mXRCqT)
+- [Pravesha, Parichaya, Shiksha, Kovida – Additional Study Material SEPTEMBER 22, 2015 ~ NIVEDITA](https://nivedita2015.wordpress.com/2015/09/22/pravesha-parichaya-shiksha-kovida-additional-study-material/comment-page-1/)
 
 ## Texts and Literature
 
