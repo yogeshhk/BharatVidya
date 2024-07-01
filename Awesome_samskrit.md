@@ -174,6 +174,11 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Shiksha Samskrita Shikshanam](https://www.youtube.com/playlist?list=PL8h88F5SX5QgFk58Dp3DeooZOpCah1yVU)
 - [Kovida Samskrita Shikshanam](https://www.youtube.com/playlist?list=PL8h88F5SX5Qgru3ByMlJcH99T10mXRCqT)
 - [Pravesha, Parichaya, Shiksha, Kovida – Additional Study Material SEPTEMBER 22, 2015 ~ NIVEDITA](https://nivedita2015.wordpress.com/2015/09/22/pravesha-parichaya-shiksha-kovida-additional-study-material/comment-page-1/)
+- [Shiksha | Samskrita Bharathi | Level 3 bhAratIya kalA saMskRuti](https://www.youtube.com/playlist?list=PLj1-i7SmXizIFsXXfjzRTwX9f6DCgo0qZ)
+- [Kovida | Samskrita Bharati | Level 4 bhAratIya kalA saMskRuti](https://www.youtube.com/playlist?list=PLj1-i7SmXizKQxdvZFBT2y4rZPsx8p0gv)
+- [kArakam bhAratIya kalA saMskRuti](https://www.youtube.com/playlist?list=PLj1-i7SmXizKHhXMItPAEA0mmvSq4DFu_)
+- [Shiksha - Preparatory course for Level 3 of Samskrita Bharati exams](https://www.sanskritfromhome.org/course-details/shiksha-patrachara-samskritam-level3-7193)
+- [Kovida - Preparatory course for Level 4 of Samskrita Bharati exams](https://www.sanskritfromhome.org/course-details/kovida-patrachara-samskritam-level4-7194)
 
 ## Texts and Literature
 
@@ -240,6 +245,7 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Central Sanskrit University](https://www.sanskrit.nic.in/)
 - [Sanskrit Vyakarana](https://nios.ac.in/online-course-material/secondary-courses/sanskrit-vyakarana-(246).aspx)
 - [Malhar Kulkarni](https://homepages.iitb.ac.in/~malhar/)
+- [SasnkritClub IIT Roorkee](https://www.iitr.ac.in/sanskritclub/courses.html)
 
 ## Projects
 - [Dictionary](http://spokensanskrit.org/)
