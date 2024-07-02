@@ -179,6 +179,9 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [kArakam bhAratIya kalA saMskRuti](https://www.youtube.com/playlist?list=PLj1-i7SmXizKHhXMItPAEA0mmvSq4DFu_)
 - [Shiksha - Preparatory course for Level 3 of Samskrita Bharati exams](https://www.sanskritfromhome.org/course-details/shiksha-patrachara-samskritam-level3-7193)
 - [Kovida - Preparatory course for Level 4 of Samskrita Bharati exams](https://www.sanskritfromhome.org/course-details/kovida-patrachara-samskritam-level4-7194)
+- [Sanskrit by Neelesh Bodas - Ramana Kodati](https://www.youtube.com/playlist?list=PLrzrp4HwjKA3TbhQrbLSGM4yBrXtAVv6a)
+- [Vibhakti - Sowmya Krishnapur](https://www.youtube.com/playlist?list=PLmozlYyYE-EQrDkXgZO4YvTQcBcJQftdQ)
+- [Samaasa - Sowmya Krishnapur](https://www.youtube.com/playlist?list=PLmozlYyYE-ESQsqJt6KD8pFzWbhfkHonx)
 
 ## Texts and Literature
 
