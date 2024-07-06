@@ -54,6 +54,7 @@ Yoga, a holistic discipline originating in ancient India, encompasses physical, 
 - [Zenyoga by Ashish Shuka](https://www.youtube.com/c/DeepKnowledgeSpirituality/playlists)
 - [Yoga Nidra(Hindi) - Kaushal Yog](https://www.youtube.com/playlist?list=PLiiaHydaB-DA728kyHx97bTgHMlLGV8rC)
 - [YOGA THEORY-I  Form Course : Bachelor of Science Dr. Ram Kishore](https://gyansanchay.csjmu.ac.in/bpt-2nd-year/)
+- [Param Yoga Rashmi Ghatge](https://www.paramyoga.in)
 
 ## Yogasutra
 
