@@ -55,6 +55,9 @@ Yoga, a holistic discipline originating in ancient India, encompasses physical, 
 - [Yoga Nidra(Hindi) - Kaushal Yog](https://www.youtube.com/playlist?list=PLiiaHydaB-DA728kyHx97bTgHMlLGV8rC)
 - [YOGA THEORY-I  Form Course : Bachelor of Science Dr. Ram Kishore](https://gyansanchay.csjmu.ac.in/bpt-2nd-year/)
 - [Param Yoga Rashmi Ghatge](https://www.paramyoga.in)
+- [Yogasutra Parichaya - Introduction to Yogasutras based on Vyasabhashya](https://www.sanskritfromhome.org/course-details/yogasutra-parichaya-7141) Dr. Jayaraman Mahadevan, 32 Pre-recorded audios and videos
+- [A study of Yogadarshana of Patanjali](https://www.sanskritfromhome.org/course-details/yogadarshana-patanjali-yoga-sutras-sanskrit-explan-7984) Sutra-by-Sutra understanding, Prof. Shrinivasa Varakhedi, 45 Pre-recorded videos
+- [The Ancient Texts of Yoga - Masterclass](https://www.sanskritfromhome.org/learning-program-details/yoga_masterclass-48706) 
 
 ## Yogasutra
 
