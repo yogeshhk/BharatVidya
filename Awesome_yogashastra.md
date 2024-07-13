@@ -119,6 +119,22 @@ Yoga, a holistic discipline originating in ancient India, encompasses physical, 
 - [Certification of Yoga Professionals Guidebook for level 1](https://www.amazon.in/Certification-Yoga-Professionals-Guidebook-level/dp/8183231837)
 - [Yog CEC](https://www.youtube.com/playlist?list=PLNsppmbLKJ8JNXNwd8CRnXmjuEMwJp9TX)
 - [Yoga Certification - By YCB Yog Aurora](https://www.youtube.com/playlist?list=PLCCm_6ZMItDNbits0GVY2sTDmPZ8lzlt0)
+- [Yoga Practical Exam Preparation](https://www.youtube.com/watch?v=pEnj0LDEQ-o)
+- [YOGA INSTRUCTORS COURSE (YIC) ONLINE PRACTICAL EXAMS SWAMI VIVEKANANDA YOGA | VYASA BANGALORE | Swami Vivekananda Yoga](https://www.youtube.com/watch?v=Z2q6AeJR268)
+- [HATHA YOGA / GHERANDA YOGA FOR YCB YOGA EXAMS Swami Vivekananda Yoga](https://www.youtube.com/playlist?list=PLwTNiWTjM67MJImji3DQQtbpEGdFvXNAf) Level 2
+- [YCB YOGA MINISTRY OF AYUSH CERTIFICATE PRACTICAL SYLLUBAS Swami Vivekananda Yoga](https://www.youtube.com/playlist?list=PLwTNiWTjM67Pvxx8and-2rbosuXmmI1MK)
+- [YOGA INSTRUCTORS COURSE (YIC)PRACTICAL VYASA SYLLABUS Swami Vivekananda Yoga](https://www.youtube.com/playlist?list=PLwTNiWTjM67Mj3fSYeEEw4EjPj0eO-FK7)
+- [7 CHAKRAS FOR MINISTRY OF AYUSH GOVT OF INDIA YOGA EXAMS Swami Vivekananda Yoga](https://www.youtube.com/playlist?list=PLwTNiWTjM67Ne-alAp7OJAtYYuVBh04Wr)
+- [5 PRANAS | MINISTRY OF AYUSH GOVT OF INDIA YOGA EXAMS | Swami Vivekananda Yoga](https://www.youtube.com/playlist?list=PLwTNiWTjM67NnMb53UFPcxZKLh4ZRu2Mc)
+- [5 LAYERS | 5 KOSHAS OF OUR BODY | SWAMI VIVEKANANDA YOGA | Swami Vivekananda Yoga](https://www.youtube.com/playlist?list=PLwTNiWTjM67MdltU5XDVA3h--O4AfLhm3)
+- [PATHANJALI YOGA SUTRAS | SWAMI VIVEKANANDA YOGA | Swami Vivekananda Yoga](https://www.youtube.com/playlist?list=PLwTNiWTjM67MnmgKlF6fZS7-UKFAoRrpR)
+- [YOGA INSTRUCTORS COURSE 9 TH BATCH Swami Vivekananda Yoga](https://www.youtube.com/playlist?list=PLwTNiWTjM67Oc2ly__Fb-_f-3LUJanTpo)
+- [8 STEP METHOD OF TEACHING POSTURES Swami Vivekananda Yoga](https://www.youtube.com/playlist?list=PLwTNiWTjM67P9V44khPNkxUptOkkEOcsY)
+- [YIC 8 TH BATCH YOGA PRACTICAL Swami Vivekananda Yoga](https://www.youtube.com/playlist?list=PLwTNiWTjM67OaZSTEeWDoUC_47iPMCc0s)
+- [SHAT 6 KRIYAS IN YOGA Swami Vivekananda Yoga](https://www.youtube.com/playlist?list=PLwTNiWTjM67Oh7j411trwgPZenpoPzgCd)
+- [JNANA BHAKTI KARMA YOGA FOR YIC YCB YOGA CERTIFICATE EXAMS | SWAMI VIVEKANANDA YOGA | Swami Vivekananda Yoga](https://www.youtube.com/watch?v=unmIDH7nu7E)
+- [TOP SECRETS OF NADISHUDDI PRANAYAM | ANULOM VILOM | YCB AYUSH GOVT OF INDIA | SWAMI VIVEKANANDA YOG Swami Vivekananda Yoga](https://www.youtube.com/watch?v=MJdNvZ4bsAA)
+- [FULL TUTORIAL ON SUN SALUTATIONS FOR YCB / YIC MINISTRY OF AYUSH YOGA EXAMS|SWAMI VIVEKANANDA YOGA Swami Vivekananda Yoga](https://www.youtube.com/watch?v=R3PERxt9h4Q)
 
 
 
