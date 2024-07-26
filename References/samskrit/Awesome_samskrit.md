@@ -182,6 +182,7 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Sanskrit by Neelesh Bodas - Ramana Kodati](https://www.youtube.com/playlist?list=PLrzrp4HwjKA3TbhQrbLSGM4yBrXtAVv6a)
 - [Vibhakti - Sowmya Krishnapur](https://www.youtube.com/playlist?list=PLmozlYyYE-EQrDkXgZO4YvTQcBcJQftdQ)
 - [Samaasa - Sowmya Krishnapur](https://www.youtube.com/playlist?list=PLmozlYyYE-ESQsqJt6KD8pFzWbhfkHonx)
+- [Sanskrit Department, D. B. J. College](https://www.youtube.com/@sanskritdepartmentd.b.j.co8232/playlists)
 
 ## Texts and Literature
 
