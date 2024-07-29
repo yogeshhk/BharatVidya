@@ -16,6 +16,7 @@ Sanskrit, the classical language of ancient India, is known for its rich literar
 ## Learning Resources
 - [Sasnkrit From Home - Vyoma Labs](https://www.sanskritfromhome.org/course-listing/professionals) Very comprehensive and high quality courses
 - [Learn Sanskrit Online](https://learnsanskrit.org/) - Comprehensive resource for learning Sanskrit, including grammar, vocabulary, and exercises.
+- [Sanskrit Department, D. B. J. College](https://www.youtube.com/@sanskritdepartmentd.b.j.co8232/playlists)
 - [Sanskrit Dictionary](https://www.sanskrit-lexicon.uni-koeln.de/) - Online dictionary for Sanskrit with multiple lexicons.
 - [The Sanskrit Language](https://www.amazon.com/Sanskrit-Language-William-Dwight-Whitney/dp/0486217803) by William Dwight Whitney - A classic introduction to the Sanskrit language and its grammar.
 - [Digital Sanskrit Learning - Level 1 - Bori](https://www.bharatvidya.in/p/spoken-sanskrit-level-1), [login](https://bharatvidya.in/courses/enrolled/1893789)
@@ -182,7 +183,12 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Sanskrit by Neelesh Bodas - Ramana Kodati](https://www.youtube.com/playlist?list=PLrzrp4HwjKA3TbhQrbLSGM4yBrXtAVv6a)
 - [Vibhakti - Sowmya Krishnapur](https://www.youtube.com/playlist?list=PLmozlYyYE-EQrDkXgZO4YvTQcBcJQftdQ)
 - [Samaasa - Sowmya Krishnapur](https://www.youtube.com/playlist?list=PLmozlYyYE-ESQsqJt6KD8pFzWbhfkHonx)
-- [Sanskrit Department, D. B. J. College](https://www.youtube.com/@sanskritdepartmentd.b.j.co8232/playlists)
+- [Pravesha - Sanskrit Bharati Postal Course Level 1 Sanskrit Department, D. B. J. College](https://www.youtube.com/playlist?list=PLylUosEZFP6BZ_3q80GJdaEqht8o7qIw8)
+- [Parichaya - Sanskrit Bharati Postal Course Level 2 Sanskrit Department, D. B. J. College](https://www.youtube.com/playlist?list=PLylUosEZFP6DVAU5x7qNB_Fa_pCbVELlB)
+- [Shiksha - Sanskrit Bharati Postal Course Level 3 Sanskrit Department, D. B. J. College](https://www.youtube.com/playlist?list=PLylUosEZFP6DUTk51QEPEyfRoGJWiElF3)
+- [Kovida - Sanskrit Bharati Postal Course Level 4 Sanskrit Department, D. B. J. College](https://www.youtube.com/playlist?list=PLylUosEZFP6CPCzv_vyUQCfkyabREk5k0)
+- [11 th standard Sanskrit Ahlad Sanskrit Department, D. B. J. College](https://www.youtube.com/playlist?list=PLylUosEZFP6AFoaCRS3-yLPNDgJTe3IuO)
+- [12 th standard Sanskrit Ahlad Sanskrit Department, D. B. J. College](https://www.youtube.com/playlist?list=PLylUosEZFP6BtWdufxVK_S3A4uhPx_ZPV)
 
 ## Texts and Literature
 

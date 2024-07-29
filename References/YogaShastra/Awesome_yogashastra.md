@@ -135,8 +135,8 @@ Yoga, a holistic discipline originating in ancient India, encompasses physical, 
 - [JNANA BHAKTI KARMA YOGA FOR YIC YCB YOGA CERTIFICATE EXAMS | SWAMI VIVEKANANDA YOGA | Swami Vivekananda Yoga](https://www.youtube.com/watch?v=unmIDH7nu7E)
 - [TOP SECRETS OF NADISHUDDI PRANAYAM | ANULOM VILOM | YCB AYUSH GOVT OF INDIA | SWAMI VIVEKANANDA YOG Swami Vivekananda Yoga](https://www.youtube.com/watch?v=MJdNvZ4bsAA)
 - [FULL TUTORIAL ON SUN SALUTATIONS FOR YCB / YIC MINISTRY OF AYUSH YOGA EXAMS|SWAMI VIVEKANANDA YOGA Swami Vivekananda Yoga](https://www.youtube.com/watch?v=R3PERxt9h4Q)
-
-
+- [YCB_Yoga Protol Instructor Aarsha Samskriti](https://www.youtube.com/playlist?list=PLYv_GO7kLsxNsrzpr0g3S5ANwRdtVGIVZ)
+- [Yoga Practical Exam Preparation Aarsha Samskriti](https://www.youtube.com/playlist?list=PLYv_GO7kLsxNsrzpr0g3S5ANwRdtVGIVZ)
 
 ## How to Contribute
 
