@@ -16,10 +16,9 @@ Sanskrit, the classical language of ancient India, is known for its rich literar
 ## Learning Resources
 - [Sasnkrit From Home - Vyoma Labs](https://www.sanskritfromhome.org/course-listing/professionals) Very comprehensive and high quality courses
 - [Learn Sanskrit Online](https://learnsanskrit.org/) - Comprehensive resource for learning Sanskrit, including grammar, vocabulary, and exercises.
-- [Sanskrit Department, D. B. J. College](https://www.youtube.com/@sanskritdepartmentd.b.j.co8232/playlists)
-- [Sanskrit Dictionary](https://www.sanskrit-lexicon.uni-koeln.de/) - Online dictionary for Sanskrit with multiple lexicons.
-- [The Sanskrit Language](https://www.amazon.com/Sanskrit-Language-William-Dwight-Whitney/dp/0486217803) by William Dwight Whitney - A classic introduction to the Sanskrit language and its grammar.
+- [Sanskrit Department, D. B. J. College](https://www.youtube.com/@sanskritdepartmentd.b.j.co8232/playlists) Very good explanation in Marathi
 - [Digital Sanskrit Learning - Level 1 - Bori](https://www.bharatvidya.in/p/spoken-sanskrit-level-1), [login](https://bharatvidya.in/courses/enrolled/1893789)
+- [High School Sanskrit Grammar Made Easy प्रौढशाला-संस्कृत-व्याकरणम् Vyoma](https://www.youtube.com/playlist?list=PLmozlYyYE-ET72Pz5n8WDtKHH31K06QhW) Amazing lecture series
 - [Dhatu Roop - My Coaching](https://mycoaching.in/dhatu-roop)
 - [Grammar - My Coaching](https://mycoaching.in/sanskrit)
 - [Sandhi Vichchhed - My Coaching](https://mycoaching.in/sanskrit-me-sandhi)
@@ -28,6 +27,8 @@ Sanskrit, the classical language of ancient India, is known for its rich literar
 - [Sanskrit Language Courses](https://www.youtube.com/playlist?list=PLNKc9XA6KRsPiNk9grlpwJwnnfY5dr2dN) 90 videos, looks comprehensive
 - [Sanskrit Amritmala](https://www.youtube.com/playlist?list=PLNKc9XA6KRsMbeLPkZu3M4H6PbZcfeDL2) 50 videos
 - [An Advanced Sanskrit Grammar](https://www.youtube.com/playlist?list=PLNKc9XA6KRsM_-H_ZBZ2Abe-av4ZrRfmv) 49 videos
+- [Sanskrit Dictionary](https://www.sanskrit-lexicon.uni-koeln.de/) - Online dictionary for Sanskrit with multiple lexicons.
+- [The Sanskrit Language](https://www.amazon.com/Sanskrit-Language-William-Dwight-Whitney/dp/0486217803) by William Dwight Whitney - A classic introduction to the Sanskrit language and its grammar.
 - [Sanskrit Linguistics](https://www.youtube.com/playlist?list=PLlNdduOe1pp0n-MJqwncm4GHFmczcIb0L)
 - [Sanskrit for Sastra Study by Br. Ved Chaitanya](https://www.youtube.com/playlist?list=PLlNdduOe1pp12SWXlphYT5h7zj0p2mhx3)
 - [How to decode a Sanskrit Verse - Unique workshop | Learn Sanskrit Online](https://www.youtube.com/playlist?list=PLmozlYyYE-EQ45XW0GuPMJkFcIaDV_uVP)
@@ -62,7 +63,6 @@ Sanskrit, the classical language of ancient India, is known for its rich literar
 - [Samskrit-1 MIT](https://mitvedicsciences.edu.in/education/certificate-courses/samskrit-1)
 - [Sanskrit 1: Thinking in Sanskrit MIT](https://mitiiks.org.in/product/sanskrit-1-thinking-in-sanskrit/)
 - [Learning Sanskrit Series Academy of Indian Philosophy](https://www.youtube.com/playlist?list=PLeHXGl3tGtBKdCY7gV55K7NgRG71CbgrD)
-- [High School Sanskrit Grammar Made Easy प्रौढशाला-संस्कृत-व्याकरणम् Vyoma](https://www.youtube.com/playlist?list=PLmozlYyYE-ET72Pz5n8WDtKHH31K06QhW)
 - [Learn Sanskrit](https://www.youtube.com/channel/UCwTNT6Mrrx8fY_lcFoputSQ/playlists)
 - [Samskrita Shikshanam](https://www.youtube.com/channel/UC0hjxSl7vsrnYKuADFg1ITw)
 - [Sanskrit City]( https://www.youtube.com/watch?v=PkNRRziSdxY&list=PL5wQEJFZymLYejXPEEeuBTb6HBSHQHtff)
