@@ -118,6 +118,7 @@ Yoga, a holistic discipline originating in ancient India, encompasses physical, 
 - [How to CRACK YCB EXAM in FIRST attempt | पूरी जानकारी || हिंदी में](https://www.youtube.com/watch?v=uJmlKFNzqTw)
 - [Certification of Yoga Professionals Guidebook for level 1](https://www.amazon.in/Certification-Yoga-Professionals-Guidebook-level/dp/8183231837)
 - [Yog CEC](https://www.youtube.com/playlist?list=PLNsppmbLKJ8JNXNwd8CRnXmjuEMwJp9TX)
+- [YCB Level 1, 2, 3 Exam Sarika Patil - Sary Vinyasa YogaFlow](https://www.youtube.com/playlist?list=PLZnSKrDKmW36l_4FfaTOtfjoOtnBVc4vu)
 - [Yoga Certification - By YCB Yog Aurora](https://www.youtube.com/playlist?list=PLCCm_6ZMItDNbits0GVY2sTDmPZ8lzlt0)
 - [Yoga Practical Exam Preparation](https://www.youtube.com/watch?v=pEnj0LDEQ-o)
 - [YOGA INSTRUCTORS COURSE (YIC) ONLINE PRACTICAL EXAMS SWAMI VIVEKANANDA YOGA | VYASA BANGALORE | Swami Vivekananda Yoga](https://www.youtube.com/watch?v=Z2q6AeJR268)
