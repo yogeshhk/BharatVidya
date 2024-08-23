@@ -135,7 +135,7 @@ Vanisri Ragupati](https://www.youtube.com/playlist?list=PLWV98cyTzbXyigW8hDD4GF5
 - [CBSC Sanskrit#english #10th Board_Exam#summery - Vasant Patil](https://www.youtube.com/playlist?list=PLL7hynOJqNcS7Wbnwi80sfvLJKVdwNnzr)
 - [Samskrita Shikshanam - Parichaya Exam - Samskrita Bharati - Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_nd6fnl5cbwsd4N0GmdKdsr)
 - [Pravesha - English G3 - May2022
-Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_lQyoTu1VZ6hK8y3CLi9AiL)
+Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_lQyoTu1VZ6hK8y3CLi9AiL), [Quiz](https://linktr.ee/pravesha)
 - [Parichaya - English E1 - Nov2023
 Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_l3RcIeBgxSmVaUHdXiBJKc)
 - [Parichaya - English G2 - May2023
