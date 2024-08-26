@@ -193,6 +193,8 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Kovida - Sanskrit Bharati Postal Course Level 4 Sanskrit Department, D. B. J. College](https://www.youtube.com/playlist?list=PLylUosEZFP6CPCzv_vyUQCfkyabREk5k0)
 - [11 th standard Sanskrit Ahlad Sanskrit Department, D. B. J. College](https://www.youtube.com/playlist?list=PLylUosEZFP6AFoaCRS3-yLPNDgJTe3IuO)
 - [12 th standard Sanskrit Ahlad Sanskrit Department, D. B. J. College](https://www.youtube.com/playlist?list=PLylUosEZFP6BtWdufxVK_S3A4uhPx_ZPV)
+- [Sanskrit for Begginers Sanskriti M](https://www.youtube.com/playlist?list=PLnlJNWcOvCN0at9PjpnF0G7PWfOV_qc1Y)
+
 
 ## Texts and Literature
 
