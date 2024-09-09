@@ -160,3 +160,26 @@
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0pt plus 0.5ex}
 \setlength\columnsep{30pt}
+
+\usepackage{tcolorbox}  % For creating fancy boxes
+\usepackage{tikz}       % For drawing borders
+
+% Define a fancy style for cover pages
+\tcbuselibrary{skins, breakable, theorems}
+\tcbset{
+    coverstyle/.style={
+        enhanced,
+        colframe=black,
+        colback=white,
+        coltitle=black,
+        fonttitle=\bfseries\LARGE,
+        fontupper=\normalsize,
+        boxrule=1mm,
+        width=\textwidth,
+        arc=4mm,
+        boxsep=5mm,
+        outer arc=0mm,
+        attach boxed title to top center={yshift=-0.5cm},
+        boxed title style={colframe=black, colback=white, boxrule=0mm},
+    }
+}
