@@ -63,6 +63,7 @@ Yoga, a holistic discipline originating in ancient India, encompasses physical, 
 
 - [Patanjali Yoga Sutras - Vivekananda Rock Memorial & Vivekananda](https://www.youtube.com/playlist?list=PLM4rzq7OuKeJN3kxPKgMlY8U_KBktmSYj) verse by verse
 - [Patanjali Yoga Sutras - English Yogic Gurukul - Anvita Dixit · Podcast](https://www.youtube.com/playlist?list=PLAV4BpXSJLOqHHfh6BNF53wfiA_bjcde2)
+- [Patanjali Yoga Sutra Live Streams The Sanskrit Channel](https://www.youtube.com/playlist?list=PLAPrVB8wngPnXpf5OhUqYgE_i6JlhtL8a)
 - [Swami J Patanjali Yoga Sutra](https://swamij.com/yoga-sutras.htm)
 - [Patanjali Yog Sutra - Samadhi Pada - Kaushal Yog](https://www.youtube.com/playlist?list=PLiiaHydaB-DDw2dwcxcgU_KIYRyERQl-B)
 - [Patanjali Yoga Sutra- Sadhan Pada - Kaushal Yog](https://www.youtube.com/playlist?list=PLiiaHydaB-DC5kReC956k83JUwBV9lpVB)
@@ -181,6 +182,16 @@ Meditation can not be done. It will happen. Prepare body and breathe-mind.
 - dhyan means attention, to thoughts like a witness 
 - thoughts come from mind, truth is in no-mind state
 
+## YogaSutra Mindmaps
+- [YogaSutra_SamadhiPad_1_Mindmap](https://docs.google.com/drawings/d/1NVekSd0tWBxcwuDfp3jl4gaxpFKWcr0CW1iE0n7R74Q/edit)
+- [YogaSutra_SamadhiPad_2_Mindmap](https://docs.google.com/drawings/d/1cKi8U5VqJXKAqXw3BEXtcnqXNxNagDtYixbB353MwVw/edit)
+- [YogaSutra_SadhanaPad_1_Mindmap](https://docs.google.com/drawings/d/1TNDLS33yeSFNkpb1YXTU_oGL8UH-clqj4GiSDpwFVFM/edit)
+- [YogaSutra_SadhanaPad_2_Mindmap](https://docs.google.com/drawings/d/1WUTauh3HQMlUO3qSVmrNPvDn5UnC0itlpathxZ7onnM/edit)
+- [YogaSutra_VibhutiPad_1_Mindmap](https://docs.google.com/drawings/d/18q6WQhJkRl2eZp-IfPKUduCBxmOmDW57-c_qEIYPdj4/edit)
+- [YogaSutra_VibhutiPad_2_Mindmap](https://docs.google.com/drawings/d/1KldrzkZr9zIV15GXwHVdfKF77y8vY99oCda2H4yexGo/edit)
+- [YogaSutra_KaivalyaPad_1_Mindmap](https://docs.google.com/drawings/d/1f3pmBmK_p4sv5ivFiKw4j-8i9EJ7pRJZlCyBGzXJ8bE/edit)
+- [YogaSutra_KaivalyaPad_2_Mindmap](https://docs.google.com/drawings/d/1chfJ9iUqYunRVeKIP_Ry79ereqVBoXv3IjyK1u2n-Yw/edit)
+- 
 -->
 
 

@@ -20,6 +20,10 @@ This repository is dedicated to the intersection of Sanskrit Manuscriptology and
 
 Sanskrit Manuscriptology is the study of Sanskrit manuscripts, their history, preservation, and interpretation. With the advent of computational linguistics and AI technologies, new avenues have opened up for the analysis, digitization, and understanding of these ancient texts.
 
+## Degrees and courses
+- [Post Graduate Diploma In Manuscriptology And Palaeography (PGDMP)](https://ignca.gov.in/regional-centers/southern-regional-centre/post-graduate-diploma-in-manuscriptology-and-palaeography-pgdmp-in-bengaluru/)
+- [Online Diploma Program in Manuscriptology and Paleography ](https://www.shiksha.com/university/national-sanskrit-university-tirupati-22130/course-online-online-diploma-program-in-manuscriptology-and-paleography-1003419)
+
 ## Key References
 
 1. Sahoo, J., & Mohanty, B. (2015). "Digitization of Indian manuscripts heritage: Role of the National Mission for Manuscripts." IFLA Journal, 41(3), 237-250.
@@ -32,76 +36,46 @@ Sanskrit Manuscriptology is the study of Sanskrit manuscripts, their history, pr
 
 ## AI and OCR Techniques
 
-1. SanskritOCR: An OCR system specifically designed for Sanskrit manuscripts
-   - GitHub: [SanskritOCR](https://github.com/rohitsaluja22/OCR-Sanskrit)
-
-2. Tesseract OCR with Sanskrit support
-   - GitHub: [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
-
-3. Devanagari Optical Character Recognition using Convolutional Neural Networks
-   - Paper: [arXiv:1708.03543](https://arxiv.org/abs/1708.03543)
-
-4. NLTK Sanskrit Library
-   - GitHub: [sanskrit-nltk](https://github.com/sanskrit-coders/sanskrit-nltk)
+- SanskritOCR: An OCR system specifically designed for Sanskrit manuscripts - GitHub: [SanskritOCR](https://github.com/rohitsaluja22/OCR-Sanskrit)
+- Tesseract OCR with Sanskrit support   - GitHub: [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
+- Devanagari Optical Character Recognition using Convolutional Neural Networks - Paper: [arXiv:1708.03543](https://arxiv.org/abs/1708.03543)
+- NLTK Sanskrit Library - GitHub: [sanskrit-nltk](https://github.com/sanskrit-coders/sanskrit-nltk)
 
 ## Institutes and Research Centers
-
-1. Indian Institute of Advanced Study, Shimla, India
-   - [Website](https://www.iias.ac.in/)
-
-2. Bhandarkar Oriental Research Institute, Pune, India
-   - [Website](https://www.bori.ac.in/)
-
-3. French Institute of Pondicherry, India
-   - [Website](https://www.ifpindia.org/)
-
-4. Sanskrit Department, Harvard University, USA
-   - [Website](https://sanskrit.fas.harvard.edu/)
-
-5. Oxford Centre for Hindu Studies, UK
-   - [Website](https://www.ochs.org.uk/)
+- National Mission for Manuscripts [Website](https://www.namami.gov.in/)
+- Indian Institute of Advanced Study, Shimla, India [Website](https://www.iias.ac.in/)
+- Bhandarkar Oriental Research Institute, Pune, India [Website](https://www.bori.ac.in/)
+- French Institute of Pondicherry, India [Website](https://www.ifpindia.org/)
+- Sanskrit Department, Harvard University, USA [Website](https://sanskrit.fas.harvard.edu/)
+- Oxford Centre for Hindu Studies, UK [Website](https://www.ochs.org.uk/)
+- SAMHiTA South Asian Manuscript Histories and Textual Archive [Website](https://samhita.iicdelhi.in/)
+- [Sangrah](https://sangrah.org/), is a part of [Dharohar](https://dharohar.org/en/home) working on making India’s ancient wisdom easily, and globally accessible to scholars around the world.
+- [SRI](https://sri.auroville.org/) Sanskrit [OCR](https://sri.auroville.org/projects/sanskrit-ocr/)
+- [Vedvaapi](https://www.vedavaapi.org/)
 
 ## Notable Researchers
-
-1. Prof. Amba Kulkarni - Sanskrit Computational Linguistics
-   - [Profile](http://sanskrit.uohyd.ac.in/faculty/amba/)
-
-2. Dr. Oliver Hellwig - Digital Sanskrit Philology
-   - [Profile](https://www.indologie.uni-bonn.de/institut/mitarbeiter/hellwig)
-
-3. Prof. Gérard Huet - Sanskrit Heritage Site
-   - [Website](https://sanskrit.inria.fr/)
-
-4. Dr. Pawan Goyal - Sanskrit NLP and Digital Humanities
-   - [Profile](https://cse.iitkgp.ac.in/~pawang/)
+- Prof. Amba Kulkarni - Sanskrit Computational Linguistics - [Profile](http://sanskrit.uohyd.ac.in/faculty/amba/)
+- Dr. Oliver Hellwig - Digital Sanskrit Philology - [Profile](https://www.indologie.uni-bonn.de/institut/mitarbeiter/hellwig)
+- Prof. Gérard Huet - Sanskrit Heritage Site - [Website](https://sanskrit.inria.fr/)
+- Dr. Pawan Goyal - Sanskrit NLP and Digital Humanities  - [Profile](https://cse.iitkgp.ac.in/~pawang/)
+- Malhar Arvind Kulkarni[Profile](https://homepages.iitb.ac.in/~malhar/)
+- Dharmapuri Vedaratna [LinkedIn](https://www.linkedin.com/in/dharmapuri-vedaratna-4a275b136)
+- Dr. Diwakar Mishra [LinkedIn](https://www.linkedin.com/in/dr-diwakar-mishra-a1864284/)
+- Girish Nath (Girish Nath Jha) Jha [LinkedIn](https://www.linkedin.com/in/gnjha/)
 
 ## Websites and Online Resources
-
-1. Sanskrit Documents
-   - [Website](https://sanskritdocuments.org/)
-
-2. GRETIL - Göttingen Register of Electronic Texts in Indian Languages
-   - [Website](http://gretil.sub.uni-goettingen.de/)
-
-3. Sanskrit Heritage Site
-   - [Website](https://sanskrit.inria.fr/)
-
-4. Digital Corpus of Sanskrit
-   - [Website](http://www.sanskrit-linguistics.org/dcs/index.php)
-
-5. SARIT - Search and Retrieval of Indic Texts
-   - [Website](http://sarit.indology.info/)
+- Sanskrit Documents - [Website](https://sanskritdocuments.org/)
+- GRETIL - Göttingen Register of Electronic Texts in Indian Languages - [Website](http://gretil.sub.uni-goettingen.de/)
+- Sanskrit Heritage Site - [Website](https://sanskrit.inria.fr/)
+- Digital Corpus of Sanskrit  - [Website](http://www.sanskrit-linguistics.org/dcs/index.php)
+- SARIT - Search and Retrieval of Indic Texts - [Website](http://sarit.indology.info/)
+- [Manuscriptology & Paleography National Workshop SAMSKRITAM & BHARATIYASAMSKRITI 1](https://www.youtube.com/playlist?list=PL2A-srB8pfcTixasJcP9_-MdBW3Yn8szJ)
+- [Sanskrit and Prakrit Manuscripts]
 
 ## Video Playlists and Lectures
-
-1. Sanskrit and Indian Manuscriptology Series by IIAS Shimla
-   - [YouTube Playlist](https://www.youtube.com/playlist?list=PLzuVwDAvLpJHoXDOHPHfZuzWAK7Qo_lVW)
-
-2. Computational Sanskrit and Digital Humanities by IIT Kharagpur
-   - [NPTEL Course](https://nptel.ac.in/courses/106/105/106105184/)
-
-3. Introduction to Sanskrit Computational Linguistics by Amba Kulkarni
-   - [YouTube Playlist](https://www.youtube.com/playlist?list=PLJzTBF6NS7E5X5N1V2tQUDrM2O7N8L7hd)
+- Sanskrit and Indian Manuscriptology Series by IIAS Shimla  - [YouTube Playlist](https://www.youtube.com/playlist?list=PLzuVwDAvLpJHoXDOHPHfZuzWAK7Qo_lVW)
+- Computational Sanskrit and Digital Humanities by IIT Kharagpur  - [NPTEL Course](https://nptel.ac.in/courses/106/105/106105184/)
+- Introduction to Sanskrit Computational Linguistics by Amba Kulkarni - [YouTube Playlist](https://www.youtube.com/playlist?list=PLJzTBF6NS7E5X5N1V2tQUDrM2O7N8L7hd)
 
 ## Personal Perspective: Why Pursue Sanskrit Manuscriptology?
 
