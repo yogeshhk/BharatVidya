@@ -2,6 +2,10 @@
 
 This repository is dedicated to the intersection of Sanskrit Manuscriptology and Computational Linguistics, focusing on the application of modern AI and OCR techniques to the study and preservation of Sanskrit manuscripts.
 
+It is estimated that only about 1/10th of Sanskrit literature is exposed to the daylight. The vast knowledge hidden in the manuscript will take 100s of years to decipher. But if AI can be leveraged to get it into readable form, the period can be reduced dramatically. That's the attempt. 
+
+तमसो मा ज्योतिर्गमय ।
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Key References](#key-references)
@@ -35,7 +39,6 @@ Sanskrit Manuscriptology is the study of Sanskrit manuscripts, their history, pr
 4. Kulkarni, A., & Huet, G. (2009). "Sanskrit computational linguistics." In Third International Symposium, Hyderabad, India, January 15-17, 2009, Proceedings (Vol. 5402). Springer.
 
 ## AI and OCR Techniques
-
 - SanskritOCR: An OCR system specifically designed for Sanskrit manuscripts - GitHub: [SanskritOCR](https://github.com/rohitsaluja22/OCR-Sanskrit)
 - Tesseract OCR with Sanskrit support   - GitHub: [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
 - Devanagari Optical Character Recognition using Convolutional Neural Networks - Paper: [arXiv:1708.03543](https://arxiv.org/abs/1708.03543)
@@ -70,7 +73,15 @@ Sanskrit Manuscriptology is the study of Sanskrit manuscripts, their history, pr
 - Digital Corpus of Sanskrit  - [Website](http://www.sanskrit-linguistics.org/dcs/index.php)
 - SARIT - Search and Retrieval of Indic Texts - [Website](http://sarit.indology.info/)
 - [Manuscriptology & Paleography National Workshop SAMSKRITAM & BHARATIYASAMSKRITI 1](https://www.youtube.com/playlist?list=PL2A-srB8pfcTixasJcP9_-MdBW3Yn8szJ)
-- [Sanskrit and Prakrit Manuscripts]
+- [कार्यशाला- ग्रंथ संधानम्](https://www.youtube.com/watch?v=FAjc90-1hgs)
+- [Manuscriptology - I](https://www.youtube.com/watch?v=SU9xLlEi2Ro), [Editing Process](https://www.youtube.com/watch?v=BIe0dDsjKTk)
+- [Manuscriptology: Introduction, Definition of Manuscript](https://www.youtube.com/watch?v=ZsmSj3c6H3E), [Manuscript composition. (Common elements of Manuscript)](https://www.youtube.com/watch?v=2-WlMK6oU1E)
+- [18 CME Dr Mohan Joshi - Basics of Manuscriptology](https://www.youtube.com/watch?v=2i0iB5zr6zI)
+- [Manuscripts Treasure of India : Repository of our Heritage || Dr. Sarwarul Haque ||](https://www.youtube.com/watch?v=j29resr1QgU)
+- [भारतीय पाण्डुलिपि विज्ञान | डॉ० कीर्ति कान्त शर्मा | कलानिधि, IGNCA](https://www.youtube.com/watch?v=zyFUkre9Zho)
+- [NYCIKS 2023 - Workshop on Manuscriptology – Prof. Gauri Mahulikar](https://www.youtube.com/watch?v=uL2VtvZmThc)
+- [Manuscriptology - Prof. Malhar Kulkarni](https://www.youtube.com/watch?v=msw8VAP2fwQ)
+- [61. Manuscriptology - Grantha Script - Dr.Krishnamachari](https://www.youtube.com/watch?v=dtclJOEc3KQ)
 
 ## Video Playlists and Lectures
 - Sanskrit and Indian Manuscriptology Series by IIAS Shimla  - [YouTube Playlist](https://www.youtube.com/playlist?list=PLzuVwDAvLpJHoXDOHPHfZuzWAK7Qo_lVW)
