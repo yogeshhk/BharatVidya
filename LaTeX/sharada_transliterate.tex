@@ -1,0 +1,35 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[fragile]\frametitle{}
+\begin{center}
+{\Large Transliteration}
+\end{center}
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[fragile]\frametitle{Aksharamukha : Script Converter}
+
+
+	\begin{lstlisting}
+pip install aksharamukha
+
+from aksharamukha import transliterate
+transliterate.process(src, tgt, txt, nativize = True, pre_options = [], post_options = [])
+transliterate.process('HK', 'Telugu', 'buddhaH')
+
+# If the source script is not known, set it as autodetect
+transliterate.process('autodetect', 'IAST', '....')
+
+# You can also convert files (.docx, .html & .txt) as shown below.
+from aksharamukha import transliterate_file
+transliterate_file.process(src, tgt, file_path, nativize=True, pre_options = [], post_options = [])
+
+
+# REST API
+http://aksharamukha-plugin.appspot.com/
+api/public?source=HK&target=Telugu&text=buddhaH
+\end{lstlisting}
+
+\end{frame}
+
+
