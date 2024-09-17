@@ -1,0 +1,37 @@
+\documentclass[xcolor=dvipsnames,compress,t,pdf,9pt]{beamer}
+\input{template_presentation}
+\usepackage{polyglossia}
+\setdefaultlanguage{sanskrit}
+\setotherlanguage{english}
+
+\usepackage{fontspec}
+\setmainfont{Segoe UI}
+
+% Devanagari Fonts
+% \newfontfamily\devanagarifont[Scale=MatchUppercase]{Nakula}
+\newfontfamily\devanagarifont[Script=Devanagari]{Nakula}
+\newfontfamily\devanagarifontsf[Script=Devanagari]{Nakula}
+\newfontfamily\devtransl[Mapping=DevRom]{Segoe UI}
+
+% Sharada Fonts
+\newfontfamily\sharadafont[Script=Sharada]{Noto Sans Sharada}
+
+\graphicspath{{images/}}
+\title[\insertframenumber /\inserttotalframenumber]{Introduction to Sharada Script}
+
+
+\begin{document}
+
+	\begin{frame}
+	\titlepage
+	\end{frame}
+	
+	\input{seminar_sharada_content}
+	
+	\begin{frame}[c]{}
+	Thanks ...
+	\vspace{5mm}
+	yogeshkulkarni@yahoo.com
+	\end{frame}
+
+\end{document}

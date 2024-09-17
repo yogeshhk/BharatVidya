@@ -65,6 +65,7 @@ Sanskrit Manuscriptology is the study of Sanskrit manuscripts, their history, pr
 - Dharmapuri Vedaratna [LinkedIn](https://www.linkedin.com/in/dharmapuri-vedaratna-4a275b136)
 - Dr. Diwakar Mishra [LinkedIn](https://www.linkedin.com/in/dr-diwakar-mishra-a1864284/)
 - Girish Nath (Girish Nath Jha) Jha [LinkedIn](https://www.linkedin.com/in/gnjha/)
+- [Anil Kumar](https://www.linkedin.com/in/anil-kumar-4616503/)
 
 ## Websites and Online Resources
 - Sanskrit Documents - [Website](https://sanskritdocuments.org/)
