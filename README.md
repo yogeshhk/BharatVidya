@@ -21,7 +21,7 @@ The Indian Knowledge System is a rich and diverse repository of ancient wisdom, 
 5. **Samskrit**: Predominant language in which this Vidya exists. More info [here](./Samskrit/Awesome_samskrit.md)
 6. **YogaShastra**: Yoga way of life. More info [here](./YogaShastra/Awesome_yogashastra.md)
 7. **ArthaShastra**: Predominant text on geopolitics and governance. More info [here](./Arthashastra/Awesome_arthashastra.md)
-8. **Manuscriptology**: Use of AI-OCR in reading ancient Sanskrit manuscripts. More info [here](./Manuscriptology/Awesome_manuscriptology.md)
+8. **Manuscriptology**: Use of AI-OCR in reading ancient Sanskrit manuscripts. More info [here](./Namami/Awesome_manuscriptology.md)
 
 ## References
 - [Indian Knowledge Systems (IKS) Division](https://iksindia.org/)  Division of Ministry of Education (MoE) located in the AICTE, New Delhi.

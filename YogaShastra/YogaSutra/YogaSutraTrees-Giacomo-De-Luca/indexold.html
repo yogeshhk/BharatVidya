@@ -1,0 +1,1077 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yoga Sutra Trees</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script>
+    <script src="https://unpkg.com/interactjs/dist/interact.min.js"></script>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Include Cytoscape.js -->
+      <!-- Include Cytoscape.js context-menu extension -->
+    <script src="https://unpkg.com/cytoscape-context-menus/cytoscape-context-menus.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/css/select2.min.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/js/select2.min.js"></script>
+    
+</head>
+<style>
+    body {
+        transition: background-color 1.5s ease;
+    }
+    #cy {
+        width: 1200px;
+        height: 700px;
+        position: fixed;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #details-content {
+            overflow: auto;
+            max-height: 400px; /* Set the maximum height */
+            width: 100%;
+        }    
+    .hide {
+            display: none !important;
+    }    
+    @media screen and (max-aspect-ratio: 1/1) {
+    body {
+        transform: rotate(-90deg);
+        transform-origin: left top;
+        width: 100vh;
+        height: 100vw;
+        overflow-x: hidden;
+        position: absolute;
+        top: 100%;
+        left: 0;
+    }
+    }
+
+    #leftSidebar {
+        backdrop-filter: blur(3px);
+    }    
+    #sidebar {
+        backdrop-filter: blur(3px);
+    }
+  
+  
+</style>
+
+<body>
+
+  <div id="cy"></div>
+
+  <div id="sidebar" class="fixed right-0 bottom-0  w-64 overflow-auto p-4 flex flex-col items-center justify-center transition-transform transform duration-500 ease-in-out border-t border-gray-600" style="height: 90%;  transform: translateX(100%); background-color: rgba(225, 226, 227, 0.7); ">
+    <h2 class="text-xl font-bold mb-4 text-grey-500">Options</h2>
+    <button id="add-link-btn" class="hover:text-indigo-600 active:text-violet-700 text-white w-full font-bold py-1 px-4 rounded mb-2" style="background-color: #248e95;">Add Edge</button>
+    <button id="remove-link-btn" class="hover:text-indigo-600 active:text-violet-700 text-white w-full font-bold py-1 px-4 rounded mb-2" style="background-color: #248e95;" >Remove edge</button>
+    <div style="display: flex; justify-content: space-between;">
+        <input type="color" id="color-picker-nodes" value="#F0F0F0">
+        <input type="color" id="color-picker-border" value="#A2E1E4">
+        <input type="color" id="color-picker-edges" value="#C6E0EA">
+        <input type="color" id="color-picker-highlight" value="#D29165">
+    </div>
+    <div class="mt-2 w-full">
+        <h2 class="text-base text-center text-gray-600">Display Select</h2>
+        <select id="displaySelector" class="block w-full py-4 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" multiple="multiple"></select>  
+        <h2 class="text-base text-center text-gray-600">Node Select</h2>
+        <select id="attributeSelector" class=" block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" multiple="multiple"></select>  
+        <select id="tagSelect" class="mt-1 mb-20 block w-full py-2 px-3 border border-gray-300 bg-transparent rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" multiple="multiple"></select>  
+    </div>
+    <div class="flex justify-between">
+        <input type="text" id="node-id-input" placeholder="Search Aphorism" class="mt-5 flex-grow bg-transparent text-center">
+    </div>
+  </div>
+
+
+
+
+
+  <div id="leftSidebar" class="fixed left-0 bottom-0 w-96 resize-x overflow-auto p-4 flex flex-col items-center justify-center transition-transform transform duration-500 ease-in-out border-t border-gray-600" style="height: 90%; transform: translateX(-100%); background-color: rgba(225, 226, 227, 0.7);">
+      <div id="details-content" class="w-full p-4 text-justify"></div>
+      <div id="editable-content" class="w-full p-2">
+        <p id="tagsSection" ondblclick="makeTagsEditable(this)" class="w-full border-b border-gray-700 p-4 "><strong>Tags:</strong></p>
+        <p id="referencesSection" ondblclick="makeReferencesEditable(this)" class="w-full p-4 border-b border-gray-700 "><strong>References:</strong></p>
+        <p id="commentsSection" ondblclick="makeCommentsEditable(this)" class="w-full p-4"><strong>Comments:</strong></p>
+    </div>
+</div>
+
+
+  <div id="myDiv" style="background-image: url('bg8.jpg'); background-repeat: no-repeat; background-size: cover; background-attachment: fixed; height: 1000px;">
+    <div>
+        <header id="wonderHeader" class="fixed w-full bg-white bg-opacity-75 top-0" style="height: 10vh;">
+            <div id="divideLine" class="absolute inset-x-1/4 bottom-0 h-px bg-gray-700"></div>
+            <nav class="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
+                <div class="flex lg:flex-1 justify-start">
+                    <a href="https://github.com/Giacomo-De-Luca/YogaSutraTrees/tree/main" target="_blank" class="shadow-xl">
+                        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="30" height="30" class="shadow-xl">
+                    </a>
+                </div>
+                <div id="titles" class="flex sm:gap-x-4 md:gap-x-6 lg:gap-x-12 justify-around items-center">
+                    <a href="https://project-patanjali.gitbook.io/yoga-sutra-trees/" class="text-sm font-semibold leading-6 text-gray-900 hover:text-indigo-600 active:text-violet-700 ">About</a>
+                    <button id="saveButton" class="text-sm font-semibold leading-6 text-gray-900 hover:text-indigo-600 active:bg-violet-700 ">Save</button>
+                    <button id="load-btn" class="text-sm font-semibold leading-6 text-gray-900 hover:text-indigo-600 active:bg-violet-700 ">Load</button>
+                    <input type="file" id="file-input" accept=".json" style="display: none;">             
+                    <input type="text" id="nodeSearch" placeholder="Search" class="text-sm bg-transparent  font-semibold text-left" style="width: 55px;">
+                </div>
+                <div class="flex lg:flex-1 justify-end relative">
+                    <button id="sidebarToggle" class="ml-auto z-100 hover:text-indigo-600">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-6 w-6">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                        </svg>
+                    </button>
+                </div>
+            </nav>
+        </header>
+    </div>
+
+
+
+    <div class="flex items-center justify-center min-h-screen">
+        <div id="textContainer" class="mx-auto max-w-2xl p-20 bg-white bg-opacity-80 rounded-md">
+        <!-- Your existing text content -->
+        <div class="text-center">
+            <h1 class="text-4xl font-bold tracking-tight text-black sm:text-6xl">Yoga Sutra Trees</h1>
+            <p class="mt-6 text-lg leading-8 text-gray-800">A Graph visualization project to explore Patanjali's
+                Aphorisms</p>
+            <div class="mt-10 flex items-center justify-center gap-x-6">
+                <a href="#" onclick="toggleContent()"
+                    class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Get
+                    started</a>
+                <a href="https://project-patanjali.gitbook.io/yoga-sutra-trees/" class="text-sm font-semibold leading-6 text-gray-900 hover:text-indigo-500">Documentation <span>→</span></a>
+            </div>
+        </div>
+    </div>
+    </div>
+</div>
+    
+    <script>
+
+
+
+        document.addEventListener('DOMContentLoaded', function () {
+            let cy = null; // Define cy here
+            // Load your JSON data (replace 'your-graph.json' with your actual file path)
+            fetch('graph.json')
+                .then(response => response.json())
+                .then(data => {
+                    // Initialize Cytoscape
+                     cy = cytoscape({
+                        container: document.getElementById('cy'),
+                        elements: data.elements,
+                        userPanningEnabled: true,
+                        autoungrabify: false,
+    
+                        minZoom: 0.1, // the furthest you can zoom out
+                        maxZoom: 3, // the furthest you can zoom 
+
+                        
+    
+    
+                        style: [
+                            {
+                                selector: 'node',
+                                style: {
+    
+                                    'label': 'data(id)',
+                                    'width': 'label', // Set the width based on the label content
+                                    'height': 'label', // Set the height based on the label content
+                                    'shape': 'roundrectangle',
+                                    'background-color': '#F0F0F0', // Set background color to white
+                                    'border-width': 2,                                
+                                    'text-wrap': 'wrap',
+                                    'text-max-width': 150,
+                                    'text-valign': 'center',
+                                    'text-halign': 'center',
+                                    'color': '#000',
+                                    'font-family': 'Palatino, Palatino Linotype, serif', // Add this line for font-family
+                                    'font-size': 12,
+                                    'border-color': '#5cbcc4', // Set your desired border color
+                                    'padding-bottom': '10px', // Add padding to the bottom
+                                    
+                                }
+                            },
+                            {
+                                selector: 'edge',
+                                style: {
+                                    'curve-style': 'bezier',
+                                    'control-point-step-size': 40,
+                                    'target-arrow-shape': 'none',
+                                    'width': 5,
+                                    'line-color': '#73BDC9',
+                                    'target-arrow-color': '#ccc'
+                                    
+                                }
+                            },
+                            {
+                                selector: 'edge[edgeType = "type2"]',
+                                style: {
+                                    'curve-style': 'bezier',
+                                    'control-point-step-size': 40,
+                                    'target-arrow-shape': 'none',
+                                    'width': 5,
+                                    'line-color': '#8BCCE6', // Change this to the color you want for the new type of edge
+                                    'target-arrow-color': '#ccc'
+                                }
+                            },                    
+                            {
+                                selector: '.blurred',
+                                style: {
+                                    'opacity': 0.5
+                                }
+                            },
+                            {
+                                selector: '.highlighted',
+                                style: {
+                                    'background-color': '#E0CD9F'
+                                }
+                            },
+                            {
+                                selector: '.spotted',
+                                style: {
+                                    'background-color': '#D29165'
+                                }
+                            }
+                            
+                           
+                        ],
+                        
+                        
+                        layout: { 
+                            name: 'preset',
+                            positions: node => data.positions[node.data('id')]
+                        }, // You can use a different layout if needed
+                        ready: function() {
+                            this.fit(); // Fit the viewport to the graph
+                        }
+                    });
+    
+                    document.getElementById('saveButton').addEventListener('click', function () {
+                        // Get the current nodes and edges
+                        var nodes = cy.nodes().map(node => ({ data: node.data() }));
+                        var edges = cy.edges().map(edge => ({ data: edge.data() }));
+                    
+                        // Get the current positions
+                        var positions = {};
+                        cy.nodes().forEach(node => {
+                            positions[node.data('id')] = node.position();
+                        });
+                    
+                        // Create a new JSON object
+                        var json = {
+                            elements: {
+                                nodes: nodes,
+                                edges: edges
+                            },
+                            positions: positions
+                        };
+                    
+                        // Convert the JSON object to a string
+                        var jsonString = JSON.stringify(json, null, 2);
+                    
+                        // Create a new Blob object from the JSON string
+                        var blob = new Blob([jsonString], { type: 'application/json' });
+                    
+                        // Create a new object URL for the Blob object
+                        var url = URL.createObjectURL(blob);
+                    
+                        // Create a new link element
+                        var link = document.createElement('a');
+                    
+                        // Set the href of the link to the object URL
+                        link.href = url;
+                    
+                        // Set the download attribute of the link to the desired file name
+                        link.download = 'graph.json';
+                    
+                        // Append the link to the body
+                        document.body.appendChild(link);
+                    
+                        // Simulate a click on the link
+                        link.click();
+                    
+                        // Remove the link from the body
+                        document.body.removeChild(link);
+                    });
+
+         function handleNodeTap(callback) {
+             let sourceNode = null;
+             let targetNode = null;
+             
+             function onTap(event) {
+                 if (sourceNode === null) {
+            sourceNode = event.target;
+        } else {
+            targetNode = event.target;
+            if (sourceNode.id() !== targetNode.id()) {
+                callback(sourceNode, targetNode);
+            }
+            sourceNode = null;
+            targetNode = null;
+            cy.nodes().off('tap', onTap);
+        }
+    }
+
+    cy.nodes().on('tap', onTap);
+}
+
+// Event listener for the "Add Link" button
+document.getElementById('add-link-btn').addEventListener('click', function () {
+    handleNodeTap((sourceNode, targetNode) => {
+        cy.add({ data: { source: sourceNode.id(), target: targetNode.id() } });
+    });
+});
+
+// Event listener for the "Remove Link" button
+document.getElementById('remove-link-btn').addEventListener('click', function () {
+    handleNodeTap((sourceNode, targetNode) => {
+        var edges = cy.edges().filter(edge => {
+            return (edge.source().id() === sourceNode.id() && edge.target().id() === targetNode.id()) ||
+            (edge.source().id() === targetNode.id() && edge.target().id() === sourceNode.id());
+        });
+        if (edges.length > 0) {
+            edges.remove();
+        }
+    });
+});
+
+                let detailsContent = "";
+
+
+                
+                function openLeftSidebar(node) {
+                    const nodeId = node.id();
+                    var leftSidebar = document.getElementById('leftSidebar');
+                    leftSidebar.style.transform = "translateX(0)";
+                    leftSidebar.style.boxShadow = "1px 0px 3px 0px rgba(0,0,0,0.3)"; 
+
+                    // Check if displaySelector is initialized and has selected options
+                    if ($.fn.select2 && $('#displaySelector').data('select2')) {
+                        // Get the selected attributes
+                        const selectedAttributes = $('#displaySelector').select2('data').map(option => option.id);
+                        
+                        // Build the additional details content using the selected attributes
+                        selectedAttributes.forEach(attribute => {
+                            if (node.data(attribute)) {
+                                detailsContent += `<p><strong>${attribute}:</strong> ${node.data(attribute)}</p>`;
+                            }
+                        });
+                    };
+                    
+
+                        // Display comments in the comments section
+                        const commentsSection = document.getElementById('commentsSection');
+                        commentsSection.innerHTML = `<strong>Comments:</strong> ${node.data('comment') || ''}`;
+                        
+                        // Display tags in the tags section
+                        const tagsSection = document.getElementById('tagsSection');
+                        tagsSection.innerHTML = `<strong>Tags:</strong> ${node.data('tags') || ''}`;
+                        
+                        // Display references in the references section
+                        const referencesSection = document.getElementById('referencesSection');
+                        referencesSection.innerHTML = `<strong>References:</strong> ${node.data('references') || ''}`;
+
+                        currentOpenNodeId = nodeId;
+
+                        commentsSection.addEventListener('dblclick', function () {
+                            makeCommentsEditable(commentsSection);
+                        });
+                    
+                        tagsSection.addEventListener('dblclick', function () {
+                            makeTagsEditable(tagsSection);
+                        });
+
+                        referencesSection.addEventListener('dblclick', function () {
+                            makeReferencesEditable(referencesSection);
+                        });
+                    }
+
+                const searchInput = document.getElementById('nodeSearch');
+                const matchCountDisplay = document.getElementById('matchCount');
+                
+                searchInput.addEventListener('input', function() {
+                    const searchText = searchInput.value.trim().toLowerCase();
+                    let matchCount = 0;
+                
+                    // First, remove all temporary edges
+                    cy.edges('.temporary-text').remove();
+                
+                    // If the search text is empty, remove the 'highlighted' and 'blurred' classes from all nodes and return
+                    if (searchText === '') {
+                        cy.nodes().removeClass('highlighted blurred');
+                        return;
+                    }
+                
+                    // Get the nodes that match the search text
+                    const matchedNodes = cy.nodes().filter(node => {
+                        const nodeId = node.data('id').toLowerCase();
+                        const nodeLabel = node.data('Sanskrit_Text').toLowerCase();
+                        const translationBryant = node.data('Translation_Bryant').toLowerCase();
+                
+                        // Check if any of the fields contains the search text
+                        if (nodeId.includes(searchText) || nodeLabel.includes(searchText) || translationBryant.includes(searchText)) {
+                            // Add the 'highlighted' class and remove the 'blurred' class
+                            node.addClass('highlighted');
+                            node.removeClass('blurred');
+                            matchCount++;
+                            return true;
+                        } else {
+                            // Add the 'blurred' class and remove the 'highlighted' class
+                            node.addClass('blurred');
+                            node.removeClass('highlighted');
+                            return false;
+                        }
+                    });
+                
+                    // Create temporary edges between the matched nodes
+                    matchedNodes.forEach(function (node, index) {
+                        for (let i = index + 1; i < matchedNodes.length; i++) {
+                            const otherNode = matchedNodes[i];
+                            cy.add({
+                                group: 'edges',
+                                data: { source: node.id(), target: otherNode.id() },
+                                classes: 'temporary-text',
+                                style: { 'line-color': '#CFC8FA' } // Change this to the color you want
+                            });
+                        }
+                    });
+                });
+
+                document.getElementById('load-btn').addEventListener('click', function () {
+                    document.getElementById('file-input').click();
+                });
+                document.getElementById('file-input').addEventListener('change', function (e) {
+                    var file = e.target.files[0];
+                    if (!file) {
+                        return;
+                    }
+                    var reader = new FileReader();
+                    reader.onload = function (e) {
+                        var contents = e.target.result;
+                        var data = JSON.parse(contents);
+
+                        // Reconfigure the graph
+                        cy.elements().remove();
+                        cy.add(data.elements);
+                        cy.nodes().forEach(node => {
+                            node.position(data.positions[node.data('id')]);
+                        });
+                    };
+                    reader.readAsText(file);
+                });
+
+
+                let select = document.getElementById('tagSelect');
+                
+                $(select).select2({
+                    tags: true,
+                    tokenSeparators: [','],
+                    placeholder: 'Select tags',
+                    templateResult: formatTag,
+                    templateSelection: formatTag
+                });
+                
+                // Define the formatTag function
+                function formatTag(tag) {
+                    var $tag = $('<span><i class="tag-color"></i> ' + tag.text + '</span>');
+                    $tag.find('.tag-color').css({
+                        'background-color': tagColors[tag.text] || '#000',
+                        'display': 'inline-block',
+                        'width': '10px',
+                        'height': '10px',
+                        'margin-right': '5px'
+                    });
+                    return $tag;
+                }
+                
+                // Define the color palette
+                const colorPalette = ['#DBD788', '#DB9B88', '#88DBC5', '#A588DB', '#839993'];
+                
+                // Create a mapping from tags to colors
+                
+                let tagColors = {};
+                let colorIndex = 0;
+                cy.nodes().forEach(function (node) {
+                    const nodeTags = node.data('tags') ? node.data('tags').split(', ') : [];
+                    nodeTags.forEach(tag => {
+                        if (!tagColors[tag]) {
+                            tagColors[tag] = colorPalette[colorIndex];
+                            colorIndex = (colorIndex + 1) % colorPalette.length;
+                        }
+                    });
+                });
+                
+                // Add event listener
+                $(select).on('change', function () {
+                    const selectedTags = $(this).select2('data').map(option => option.text);
+                    if (selectedTags.length > 0) {
+                        filterNodesByTag(selectedTags);
+                    } else {
+                        cy.nodes().removeClass('filtered');
+
+                        // Reset all nodes to their default color
+                        cy.nodes().style('background-color', '');
+                        cy.nodes().removeClass('filtered highlighted blurred');
+                    }
+                });
+                
+                updateDropdownOptions();
+
+                function filterNodesByTag(selectedTags) {
+                    
+                    console.log(selectedTags);
+                    // First, remove all temporary edges
+                    cy.edges('.temporary-tag').remove();
+                
+                    // Reset all nodes to their default color
+                    cy.nodes().style('background-color', '');
+                
+                    // If no tags are selected, remove the 'blurred' class from all nodes and return
+                    if (selectedTags.length === 0) {
+                        cy.nodes().removeClass('blurred');
+                        return;
+                    }
+                
+                    cy.nodes().addClass('blurred');
+                
+                    // Get the nodes that have at least one of the selected tags
+                    const selectedNodes = cy.nodes().filter(function (node) {
+                        
+                        const nodeTags = node.data('tags') ? node.data('tags').split(', ') : [];
+                        const nodeSelectedTags = nodeTags.filter(tag => selectedTags.includes(tag));
+                        console.log(nodeTags, nodeSelectedTags);
+                        return nodeSelectedTags.length > 0;
+                    });
+                
+                    // For each selected node
+                    selectedNodes.forEach(function (node, index) {
+                        const nodeTags = node.data('tags') ? node.data('tags').split(', ') : [];
+                        const nodeSelectedTags = nodeTags.filter(tag => selectedTags.includes(tag));
+                        const nodeSelectedColors = nodeSelectedTags.map(tag => tagColors[tag]);
+                        node.style('background-color', mixColors(nodeSelectedColors));
+                        node.removeClass('blurred'); // Remove the 'blurred' class
+                
+                        // Create temporary edges between this node and all other selected nodes
+                        for (let i = index + 1; i < selectedNodes.length; i++) {
+                            const otherNode = selectedNodes[i];
+                            cy.add({
+                                group: 'edges',
+                                data: { source: node.id(), target: otherNode.id() },
+                                classes: 'temporary-tag',
+                                style: { 'line-color': mixColors(nodeSelectedColors) }
+                            });
+                        }                    
+                    });
+                }
+
+                function mixColors(colors) {
+                    let r = 0;
+                    let g = 0;
+                    let b = 0;
+                
+                    colors.forEach(color => {
+                        r += parseInt(color.slice(1, 3), 16);
+                        g += parseInt(color.slice(3, 5), 16);
+                        b += parseInt(color.slice(5, 7), 16);
+                    });
+                
+                    r = Math.floor(r / colors.length);
+                    g = Math.floor(g / colors.length);
+                    b = Math.floor(b / colors.length);
+                
+                    return '#' + r.toString(16).padStart(2, '0') + g.toString(16).padStart(2, '0') + b.toString(16).padStart(2, '0');
+                }
+                
+                // Function to handle the search action
+                function handleSearch() {
+                    // Remove the 'highlighted' class from all nodes
+                    cy.nodes().removeClass('highlighted');
+                    
+                    // Get the node ID from the input field
+                    var nodeId = document.getElementById('node-id-input').value;
+                    // If the input field is not empty
+                    if (nodeId) {
+                        // Find the node in the Cytoscape graph
+                        var node = cy.getElementById(nodeId);
+                        // Check if the node exists
+                        if (node.length > 0) {
+                            // Highlight the node
+                            node.addClass('highlighted');
+                            // Call the openLeftSidebar function
+                            updateDetailsID(nodeId)
+                        } else {
+                            alert('Node not found');
+                        }
+                    }
+                }
+                
+                // Event listener for the Enter key on the input field
+                document.getElementById('node-id-input').addEventListener('keypress', function (e) {
+                    // Check if the Enter key was pressed
+                    if (e.key === 'Enter') {
+                        handleSearch();
+                    }
+                });
+
+                const colorPickerNodes = document.getElementById('color-picker-nodes');
+                const colorPickerBorder = document.getElementById('color-picker-border');
+                const colorPickerEdges = document.getElementById('color-picker-edges');
+                const colorPickerHighlight = document.getElementById('color-picker-highlight');
+
+
+
+                // Change node colour background
+                colorPickerNodes.addEventListener('change', function () {
+                    // Get the selected color
+                    const color = this.value;
+                    
+                    // Change the styles of the nodes
+                    cy.style()
+                    .selector('node')
+                    .style({
+                        'background-color': color,
+                    })
+                    .update(); // Apply the changes
+                });
+
+                   // Change colour border
+                   colorPickerBorder.addEventListener('change', function () {
+                    // Get the selected color
+                    const color = this.value;
+                    
+                    // Change the styles of the nodes
+                    cy.style()
+                    .selector('node')
+                    .style({
+                        'border-color': color,
+                    })
+                    .update(); // Apply the changes
+                });
+
+                   // Change colour edges
+                   colorPickerEdges.addEventListener('change', function () {
+                    // Get the selected color
+                    const color = this.value;
+                    
+                    // Change the styles of the edges
+                    cy.style()
+                    .selector('edge')
+                    .style({
+                        'line-color': color,
+                    })
+                    .update(); // Apply the changes
+                });
+
+                   // Change highlight on select
+                   colorPickerHighlight.addEventListener('change', function () {
+                    // Get the selected color
+                    const color = this.value;
+                    
+                    // Change the styles of the highlight on selection
+                    cy.style()
+                    .selector('.spotted')
+                    .style({
+                        'background-color': color,
+                    })
+                    .update();  // Apply the changes
+                });
+
+
+
+
+
+
+                
+
+                    
+
+                function makeTagsEditable(element) {
+                    const nodeId = currentOpenNodeId;
+                    const node = cy.$id(nodeId);
+                    const tags = node.data('tags') ? node.data('tags').split(', ') : [];
+                
+                    const input = document.createElement('input');
+                    input.type = 'text';
+                    input.value = tags.join(', ');
+                    input.onblur = function () {
+                        const newTags = input.value.split(', ');
+                        node.data('tags', newTags.join(', '));
+                        element.innerHTML = `<strong>Tags:</strong> ${newTags.join(', ')}`;
+                        updateDropdownOptions();
+                    };
+                
+                    element.innerHTML = '';
+                    element.appendChild(input);
+                    input.focus();
+                }
+
+                function makeCommentsEditable(element) {
+                    const nodeId = currentOpenNodeId;
+                    const node = cy.$id(nodeId);
+                    const comments = node.data('comment') || '';
+                
+                    const input = document.createElement('input');
+                    input.type = 'text';
+                    input.value = comments;
+                    input.onblur = function () {
+                        const newComments = input.value;
+                        node.data('comment', newComments);
+                        element.innerHTML = `<strong>Comments:</strong> ${newComments}`;
+                    };
+                
+                    element.innerHTML = '';
+                    element.appendChild(input);
+                    input.focus();
+                } 
+
+                function makeReferencesEditable(element) {
+                    const nodeId = currentOpenNodeId;
+                    const node = cy.$id(nodeId);
+                    const references = node.data('references') ? node.data('references').split(', ') : [];
+                
+                    const input = document.createElement('input');
+                    input.type = 'text';
+                    input.value = references.join(', ');
+                    input.onblur = function () {
+                        const newReferences = input.value.split(', ');
+                        node.data('references', newReferences.join(', '));
+                        element.innerHTML = `<strong>References:</strong> ${newReferences.join(', ')}`;
+                    };
+                
+                    element.innerHTML = '';
+                    element.appendChild(input);
+                    input.focus();
+                }
+
+                function updateDropdownOptions() {
+                    const select = document.getElementById('tagSelect');
+                    select.innerHTML = '';
+                
+                    const uniqueTags = new Set();
+                    cy.nodes().forEach(function (node) {
+                        const nodeTags = node.data('tags') ? node.data('tags').split(', ') : [];
+                        nodeTags.forEach(tag => uniqueTags.add(tag));
+                    });
+                
+                    const tagsArray = Array.from(uniqueTags);
+                    tagsArray.forEach(tag => {
+                        let option = document.createElement('option');
+                        option.value = tag;
+                        option.text = tag;
+                        select.appendChild(option);
+                
+                        // If the tag doesn't have a color yet, assign it one
+                        if (!tagColors[tag]) {
+                            tagColors[tag] = colorPalette[colorIndex];
+                            colorIndex = (colorIndex + 1) % colorPalette.length;
+                        }
+                    });
+                
+                    
+                }
+
+                const nodes = cy.nodes();
+                
+                // Get the unique attributes from all nodes
+                let nodeAttributes = [];
+                nodes.forEach(node => {
+                    nodeAttributes = [...nodeAttributes, ...Object.keys(node.data())];
+                });
+                nodeAttributes = [...new Set(nodeAttributes)]; // Remove duplicates
+
+                 
+                // Get the select element
+                const attributeSelector = $('#attributeSelector');
+
+                document.getElementById('cy').style.display = "none";
+
+                // Initialize Select2 for the attributeSelector dropdown
+                attributeSelector.select2({
+                    placeholder: 'Select attributes',
+                    allowClear: true,
+                    closeOnSelect: false
+                });
+
+      
+
+                
+
+                // Populate the dropdown with options
+                nodeAttributes.forEach(attribute => {
+                    const isSelected = ['id', 'Sanskrit_Text', 'Translation_Bryant'].includes(attribute);
+                    const option = new Option(attribute, attribute, isSelected, isSelected);
+                    attributeSelector.append(option);
+                });
+
+                // Add the label function inside the style array
+                cy.style().selector('node').style({
+                    'label': function(ele) {
+                        // Get the selected attributes
+                        const selectedAttributes = $('#attributeSelector').select2('data').map(option => option.id);
+                        // Build the label using the selected attributes
+                        let label = '';
+                        selectedAttributes.forEach(attribute => {
+                            if (ele.data(attribute)) {
+                                label += ele.data(attribute) + '\n\n';
+                            }
+                        });
+                        return label;
+                    },
+                    // Your other styles here
+                });
+
+
+                // Update the Cytoscape styles whenever the selected options change
+                $('#attributeSelector').on('change', function() {
+                    cy.style().update(); // This will force Cytoscape to reapply the styles
+                });
+                
+                // Get the select element for the display
+                const displaySelector = $('#displaySelector');
+                
+                
+                // Populate the dropdown with options
+                nodeAttributes.forEach(attribute => {
+                    // Exclude 'tags', 'references', and 'comment' fields
+                    if (!['tags', 'references', 'comment'].includes(attribute)) {
+                        const isSelected = ['id', 'Sanskrit_Text', 'Translation_Bryant'].includes(attribute);
+                        const option = new Option(attribute, attribute, isSelected, isSelected);
+                        displaySelector.append(option);
+                    }
+                });
+
+                // Initialize Select2 for the attributeSelector dropdown
+                displaySelector.select2({
+                    placeholder: 'Select attributes',
+                    allowClear: true,
+                    closeOnSelect: false
+                }).on('select2:opening', function(e) {
+                    // Stop the mousedown event from propagating to Cytoscape
+                    e.stopPropagation();
+                });
+
+                 // Store the currently selected node
+                 let selectedNode = null;
+                
+                 // Update selectedNode whenever a node is selected
+                 cy.on('select', 'node', function(event) {
+                     selectedNode = event.target;
+                     selectedNode.addClass('spotted');
+                     updateDetailsWindow();
+        
+                 });
+                 
+                 // Clear selectedNode whenever a node is unselected
+                 cy.on('unselect', 'node', function() {
+                      
+                    selectedNode.removeClass('spotted');
+                
+                    selectedNode = null;
+                    updateDetailsWindow();
+                     
+
+                 });
+                 
+                 // Update the details window whenever the selected options change
+                 $('#displaySelector').on('change', updateDetailsWindow);
+                 
+                 function updateDetailsWindow() {
+                     if (selectedNode) {
+                         // Get the selected attributes
+                         const selectedAttributes = $('#displaySelector').select2('data').map(option => option.id);
+                         
+                         // Build the details content using the selected attributes
+                         let detailsContent = '<h2 class="w-full" style="font-weight: bold !important;">Aphorism Details</h2>';                         selectedAttributes.forEach(attribute => {
+                            if (selectedNode.data(attribute)) {
+                                detailsContent += `<p class="w-full "><strong>${attribute}:</strong> ${selectedNode.data(attribute)}</p>`;
+                            }
+                        });
+ 
+                         // Update the details content
+                         document.getElementById('details-content').innerHTML = detailsContent;
+ 
+                         // Update the editable content
+                         document.getElementById('tagsSection').innerHTML = `<strong>Tags:</strong> ${selectedNode.data('tags') || ''}`;
+                         document.getElementById('referencesSection').innerHTML = `<strong>References:</strong> ${selectedNode.data('references') || ''}`;
+                         document.getElementById('commentsSection').innerHTML = `<strong>Comments:</strong> ${selectedNode.data('comment') || ''}`;
+                     } 
+                 }
+
+                 function updateDetailsID(nodeId) {
+                    // Get the node from the Cytoscape graph
+                    var selectedNode = cy.getElementById(nodeId);
+                
+                    if (selectedNode.length > 0) {
+                        // Get the selected attributes
+                        const selectedAttributes = $('#displaySelector').select2('data').map(option => option.id);
+                
+                        // Build the details content using the selected attributes
+                        let detailsContent = '<h2>Aphorism Details</h2>';
+                        selectedAttributes.forEach(attribute => {
+                            if (selectedNode.data(attribute)) {
+                                detailsContent += `<p><strong>${attribute}:</strong> ${selectedNode.data(attribute)}</p>`;
+                            }
+                        });
+                
+                        // Update the details content
+                        document.getElementById('details-content').innerHTML = detailsContent;
+                
+                        // Update the editable content
+                        document.getElementById('tagsSection').innerHTML = `<strong>Tags:</strong> ${selectedNode.data('tags') || ''}`;
+                        document.getElementById('referencesSection').innerHTML = `<strong>References:</strong> ${selectedNode.data('references') || ''}`;
+                        document.getElementById('commentsSection').innerHTML = `<strong>Comments:</strong> ${selectedNode.data('comment') || ''}`;
+                    } else {
+                        // Clear the details content if no node is selected
+                        document.getElementById('details-content').innerHTML = '';
+                        document.getElementById('tagsSection').innerHTML = '<strong>Tags:</strong>';
+                        document.getElementById('referencesSection').innerHTML = '<strong>References:</strong>';
+                        document.getElementById('commentsSection').innerHTML = '<strong>Comments:</strong>';
+                    }
+                }
+                
+
+
+                cy.on('tap', 'node', function (event) {
+                    const node = event.target;
+                    openLeftSidebar(node);
+                });   
+            })
+            .catch(error => console.error('Error:', error));
+        });
+
+
+
+        document.getElementById('sidebarToggle').addEventListener('click', function() {
+            var sidebar = document.getElementById('sidebar');
+            if (sidebar.style.transform === "translateX(100%)") {
+              sidebar.style.transform = "translateX(0)";  
+              sidebar.style.boxShadow = "-1px 0px 3px 0px rgba(0,0,0,0.3)";        
+            } else {
+              sidebar.style.transform = "translateX(100%)";
+              sidebar.style.boxShadow = none;
+            }
+          });
+          
+          function toggleContent() {
+            var cy = document.getElementById('cy');
+            var textContainer = document.getElementById('textContainer');
+            var myDiv = document.getElementById('myDiv');
+            
+            document.body.style.backgroundColor = "#fdfdfd";
+            
+            cy.style.display = "block";
+            cy.style.opacity = "0";
+            myDiv.style.opacity = "0.75";
+            
+            // After a delay, change the opacity of the background
+            setTimeout(function() {
+                myDiv.style.opacity = "0.75";
+                cy.style.opacity = "0.15";
+            }, 500);  // Delay in milliseconds
+
+            // After a delay, change the opacity of the background
+            setTimeout(function() {
+                myDiv.style.opacity = "0.60";
+                cy.style.opacity = "0.30";
+            }, 1000);  // Delay in milliseconds
+            
+            // After a delay, change the opacity of the background
+            setTimeout(function() {
+                myDiv.style.opacity = "0.50";
+                cy.style.opacity = "0.45";
+            }, 1500);  // Delay in milliseconds
+            // After a delay, change the opacity of the background
+            setTimeout(function() {
+                myDiv.style.opacity = "0.25";
+                cy.style.opacity = "0.65";
+                wonderHeader.style.backgroundColor = "#fbfbfb"
+            }, 2000);  // Delay in milliseconds
+            
+            // After a longer delay, remove the background
+            setTimeout(function() {       
+                myDiv.style.backgroundImage = "none";
+                myDiv.style.opacity = "1";
+                textContainer.style.display = "none";
+                cy.style.opacity = "1";
+
+                var divideLine = document.getElementById('divideLine');
+                // Remove the old class
+                divideLine.classList.remove('inset-x-1/4');
+                divideLine.classList.remove('bg-gray-700');
+
+                // Add the new class
+                divideLine.classList.add('inset-x-0');
+                divideLine.classList.add('bg-gray-500');
+
+
+                var rightSidebar = document.getElementById('sidebar');
+                rightSidebar.style.transform = "translateX(0)";  
+                rightSidebar.style.boxShadow = "-1px 0px 3px 0px rgba(0,0,0,0.3)";       
+                
+
+                var leftSidebar = document.getElementById('leftSidebar');
+                leftSidebar.style.transform = "translateX(0)";
+                leftSidebar.style.boxShadow = "1px 0px 3px 0px rgba(0,0,0,0.3)";
+                
+            }, 2500);  // Delay in milliseconds
+        }
+
+         interact('#leftSidebar')
+            .resizable({
+                edges: { left: true, right: true, bottom: false, top: false },
+                modifiers: [
+                interact.modifiers.restrictEdges({
+                    outer: 'parent',
+                }),
+                interact.modifiers.restrictSize({
+                    min: { width: 100, height: 50 },
+                }),
+                ],
+                inertia: true,
+            })
+            .on('resizemove', function (event) {
+                var target = event.target;
+                var x = parseFloat(target.getAttribute('data-x')) || 0;
+
+                target.style.width = event.rect.width + 'px';
+                target.style.height = event.rect.height + 'px';
+                x += event.deltaRect.left;
+                target.style.transform = 'translate(' + x + 'px)';
+                target.setAttribute('data-x', x);
+            });
+
+                
+        
+
+                
+        
+
+
+        // Get the sidebar and the button
+        const sidebar = document.getElementById('leftSidebar');
+        const resizeBtn = document.getElementById('resize-btn');
+        
+        // Add a touchmove event listener to the button
+        resizeBtn.addEventListener('touchmove', function (e) {
+            // Prevent the default behavior of the touchmove event
+            e.preventDefault();
+            
+            // Calculate the new width of the sidebar based on the touch position
+            const newWidth = window.innerWidth - e.touches[0].clientX;
+            
+            // Update the width of the sidebar
+            sidebar.style.width = `${newWidth}px`;
+        });
+
+
+        
+    
+    
+    </script>
+</body>
+</html> 

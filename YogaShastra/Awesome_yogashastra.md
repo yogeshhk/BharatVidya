@@ -21,7 +21,7 @@ Yoga, a holistic discipline originating in ancient India, encompasses physical, 
 - [Hatha Yoga Pradipika](https://www.yogaclassics.org/hatha-yoga-pradipika/) - A classical text on Hatha Yoga, detailing physical postures and techniques.
 
 ## Instructional Guides
-
+- [Yoga Certification Board](https://yogacertificationboard.nic.in/)
 - [Yoga with Adriene](https://www.youtube.com/user/yogawithadriene) - A popular YouTube channel offering free yoga videos for all levels.
 - [Ashtanga Yoga](https://www.ashtanga.com/) - Resources and guides on Ashtanga Yoga, a dynamic and physically demanding practice.
 - [Iyengar Yoga](https://iynaus.org/what-is-iyengar-yoga/) - Information and resources on Iyengar Yoga, which emphasizes precision and alignment.
@@ -47,7 +47,7 @@ Yoga, a holistic discipline originating in ancient India, encompasses physical, 
 - [Chitta Shuddhi - Yoga sutra Nirakula Yoga](https://www.youtube.com/playlist?list=PLaw7iQ4VOj0k8_-JCwB3wSGoysJyAiWRv)
 
 ## Online Courses and Classes
-
+- [Shiva sh Spirituality meets Technology](https://siva.sh/) Introducing the Spiritual Platform of the Future. An All-in-one platform to study and research the vast ocean of ancient Hindu knowledge.
 - [Yoga International](https://yogainternational.com/) - Offers a wide range of online yoga classes and courses for all levels.
 - [Glo](https://www.glo.com/) - Online yoga and meditation classes with a variety of styles and teachers.
 - [Do Yoga With Me](https://www.doyogawithme.com/) - Free online yoga videos and programs for all levels.
@@ -60,7 +60,7 @@ Yoga, a holistic discipline originating in ancient India, encompasses physical, 
 - [The Ancient Texts of Yoga - Masterclass](https://www.sanskritfromhome.org/learning-program-details/yoga_masterclass-48706) 
 
 ## Yogasutra
-
+- [Yoga Sutra Trees - Giacomo-De-Luca](https://github.com/Giacomo-De-Luca/YogaSutraTrees) Amazing YogaSutra Knowledge Graph in Json.
 - [Patanjali Yoga Sutras - Vivekananda Rock Memorial & Vivekananda](https://www.youtube.com/playlist?list=PLM4rzq7OuKeJN3kxPKgMlY8U_KBktmSYj) verse by verse
 - [Patanjali Yoga Sutras - English Yogic Gurukul - Anvita Dixit · Podcast](https://www.youtube.com/playlist?list=PLAV4BpXSJLOqHHfh6BNF53wfiA_bjcde2)
 - [Patanjali Yoga Sutra Live Streams The Sanskrit Channel](https://www.youtube.com/playlist?list=PLAPrVB8wngPnXpf5OhUqYgE_i6JlhtL8a)
