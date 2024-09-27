@@ -15,6 +15,7 @@ Sanskrit, the classical language of ancient India, is known for its rich literar
 
 ## Learning Resources
 - [Sasnkrit From Home - Vyoma Labs](https://www.sanskritfromhome.org/course-listing/professionals) Very comprehensive and high quality courses
+- [Gita Supersite IITK](https://www.gitasupersite.iitk.ac.in/yogasutra_content?language=dv&field_chapter_value=1&field_nsutra_value=1&enable_sutra=1&enable_bhaysa=1&enable_vritti=1)
 - [Learn Sanskrit Online](https://learnsanskrit.org/) - Comprehensive resource for learning Sanskrit, including grammar, vocabulary, and exercises.
 - [Sanskrit Department, D. B. J. College](https://www.youtube.com/@sanskritdepartmentd.b.j.co8232/playlists) Very good explanation in Marathi
 - [Digital Sanskrit Learning - Level 1 - Bori](https://www.bharatvidya.in/p/spoken-sanskrit-level-1), [login](https://bharatvidya.in/courses/enrolled/1893789)
@@ -262,8 +263,10 @@ Anuj Valmiki](https://www.youtube.com/playlist?list=PLIhLHnjVhe_k4q7Z0qNBeLbG7rl
 - [Sanskrit Vyakarana](https://nios.ac.in/online-course-material/secondary-courses/sanskrit-vyakarana-(246).aspx)
 - [Malhar Kulkarni](https://homepages.iitb.ac.in/~malhar/)
 - [SasnkritClub IIT Roorkee](https://www.iitr.ac.in/sanskritclub/courses.html)
+- Vagvipaka Series by Vyakarana KSU, [Part 1](https://www.youtube.com/watch?v=fMGu16Y7Gqo), [Part 2](https://www.youtube.com/watch?v=Ft1upZlRNQE), [Part 3](https://www.youtube.com/watch?app=desktop&v=xdVIshYWJcU), [Part 4](https://www.youtube.com/watch?v=YsR3bMukt10)
 
 ## Projects
+- [सं-भाषा Karnataka Sanskrit University](https://sambhasha.ksu.ac.in/projects/)
 - [Dictionary](http://spokensanskrit.org/)
 - [Sanskrit Computational Linguistics Tools](https://github.com/samsaadhanii/scl)
 - [TransLIST : A Transformer-Based Linguistically Informed Sanskrit Tokenizer](https://github.com/rsingha108/translist), [Paper](https://arxiv.org/abs/2210.11753)
