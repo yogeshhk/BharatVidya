@@ -6,13 +6,82 @@ Getting rest (sleep is one part of it) is becoming rare and priced skill. This R
 
 Yoga Nidra is a systemic method of inducing complete physical, mental and emotional relaxation.
 
-## Instructions
+
+**Goal**:  
+- Master **nidra** (निद्रा) as a **vritti** (वृत्ति) or thought process.  
+- Achieve expertise through personal experience by solving your own problems first.  
+
+**Concept of Nidra vs Yoganidra**:  
+- **Nidra** (निद्रा):  
+   - Unaware state  
+   - Only physical relaxation  
+   - Unconscious mind at work  
+
+- **Yoganidra** (योगनिद्रा):  
+   - Aware state  
+   - Relaxation at physical, mental, and emotional levels (letting go)  
+   - Conscious of the subconscious  
+
+**Relevance of Yoganidra (IKIGAI)**:  
+- Non-sleep deep rest (NSDR) for a world that heavily needs it.  
+- You Love it, personally effective
+- You may get paid for it, corporate.
+- You may get good at it.
+- Safe for all ages and applicable even for medical conditions.  
+- Can be conducted remotely and globally.  
+
+**Key Reminders During Yoganidra**:  
+- Stay still, no physical movement.  
+- Avoid falling asleep.  
+- Do not think or engage mentally, just follow the instructions.  
+
+---
+
+### Brief Instructions
 - Lie down in shavasana
 - Take sankalpa or resolve
 - Rotation of consciousness through the different body parts, right first then left
 - Then drawing attention to the breath
 - Relaxation on the plane of feelings and emotions, using pairs of opposite sensations to achieve this stage: heat and cold, heaviness and lightness, pain and pleasure, joy and sorrow, love and hate.
 - Last stage is of mental relaxation by visualizing the images, ending with an image that evokes profound feelings of peace and calmness. This image makes the unconscious mind very receptive to positive thoughts and suggestions.
+
+### **Detailed Stages of Yoganidra** (8 Stages)
+
+1. **Preparation (Shavasana - शवासन)**  
+   - Lie in **shavasana** and take some deep breaths to relax.
+
+2. **Resolve (Sankalpa)**  
+   - Repeat your resolve **3 times**, positive affirmation (e.g., "I am strong").  
+   - Optional: Include your personal goals (e.g., "Global AI Sanskrit Reputed Coach").
+
+3. **Annamaya Kosha (अन्नमय कोश)** – Body Awareness  
+   - Focus on the physical body, performing a mental rotation of awareness:  
+     - Right palm, arms, waist, legs  
+     - Left side, back, neck, head
+
+4. **Pranamaya Kosha (प्राणमय कोश)** – Breath Awareness  
+   - Focus on **prana** (प्राण), the life force, and achieve mental relaxation.  
+   - Perform reverse breath count starting from 27.
+
+5. **Manomaya Kosha (मनमय कोश)** – Sensations Awareness  
+   - Bring awareness to opposite sensations (e.g., hot and cold, wet and dry).  
+   - Release these sensations and let emotions surface and dissolve.
+
+6. **Vijnanamaya Kosha (विज्ञानमय कोश)** – Visualization  
+   - Engage the subconscious through visual imagery (e.g., deserts, lakes, waves).
+
+7. **Resolve (Sankalpa) Again**  
+   - Repeat your resolve **3 times** to reinforce it.
+
+8. **Exiting the Practice**  
+   - Gradually return awareness to external surroundings and sounds.  
+   - Slowly break from **shavasana** and come to a seated position.
+
+---
+
+These steps help create a structured Yoganidra practice, focusing on deep relaxation while maintaining awareness at multiple levels (physical, mental, emotional).
+
+
 
 ## References
 
