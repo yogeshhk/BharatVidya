@@ -127,8 +127,22 @@
 		{\geometry{top=1cm,left=1cm,right=1cm,bottom=2cm} }
 	}
 
-% Turn off header and footer
-\pagestyle{empty}
+% % Turn off header and footer
+% \pagestyle{empty}
+
+\usepackage{fancyhdr}   % Package to customize headers and footers
+% Turn ON header and footer
+\pagestyle{fancy}
+
+% Add a line above the footer
+\renewcommand{\footrulewidth}{0.4pt}  % Set the line thickness (adjust as needed)
+% Set footer content
+\fancyfoot[C]{\textit{Yogesh Haribhau Kulkarni}} % Centered footer text
+\fancyfoot[R]{\thepage}                       % Page number on the right
+\fancyfoot[L]{\textit{\href{http://www.yogeshkulkarni.com}{yogeshkulkarni@yahoo.com}}} % Centered footer text
+
+% Optional: Set header if needed
+%\fancyhead[L]{\textit{Your Header Text Here}} % Header text on the left
  
 
 % Redefine section commands to use less space
