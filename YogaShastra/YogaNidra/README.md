@@ -22,13 +22,13 @@ Yoga Nidra is a systemic method of inducing complete physical, mental and emotio
    - Relaxation at physical, mental, and emotional levels (letting go)  
    - Conscious of the subconscious  
 
-**Relevance of Yoganidra (IKIGAI)**:  
+<!-- **Relevance of Yoganidra (IKIGAI)**:  
 - Non-sleep deep rest (NSDR) for a world that heavily needs it.  
 - You Love it, personally effective
 - You may get paid for it, corporate.
 - You may get good at it.
 - Safe for all ages and applicable even for medical conditions.  
-- Can be conducted remotely and globally.  
+- Can be conducted remotely and globally.  --> 
 
 **Key Reminders During Yoganidra**:  
 - Stay still, no physical movement.  

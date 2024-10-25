@@ -59,6 +59,9 @@ Yoga, a holistic discipline originating in ancient India, encompasses physical, 
 - [A study of Yogadarshana of Patanjali](https://www.sanskritfromhome.org/course-details/yogadarshana-patanjali-yoga-sutras-sanskrit-explan-7984) Sutra-by-Sutra understanding, Prof. Shrinivasa Varakhedi, 45 Pre-recorded videos
 - [The Ancient Texts of Yoga - Masterclass](https://www.sanskritfromhome.org/learning-program-details/yoga_masterclass-48706) 
 
+## YogaNidra
+- [More details at](./YogaNidra/README.md)
+
 ## Yogasutra
 - [Yoga Sutra Trees - Giacomo-De-Luca](https://github.com/Giacomo-De-Luca/YogaSutraTrees) Amazing YogaSutra Knowledge Graph in Json.
 - [Patanjali Yoga Sutras - Vivekananda Rock Memorial & Vivekananda](https://www.youtube.com/playlist?list=PLM4rzq7OuKeJN3kxPKgMlY8U_KBktmSYj) verse by verse
