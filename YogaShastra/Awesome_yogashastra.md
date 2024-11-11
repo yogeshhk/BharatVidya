@@ -51,7 +51,6 @@ Yoga, a holistic discipline originating in ancient India, encompasses physical, 
 - [Yoga International](https://yogainternational.com/) - Offers a wide range of online yoga classes and courses for all levels.
 - [Glo](https://www.glo.com/) - Online yoga and meditation classes with a variety of styles and teachers.
 - [Do Yoga With Me](https://www.doyogawithme.com/) - Free online yoga videos and programs for all levels.
-- [Zenyoga by Ashish Shuka](https://www.youtube.com/c/DeepKnowledgeSpirituality/playlists)
 - [Yoga Nidra(Hindi) - Kaushal Yog](https://www.youtube.com/playlist?list=PLiiaHydaB-DA728kyHx97bTgHMlLGV8rC)
 - [YOGA THEORY-I  Form Course : Bachelor of Science Dr. Ram Kishore](https://gyansanchay.csjmu.ac.in/bpt-2nd-year/)
 - [Param Yoga Rashmi Ghatge](https://www.paramyoga.in)
@@ -61,6 +60,11 @@ Yoga, a holistic discipline originating in ancient India, encompasses physical, 
 
 ## YogaNidra
 - [More details at](./YogaNidra/README.md)
+
+## ZenYoga
+- [Zenyoga by Ashish Shuka](https://www.youtube.com/c/DeepKnowledgeSpirituality/playlists)
+- [Zenyoga Book Lectures - Dr J P Ramnani IESM]( Hindi Version)](https://www.youtube.com/watch?v=ewdEEeDOiWg&list=PLSH992nHf-PxR_oOMfAPhn7cTDh9qH2uy)
+- [ZEN YOGA Full Course - Abhishen](https://m.youtube.com/playlist?list=PL2Oa0rCbxcVRAPMz0S2bYbef_j0LKy5RK)
 
 ## Yogasutra
 - [Yoga Sutra Trees - Giacomo-De-Luca](https://github.com/Giacomo-De-Luca/YogaSutraTrees) Amazing YogaSutra Knowledge Graph in Json.
