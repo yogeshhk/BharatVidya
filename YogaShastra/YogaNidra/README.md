@@ -35,20 +35,12 @@ Yoga Nidra is a systemic method of inducing complete physical, mental and emotio
 - Avoid falling asleep.  
 - Do not think or engage mentally, just follow the instructions.  
 
----
 
-### Brief Instructions
-- Lie down in shavasana
-- Take sankalpa or resolve
-- Rotation of consciousness through the different body parts, right first then left
-- Then drawing attention to the breath
-- Relaxation on the plane of feelings and emotions, using pairs of opposite sensations to achieve this stage: heat and cold, heaviness and lightness, pain and pleasure, joy and sorrow, love and hate.
-- Last stage is of mental relaxation by visualizing the images, ending with an image that evokes profound feelings of peace and calmness. This image makes the unconscious mind very receptive to positive thoughts and suggestions.
-
-### **Detailed Stages of Yoganidra** (8 Stages)
+## **Stages of Yoganidra** (8 Stages)
 
 1. **Preparation (Shavasana - शवासन)**  
    - Lie in **shavasana** and take some deep breaths to relax.
+   - Pratyahara: Listen to surround sounds. From far to near then only listen to the commentary 
 
 2. **Resolve (Sankalpa)**  
    - Repeat your resolve **3 times**, positive affirmation (e.g., "I am strong").  
@@ -77,14 +69,15 @@ Yoga Nidra is a systemic method of inducing complete physical, mental and emotio
    - Gradually return awareness to external surroundings and sounds.  
    - Slowly break from **shavasana** and come to a seated position.
 
----
-
-These steps help create a structured Yoganidra practice, focusing on deep relaxation while maintaining awareness at multiple levels (physical, mental, emotional).
-
-
-
 ## References
-
+- [योग निद्रा | आनन्दमूर्ति गुरुमाँ | Yoga Nidra | Guided Meditation by Anandmurti Gurumaa (Hindi)](https://www.youtube.com/watch?app=desktop&v=_j0vLXonSKQ)
+- [Yoga Nidra | Guided Meditation to Relax, Rejuvenate & Reform | Anandmurti Gurumaa (English)](https://www.youtube.com/watch?app=desktop&v=n_ce66a9MV0)
+- [Yoga nidra collection](https://www.youtube.com/playlist?list=PLdgHIVEW3aaJ-Kz82W_lGih8zzf7dWnf8)
+- [Yoga nidra collection by Yoga my life](https://www.youtube.com/playlist?list=PLYF1Fjf1zBLjn4gK-yCk4d-cPyG7XwKby)
+- [Yoga Nidra book by Swami Satyanand Saraswati](https://www.amazon.in/Swami-Satyanand-Saraswati/dp/8185787123)
+- [Yoga Nidra as Therapy](https://www.youtube.com/watch?app=desktop&v=vleLFbBvcnE)
+- [Steps of Yoga Nidra](https://www.youtube.com/watch?app=desktop&v=cvQh8OYgKkQ)
+- [Scientific Analysis of Yoga Nidra Meditation Practice](https://www.youtube.com/watch?app=desktop&v=Qx8wLcMW9sI)
 - [The Yoga Podcast : Practice Yoga Nidra](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ODJlYTkxYy9wb2RjYXN0L3Jzcw/episode/NGZjMzRkYjMtOTc1Yy00MjczLTk2YmMtNTQzODVhOTg3ZTE1?ep=14) Best so far
 	Yoga Nidra is a meditative yogic practice. It is a state on borderline of sleep and wake fullness. Its nothing but Perfect Relaxation. Yoga Nidra can be practiced individually or together with any no of participants but in a room or closed hall. You have to follow the instructions given under the sub heading Prerequisites, Preparatio and Preposition.
 
@@ -132,6 +125,3 @@ These steps help create a structured Yoganidra practice, focusing on deep relaxa
 - [Yoga nidra as a practice of pratyahara](https://kamlayoga.com/yoga-nidra-as-a-practice-of-pratyahara/)
 	In the practice of yoga Nidra, the mind gradually becomes one-pointed while we disengage the other senses. The practitioner only maintains awareness of the auditory channel to prevent the consciousness from becoming withdrawn, which would result in mere sleep.
 In such a way, during yoga Nidra the senses disconnect, and we can experience the fifth stage of Patanjali yoga, known as pratyahara.
-
-- [योग निद्रा | आनन्दमूर्ति गुरुमाँ | Yoga Nidra | Guided Meditation by Anandmurti Gurumaa (Hindi)](https://www.youtube.com/watch?app=desktop&v=_j0vLXonSKQ)
-- [Yoga Nidra | Guided Meditation to Relax, Rejuvenate & Reform | Anandmurti Gurumaa (English)](https://www.youtube.com/watch?app=desktop&v=n_ce66a9MV0)

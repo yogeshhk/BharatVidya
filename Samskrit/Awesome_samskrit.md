@@ -15,6 +15,10 @@ Sanskrit, the classical language of ancient India, is known for its rich literar
 
 ## Learning Resources
 - [Sasnkrit From Home - Vyoma Labs](https://www.sanskritfromhome.org/course-listing/professionals) Very comprehensive and high quality courses
+- [ Pravesha - Preparatory course for Level 1 of  Samskrit Bharati, Learn Sanskrit Online : vyoma-samskrta-pathasala](https://www.youtube.com/playlist?list=PLmozlYyYE-ERHYgYJ3cdjXaaJ_FP2ji5N)
+- [Parichaya - Preparatory Course for Level 2 of Samskrit Bharati, Learn Sanskrit Online : vyoma-samskrta-pathasala](https://www.youtube.com/playlist?list=PLmozlYyYE-EQJtKHjRufzlqR25EDSKZhS)
+- [Shiksha - Preparatory Course for Level 3 of Samskrit Bharati, Learn Sanskrit Online : vyoma-samskrta-pathasala](https://www.youtube.com/playlist?list=PLmozlYyYE-ETly_Ngqtg601fX7_bDMMbn)
+- [Kovida - Preparatory Course for Level 4 of Samskrit Bharati, Learn Sanskrit Online : vyoma-samskrta-pathasala](https://www.youtube.com/playlist?list=PLmozlYyYE-EQt3Iw5cN7ctvfTbmNr7IGi)
 - [Gita Supersite IITK](https://www.gitasupersite.iitk.ac.in/yogasutra_content?language=dv&field_chapter_value=1&field_nsutra_value=1&enable_sutra=1&enable_bhaysa=1&enable_vritti=1)
 - [Learn Sanskrit Online](https://learnsanskrit.org/) - Comprehensive resource for learning Sanskrit, including grammar, vocabulary, and exercises.
 - [Sanskrit Department, D. B. J. College](https://www.youtube.com/@sanskritdepartmentd.b.j.co8232/playlists) Very good explanation in Marathi
