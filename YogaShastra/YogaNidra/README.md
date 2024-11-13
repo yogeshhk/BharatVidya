@@ -77,7 +77,11 @@ Yoga Nidra is a systemic method of inducing complete physical, mental and emotio
 - [Yoga Nidra book by Swami Satyanand Saraswati](https://www.amazon.in/Swami-Satyanand-Saraswati/dp/8185787123)
 - [Yoga Nidra as Therapy](https://www.youtube.com/watch?app=desktop&v=vleLFbBvcnE)
 - [Steps of Yoga Nidra](https://www.youtube.com/watch?app=desktop&v=cvQh8OYgKkQ)
+- ['Yoga Nidra' Works, Says MRI: IIT And AIIMS Researchers Uncover Brain Benefits](https://www.ndtv.com/science/yoga-nidra-works-says-mri-iit-and-aiims-researchers-uncover-brain-benefits-6637751)
 - [Scientific Analysis of Yoga Nidra Meditation Practice](https://www.youtube.com/watch?app=desktop&v=Qx8wLcMW9sI)
+- [IITD: Functional connectivity changes in meditators and novices during yoga nidra practice](https://pmc.ncbi.nlm.nih.gov/articles/PMC11153538/pdf/41598_2024_Article_63765.pdf)
+- [Krishna Prasad](https://www.linkedin.com/in/krishnaprakash123/), [Shrimath Yoga](https://www.shrimathyoga.com/) Yoganidra teacher certification course 27 days 1 hr daily, 13k
+- [Sleepiz](https://sleepiz.com/team-en/)
 - [The Yoga Podcast : Practice Yoga Nidra](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ODJlYTkxYy9wb2RjYXN0L3Jzcw/episode/NGZjMzRkYjMtOTc1Yy00MjczLTk2YmMtNTQzODVhOTg3ZTE1?ep=14) Best so far
 	Yoga Nidra is a meditative yogic practice. It is a state on borderline of sleep and wake fullness. Its nothing but Perfect Relaxation. Yoga Nidra can be practiced individually or together with any no of participants but in a room or closed hall. You have to follow the instructions given under the sub heading Prerequisites, Preparatio and Preposition.
 
