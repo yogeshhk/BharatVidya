@@ -20,6 +20,7 @@ Sanskrit, the classical language of ancient India, is known for its rich literar
 - [Shiksha - Preparatory Course for Level 3 of Samskrit Bharati, Learn Sanskrit Online : vyoma-samskrta-pathasala](https://www.youtube.com/playlist?list=PLmozlYyYE-ETly_Ngqtg601fX7_bDMMbn)
 - [Kovida - Preparatory Course for Level 4 of Samskrit Bharati, Learn Sanskrit Online : vyoma-samskrta-pathasala](https://www.youtube.com/playlist?list=PLmozlYyYE-EQt3Iw5cN7ctvfTbmNr7IGi)
 - [Gita Supersite IITK](https://www.gitasupersite.iitk.ac.in/yogasutra_content?language=dv&field_chapter_value=1&field_nsutra_value=1&enable_sutra=1&enable_bhaysa=1&enable_vritti=1)
+- [Learn Samskritam](https://learn-samskritam.blogspot.com/)
 - [Learn Sanskrit Online](https://learnsanskrit.org/) - Comprehensive resource for learning Sanskrit, including grammar, vocabulary, and exercises.
 - [Sanskrit Department, D. B. J. College](https://www.youtube.com/@sanskritdepartmentd.b.j.co8232/playlists) Very good explanation in Marathi
 - [Digital Sanskrit Learning - Level 1 - Bori](https://www.bharatvidya.in/p/spoken-sanskrit-level-1), [login](https://bharatvidya.in/courses/enrolled/1893789)
