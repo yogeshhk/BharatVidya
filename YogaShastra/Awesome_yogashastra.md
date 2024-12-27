@@ -94,7 +94,6 @@ Yoga, a holistic discipline originating in ancient India, encompasses physical, 
 - [Patanjali Yoga Sutra - Hindi - YouTube](https://www.youtube.com/playlist?list=PLnc0uXpfPvYwNtXrP3eeAv_WHeKqE_AEz)
 - [Yoga Sutras of Patanjali by Dr Vishwas Mandlik](https://www.youtube.com/playlist?list=PLHDygCsgSb2tk0C9Lz7TTfrudS5Arig5U)
 - [The Secret Teachings Of Patanjali Yoga Sutras](https://www.youtube.com/watch?v=Il7d6fXDOD4&pp=ygUJeW9nYXN1dHJh)
-- [Patanjali Yoga Sutras | Explanation by Anandmurti Gurumaa - YouTube](https://www.youtube.com/playlist?list=PLTfDtaImcXfsvYGDfjxrEPQ03DgpVD7Tc)
 - [Patanjali's Yoga Sutras | Swami Tattwamayananda - YouTube](https://www.youtube.com/playlist?list=PLDqahtm2vA70qrUoOPzu4PPpf0bL2PAot)
 - [Patanjali Yoga Sutras - English - YouTube](https://www.youtube.com/playlist?list=PLAV4BpXSJLOqHHfh6BNF53wfiA_bjcde2)
 - [Patanjali Yoga Sutras - YouTube](https://www.youtube.com/playlist?list=PLM4rzq7OuKeJN3kxPKgMlY8U_KBktmSYj)
