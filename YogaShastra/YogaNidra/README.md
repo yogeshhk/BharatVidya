@@ -35,8 +35,17 @@ Yoga Nidra is a systemic method of inducing complete physical, mental and emotio
 - Avoid falling asleep.  
 - Do not think or engage mentally, just follow the instructions.  
 
+---
 
-## **Stages of Yoganidra** (8 Stages)
+### Brief Instructions
+- Lie down in shavasana
+- Take sankalpa or resolve
+- Rotation of consciousness through the different body parts, right first then left
+- Then drawing attention to the breath
+- Relaxation on the plane of feelings and emotions, using pairs of opposite sensations to achieve this stage: heat and cold, heaviness and lightness, pain and pleasure, joy and sorrow, love and hate.
+- Last stage is of mental relaxation by visualizing the images, ending with an image that evokes profound feelings of peace and calmness. This image makes the unconscious mind very receptive to positive thoughts and suggestions.
+
+### **Detailed Stages of Yoganidra** (8 Stages)
 
 1. **Preparation (Shavasana - शवासन)**  
    - Lie in **shavasana** and take some deep breaths to relax.
@@ -68,6 +77,12 @@ Yoga Nidra is a systemic method of inducing complete physical, mental and emotio
 8. **Exiting the Practice**  
    - Gradually return awareness to external surroundings and sounds.  
    - Slowly break from **shavasana** and come to a seated position.
+
+---
+
+These steps help create a structured Yoganidra practice, focusing on deep relaxation while maintaining awareness at multiple levels (physical, mental, emotional).
+
+
 
 ## References
 - [योग निद्रा | आनन्दमूर्ति गुरुमाँ | Yoga Nidra | Guided Meditation by Anandmurti Gurumaa (Hindi)](https://www.youtube.com/watch?app=desktop&v=_j0vLXonSKQ)
@@ -129,3 +144,6 @@ Yoga Nidra is a systemic method of inducing complete physical, mental and emotio
 - [Yoga nidra as a practice of pratyahara](https://kamlayoga.com/yoga-nidra-as-a-practice-of-pratyahara/)
 	In the practice of yoga Nidra, the mind gradually becomes one-pointed while we disengage the other senses. The practitioner only maintains awareness of the auditory channel to prevent the consciousness from becoming withdrawn, which would result in mere sleep.
 In such a way, during yoga Nidra the senses disconnect, and we can experience the fifth stage of Patanjali yoga, known as pratyahara.
+
+- [योग निद्रा | आनन्दमूर्ति गुरुमाँ | Yoga Nidra | Guided Meditation by Anandmurti Gurumaa (Hindi)](https://www.youtube.com/watch?app=desktop&v=_j0vLXonSKQ)
+- [Yoga Nidra | Guided Meditation to Relax, Rejuvenate & Reform | Anandmurti Gurumaa (English)](https://www.youtube.com/watch?app=desktop&v=n_ce66a9MV0)
