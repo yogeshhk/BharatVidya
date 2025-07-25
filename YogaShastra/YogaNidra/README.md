@@ -132,7 +132,7 @@ These steps help create a structured Yoganidra practice, focusing on deep relaxa
 		- Taking your own time, you may then slowly sit up, and whenever you feel comfortable, slowly and gradually open your eyes.
 	[Yoga Nidra - Guided Meditation for Sleep & Relaxation by Gurudev | Non-Sleep Deep Rest (NSDR)](https://www.youtube.com/watch?app=desktop&v=zLJu3wQA1Ko&feature=emb_logo)
 	
-- [Yoga Nidra by Swami Niranjanananda Saraswati (Beginners)](https://www.youtube.com/watch?v=R2GRhAFplkI)
+- [Yoga Nidra by Swami Niranjanananda Saraswati (Beginners)](https://www.youtube.com/watch?v=R2GRhAFplkI), also [at](https://www.youtube.com/watch?v=xKGlHi4ydj0) and Antar Mouna [at](https://www.youtube.com/watch?v=CGnQsLatdDU)
 	Yoga nidra (yogic sleep) is a state of consciousness between waking and sleeping. It is a state in which the body is completely relaxed, and the practitioner becomes systematically and increasingly aware of the inner world by following a set of verbal instructions. This state of consciousness is different from meditation in which concentration on a single focus is required. In yoga nidra the practitioner remains in a state of light withdrawal of the 5 senses with four of his or her senses internalised, that is, withdrawn, and only the hearing still connects to the instructions. It is a powerful technique of pratyahara, providing a systematic method for consciously moving into the deeper realms of personality, removing physical fatigue, emotional imbalances and mental tensions, thereby revitalizing and restructuring one’s entire life. This beginners’ yoga nidra is an introduction to the potentials of the technique as taught by Swami Niranjanananda Saraswati.
 	
 - [Yoga Nidra Swami Satyananda](https://www.youtube.com/watch?v=SqXMgdkDfho)
