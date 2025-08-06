@@ -14,6 +14,11 @@ Sanskrit, the classical language of ancient India, is known for its rich literar
 - [How to Contribute](#how-to-contribute)
 
 ## Learning Resources
+- [Introduction To Basic Sanskrit Grammar by Sanskrit Sopanam](https://www.youtube.com/playlist?list=PLPkITOFoY211OoiQsfTuAtW0gDaXwMzYZ)
+- ]संस्कृत भाषा से परिचय​ [Fundamentals] by Sanskrit Sopanam](https://www.youtube.com/playlist?list=PLPkITOFoY212bO8g6SOrcQEk2tIAN5T7z)
+- [सुभाषितम् से संस्कृतम्  by Sanskrit Sopanam](https://www.youtube.com/playlist?list=PLPkITOFoY210Yfg6U6XU1TxQEBNM7WZag)
+- [Sanskrit Through Bhagavad Gita - I by Sanskrit Sopanam](https://www.youtube.com/playlist?list=PLPkITOFoY210SgN7YdK4rYcrp1dzHfJDN)
+- [Sanskrit Through Bhagavad Gita - II by Sanskrit Sopanam](https://www.youtube.com/playlist?list=PLPkITOFoY211V3N7R5FGJpXbBj4JtwXT5)
 - [Sasnkrit From Home - Vyoma Labs](https://www.sanskritfromhome.org/course-listing/professionals) Very comprehensive and high quality courses
 - [ Pravesha - Preparatory course for Level 1 of  Samskrit Bharati, Learn Sanskrit Online : vyoma-samskrta-pathasala](https://www.youtube.com/playlist?list=PLmozlYyYE-ERHYgYJ3cdjXaaJ_FP2ji5N)
 - [Parichaya - Preparatory Course for Level 2 of Samskrit Bharati, Learn Sanskrit Online : vyoma-samskrta-pathasala](https://www.youtube.com/playlist?list=PLmozlYyYE-EQJtKHjRufzlqR25EDSKZhS)
