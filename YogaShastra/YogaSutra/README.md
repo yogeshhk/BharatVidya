@@ -2,6 +2,7 @@
 
 ## References
 - [Yoga Sutra Trees - Giacomo-De-Luca](https://github.com/Giacomo-De-Luca/YogaSutraTrees) Amazing YogaSutra Knowledge Graph in Json.
+- [Swami Madhavanand Swaroopyog Prathisthan](https://www.youtube.com/watch?v=Wi6P7tLO3W4&list=PLbNGKMjtEN-iobYENFuJgQ8LmSmvW71TO&index=27)
 - [Patanjali Yoga Sutras - Vivekananda Rock Memorial & Vivekananda](https://www.youtube.com/playlist?list=PLM4rzq7OuKeJN3kxPKgMlY8U_KBktmSYj) verse by verse
 - [Patanjali Yoga Sutras - English Yogic Gurukul - Anvita Dixit · Podcast](https://www.youtube.com/playlist?list=PLAV4BpXSJLOqHHfh6BNF53wfiA_bjcde2)
 - [Patanjali Yoga Sutra Live Streams The Sanskrit Channel](https://www.youtube.com/playlist?list=PLAPrVB8wngPnXpf5OhUqYgE_i6JlhtL8a)
