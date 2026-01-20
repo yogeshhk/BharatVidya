@@ -1,0 +1,98 @@
+\input{template_cheatsheet}
+\usepackage{pdflscape}
+\usepackage{rotating} % Provides {sideways}{sidewaysfigure}{sidewaystable} environments
+
+\usepackage{polyglossia}
+\setdefaultlanguage{sanskrit}
+\setotherlanguage{english}
+\usepackage{longtable}
+\usepackage{fontspec}
+\setmainfont{Segoe UI}
+
+% Devanagari Fonts
+\newfontfamily\devanagarifont[Script=Devanagari]{Nakula}
+\newfontfamily\devanagarifontsf[Script=Devanagari]{Nakula}
+\newfontfamily\devanagarifonttt[Script=Devanagari]{Nakula}
+\newfontfamily\devtransl[Mapping=DevRom]{Segoe UI}
+
+% Sharada Fonts
+\newfontfamily\sharadafont[Script=Sharada]{Noto Sans Sharada}
+
+\graphicspath{{images/}}
+
+\usepackage{geometry}
+\geometry{top=1cm, bottom=1cm, left=1cm, right=1cm}
+\usepackage{multicol}
+\usepackage{titlesec}
+
+% Reduce space before and after sections
+\titlespacing*{\section}{0pt}{6pt}{3pt}
+\titlespacing*{\subsection}{0pt}{3pt}{2pt}
+
+
+\begin{document}
+
+\begin{center}
+{\Large \textbf{भारतीय दर्शनांचे तुलनात्मक तक्ता}}\\
+\end{center}
+
+% ---------------- TOP TABLE (5 ASTIK) ----------------
+
+\textbf{आस्तिक दर्शने (५)}
+
+\begin{tabular}{|p{3.2cm}|p{2.4cm}|p{2.4cm}|p{2.4cm}|p{2.4cm}|p{2.4cm}|}
+\hline
+घटक & न्याय & वैशेषिक & मीमांसा & सांख्य & योग \\
+\hline
+प्रवर्तक & गौतम & कणाद & जैमिनी & कपिल & पतंजली \\
+ज्ञानप्रमाण & प्र., अ., उ., श. & प्र., अ. & प्र., अ., श. & प्र., अ., श. & प्र., अ., श. \\
+तत्त्वमीमांसा & तर्कवाद & अणुवाद & कर्मकांड & द्वैत & सांख्याधारित \\
+अंतिम सत्य & तर्कसत्य & द्रव्य & वैदिक कर्म & पुरुष & कैवल्य \\
+स्व & ज्ञाता आत्मा & नित्य आत्मा & कर्ता आत्मा & साक्षी & द्रष्टा \\
+ईश्वर & मान्य & नंतर मान्य & नाही & नाही & विशेष पुरुष \\
+मोक्ष & दुःखनाश & दुःखनिवृत्ती & अपवर्ग & कैवल्य & समाधी \\
+पुनर्जन्म & मान्य & मान्य & मान्य & मान्य & मान्य \\
+नीतिशास्त्र & विवेक & धर्म & कर्तव्य & विवेक & यम-नियम \\
+सृष्टी उत्पत्ती & ईश्वर/अणू & अणू & अनादि & प्रकृती & प्रकृती \\
+मानवी कर्तव्य & विवेकजीवन & धर्मपालन & यज्ञकर्म & ज्ञान & साधना \\
+\hline
+\end{tabular}
+
+\vspace{0.8cm}
+
+% ---------------- BOTTOM TABLE (1 ASTIK + 3 NASTIK) ----------------
+
+\textbf{आस्तिक (१) व नास्तिक (३)}
+
+\begin{tabular}{|p{3.2cm}|p{3.2cm}|p{3.2cm}|p{3.2cm}|p{3.2cm}|}
+\hline
+घटक & अद्वैत वेदांत & चार्वाक & बौद्ध & जैन \\
+\hline
+प्रकार & आस्तिक & नास्तिक & नास्तिक & नास्तिक \\
+प्रवर्तक & शंकराचार्य & बृहस्पती & गौतम बुद्ध & महावीर \\
+ज्ञानप्रमाण & प्र., अ., श. & फक्त प्रत्यक्ष & प्र., अ. & प्र., अ. \\
+तत्त्वमीमांसा & अद्वैत & भौतिकवाद & क्षणिकवाद & अनेकांतवाद \\
+अंतिम सत्य & ब्रह्म & इंद्रियसुख & निर्वाण & केवलज्ञान \\
+स्व & आत्मा=ब्रह्म & देह & अनात्मा & जीव \\
+ईश्वर & सगुण/निर्गुण & नाही & नाही & नाही \\
+मोक्ष & ब्रह्मज्ञान & नाही & निर्वाण & मोक्ष \\
+पुनर्जन्म & मान्य & नाही & मान्य & मान्य \\
+नीतिशास्त्र & करुणा & भोगवाद & मध्यम मार्ग & अहिंसा \\
+सृष्टी & माया & महाभूत & प्रतीत्यसमुत्पाद & अनादी \\
+मानवी कर्तव्य & आत्मज्ञान & सुखभोग & दुःखनाश & संयम \\
+\hline
+
+
+\end{tabular}
+
+\vspace{0.8cm}
+
+प्रमाण: प्र (प्रत्यक्ष), अ (अनुमान), उ (उपमान), श (शब्द)
+\vspace{0.8cm}
+
+\rule{\linewidth}{0.25pt}
+\scriptsize
+Copyleft \textcopyleft\  Send suggestions to 
+\href{http://www.yogeshkulkarni.com}{yogeshkulkarni@yahoo.com}
+
+\end{document}
