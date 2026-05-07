@@ -1,2 +1,2 @@
 @echo off
-for /r %%i in (Main_*_YogShastra*.tex) do texify  --engine=xetex -cp %%i
+for /r %%i in (Main_Workshop_YogaShastra_*.tex) do texify  --engine=xetex -cp %%i

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"D:\\\\Yogesh\\\\GitHub\\\\BharatVidya\" -Force)",
+      "Bash(Select-Object Name, PSIsContainer)",
+      "Bash(Format-Table -AutoSize)",
+      "PowerShell(Get-ChildItem *)",
+      "Bash(sed 's/.*\\\\.//')",
+      "Bash(texify --engine=xetex -cp Main_Workshop_YogaShastra_Presentation.tex)",
+      "Bash(Remove-Item \"D:/Yogesh/GitHub/BharatVidya/LaTeX/Watwe.md\" -Force)",
+      "Bash(Remove-Item \"D:/Yogesh/GitHub/BharatVidya/LaTeX/Shivkrupanand.md\" -Force)",
+      "Bash(Write-Output \"Deleted both MD files\")"
+    ]
+  }
+}
