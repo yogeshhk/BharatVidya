@@ -9,7 +9,13 @@
       "Bash(texify --engine=xetex -cp Main_Workshop_YogaShastra_Presentation.tex)",
       "Bash(Remove-Item \"D:/Yogesh/GitHub/BharatVidya/LaTeX/Watwe.md\" -Force)",
       "Bash(Remove-Item \"D:/Yogesh/GitHub/BharatVidya/LaTeX/Shivkrupanand.md\" -Force)",
-      "Bash(Write-Output \"Deleted both MD files\")"
+      "Bash(Write-Output \"Deleted both MD files\")",
+      "WebFetch(domain:ai4bharat.iitm.ac.in)",
+      "WebFetch(domain:models.ai4bharat.org)",
+      "WebSearch",
+      "WebFetch(domain:corover.ai)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:www.youtube.com)"
     ]
   }
 }
