@@ -70,6 +70,37 @@ No `requirements.txt` or `environment.yml` exists; the Python work is explorator
 - Beamer presentation sources follow the pattern `Main_*_BharatVidya*.tex` for auto-discovery by build scripts.
 - The `/upgrade-deck` slash command is available for structured review and improvement of Beamer presentations in this repo.
 
+## YogaSutra Seminar System
+
+The YogaSutra material in `LaTeX/` is structured as **1 workshop + 6 independent seminars**, each with a matching cheat sheet.
+
+**Presentations (built by `make_yogasutra.bat`, glob: `Main_*_YogaSutra*.tex`):**
+
+| File | Title |
+|------|-------|
+| `Main_Workshop_YogaSutra_Presentation.tex` | Full workshop (all 5 chapter seminars) |
+| `Main_Seminar_YogaSutra_Intro_Presentation.tex` | Seminar 1: Introduction |
+| `Main_Seminar_YogaSutra_Samadhipad_Presentation.tex` | Seminar 2: Samadhi Pada |
+| `Main_Seminar_YogaSutra_Sadhanapad_Presentation.tex` | Seminar 3: Sadhana Pada |
+| `Main_Seminar_YogaSutra_Vibhutipad_Presentation.tex` | Seminar 4: Vibhuti Pada |
+| `Main_Seminar_YogaSutra_Kaivalyapad_Presentation.tex` | Seminar 5: Kaivalya Pada |
+| `Main_Seminar_YogaSutra_Overview_Presentation.tex` | Overview (~45 slides, independent session) |
+
+Each has a corresponding `*_CheatSheet.tex`.
+
+**Content file architecture:**
+- `workshop_yogasutra_content.tex` — inputs all chapter files for the full workshop
+- `seminar_yogasutra_intro_content.tex` — intro + glance + refs
+- `seminar_yogasutra_<chapter>_content.tex` — brief_intro + chapter + refs (for each of 4 chapters)
+- `seminar_yogasutra_overview_content.tex` — standalone 45-slide overview covering all chapters
+
+**Shared source files — naming: `yogsutra_*` (no 'a'), except refs:**
+- `yogsutra_intro.tex`, `yogsutra_samadhipad.tex`, `yogsutra_sadhanapad.tex`, `yogsutra_vibhutipad.tex`, `yogsutra_kaivalyapad.tex`, `yogsutra_glance.tex`
+- `yogsutra_brief_intro.tex` — 4-slide compact context-setter reused in each chapter seminar
+- `yogasutra_refs.tex` — references (this file uses 'a': `yogasutra_refs`)
+
+**Critical naming rule:** Source content files use `yogsutra_*` (no 'a'). Any `\input{yogasutra_*}` reference (with 'a') will break — always use `\input{yogsutra_*}` except for refs.
+
 ## YogaShastra Beamer Presentation
 
 The main workshop deck is `LaTeX/Main_Workshop_YogaShastra_Presentation.tex`. Its content is modularized via `LaTeX/workshop_yogashastra_content.tex`, which `\input`s individual topic files.

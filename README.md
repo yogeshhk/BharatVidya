@@ -14,17 +14,18 @@ This repository aims to explore and document the key aspects of the Indian Knowl
 ## Introduction
 The Indian Knowledge System is a rich and diverse repository of ancient wisdom, encompassing various fields such as philosophy, science, medicine, mathematics, and more. Rooted in centuries-old traditions, it offers valuable insights into the cultural and intellectual heritage of India.
 
+For a full map of what's in this repository, see [CONTENTS.md](./CONTENTS.md).
+
 1. **Philosophy**: Explore the philosophical foundations of the Indian Knowledge System.
 2. **Science**: Examine the contributions of ancient Indian scientists and their pioneering discoveries.
-3. **Ayurveda (Medicine)**: Discover the traditional medical practices and holistic healing methods prevalent in India. More info [here](./Ayurveda/)
+3. **Ayurveda (Medicine)**: Discover the traditional medical practices and holistic healing methods prevalent in India. More info [here](./IKS/Ayurveda/)
 4. **Mathematics**: Uncover the mathematical advancements made by Indian scholars through the ages.
 5. **Samskrit**: Predominant language in which this Vidya exists. More info [here](./Samskrit/Awesome_samskrit.md)
 6. **YogaShastra**: Yoga way of life. More info [here](./YogaShastra/README.md)
-7. **ArthaShastra**: Predominant text on geopolitics and governance. More info [here](./Arthashastra/Awesome_arthashastra.md)
-8. **Manuscriptology**: Use of AI-OCR in reading ancient Sanskrit manuscripts. More info [here](./Namami/Awesome_manuscriptology.md)
-9. **Dasbodh**: Study of Samarth Ramdas Swami's Dasbodh via email-based learning. More info [here](./Dasbodh/)
-10. **IKS Coursework**: Master's-level study materials on Indian Knowledge Systems (Bhishma MCKS program). More info [here](./IKS/)
-11. **AI By Bharat**: Curated resources on AI technologies built by India. More info [here](./Awesome-AI-By-Bharat.md)
+   - **YogaSutra Seminar System** (`LaTeX/`): 1 Workshop + 6 Seminars (Intro, Samadhipad, Sadhanapad, Vibhutipad, Kaivalyapad, Overview), each with a Beamer presentation and cheat sheet. Built via `make_yogasutra.bat`. More info [here](./LaTeX/README.md)
+7. **ArthaShastra**: Predominant text on geopolitics and governance. More info [here](./IKS/Arthashastra/Awesome_arthashastra.md)
+8. **Dasbodh**: Study of Samarth Ramdas Swami's Dasbodh via email-based learning. More info [here](./Dasbodh/)
+9. **IKS Coursework**: Master's-level study materials on Indian Knowledge Systems (Bhishma MCKS program). More info [here](./IKS/)
 
 ## References
 - [Indian Knowledge Systems (IKS) Division](https://iksindia.org/)  Division of Ministry of Education (MoE) located in the AICTE, New Delhi.
@@ -61,13 +62,7 @@ The Indian Knowledge System is a rich and diverse repository of ancient wisdom, 
 
 ## Contribution
 
-We invite you to contribute to the development of this repository. Here are some ways you can get involved:
-
-- **Contribute Content:** Share your knowledge and insights on any aspect of the Indian knowledge system by adding or editing existing content.
-- **Suggest Enhancements:** Provide suggestions for improving the structure, organization, or any other aspect of the repository.
-- **Report Issues:** If you come across any issues or errors, please report them so that we can address and fix them promptly.
-
-Feel free to fork the repository, make your changes, and submit pull requests. Together, we can build a valuable resource that celebrates the richness of the Indian knowledge system!
+We invite you to contribute to the development of this repository. See [CONTRIBUTING.md](./CONTRIBUTING.md) for ways to get involved and how to submit changes. Together, we can build a valuable resource that celebrates the richness of the Indian knowledge system!
 
 ## Disclaimer
 

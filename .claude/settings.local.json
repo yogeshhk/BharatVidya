@@ -15,7 +15,9 @@
       "WebSearch",
       "WebFetch(domain:corover.ai)",
       "WebFetch(domain:github.com)",
-      "WebFetch(domain:www.youtube.com)"
+      "WebFetch(domain:www.youtube.com)",
+      "Bash(git log *)",
+      "Bash(git show *)"
     ]
   }
 }
