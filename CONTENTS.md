@@ -9,7 +9,7 @@ Grammar resources, classical texts, academic papers, magazines, and course mater
 - `Samskrit/Classics/`: classical Sanskrit texts
 - `Samskrit/Papers/`: academic papers
 - `Samskrit/Magazines/`: magazine scans
-- `Samskrit/Courses/`: instructor course materials (large; see notes below)
+- `Samskrit/Courses/`: personal notes, exercises, and reference material from Sanskrit courses taken by the maintainer
 - `Samskrit/LaTeX/`: shared LaTeX style/preamble files used across the repo's Beamer decks
 
 ## Yoga Philosophy (YogaShastra)
@@ -33,13 +33,9 @@ Master's-level coursework (Bhishma MCKS program) and related reference material.
 - [Dasbodh overview](./Dasbodh/README.md): study of Samarth Ramdas Swami's Dasbodh via email-based learning, with assignments and references
 
 ## Admin
-Personal certificates, syllabi, and exam records related to the maintainer's own coursework. Not a content domain in itself; kept for reference.
+Personal certificates, mindmap notes, and exam records related to the maintainer's own coursework. Not a content domain in itself; kept for reference.
 
 ---
-
-## A Note on Scale
-
-Some folders above (notably `Samskrit/Courses/`) contain a large volume of instructor-provided course material rather than the maintainer's own original writing. This is flagged here for transparency; scope and licensing of that material is being reviewed separately from this catalog.
 
 ## Contributing
 

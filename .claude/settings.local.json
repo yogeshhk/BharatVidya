@@ -30,7 +30,12 @@
       "Bash(mv \"Tier5_WebContent\" \"WebSanskritGrammarTutorials\")",
       "Bash(mv \"Tier6_AdminSyllabi\" \"InstitutionalCourseSyllabi\")",
       "Bash(texify --version)",
-      "Bash(texify --engine=xetex -cp Main_Seminar_YogaSutra_Overview_Presentation.tex)"
+      "Bash(texify --engine=xetex -cp Main_Seminar_YogaSutra_Overview_Presentation.tex)",
+      "Bash(mkdir -p /tmp_screenshots)",
+      "Bash(pdftoppm -png -r 150 -f 1 -l 1 Main_Seminar_YogaSutra_Overview_Presentation.pdf page1)",
+      "Bash(pdftoppm -png -r 150 -f 5 -l 5 Main_Seminar_YogaSutra_Overview_Presentation.pdf page5)",
+      "Bash(pdftoppm -png -r 150 -f 10 -l 10 Main_Seminar_YogaSutra_Overview_Presentation.pdf page10)",
+      "Bash(pdftoppm -png -r 150 -f 20 -l 20 Main_Seminar_YogaSutra_Overview_Presentation.pdf page20)"
     ]
   }
 }

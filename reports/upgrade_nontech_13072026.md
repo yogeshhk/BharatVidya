@@ -54,12 +54,27 @@ Renamed the `Tier*` folders in `D:\Yogesh\BharatVidya_ThirdPartyArchive\` to des
 
 **Reminder:** moved files are out of the working tree, not purged from git history. If they were previously committed, a history rewrite (`git filter-repo`/BFG) is a separate action you'd take yourself if you want them gone from old commits too. Remember to upload this new `D:\Yogesh\BharatVidya_ThirdPartyArchive\` batch to Drive too before deleting it locally.
 
-## Explicitly Out of Scope This Session (your calls)
+## Final Cleanup Round (2026-07-13, same day follow-up)
 
-- [ ] **Untracked file** `YogaShastra/ArticlesPapers/Breath by Hiremath Raj _ Medium.pdf` — a third-party Medium article, not yet committed. Left untracked; decide before it gets added.
-- [ ] **`CLAUDE.md` domain table** documents `Arthashastra/` and `Ayurveda/` as top-level folders, but they actually live nested under `IKS/`. Not visitor-facing, but worth a fix for consistency next time `CLAUDE.md` is touched.
-- [ ] **No GitHub repo Description/Topics confirmed** (requires GitHub web UI, can't be checked or set by an agent). See manual guide below if you want to set them.
-- [ ] **No badges or sample screenshots** on the README — cosmetic polish, not urgent.
+- [x] Deleted the untracked third-party Medium article PDF: `YogaShastra/ArticlesPapers/Breath by Hiremath Raj _ Medium.pdf`.
+- [x] Fixed `CLAUDE.md`'s "Domain Areas" table: removed the stale `Namami/` row (folder was deleted in commit `3193cbd`, same issue as the README link fixed earlier), corrected `Arthashastra/` and `Ayurveda/` to their actual nested paths under `IKS/`, and fixed the "Python / Notebook Code" section which referenced the now-nonexistent `Namami/src/opencv/` scripts (the only real Python content is two notebooks in `Samskrit/src/`). Also dropped "Manuscriptology" from the one-line repo description in `CLAUDE.md`, matching the README fix.
+- [x] Added License and Last-Commit badges to the top of `README.md`.
+- [x] Compiled `Main_Seminar_YogaSutra_Overview_Presentation.tex` with XeTeX, reviewed 4 candidate pages (title, principles, sutra 1.2, sutra 1.15-1.16), picked page 10 (sutra 1.2, shows Devanagari + transliteration + English commentary together) as it best demonstrates the content's format. Saved as `LaTeX/images/sample_yogasutra_slide.png` and embedded it in the README below the intro paragraph. Deleted the compiled PDF and other candidate screenshots (build artifacts, not part of repo convention).
+- [x] **GitHub repo Description/Topics/social preview:** you completed all 4 manual steps from the guide below.
+
+## Final Item Cleared (2026-07-13, same day follow-up)
+
+- [x] `Course Sanskrit Bharati Correspondance.zip` moved to (recreated) `D:\Yogesh\BharatVidya_ThirdPartyArchive\SamskritBharatiCorrespondenceHomework\`, at your request, even though it looked like your own homework submissions. `Samskrit/Courses/` is now 104MB, down from the original 2.6GB. No repo file referenced it.
+
+Nothing outstanding remains from the full review.
+
+## Closing Housekeeping (2026-07-13, end of session)
+
+- [x] Updated `CONTENTS.md`: the `Samskrit/Courses/` and `Admin/` descriptions, and the "A Note on Scale" caveat about bulk instructor material, were written before this session's cleanup rounds and were stale. Reworded to reflect the current, much smaller contents of both folders; removed the now-unnecessary caveat section.
+- [x] Fixed one em-dash I introduced into `CLAUDE.md` earlier this session (line was mine to fix; the rest of `CLAUDE.md`'s pre-existing em-dashes elsewhere were not part of this review's scope and were left alone).
+- [x] Re-verified every link and image path referenced in `README.md` and `CONTENTS.md` resolves on disk.
+
+This closes the session. Nothing has been committed, per your standing instruction that git operations are yours to run.
 
 ## Manual Steps Guide (GitHub Settings — cannot be done by an agent)
 

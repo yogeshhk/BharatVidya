@@ -45,7 +45,7 @@ Shared LaTeX style/preamble files live in `Samskrit/LaTeX/` (e.g., `preamble.tex
 ## Python / Notebook Code
 
 Minimal code exists in one location:
-- `Samskrit/src/` — two Jupyter notebooks (Sanskrit shlokas dataset, Sanskrit Wikipedia articles)
+- `Samskrit/src/`: two Jupyter notebooks (Sanskrit shlokas dataset, Sanskrit Wikipedia articles)
 
 No `requirements.txt` or `environment.yml` exists; the Python work is exploratory/prototype-level.
 

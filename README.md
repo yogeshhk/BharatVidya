@@ -5,6 +5,10 @@
 
 Welcome to the Indian Knowledge System (IKS) repository! This project aims to explore and celebrate the rich heritage of traditional Indian knowledge across various domains. Whether you're interested in ancient sciences, arts, literature, or holistic practices, this repository is a hub for interdisciplinary research and collaboration.
 
+A sample slide from the YogaSutra Overview seminar, showing the Devanagari, transliteration, and multi-translator commentary format used throughout:
+
+![Sample YogaSutra slide](./LaTeX/images/sample_yogasutra_slide.png)
+
 ## Purpose
 Under NEP (New Education Policy) 2020, IKS (Indian Knowledge System) is being recommended for even for Engineering streams.
 
