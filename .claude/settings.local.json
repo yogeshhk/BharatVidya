@@ -17,7 +17,13 @@
       "WebFetch(domain:github.com)",
       "WebFetch(domain:www.youtube.com)",
       "Bash(git log *)",
-      "Bash(git show *)"
+      "Bash(git show *)",
+      "Bash(unzip -l \"Samskrit/Courses/Course_Samskrit_Book.zip\")",
+      "Bash(unzip -l \"Samskrit/Courses/Couse Sanskrit Bhasha Pravesh.zip\")",
+      "Bash(mkdir -p \"D:/Yogesh/BharatVidya_ThirdPartyArchive/Tier1_SamskritBharati\")",
+      "Bash(mv \"Samskrit/Courses/SamskritBharatiAll_Vanisri\" \"D:/Yogesh/BharatVidya_ThirdPartyArchive/Tier1_SamskritBharati/\")",
+      "Bash(mkdir -p \"D:/Yogesh/BharatVidya_ThirdPartyArchive/Tier2_PublishedBooks\")",
+      "Bash(mv 'Arshaavanish/Enjoyable Sanskrit Grammar Volume 1 - Basic Structure of the Language.pdf' 'Arshaavanish/Enjoyable Sanskrit Grammar Volume 1 - Workbook.pdf' 'Arshaavanish/Enjoyable Sanskrit Grammar Volume 1 A- Key to Exercise.pdf' 'Arshaavanish/Enjoyable Sanskrit Grammar Volume 2 - Phonetics & Sandhi.pdf' 'Arshaavanish/Enjoyable Sanskrit Grammar Volume 2 A- Key to Exercise.pdf' 'Arshaavanish/Enjoyable Sanskrit Grammar Volume 3 Derivatives.pdf' 'Arshaavanish/Study Guide to Laghu Siddhanta Kaumudi Part 1- Sajna & Sandhi Prakaranams.pdf' 'Arshaavanish/Study Guide to Laghu Siddhanta Kaumudi Part 10.pdf' 'Arshaavanish/Study Guide to Laghu Siddhanta Kaumudi Part 12.pdf' 'Arshaavanish/Study Guide to Laghu Siddhanta Kaumudi Part 2 - AjantapumlingaH to AjantanapumsakaH.pdf' 'Arshaavanish/Study Guide to Laghu Siddhanta Kaumudi Part 3 - HalantapumlingaH to Avyayani.pdf' 'Arshaavanish/Study Guide to Laghu Siddhanta Kaumudi Part 4 - Tinananda Prakaranam.pdf' 'Arshaavanish/Study Guide to Laghu Siddhanta Kaumudi Part 5.pdf' 'Arshaavanish/Study Guide to Laghu Siddhanta Kaumudi Part 6.pdf' 'Arshaavanish/Study Guide to Laghu Siddhanta Kaumudi Part 7.pdf' 'Arshaavanish/Study Guide to Laghu Siddhanta Kaumudi Part 8.pdf' 'Arshaavanish/Study Guide to Laghu Siddhanta Kaumudi Part 9.pdf' D:/Yogesh/BharatVidya_ThirdPartyArchive/Tier2_PublishedBooks/)"
     ]
   }
 }
