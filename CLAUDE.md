@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-BharatVidya is a curated study archive on Indian Knowledge Systems (IKS) under NEP 2020 — covering Sanskrit, Yoga, Ayurveda, Arthashastra, and Manuscriptology. The primary outputs are compiled LaTeX/PDF documents and structured data files, not software applications.
+BharatVidya is a curated study archive on Indian Knowledge Systems (IKS) under NEP 2020, covering Sanskrit, Yoga, Ayurveda, and Arthashastra. The primary outputs are compiled LaTeX/PDF documents and structured data files, not software applications.
 
 ## Compiling LaTeX Documents
 
@@ -44,9 +44,8 @@ Shared LaTeX style/preamble files live in `Samskrit/LaTeX/` (e.g., `preamble.tex
 
 ## Python / Notebook Code
 
-Minimal code exists in two locations:
-- `Namami/src/opencv/` — two OpenCV scripts for image/video processing (foundation for manuscript image analysis)
-- Two Jupyter notebooks (locations in `Namami/` and `IKS/`)
+Minimal code exists in one location:
+- `Samskrit/src/` — two Jupyter notebooks (Sanskrit shlokas dataset, Sanskrit Wikipedia articles)
 
 No `requirements.txt` or `environment.yml` exists; the Python work is exploratory/prototype-level.
 
@@ -57,12 +56,11 @@ No `requirements.txt` or `environment.yml` exists; the Python work is explorator
 | `Samskrit/` | Sanskrit grammar, learning resources, LaTeX utilities |
 | `YogaShastra/` | Yoga philosophy, YogaSutra JSON graph, YogaNidra, Aurobindo |
 | `LaTeX/` | Compiled Beamer/article documents and build scripts |
-| `IKS/` | Master in Chanakya Kautilya Studies (Bhishma_MCKS) coursework |
-| `Arthashastra/` | Kautilya's governance texts and academic analysis |
-| `Namami/` | Manuscriptology, Sharada OCR research, OpenCV scripts |
+| `IKS/` | Master in Chanakya Kautilya Studies (Bhishma_MCKS) coursework, plus nested `Arthashastra/` and `Ayurveda/` subfolders |
+| `IKS/Arthashastra/` | Kautilya's governance texts and academic analysis |
+| `IKS/Ayurveda/` | Traditional medicine resources |
 | `Dasbodh/` | Dasbodh-by-email learning materials |
-| `Ayurveda/` | Traditional medicine resources |
-| `Admin/` | Course certificates, syllabi, exam papers |
+| `Admin/` | Course certificates, mindmap, and personal exam records |
 
 ## LaTeX Conventions
 

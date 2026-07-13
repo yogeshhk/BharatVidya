@@ -1,5 +1,8 @@
 # Bharat Vidya (aka Indian Knowledge System)
 
+[![License: MIT](https://img.shields.io/github/license/yogeshhk/BharatVidya)](./LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/yogeshhk/BharatVidya)](https://github.com/yogeshhk/BharatVidya/commits/master)
+
 Welcome to the Indian Knowledge System (IKS) repository! This project aims to explore and celebrate the rich heritage of traditional Indian knowledge across various domains. Whether you're interested in ancient sciences, arts, literature, or holistic practices, this repository is a hub for interdisciplinary research and collaboration.
 
 ## Purpose

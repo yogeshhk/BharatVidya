@@ -14,20 +14,48 @@
 
 Analyzed `Samskrit/Courses/` (2.6GB) and split it into 6 risk tiers (institutional course packs, published books, instructor-taught class notes, government material, classical public-domain texts, and your own work). Moved the two highest-risk tiers out of the git working tree to `D:\Yogesh\BharatVidya_ThirdPartyArchive\` for you to keep on personal Google Drive:
 
-- [x] **Tier 1 (Samskrit Bharati institutional course packs, ~2.3GB)** moved to `Tier1_SamskritBharati/`: `SamskritBharatiAll_Vanisri/` (549 files), `SamskritBharatiAll_NiveditaR/` (187 files), `SamskritBharatiAll_ExamPapers/` (68 files), `ParichayaVyoma/` (22 files), plus 6 loose institutional handout/textbook/exam-paper files.
-- [x] **Tier 2 (published books/study guides, 46MB)** moved to `Tier2_PublishedBooks/`: 6 "Enjoyable Sanskrit Grammar" volume/workbook/key files + 11 "Study Guide to Laghu Siddhanta Kaumudi" part files, all from `Samskrit/Courses/Arshaavanish/`.
+- [x] **Tier 1 (Samskrit Bharati institutional course packs, ~2.3GB)** moved to `Tier1_SamskritBharati/` (uploaded to Drive and deleted locally before the folder-naming cleanup below, so it kept this name): `SamskritBharatiAll_Vanisri/` (549 files), `SamskritBharatiAll_NiveditaR/` (187 files), `SamskritBharatiAll_ExamPapers/` (68 files), `ParichayaVyoma/` (22 files), plus 6 loose institutional handout/textbook/exam-paper files.
+- [x] **Tier 2 (published books/study guides, 46MB)** moved to `PublishedSanskritGrammarBooks/`: 6 "Enjoyable Sanskrit Grammar" volume/workbook/key files + 11 "Study Guide to Laghu Siddhanta Kaumudi" part files, all from `Samskrit/Courses/Arshaavanish/`.
 - [x] Verified: `Samskrit/Courses/` dropped from 2.6GB to 245MB; no `.tex` or markdown file in the repo referenced any of the moved paths, so nothing broke.
-- [ ] **Not yet decided:** `Sanskrit_Alphabet_VolI.pdf` / `Sanskrit_Alphabet_VolII.pdf` in `Arshaavanish/` look like they may belong to the same published series as Tier 2, but weren't part of the originally-scoped move; left in place pending your call.
-- [ ] **Tier 3 (instructor-taught class notes you attended)** left in place, your call: `ChetanaMehta/`, `NeeleshBodas/`, `Neetichandrika/`, `Chinmay_EasySanskrit_Yogesh/` (~102MB, ~175 files total).
-- [ ] **Tier 4 (NIOS government material)** left in place: `NIOS_DigitizedSLM/`, `NIOS_Samskrit_246/` — plausibly already freely distributed by NIOS, but not verified.
-- [ ] **Duplicates spotted, not yet cleaned up:** `Samskrit/Courses/YogeshPraveshExamAug2024/` exactly duplicates `Admin/PraveshExamAug2024/`; `Couse Sanskrit Bhasha Pravesh.zip` (31 files) is a subset already contained in `Course_Samskrit_Book.zip` (34 files, which also has your own `subantaruupaNi.tex`/`.pdf`).
-- [ ] Two remaining loose zips not yet classified/actioned: `Course GrammarTutorial.zip` (third-party website PDFs) and `Course Sanskrit Bharati Correspondance.zip` (looks like your own homework submissions, lower risk).
+- [x] You uploaded the archive to personal Google Drive and deleted the local `D:\Yogesh\BharatVidya_ThirdPartyArchive\` folder.
 
-**Reminder:** these files were moved out of the working tree, not purged from git history. If they were previously committed, a history rewrite (`git filter-repo`/BFG) is a separate action you'd take yourself if you want them gone from old commits too.
+## Sanskrit/Courses Cleanup, Round 2 (2026-07-13, same day follow-up)
+
+Recreated `D:\Yogesh\BharatVidya_ThirdPartyArchive\` (deleted after your Drive upload) and continued cleanup:
+
+- [x] **Deduped `PraveshExamAug2024`:** moved the one extra file (`SB-MR-MH-N-29731-Pravesha.pdf`) from `Samskrit/Courses/YogeshPraveshExamAug2024/` into `Admin/PraveshExamAug2024/`, then deleted the now-redundant `Samskrit/Courses/YogeshPraveshExamAug2024/` folder (it exactly duplicated `Admin/PraveshExamAug2024/` otherwise).
+- [x] **Deduped course zip:** deleted `Samskrit/Courses/Couse Sanskrit Bhasha Pravesh.zip` (31 files), a subset already fully contained in `Course_Samskrit_Book.zip` (34 files, which also has your own `subantaruupaNi.tex`/`.pdf` and was kept).
+- [x] **Tier 3 (instructor-taught class notes) moved** to `SanskritInstructorClassNotes/`: `ChetanaMehta/`, `NeeleshBodas/`, `Neetichandrika/`, `Chinmay_EasySanskrit_Yogesh/` (~101MB total).
+- [x] **`Sanskrit_Alphabet_VolI.pdf` and `VolII.pdf`** moved to `PublishedSanskritGrammarBooks/` (you chose to move both, since they're a matched pair from the same series). `Arshaavanish/` now holds only classical/derivative-analysis texts (`Astadhyayi.pdf`, `Dhatukosah.pdf`, `Grammatical Analysis of Bhagavad Gita.pdf`, `MundakaUpanisadGrammaticalAnalysis.pdf`, `Tattvbodha_Grammatical.pdf`, `VaakyaVrttihGrammatical.pdf`).
+- [x] Verified: no repo file references any moved/deleted path. `Samskrit/Courses/` is now 133MB (down from the original 2.6GB across both rounds).
+- [x] **Tier 4 (NIOS government material) moved** to `NIOS_GovtCourseMaterial/`: `NIOS_DigitizedSLM/`, `NIOS_Samskrit_246/`.
+- [x] **`Course GrammarTutorial.zip`** (third-party "SAMSKRUTAM Studies" website PDFs) moved to `WebSanskritGrammarTutorials/`. `Samskrit/Courses/` is now 107MB, down from the original 2.6GB.
+- [ ] `Course Sanskrit Bharati Correspondance.zip` looks like your own homework submissions (lower risk) and was left as-is; nothing else outstanding in `Samskrit/Courses/`.
+
+## Admin Folder Cleanup (2026-07-13, same day follow-up)
+
+- [x] Moved 22 third-party institutional course syllabi/brochure/lecture PDFs from `Admin/` to `InstitutionalCourseSyllabi/`: BA/MA Sanskrit syllabi, IK 501 and PGD/CDST programme syllabi, Easy Sanskrit / Vedanta / Postal Sanskrit / Bhagavad Gita / Upanishad course brochures, webinar and pre-course-test PDFs, and an IIT Mandi lecture PDF.
+- [x] Kept in `Admin/`: your own certificates (digital Sanskrit, IKS intro, Easy Sanskrit Level 2, YCB Level 1), `MindMap_Sanskrit.pdf`, `Yogic Self-Awareness Assessment.pdf`, `Message_BeStrong_Vivekanand.jpg`, and the `PraveshExamAug2024/` subfolder (your own exam attempt).
+- [x] Verified: no repo file links to any of the moved files (one coincidental text match in `Samskrit/Awesome_samskrit.md` is an unrelated external URL, not a broken local link).
+
+## Archive Folder Renamed (2026-07-13)
+
+Renamed the `Tier*` folders in `D:\Yogesh\BharatVidya_ThirdPartyArchive\` to descriptive names, since "Tier1/Tier2" reads as meaningless once copied onto Google Drive:
+
+| Old | New |
+|---|---|
+| `Tier2_PublishedBooks` | `PublishedSanskritGrammarBooks` |
+| `Tier3_InstructorNotes` | `SanskritInstructorClassNotes` |
+| `Tier4_NIOS` | `NIOS_GovtCourseMaterial` |
+| `Tier5_WebContent` | `WebSanskritGrammarTutorials` |
+| `Tier6_AdminSyllabi` | `InstitutionalCourseSyllabi` |
+
+(The first `Tier1_SamskritBharati` batch was already uploaded and deleted locally before this rename, so it's on Drive under its original name.)
+
+**Reminder:** moved files are out of the working tree, not purged from git history. If they were previously committed, a history rewrite (`git filter-repo`/BFG) is a separate action you'd take yourself if you want them gone from old commits too. Remember to upload this new `D:\Yogesh\BharatVidya_ThirdPartyArchive\` batch to Drive too before deleting it locally.
 
 ## Explicitly Out of Scope This Session (your calls)
 
-- [ ] **`Admin/` folder** — mixes your own certificates/photos with third-party institutional syllabi PDFs and one scanned admission exam paper. Left as-is; lower stakes than the items above but still worth a look eventually.
 - [ ] **Untracked file** `YogaShastra/ArticlesPapers/Breath by Hiremath Raj _ Medium.pdf` — a third-party Medium article, not yet committed. Left untracked; decide before it gets added.
 - [ ] **`CLAUDE.md` domain table** documents `Arthashastra/` and `Ayurveda/` as top-level folders, but they actually live nested under `IKS/`. Not visitor-facing, but worth a fix for consistency next time `CLAUDE.md` is touched.
 - [ ] **No GitHub repo Description/Topics confirmed** (requires GitHub web UI, can't be checked or set by an agent). See manual guide below if you want to set them.
