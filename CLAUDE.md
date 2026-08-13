@@ -2,6 +2,16 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Status: closed (August 2026)
+
+This repo is a **finished study archive**, not an active project. The YogaSutra slide system is
+final and all 15 documents were verified to compile on 2026-08-13. Continued Yoga Sutra study
+happens offline and does not produce changes here.
+
+Practical consequence: do not propose new content, new chapters, or restructuring work. Confine
+changes to genuine defects (broken builds, broken links, wrong facts). See `TODO.md` for the state
+each area was left in.
+
 ## Repository Purpose
 
 BharatVidya is a curated study archive on Indian Knowledge Systems (IKS) under NEP 2020, covering Sanskrit, Yoga, Ayurveda, and Arthashastra. The primary outputs are compiled LaTeX/PDF documents and structured data files, not software applications.
@@ -30,6 +40,29 @@ texify --engine=xetex -cp <filename>.tex
 ```
 
 Shared LaTeX style/preamble files live in `Samskrit/LaTeX/` (e.g., `preamble.tex`, `shloka.sty`).
+
+### The custom headline in `template_presentation.tex` -- do not revert it
+
+`template_presentation.tex` overrides beamer's `headline` template with a section-only bar built
+from `\insertsectionnavigationhorizontal`. This is deliberate and load-bearing for build
+performance. **Do not "simplify" it back to the stock miniframes headline.**
+
+Why it exists: `miniframes` lays out one navigation marker per frame. Once a `.nav` file exists,
+the 492-frame Workshop deck produced a navigation bar ~1000pt wider than the slide and reported the
+overflow on every page -- 510,355 `Overfull \hbox` warnings, a 37 MB log, and a ~420 second second
+pass. The markers were already blanked by `\setbeamertemplate{mini frames}{}`, so nothing looked
+wrong; the boxes were laid out regardless.
+
+After the override: 64 overfull warnings across all 15 documents, an 819 KB log, 279 seconds for
+the whole set. Page counts unchanged, slides look the same, and section names that used to be
+pushed off the right edge are now visible.
+
+Two traps if this is ever edited:
+
+- `\insertsectionnavigation` (no suffix) lays sections out **vertically** and is for sidebars.
+  Using it here silently empties the bar. The `...horizontal` variant is the correct one.
+- A large deck's *first* pass is quiet and fast; problems only appear from the second pass onward,
+  once `.nav` exists. Always judge a headline change on a full `texify` run, not a single pass.
 
 ## Key Data Structure: YogaSutra Knowledge Graph
 

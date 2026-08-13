@@ -3,6 +3,13 @@
 [![License: MIT](https://img.shields.io/github/license/yogeshhk/BharatVidya)](./LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/yogeshhk/BharatVidya)](https://github.com/yogeshhk/BharatVidya/commits/master)
 
+> **Status: finished study archive (as of August 2026).** The material here is complete and is no
+> longer under active development. The YogaSutra seminar system in particular is final: 1 workshop
+> and 6 seminars, each with a cheat sheet, all verified to compile. There is no roadmap. Issues and
+> pull requests are still welcome, and corrections to the Sanskrit, transliteration or commentary
+> are especially welcome, but do not expect new material to be added. See [TODO.md](./TODO.md) for
+> the state each area was left in.
+
 Welcome to the Indian Knowledge System (IKS) repository! This project aims to explore and celebrate the rich heritage of traditional Indian knowledge across various domains. Whether you're interested in ancient sciences, arts, literature, or holistic practices, this repository is a hub for interdisciplinary research and collaboration.
 
 A sample slide from the YogaSutra Overview seminar, showing the Devanagari, transliteration, and multi-translator commentary format used throughout:

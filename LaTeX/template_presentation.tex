@@ -106,6 +106,28 @@
 \setbeamertemplate{enumerate mini template}{\insertenumlabel}
 \setbeamertemplate{mini frames}{}
 
+% Replace the miniframes headline with a section-only bar.
+%
+% Why: the miniframes outer theme lays out one navigation marker per frame.
+% \setbeamertemplate{mini frames}{} above makes those markers render as
+% nothing, but the boxes are still allocated, so a large deck overflows the
+% headline badly. The 492-frame Workshop deck overflowed by ~1000pt and
+% reported it on every page: 510,355 Overfull \hbox warnings, a 37 MB log,
+% and a 7-minute second XeTeX pass. The three largest seminars hit the same
+% thing at smaller scale (14k-18k warnings each).
+%
+% The section names are the only part of that headline actually visible, and
+% \insertsectionnavigation reproduces them, so the slides look the same.
+% Note: \insertsectionnavigation (no suffix) lays the sections out VERTICALLY
+% and is for sidebars -- using it here empties the bar. The horizontal variant
+% is the one miniframes itself uses for this row.
+\setbeamertemplate{headline}{%
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5ex,dp=1.125ex]{section in head/foot}%
+    \usebeamerfont{section in head/foot}%
+    \insertsectionnavigationhorizontal{\paperwidth}{\hskip.3cm}{\hskip0pt plus1filll}%
+  \end{beamercolorbox}%
+}
+
 \logo{\includegraphics[width=6mm,keepaspectratio]{images/logo_yhk.png}}
 \author[YHK]{Yogesh Haribhau Kulkarni} 
 \date{}
