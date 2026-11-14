@@ -4,8 +4,8 @@
 
 - [x] Removed two full third-party book PDFs from `YogaShastra/ArticlesPapers/`: `Book_When-breath-becomes-air.pdf` (Paul Kalanithi memoir, full text) and `Book_Zen Yoga A Creative Psychotherapy to Self-Integration - P.J Saher_text.pdf` (full book text).
 - [x] Fixed two broken README.md links: Ayurveda now points to `./IKS/Ayurveda/`, Arthashastra now points to `./IKS/Arthashastra/Awesome_arthashastra.md` (previous links assumed root-level folders that don't exist; actual content lives nested under `IKS/`).
-- [x] Removed the README.md line linking to `./Namami/Awesome_manuscriptology.md` — the `Namami/` folder was fully deleted in commit `3193cbd` ("Reorged files") with no replacement; the content no longer exists anywhere in the repo.
-- [x] Removed the README.md line linking to `./Awesome-AI-By-Bharat.md` — this file never existed in repo history.
+- [x] Removed the README.md line linking to `./Namami/Awesome_manuscriptology.md`: the `Namami/` folder was fully deleted in commit `3193cbd` ("Reorged files") with no replacement; the content no longer exists anywhere in the repo.
+- [x] Removed the README.md line linking to `./Awesome-AI-By-Bharat.md`: this file never existed in repo history.
 - [x] Cleaned em-dash characters from `README.md` (1 instance) and `LaTeX/README.md` (6 instances) per house style.
 - [x] Created `CONTENTS.md` at repo root: a verified catalog of all top-level domains and their entry-point docs, linked from the root README's Introduction section.
 - [x] Created `CONTRIBUTING.md` at repo root, consolidating the duplicated "how to contribute" sections that previously lived separately in `README.md` and `YogaShastra/README.md`. Both files now point to it instead.
@@ -76,7 +76,7 @@ Nothing outstanding remains from the full review.
 
 This closes the session. Nothing has been committed, per your standing instruction that git operations are yours to run.
 
-## Manual Steps Guide (GitHub Settings — cannot be done by an agent)
+## Manual Steps Guide (GitHub Settings, cannot be done by an agent)
 
 If you want a repo Description, Topics, and a social preview image (all help discoverability and can't be set via files in the repo):
 
@@ -89,4 +89,4 @@ If you want a repo Description, Topics, and a social preview image (all help dis
 ## Notes
 
 - No git commands (status/diff/add/commit) were run as part of applying these changes, per your standing instruction that all git operations are yours to manage. You'll need to review and commit the changes above yourself.
-- Two files were deleted from the working tree (the two full books). This does **not** remove them from git history if they were previously committed — a history purge (e.g. `git filter-repo` or BFG) is your call and your action if you want them gone from old commits too, not something done here.
+- Two files were deleted from the working tree (the two full books). This does **not** remove them from git history if they were previously committed; a history purge (e.g. `git filter-repo` or BFG) is your call and your action if you want them gone from old commits too, not something done here.

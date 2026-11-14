@@ -39,7 +39,7 @@ Meditation, practiced consistently, fosters mental clarity, emotional balance, a
 ## References
 - [Mega - Meditation Program](https://www.youtube.com/watch?v=LNgNYKo96b4)
 	- **The Still Point in Breath**  
-	  - At the end of an inhale or exhale, there is a brief pause—a still point.  
+	  - At the end of an inhale or exhale, there is a brief pause, a still point.  
 	  - This moment represents a cessation of movement, a transition between phases.  
 
 	- **Inner Awareness and Stillness**  
@@ -47,7 +47,7 @@ Meditation, practiced consistently, fosters mental clarity, emotional balance, a
 	  - Observing these pauses during breathing can naturally extend their duration.  
 
 	- **Breath as a Portal**  
-	  - The pause after an inhale mirrors life’s peak moments—growth and achievement.  
+	  - The pause after an inhale mirrors life’s peak moments: growth and achievement.  
 	  - The pause after an exhale symbolizes surrender and return to the source.  
 
 	- **Spiritual Significance**  

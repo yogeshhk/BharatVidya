@@ -25,7 +25,7 @@ Each domain has a dedicated batch script that recursively finds and compiles mat
 | `make_shrimath.bat` | `Main_*_Shrimath*.tex` | Shrimath teachings |
 | `make_zenyoga.bat` | `Main_*_ZenYoga*.tex` | Zen Yoga |
 
-Shared LaTeX style/preamble files live in `Samskrit/LaTeX/` (e.g., `preamble.tex`, `shloka.sty`).
+The decks share `template_presentation.tex` and `template_cheatsheet.tex` in this folder. `Samskrit/LaTeX/` holds a separate set of style files (`preamble.tex`, `shloka.sty`) used only by its own standalone document.
 
 ---
 

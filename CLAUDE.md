@@ -39,7 +39,7 @@ Scripts use `texify --engine=xetex -cp` and recursively find files matching `Mai
 texify --engine=xetex -cp <filename>.tex
 ```
 
-Shared LaTeX style/preamble files live in `Samskrit/LaTeX/` (e.g., `preamble.tex`, `shloka.sty`).
+The decks share `LaTeX/template_presentation.tex` and `LaTeX/template_cheatsheet.tex`. `Samskrit/LaTeX/` holds a separate set of style files (`preamble.tex`, `shloka.sty`) used only by its own standalone document `subantaruupaNi.tex`.
 
 ### The custom headline in `template_presentation.tex` -- do not revert it
 
@@ -73,7 +73,7 @@ Two traps if this is ever edited:
 - Vyasa and Vacaspati commentaries in Sanskrit and English
 - Cross-reference tags
 
-`graphold.json` in the same directory is the prior version; `graph.json` is authoritative.
+`graph.json` is authoritative; the prior version (`graphold.json`) was moved out of the repo on 2026-11-14.
 
 ## Python / Notebook Code
 
@@ -110,27 +110,27 @@ The YogaSutra material in `LaTeX/` is structured as **1 workshop + 6 independent
 | File | Title |
 |------|-------|
 | `Main_Workshop_YogaSutra_Presentation.tex` | Full workshop (all 5 chapter seminars) |
-| `Main_Seminar_YogaSutra_Intro_Presentation.tex` | Seminar 1: Introduction |
-| `Main_Seminar_YogaSutra_Samadhipad_Presentation.tex` | Seminar 2: Samadhi Pada |
-| `Main_Seminar_YogaSutra_Sadhanapad_Presentation.tex` | Seminar 3: Sadhana Pada |
-| `Main_Seminar_YogaSutra_Vibhutipad_Presentation.tex` | Seminar 4: Vibhuti Pada |
-| `Main_Seminar_YogaSutra_Kaivalyapad_Presentation.tex` | Seminar 5: Kaivalya Pada |
+| `Main_Seminar_YogaSutra_Intro_Presentation.tex` | Seminar: Introduction |
+| `Main_Seminar_YogaSutra_Samadhipad_Presentation.tex` | Seminar: Samadhi Pada |
+| `Main_Seminar_YogaSutra_Sadhanapad_Presentation.tex` | Seminar: Sadhana Pada |
+| `Main_Seminar_YogaSutra_Vibhutipad_Presentation.tex` | Seminar: Vibhuti Pada |
+| `Main_Seminar_YogaSutra_Kaivalyapad_Presentation.tex` | Seminar: Kaivalya Pada |
 | `Main_Seminar_YogaSutra_Overview_Presentation.tex` | Overview (~45 slides, independent session) |
 
 Each has a corresponding `*_CheatSheet.tex`.
 
 **Content file architecture:**
-- `workshop_yogasutra_content.tex` — inputs all chapter files for the full workshop
-- `seminar_yogasutra_intro_content.tex` — intro + glance + refs
-- `seminar_yogasutra_<chapter>_content.tex` — brief_intro + chapter + refs (for each of 4 chapters)
-- `seminar_yogasutra_overview_content.tex` — standalone 45-slide overview covering all chapters
+- `workshop_yogasutra_content.tex`: inputs all chapter files for the full workshop
+- `seminar_yogasutra_intro_content.tex`: intro + glance + refs
+- `seminar_yogasutra_<chapter>_content.tex`: brief_intro + chapter + refs (one per chapter)
+- `seminar_yogasutra_overview_content.tex`: standalone overview covering all chapters
 
-**Shared source files — naming: `yogsutra_*` (no 'a'), except refs:**
+**Shared source files, naming: `yogsutra_*` (no 'a'), except refs:**
 - `yogsutra_intro.tex`, `yogsutra_samadhipad.tex`, `yogsutra_sadhanapad.tex`, `yogsutra_vibhutipad.tex`, `yogsutra_kaivalyapad.tex`, `yogsutra_glance.tex`
-- `yogsutra_brief_intro.tex` — 4-slide compact context-setter reused in each chapter seminar
-- `yogasutra_refs.tex` — references (this file uses 'a': `yogasutra_refs`)
+- `yogsutra_brief_intro.tex`: compact context-setter reused in each chapter seminar
+- `yogasutra_refs.tex`: references (this file uses 'a': `yogasutra_refs`)
 
-**Critical naming rule:** Source content files use `yogsutra_*` (no 'a'). Any `\input{yogasutra_*}` reference (with 'a') will break — always use `\input{yogsutra_*}` except for refs.
+**Critical naming rule:** Source content files use `yogsutra_*` (no 'a'). Any `\input{yogasutra_*}` reference (with 'a') will break, so always use `\input{yogsutra_*}` except for refs.
 
 ## YogaShastra Beamer Presentation
 

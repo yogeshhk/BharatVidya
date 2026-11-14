@@ -7,8 +7,8 @@ Grammar resources, classical texts, academic papers, magazines, and course mater
 - [Awesome Samskrit](./Samskrit/Awesome_samskrit.md): curated list of Sanskrit learning resources
 - `Samskrit/Grammar/`: grammar references
 - `Samskrit/Classics/`: classical Sanskrit texts
-- `Samskrit/Papers/`: academic papers
-- `Samskrit/Magazines/`: magazine scans
+- `Samskrit/Papers/`: a reading list of papers and articles on Sanskrit and computing, with links (the PDFs are not hosted here)
+- `Samskrit/Magazines/`: the list of Sanskrit Vimarsha volumes (the scans are not hosted here)
 - `Samskrit/Courses/`: personal notes, exercises, and reference material from Sanskrit courses taken by the maintainer
 - `Samskrit/LaTeX/`: shared LaTeX style/preamble files used across the repo's Beamer decks
 
