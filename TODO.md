@@ -9,20 +9,9 @@ Further Yoga Sutra study continues offline, from video playlists and books.
 
 ## Open, from the upgrade plan
 - Release of the compiled PDFs (a GitHub Release is the author's step; compiled decks are git-ignored).
-- Start the git history fresh, so the moved-out files are gone from old commits too (the author's step).
-- Read the newly included Yoga Nidra instruction frames before a Release; some have draft-looking titles.
-- Decide whether the exam frames in the YCB1 workshop (`ycb1_exam.tex`) may stay public.
-- Yoga themes, to be done one step at a time (plan and analysis: [`reports/yoga_theme_plan.md`](reports/yoga_theme_plan.md)):
-  - [x] Access to the Drive `Yoga` folder only was granted.
-  - [x] Survey the Drive `Yoga` folder and write the analysis report (done; private report on the Desktop). Found: the Drive has only 19 of the 380 staged files.
-  - [x] Parent name decided: `BharatVidya`, with `Spirituality` as a theme folder inside.
-  - [x] The author renamed the Drive folder to `BharatVidya`.
-  - [x] Decided: certification is its own theme (`YogaCertification`); duplicates go to a holding folder, nothing deleted.
-  - [x] Staged material copied into the themed Drive folders, hash-checked; the Drive folder reorganised by theme with Yoga Sutra and Yoga Nidra as they were; 80 duplicate copies (362 MB) held.
-  - [ ] Update the FreeFileSync Yoga pair (it still points at the old folder name) and run the mirrors (the author).
-  - [ ] Review `_ToReview` in the Drive, then decide whether to delete the Desktop staging and the holding folder of duplicates.
-  - [ ] Tidy inside `YogaCertification`: merge the overlapping folders, add a private subfolder for the author's own assignments and forms.
-  - [ ] Copy the generic material into `Yoga/` and the other theme folders, with the questions listed in the plan (certification, own articles, IGNOU licence).
+- Read the newly included Yoga Nidra instruction frames before a Release (the number suffixes on their titles are gone).
+- Optional: record the source of `YogaSutra/Texts/Patanjali_YogaSutra_Vivekananda_Sanskrit_English.pdf` when remembered (the README already says it is unrecorded).
+- Read the new folder READMEs (`Yoga/Sketchnotes`, `Yoga/GoodLife`) against the files; they were written from file names.
 
 ## Completed
 
