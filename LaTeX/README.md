@@ -31,19 +31,19 @@ Shared LaTeX style/preamble files live in `Samskrit/LaTeX/` (e.g., `preamble.tex
 
 ## YogaSutra Seminar System
 
-The YogaSutra material is structured as **1 workshop + 6 seminars**, each with a corresponding cheat sheet.
+The YogaSutra material is one workshop plus independent seminars, each with a corresponding cheat sheet. Page counts change as slides are added, so read them from the compiled PDFs.
 
 ### Presentations
 
-| File | Title | Pages |
-|------|-------|-------|
-| `Main_Workshop_YogaSutra_Presentation.tex` | YogaSutra Workshop (all 5 seminars) | n/a |
-| `Main_Seminar_YogaSutra_Intro_Presentation.tex` | Seminar 1: Introduction | ~75 |
-| `Main_Seminar_YogaSutra_Samadhipad_Presentation.tex` | Seminar 2: Samadhi Pada | ~118 |
-| `Main_Seminar_YogaSutra_Sadhanapad_Presentation.tex` | Seminar 3: Sadhana Pada | ~128 |
-| `Main_Seminar_YogaSutra_Vibhutipad_Presentation.tex` | Seminar 4: Vibhuti Pada | ~129 |
-| `Main_Seminar_YogaSutra_Kaivalyapad_Presentation.tex` | Seminar 5: Kaivalya Pada | ~80 |
-| `Main_Seminar_YogaSutra_Overview_Presentation.tex` | Overview (independent ~45-slide session) | ~50 |
+| File | Title |
+|------|-------|
+| `Main_Workshop_YogaSutra_Presentation.tex` | YogaSutra Workshop (all the chapter seminars together) |
+| `Main_Seminar_YogaSutra_Intro_Presentation.tex` | Introduction, including the Orientation frames drawn from the lecture notes |
+| `Main_Seminar_YogaSutra_Samadhipad_Presentation.tex` | Samadhi Pada |
+| `Main_Seminar_YogaSutra_Sadhanapad_Presentation.tex` | Sadhana Pada |
+| `Main_Seminar_YogaSutra_Vibhutipad_Presentation.tex` | Vibhuti Pada |
+| `Main_Seminar_YogaSutra_Kaivalyapad_Presentation.tex` | Kaivalya Pada |
+| `Main_Seminar_YogaSutra_Overview_Presentation.tex` | Overview (independent short session) |
 
 Each presentation has a matching `*_CheatSheet.tex` compiled as landscape A4, two-column article.
 
@@ -56,7 +56,7 @@ seminar_yogasutra_samadhipad_content.tex ← brief_intro + samadhipad + refs
 seminar_yogasutra_sadhanapad_content.tex ← brief_intro + sadhanapad + refs
 seminar_yogasutra_vibhutipad_content.tex ← brief_intro + vibhutipad + refs
 seminar_yogasutra_kaivalyapad_content.tex ← brief_intro + kaivalyapad + refs
-seminar_yogasutra_overview_content.tex  ← standalone 45-slide overview with all chapters
+seminar_yogasutra_overview_content.tex  ← standalone short overview with all chapters
 ```
 
 ### Shared Source Files
@@ -65,13 +65,13 @@ seminar_yogasutra_overview_content.tex  ← standalone 45-slide overview with al
 
 | File | Content |
 |------|---------|
-| `yogsutra_intro.tex` | Rich 444-line introduction: Patanjali, history, Ashtanga, key concepts |
-| `yogsutra_samadhipad.tex` | Ch.1 sutras 1.1–1.51 with Devanagari + multi-translator interpretations |
-| `yogsutra_sadhanapad.tex` | Ch.2: Kriya Yoga, Pancha Klesha, Ashtanga |
-| `yogsutra_vibhutipad.tex` | Ch.3: Samyama, Siddhis |
-| `yogsutra_kaivalyapad.tex` | Ch.4: Kaivalya, karma, liberation |
-| `yogsutra_glance.tex` | Overview of all 4 chapters grouped by topic |
-| `yogsutra_brief_intro.tex` | 4-slide compact context-setter for chapter seminars |
+| `yogsutra_intro.tex` | Introduction: Patanjali, history, Ashtanga, key concepts, and the Orientation frames from the lecture notes |
+| `yogsutra_samadhipad.tex` | Samadhi Pada sutras with Devanagari and multi-translator interpretations |
+| `yogsutra_sadhanapad.tex` | Sadhana Pada: Kriya Yoga, Pancha Klesha, Ashtanga |
+| `yogsutra_vibhutipad.tex` | Vibhuti Pada: Samyama, Siddhis |
+| `yogsutra_kaivalyapad.tex` | Kaivalya Pada: Kaivalya, karma, liberation |
+| `yogsutra_glance.tex` | Overview of the four pada grouped by topic, with Orientation frames |
+| `yogsutra_brief_intro.tex` | Compact context-setter for the chapter seminars |
 | `yogasutra_refs.tex` | References (note: this file uses 'a', i.e. `yogasutra_refs`) |
 
 ### Reference PDFs (in this folder)

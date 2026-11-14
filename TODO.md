@@ -1,11 +1,17 @@
 # TODO.md: Repo-Level Index
 
-**Status as of 2026-08-13: closed. This repository is a finished study archive, not an active
-project.** There is no roadmap and no planned next piece of work. The index below is kept so that
-anyone (including a future session) can see what exists and what state it was left in.
+**Status as of 2026-11-14: maintained study archive.** It was closed in August 2026 and reopened for a
+bounded upgrade (see `reports/STATUS.md` for progress and `reports/upgrade_nontech_14112026.md` for the
+plan). There is no feature roadmap beyond that plan. The index below shows what exists and what state it
+was left in.
 
-Further Yoga Sutra study continues offline, from video playlists and books, and does not produce
-changes here. If that ever changes, add an "Actively developed" section back above this one.
+Further Yoga Sutra study continues offline, from video playlists and books.
+
+## Open, from the upgrade plan
+- Duplicate sets (hash-identical files) still to be removed after review.
+- Orphan LaTeX sources (`ycb1_theory_faqs`, `yogashastra_meditation`, `yogashastra_sankhya`) and unused images: decide and tidy.
+- Release of the compiled PDFs (a GitHub Release is the author's step).
+- Rewrite of git history to drop moved files is the author's step.
 
 ## Completed
 
@@ -21,9 +27,10 @@ collections. They were never on an active track and are not being picked up.
 
 ## Build verification -- 2026-08-13
 
-All 15 YogaSutra documents were compiled from a clean state with XeTeX (MiKTeX 23.12) as the final
-check before closing the repo. **All 15 build successfully, exit code 0, zero LaTeX errors**, in
-279 seconds total for the whole set.
+All YogaSutra documents were compiled from a clean state with XeTeX (MiKTeX 23.12) as the final
+check before closing the repo in August 2026: all built successfully, exit code 0, zero LaTeX errors, in
+279 seconds total for the whole set. The page counts below are from that run; the Introduction
+presentation has since grown with the Orientation frames (re-run the build to refresh the table).
 
 | Document | Pages |
 |---|---|

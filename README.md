@@ -1,16 +1,17 @@
 # Bharat Vidya (aka Indian Knowledge System)
 
-[![License: MIT](https://img.shields.io/github/license/yogeshhk/BharatVidya)](./LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/yogeshhk/BharatVidya)](https://github.com/yogeshhk/BharatVidya/commits/master)
+[![Content: CC BY-NC-SA 4.0](https://img.shields.io/badge/content-CC%20BY--NC--SA%204.0-lightgrey)](./LICENSE_CONTENT.md)
+[![Code: MIT](https://img.shields.io/github/license/yogeshhk/BharatVidya?label=code)](./LICENSE)
 
-> **Status: finished study archive (as of August 2026).** The material here is complete and is no
-> longer under active development. The YogaSutra seminar system in particular is final: 1 workshop
-> and 6 seminars, each with a cheat sheet, all verified to compile. There is no roadmap. Issues and
-> pull requests are still welcome, and corrections to the Sanskrit, transliteration or commentary
-> are especially welcome, but do not expect new material to be added. See [TODO.md](./TODO.md) for
-> the state each area was left in.
+**Study notes and slide decks on the Indian Knowledge Systems, led by a Yoga Sutra seminar series with Devanagari, transliteration and several translators side by side.**
 
-Welcome to the Indian Knowledge System (IKS) repository! This project aims to explore and celebrate the rich heritage of traditional Indian knowledge across various domains. Whether you're interested in ancient sciences, arts, literature, or holistic practices, this repository is a hub for interdisciplinary research and collaboration.
+What you will find here:
+- **Yoga Sutra seminars:** a workshop and independent seminars with cheat sheets, built with XeTeX. Start with the Introduction deck, which opens with an Orientation drawn from a lecture on how the Sutra reached modern yoga. See [LaTeX/README.md](./LaTeX/README.md) for the file guide and build scripts.
+- **Notes:** reorganised study notes on the Yoga Sutra in [`YogaShastra/YogaSutra`](./YogaShastra/YogaSutra/Notes%20on%20Yogasutra.md).
+- **Reference lists:** curated resources on Sanskrit, Yoga, Ayurveda, Arthashastra and the Dasbodh.
+- **A machine-readable Yoga Sutra graph:** [`YogaSutraTrees`](./YogaShastra/YogaSutra/YogaSutraTrees/README.md) (a third-party project, see [NOTICE.md](./NOTICE.md)).
+
+Books, recordings and course packs by other people are not kept here; see [NOTICE.md](./NOTICE.md). Content is under [CC BY-NC-SA 4.0](./LICENSE_CONTENT.md) and code under MIT. Corrections to the Sanskrit, transliteration or commentary are especially welcome; see [CONTRIBUTING.md](./CONTRIBUTING.md). To cite this work, use [CITATION.cff](./CITATION.cff). Progress of the current upgrade: [reports/STATUS.md](./reports/STATUS.md).
 
 A sample slide from the YogaSutra Overview seminar, showing the Devanagari, transliteration, and multi-translator commentary format used throughout:
 
@@ -36,7 +37,7 @@ For a full map of what's in this repository, see [CONTENTS.md](./CONTENTS.md).
 4. **Mathematics**: Uncover the mathematical advancements made by Indian scholars through the ages.
 5. **Samskrit**: Predominant language in which this Vidya exists. More info [here](./Samskrit/Awesome_samskrit.md)
 6. **YogaShastra**: Yoga way of life. More info [here](./YogaShastra/README.md)
-   - **YogaSutra Seminar System** (`LaTeX/`): 1 Workshop + 6 Seminars (Intro, Samadhipad, Sadhanapad, Vibhutipad, Kaivalyapad, Overview), each with a Beamer presentation and cheat sheet. Built via `make_yogasutra.bat`. More info [here](./LaTeX/README.md)
+   - **YogaSutra Seminar System** (`LaTeX/`): a Workshop and Seminars (Intro, Samadhipad, Sadhanapad, Vibhutipad, Kaivalyapad, Overview), each with a Beamer presentation and cheat sheet. Built via `make_yogasutra.bat`. More info [here](./LaTeX/README.md)
 7. **ArthaShastra**: Predominant text on geopolitics and governance. More info [here](./IKS/Arthashastra/Awesome_arthashastra.md)
 8. **Dasbodh**: Study of Samarth Ramdas Swami's Dasbodh via email-based learning. More info [here](./Dasbodh/)
 9. **IKS Coursework**: Master's-level study materials on Indian Knowledge Systems (Bhishma MCKS program). More info [here](./IKS/)

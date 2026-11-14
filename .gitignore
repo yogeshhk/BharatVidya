@@ -175,3 +175,11 @@ cython_debug/
 *.idx
 *.ilg
 *.ind
+
+# Personal coursework and records, kept outside the repo (Desktop\BharatVidya_Moved\Private)
+YogaShastra/Yogalaya/*YogeshK*
+YogaShastra/Yogalaya/*YogeshKulkarni*
+Samskrit/Courses/Vagvipaka/*Certificate*
+Samskrit/Courses/Vagvipaka/Vagvipaka_Exam.pdf
+Dasbodh/Assignments/*kulkarni*
+Dasbodh/Assignments/Pravesh/*kulkarni*

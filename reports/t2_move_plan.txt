@@ -1,0 +1,439 @@
+T2 dry run, tiers A and B. 437 files, 1523.1 MB
+
+     0.47 MB  Dasbodh/References/AikalyaveenKalale.png
+     0.49 MB  Dasbodh/References/AkhandSavadhanatene.png
+     0.07 MB  Dasbodh/References/AvagunaSandita.jpg
+     0.08 MB  Dasbodh/References/BahutJanmancha.jpg
+     2.95 MB  Dasbodh/References/Dasbodh .doc   [REFERENCED]
+     0.01 MB  Dasbodh/References/Dasbodh Chapter 5, Sub-chapter 5.htm
+     0.19 MB  Dasbodh/References/Dasbodh Competition.pdf
+     0.05 MB  Dasbodh/References/Dasbodh-Management & Leadership Development-09.doc
+     0.03 MB  Dasbodh/References/Dasbodh.jpg   [REFERENCED]
+     0.21 MB  Dasbodh/References/DasbodhNewsletters1-8.pdf
+     0.11 MB  Dasbodh/References/Dasbodh_Management.pdf
+     0.47 MB  Dasbodh/References/GuruToJanava(Controversial).png
+     0.43 MB  Dasbodh/References/Samarth Ramdas - Wikipedia, the free encyclopedia.pdf
+     0.12 MB  Dasbodh/References/Shibir Time table .doc
+     0.45 MB  Dasbodh/References/The biography of Samarth Ramdas.pdf
+     0.54 MB  Dasbodh/References/VatPusata.png
+     0.01 MB  Dasbodh/References/audio_dasbodh.pdf
+     0.07 MB  Dasbodh/References/dAsabodhsUchi.pdf
+    48.95 MB  Dasbodh/References/dainadin_upasana_shivthar.pdf
+     0.22 MB  Dasbodh/References/dasbodh164_229.pdf
+     0.28 MB  Dasbodh/References/dasbodh1_83.pdf
+     0.19 MB  Dasbodh/References/dasbodh230_284.pdf
+     0.29 MB  Dasbodh/References/dasbodh285_371.pdf
+     0.25 MB  Dasbodh/References/dasbodh372_447.pdf
+     0.29 MB  Dasbodh/References/dasbodh448_535.pdf
+     0.23 MB  Dasbodh/References/dasbodh536_606.pdf
+     0.19 MB  Dasbodh/References/dasbodh607_662.pdf
+     0.23 MB  Dasbodh/References/dasbodh663_732.pdf
+     0.22 MB  Dasbodh/References/dasbodh733_796.pdf
+     0.26 MB  Dasbodh/References/dasbodh84_163.pdf
+     0.16 MB  Dasbodh/References/dasbodh_dashak1.pdf
+     2.02 MB  Dasbodh/References/dasbodh_english.pdf
+     0.18 MB  Dasbodh/References/dasbodh_nityapath.pdf
+     0.10 MB  Dasbodh/References/dasbodh_pic.png
+     3.34 MB  Dasbodh/References/dasbodh_suchi_programme.zip
+     0.15 MB  Dasbodh/References/dasbodh_title.pdf
+    16.20 MB  Dasbodh/References/dasbodhachi_killi.pdf
+     0.59 MB  Dasbodh/References/dasbodhatil_tatvadnyan.pdf
+     0.03 MB  Dasbodh/References/dbc0802.html
+     0.03 MB  Dasbodh/References/dbc0803.html
+     0.03 MB  Dasbodh/References/dbc0806.html
+     0.28 MB  Dasbodh/References/kayaBahutKashtavavi.png
+     3.94 MB  Dasbodh/References/shrimad_dasbodh.ppt
+     0.20 MB  Dasbodh/References/shrimat_dasbodh_sankshipt.pdf
+     2.16 MB  IKS/Arthashastra/Arthashastra_of_Chanakya_English.pdf
+    18.65 MB  IKS/Arthashastra/Arthashastra_of_Chanakya_Hindi_Udayveer.pdf
+     2.43 MB  IKS/Arthashastra/Chanakya In You.pdf
+     3.41 MB  IKS/Arthashastra/Chanakya Neeti _ Open Pathshala.pdf
+     2.44 MB  IKS/Arthashastra/Corporate Chanakya (Hindi).pdf
+     0.35 MB  IKS/Arthashastra/IIM Kolkata Arthashatra.pdf
+     6.91 MB  IKS/Arthashastra/Indian principal-agent theory.pdf
+     9.07 MB  IKS/Arthashastra/Kautilya Arthshashtra Vittal.pdf
+     1.51 MB  IKS/Arthashastra/Kautilya Ka Arthshashtra in Hindi_1.pdf
+    23.82 MB  IKS/Arthashastra/Kautilya Ka Arthshashtra in Hindi_2.pdf
+    31.84 MB  IKS/Arthashastra/Kautilya arth shatratil ship shashtra.pdf
+     1.10 MB  IKS/Arthashastra/Kautilya on Time Inconsistency_Sihag.pdf
+     0.87 MB  IKS/Arthashastra/Lessons for the Stretegy.pdf
+     0.22 MB  IKS/Arthashastra/Lessons in corporate governance from Kautilya Arthashastra in ancient India.pdf
+     0.22 MB  IKS/Arthashastra/MumbaiUniversity-M-A-Arthashastra.pdf
+     0.54 MB  IKS/Arthashastra/MumbaiUniversity_Arthashastra-100-MCQs.pdf
+    13.13 MB  IKS/Arthashastra/The Kautilya Arthashastra - Chanakya.pdf
+     9.07 MB  IKS/Arthashastra/Timeless Grand Strategy.pdf
+     0.54 MB  IKS/Arthashastra/True Founder of Economics.pdf
+    22.92 MB  IKS/Arthashastra/kautiliy arthashastra pradip_cropped_01.pdf
+    30.08 MB  IKS/Arthashastra/kautiliy arthashastra pradip_cropped_02.pdf
+     8.15 MB  IKS/Arthashastra/कौटिल्य अर्थशास्त्र.pdf
+     0.05 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Bhishma_1st Sem MCKS - Sanskrit - Oct 2023-25 - Timetable.pdf
+     0.50 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Bhishma_Question Bank - Sem 1 - Sanskrit Bhasha Parichay.pdf
+     0.62 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/SK01 - Sanskrit Bhasha Parichay - Batch Oct 2023-25.pdf
+     0.23 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 1 - 10.10.23.pdf
+     1.30 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 10 - 26.10.23.pdf
+     0.46 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 11 - 30.10.23.pdf
+     1.75 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 12 - 31.10.23.pdf
+     0.18 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 13 - 01.11.23.pdf
+     0.34 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 14 - 02.11.23.pdf
+     0.24 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 15 - 03.11.23.pdf
+     0.26 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 16 - 04.11.23.pdf
+     0.25 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 17 - 06.11.23.pdf
+     0.46 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 18 - 07.11.23.pdf
+     0.31 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 19 - 08.11.23.pdf
+     0.29 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 2 - 11.10.23.pdf
+     0.28 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 20 - 09.11.23.pdf
+     0.30 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 3 - 12.10.23.pdf
+     0.93 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 4 - 13.10.23.pdf
+     1.39 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 5 - 16.10.23.pdf
+     1.26 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 7 - 19.10.23.pdf
+     0.39 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 8 - 23.10.23.pdf
+     0.31 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Sanskrit - Lecture 9 - 25.10.23.pdf
+     0.69 MB  IKS/Bhishma_MCKS/MK01 - Sanskrit/Word - tables.pdf
+     0.05 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/1st Sem MCKS - Thoughts - Oct 2023-25 - Timetable.pdf
+     1.07 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/MK02 - English - Indian Polotical Economic and Sociological Thoughts.pdf
+     1.63 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/MK02 - Hindi -  Indian Political Economic and Sociological Thoughts.pdf
+     0.36 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/MK02 - Lecture 1 - 20.11.23.pdf
+     0.34 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/MK02 - Lecture 10 - 6.12.23.pdf
+     0.33 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/MK02 - Lecture 11 - 7.12.23.pdf
+     1.18 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/MK02 - Lecture 12 - 11.12.23.pdf
+     0.44 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/MK02 - Lecture 13 - 12.12.23.pdf
+     0.34 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/MK02 - Lecture 14 - 13.12.23.pdf
+     0.25 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/MK02 - Lecture 15 - 14.12.23.pdf
+     0.29 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/MK02 - Lecture 2 - 21.11.23.pdf
+     0.36 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/MK02 - Lecture 3 - 22.11.23.pdf
+     0.31 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/MK02 - Lecture 4 - 23.11.23.pdf
+     0.38 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/MK02 - Lecture 5 - 27.11.23.pdf
+     0.47 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/MK02 - Lecture 6 - 28.11.23.pdf
+     0.29 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/MK02 - Lecture 7 - 29.11.23.pdf
+     0.29 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/MK02 - Lecture 8 - 4.12.23.pdf
+     0.41 MB  IKS/Bhishma_MCKS/MK02 - IndianPoliticalEconomicSocialogicalThoughts/MK02 - Lecture 9 - 5.12.23.pdf
+     9.91 MB  IKS/Bhishma_MCKS/MK03 - Kautilya in Historical Perspective/An-Outline-of-Indian-Chronology.pdf
+     0.73 MB  IKS/Bhishma_MCKS/MK03 - Kautilya in Historical Perspective/ITIHASA-Book.pdf
+     3.34 MB  IKS/Bhishma_MCKS/MK03 - Kautilya in Historical Perspective/MK03 - English - Kautilya in Historical Perspective.pdf
+     2.07 MB  IKS/Bhishma_MCKS/MK03 - Kautilya in Historical Perspective/MK03 - Hindi - Kautilya in Historical Perspective.pdf
+     3.81 MB  IKS/Bhishma_MCKS/MK03 - Kautilya in Historical Perspective/Puranic chronology of India _ Essays on historical and mythological India.pdf
+     2.29 MB  IKS/Bhishma_MCKS/MK03 - Kautilya in Historical Perspective/The Choronology Of India Mahabharat-to-Medieval-2.pdf
+     4.25 MB  IKS/Bhishma_MCKS/MK03 - Kautilya in Historical Perspective/The Chronology of India Mahabharat-to-Medieval-1.pdf
+     8.41 MB  IKS/Bhishma_MCKS/MK03 - Kautilya in Historical Perspective/The Chronology of India Manu-to-Mahabharat.pdf
+     1.42 MB  IKS/Bhishma_MCKS/MK04 - Idea of Hindu King and Kingship/MK04 - English - Idea of Hindu King and Kingship.pdf
+     1.67 MB  IKS/Bhishma_MCKS/MK04 - Idea of Hindu King and Kingship/MK04 - Hindi - Idea of Hindu King and Kingship.pdf
+    19.49 MB  Samskrit/Classics/Book Lavanalal Jha-lilavati.pdf
+     4.96 MB  Samskrit/Classics/Book Logic-and-Metalogic.pdf
+     2.25 MB  Samskrit/Classics/Book Niti-sara-CollectionOfSubhashitas.pdf
+     0.20 MB  Samskrit/Classics/Book Origins of Vedic Civiliazation.PDF
+     0.15 MB  Samskrit/Classics/Book Shri Lalit Sahastra Nama Strotam.pdf
+     0.08 MB  Samskrit/Classics/Book nyaya.pdf
+     1.14 MB  Samskrit/Classics/Book nyaya_philosophy.pdf
+     0.31 MB  Samskrit/Classics/Book subhaashhita_kedar.pdf
+     0.11 MB  Samskrit/Classics/Book yogasuutra.pdf
+     0.54 MB  Samskrit/Classics/Book_300SubhashitasWithEnglishMeaning.pdf
+     7.04 MB  Samskrit/Classics/Book_A Handful of Popular Maxims.pdf
+     1.11 MB  Samskrit/Classics/Book_A Practical Sanskrit.pdf
+     0.98 MB  Samskrit/Classics/Book_A practicla Sanskrit Introdcutory wikner-rm.pdf
+     2.16 MB  Samskrit/Classics/Book_A-Sanskrit-Manual-For-High-Schools-150.pdf
+     0.07 MB  Samskrit/Classics/Book_AardhdhatukPrakriyaPraveshopaaya.pdf
+     0.22 MB  Samskrit/Classics/Book_BhagavadGita.pdf
+     0.20 MB  Samskrit/Classics/Book_HathYogPradipika.pdf
+     1.02 MB  Samskrit/Classics/Book_Nyayavali - Sanskrit Maxims & Proverbs - with English Translation and Notes.pdf
+     1.59 MB  Samskrit/Classics/Book_Sanskrit Shishtachar.pdf
+    17.83 MB  Samskrit/Classics/Book_SanskritSahitya.pdf
+    16.17 MB  Samskrit/Classics/Book_SanskritSahityaHistory.pdf
+     0.09 MB  Samskrit/Classics/Book_SaravDhatukPrakriyaPraveshopaya.pdf
+    11.41 MB  Samskrit/Classics/Book_SubhashitaRatnakara.pdf
+     0.17 MB  Samskrit/Classics/Book_The Churning of Vedic Knowledge.PDF
+     0.91 MB  Samskrit/Classics/Book_Vedic_Mathematics_Methods.pdf
+     0.11 MB  Samskrit/Classics/Book_Yogasuutra.pdf
+     0.38 MB  Samskrit/Classics/Book_aShTAdhyAyI.pdf
+     0.11 MB  Samskrit/Classics/Book_bAlabodhasangraha.pdf
+     0.14 MB  Samskrit/Classics/Book_bhajagovindam.pdf
+     0.33 MB  Samskrit/Classics/Book_mullertex-anthonyrobson.zip
+     0.09 MB  Samskrit/Classics/Book_suvachanaani.pdf
+     0.32 MB  Samskrit/Classics/Book_tattvabodha.pdf
+     4.92 MB  Samskrit/Classics/NIOS_248 Sanskrit Sahitya Book1 ch 1-11.new.pdf
+     4.03 MB  Samskrit/Classics/NIOS_248 Sanskrit Sahitya Book2 ch 12-23.new.pdf
+     2.30 MB  Samskrit/Classics/NIOS_248-Book1_Complete.pdf
+     2.19 MB  Samskrit/Classics/NIOS_248-Book2_Complete.pdf
+     8.88 MB  Samskrit/Classics/NIOS_347 Bharatiya Darshan Book2 (ch 11-27).new.pdf
+     5.31 MB  Samskrit/Classics/NIOS_347_Bharatiya_Darshan_Book1_(ch_1-10).pdf
+     2.57 MB  Samskrit/Classics/NIOS_Bharatiya_Darshan_347_book1.pdf
+     3.14 MB  Samskrit/Classics/NIOS_Bharatiya_Darshan_347_book2.pdf
+     6.25 MB  Samskrit/Classics/NIOS_SanskritSahitya_Book-1.pdf
+     6.25 MB  Samskrit/Classics/NIOS_SanskritSahitya_Book-2.pdf
+     0.32 MB  Samskrit/Classics/Sanskrit Documents List_ Subhaashita Index.pdf
+     4.04 MB  Samskrit/Classics/Subhashita-Samputa-Gandhi-Centre-Bangalore-OCR .pdf
+     0.73 MB  Samskrit/Classics/VishnuSahasraNam.pdf
+     0.21 MB  Samskrit/Classics/VishnuSahasraNamStotra.pdf
+     0.09 MB  Samskrit/Classics/VishnuSahasraNamStotraBold.pdf
+     4.68 MB  Samskrit/Grammar/Book_01 First Book of Sanskrit - Bhandarkar.pdf
+    10.89 MB  Samskrit/Grammar/Book_02 Second Book of Sanskrit - Bhandarkar.pdf
+     0.98 MB  Samskrit/Grammar/Book_A-Practical_Sanskrit_wikner-rm.pdf
+     6.61 MB  Samskrit/Grammar/Book_Alhad11.pdf
+    34.01 MB  Samskrit/Grammar/Book_Alhad12.pdf
+    19.12 MB  Samskrit/Grammar/Book_BhashaPravesh_I.pdf
+    20.01 MB  Samskrit/Grammar/Book_BhashaPravesh_II.pdf
+    36.18 MB  Samskrit/Grammar/Book_CBSEClass10SanskritManika.pdf
+     0.90 MB  Samskrit/Grammar/Book_Dictionary_Sanskrit English.pdf
+     8.50 MB  Samskrit/Grammar/Book_Macdonell - A Sanskrit Grammar For Students.pdf
+     6.30 MB  Samskrit/Grammar/Book_SampurnaAmod8.pdf
+     7.05 MB  Samskrit/Grammar/Book_SampurnaAmod9.pdf
+     4.08 MB  Samskrit/Grammar/Book_Samskrit_Grammar.pdf
+     1.10 MB  Samskrit/Grammar/Book_Sanskrit For Begineers.pdf
+     1.10 MB  Samskrit/Grammar/Book_Sanskrit for Beginners.pdf
+    17.74 MB  Samskrit/Grammar/Book_Sanskrit-Vyakaran - Reference.pdf
+     1.19 MB  Samskrit/Grammar/Book_Sanskrit_Vyakarana.pdf
+    26.66 MB  Samskrit/Grammar/Book_SanyuktaAnand10.pdf
+     6.73 MB  Samskrit/Grammar/Book_SanyuktaAnand8.pdf
+     5.36 MB  Samskrit/Grammar/Book_SanyuktaAnand9.pdf
+     3.21 MB  Samskrit/Grammar/Book_Spoken Sanskrit.pdf
+     6.50 MB  Samskrit/Grammar/Book_sanskritgrammar.pdf
+    11.50 MB  Samskrit/Grammar/Book_sanskritgrammarf014425mbp.pdf
+     1.68 MB  Samskrit/Grammar/Enjoyable Sanskrit Grammar DEVA GOKULAMSanskritGrammar1BasicStructure.pdf
+     1.29 MB  Samskrit/Grammar/Enjoyable Sanskrit Grammar Dhatukosah.pdf
+     3.06 MB  Samskrit/Grammar/Enjoyable Sanskrit Grammar Series 2.pdf
+     1.49 MB  Samskrit/Grammar/Enjoyable Sanskrit Grammar Series 3.pdf
+     3.92 MB  Samskrit/Grammar/Enjoyable Sanskrit Grammar Volume 1 A- Key to Exercise.pdf   [REFERENCED]
+     1.19 MB  Samskrit/Grammar/Enjoyable Sanskrit Grammar Volume 1 – Workbook.pdf
+     1.68 MB  Samskrit/Grammar/Enjoyable Sanskrit Grammar Volume 1.pdf   [REFERENCED]
+     3.19 MB  Samskrit/Grammar/Enjoyable Sanskrit Grammar Volume 2 A- Key to Exercise.pdf   [REFERENCED]
+     3.06 MB  Samskrit/Grammar/Enjoyable Sanskrit Grammar Volume 2.pdf   [REFERENCED]
+     1.49 MB  Samskrit/Grammar/Enjoyable Sanskrit Grammar Volume 3.pdf   [REFERENCED]
+     0.27 MB  Samskrit/Grammar/Exercises_Sanskrit Vyavahar Saahistri.pdf
+     0.39 MB  Samskrit/Grammar/Exercises_Subhashita.pdf
+     1.07 MB  Samskrit/Grammar/Exercises_lets learn sanskrit.pdf
+     0.06 MB  Samskrit/Grammar/Exercises_sb-exercise1.pdf
+     0.06 MB  Samskrit/Grammar/Exercises_sb-exercise2.pdf
+     0.30 MB  Samskrit/Grammar/Exercises_subhaashhita_kedar.pdf
+     0.11 MB  Samskrit/Grammar/Exercises_subhashit.pdf
+     0.06 MB  Samskrit/Grammar/Exercises_suvachanaani.pdf
+     0.37 MB  Samskrit/Grammar/OP_Adjectives in Sanskrit - A Quick Guide _ Learn Sanskrit _ Open Pathshala.pdf
+     0.32 MB  Samskrit/Grammar/OP_Ayadi Sandhi in Sanskrit_ A Quick Guide _ Learn Sanskrit _ Open Pathshala.pdf
+     0.13 MB  Samskrit/Grammar/OP_Days_of_Week.pdf
+     0.26 MB  Samskrit/Grammar/OP_Introduction_Sanskrit_Varnamala.pdf
+     0.18 MB  Samskrit/Grammar/OP_Prefixes_(Upasarga).pdf
+     0.82 MB  Samskrit/Grammar/OP_Pronouns.pdf
+     0.49 MB  Samskrit/Grammar/OP_Samas_Complete.pdf
+     0.16 MB  Samskrit/Grammar/OP_Verbs_Introduction.pdf
+     0.22 MB  Samskrit/Grammar/OP_Verbs_Past_Tense.pdf
+     0.18 MB  Samskrit/Grammar/OP_Verbs_Present_Tense_AP_Endings.pdf
+     0.19 MB  Samskrit/Grammar/OP_Verbs_Present_Tense_PP_Endings.pdf
+     0.50 MB  Samskrit/Grammar/OP_Voice_.pdf
+     3.14 MB  Samskrit/Grammar/Study Guide to Laghu Siddhanta Kaumudi Part 1.pdf   [REFERENCED]
+     1.48 MB  Samskrit/Grammar/Study Guide to Laghu Siddhanta Kaumudi Part 10.pdf   [REFERENCED]
+     1.05 MB  Samskrit/Grammar/Study Guide to Laghu Siddhanta Kaumudi Part 12.pdf   [REFERENCED]
+     2.99 MB  Samskrit/Grammar/Study Guide to Laghu Siddhanta Kaumudi Part 2.pdf   [REFERENCED]
+     2.09 MB  Samskrit/Grammar/Study Guide to Laghu Siddhanta Kaumudi Part 3.pdf   [REFERENCED]
+     4.10 MB  Samskrit/Grammar/Study Guide to Laghu Siddhanta Kaumudi Part 4.pdf   [REFERENCED]
+     4.71 MB  Samskrit/Grammar/Study Guide to Laghu Siddhanta Kaumudi Part 5.pdf   [REFERENCED]
+     4.87 MB  Samskrit/Grammar/Study Guide to Laghu Siddhanta Kaumudi Part 6.pdf   [REFERENCED]
+     3.44 MB  Samskrit/Grammar/Study Guide to Laghu Siddhanta Kaumudi Part 7.pdf   [REFERENCED]
+     3.46 MB  Samskrit/Grammar/Study Guide to Laghu Siddhanta Kaumudi Part 8.pdf   [REFERENCED]
+     1.53 MB  Samskrit/Grammar/Study Guide to Laghu Siddhanta Kaumudi Part 9.pdf   [REFERENCED]
+     1.77 MB  Samskrit/Grammar/Thesis_NLP_Techniques_for_Sanskrit_MSR_Thesis.pdf
+    21.28 MB  Samskrit/Grammar/Tutorial_SandhiPrakaran.pdf
+     0.67 MB  Samskrit/Grammar/Tutorial_Vibhakti_Declensions.pdf
+     0.13 MB  Samskrit/Grammar/Tutorial_noun.pdf
+     4.11 MB  Samskrit/Grammar/Vyoma_2048907-Shabda_Rupa_Final_09062024.pdf
+     0.06 MB  Samskrit/Grammar/ubcsanskrit_1styeargrammaroverview-2021.pdf
+     0.19 MB  Samskrit/Grammar/ubcsanskrit_kytseries-2021.pdf
+     0.17 MB  Samskrit/Grammar/ubcsanskrit_lang2022-bhu-man.pdf
+     0.71 MB  Samskrit/Grammar/ubcsanskrit_laṅ-imperfect tense - 2022.pdf
+     0.71 MB  Samskrit/Grammar/ubcsanskrit_laṭ-present tense - 2021.pdf
+     0.80 MB  Samskrit/Grammar/ubcsanskrit_liṅ-optative tense - 2022.pdf
+     0.80 MB  Samskrit/Grammar/ubcsanskrit_liṅ-optative tense - 2022_1.pdf
+     0.34 MB  Samskrit/Grammar/ubcsanskrit_liṭ-perfect tense-2022.pdf
+     0.74 MB  Samskrit/Grammar/ubcsanskrit_loṭ-imperative tense - 2022.pdf
+     0.26 MB  Samskrit/Grammar/ubcsanskrit_lṛṅ-conditional tense - 2022.pdf
+     0.26 MB  Samskrit/Grammar/ubcsanskrit_lṛṅ-conditional tense - 2022_1.pdf
+     0.27 MB  Samskrit/Grammar/ubcsanskrit_lṛṭ-future tense - 2022.pdf
+     0.11 MB  Samskrit/Grammar/ubcsanskrit_matravowels-2021.pdf
+     0.27 MB  Samskrit/Grammar/ubcsanskrit_ṇijanta-causative-2022.pdf
+     0.27 MB  Samskrit/Grammar/ubcsanskrit_ṇijanta-causative-2022_1.pdf
+     0.16 MB  Samskrit/Grammar/ubcsanskrit_pap-2022.pdf
+     0.37 MB  Samskrit/Grammar/ubcsanskrit_passive construction - 2022.pdf
+     0.32 MB  Samskrit/Grammar/ubcsanskrit_periphrastic perfect-2022.pdf
+     0.17 MB  Samskrit/Grammar/ubcsanskrit_ppp-2022.pdf
+     0.36 MB  Samskrit/Grammar/ubcsanskrit_samasa - 2022.pdf
+     0.31 MB  Samskrit/Grammar/ubcsanskrit_sandhirules-2021.pdf
+     0.10 MB  Samskrit/Grammar/ubcsanskrit_syllabary-2021.pdf
+     0.14 MB  Samskrit/Grammar/ubcsanskrit_transliteration schemes - 2022.pdf
+     0.19 MB  Samskrit/Grammar/ubcsanskrit_verbs - pronouns&endings-2021.pdf
+     5.42 MB  Samskrit/Grammar/ubcsanskrit_vibhakti-diagram-2021.pdf
+     0.08 MB  Samskrit/Grammar/ubcsanskrit_vowelstrength-2021.pdf
+     5.37 MB  YogaShastra/Aurobindo/Letters-on-Yoga-Sri-Aurobindo.pdf
+     3.49 MB  YogaShastra/Aurobindo/The-Life-Divine_Sri-Aurobindo.pdf
+     0.60 MB  YogaShastra/Aurobindo/The-Life-Divine_Sri-Aurobindo_e.pdf
+     3.50 MB  YogaShastra/Aurobindo/TheLifeDivine_Auribindo.pdf
+     8.66 MB  YogaShastra/Certification/Book_Hatha-Yoga-Pradipika-Muktibodhananda.pdf
+    32.09 MB  YogaShastra/Certification/YCBOfficial/Book_YCB_Instructtor_Official.pdf
+     1.88 MB  YogaShastra/Iyengar/FundamentalsI_Iyengar.pdf
+    29.43 MB  YogaShastra/Iyengar/Props Modifications_Iyengar.pdf
+    11.28 MB  YogaShastra/Iyengar/Tips Tricksonthemat_Iyengar.pdf
+     1.65 MB  YogaShastra/MHThaker/01_prana.pps
+    20.07 MB  YogaShastra/MHThaker/02_ attentive tension relaxation-atr and refining_sbmp_atr.rtf
+     9.73 MB  YogaShastra/MHThaker/02_1 min_refining_exercises_for_sbmp gujarati explanation.mp3
+     7.48 MB  YogaShastra/MHThaker/03_3 srb _Stretching.mp3
+     4.82 MB  YogaShastra/MHThaker/03_3 srb with 1-2-3-5-6   5 minutes with counting.mp3
+     0.03 MB  YogaShastra/MHThaker/03_Seven Minutes To Self benefit refining and 3srb.doc
+     1.19 MB  YogaShastra/MHThaker/04 diettary guidance for aspiring yoga students (1).pdf
+     1.19 MB  YogaShastra/MHThaker/04 diettary guidance for aspiring yoga students.pdf
+     1.02 MB  YogaShastra/MHThaker/05 meditation.pdf
+     0.46 MB  YogaShastra/MHThaker/06 yogic meditation.pdf
+     0.71 MB  YogaShastra/MHThaker/07 steps to achieve dhyana.pdf
+     4.82 MB  YogaShastra/MHThaker/07_3 srb with 1-2-3-5-6   5 minutes.mp3
+     0.37 MB  YogaShastra/MHThaker/08 kriya yoga.pdf
+     0.07 MB  YogaShastra/MHThaker/08 what all we have done today --- Total Health through Rhythmic Breath.doc
+     1.38 MB  YogaShastra/MHThaker/09 shat karma.pdf
+     0.05 MB  YogaShastra/MHThaker/09_ final summary of lecture at sbmp 14-2-14.doc
+     0.98 MB  YogaShastra/MHThaker/1.guru back to future avatar.pdf
+     1.97 MB  YogaShastra/MHThaker/10 pranayam.pdf
+     0.86 MB  YogaShastra/MHThaker/10.breathing.pdf
+     0.03 MB  YogaShastra/MHThaker/10_ Free centers in mumbai.doc
+     1.03 MB  YogaShastra/MHThaker/11 bandhas.pdf
+     0.47 MB  YogaShastra/MHThaker/11.psycho spiritual planes.pdf
+     1.88 MB  YogaShastra/MHThaker/12 chakras.pdf
+     0.58 MB  YogaShastra/MHThaker/12.spiritual plane.pdf
+     8.77 MB  YogaShastra/MHThaker/13 asans.pdf
+     1.04 MB  YogaShastra/MHThaker/13.avoidable mistakes.pdf
+     2.27 MB  YogaShastra/MHThaker/14 pran mudras.pdf
+     1.64 MB  YogaShastra/MHThaker/15 shakti bandha.pdf
+     1.26 MB  YogaShastra/MHThaker/16 yoga nindra.pdf
+     0.44 MB  YogaShastra/MHThaker/17 soorya namaskar.pdf
+     0.42 MB  YogaShastra/MHThaker/18 swara yoga.pdf
+     0.32 MB  YogaShastra/MHThaker/19 daily practice.pdf
+     1.06 MB  YogaShastra/MHThaker/2.psychophysical law.pdf
+     1.08 MB  YogaShastra/MHThaker/20 steps to meditation exercises.pdf
+     4.35 MB  YogaShastra/MHThaker/3.most important problem.pdf
+     0.99 MB  YogaShastra/MHThaker/4.mind and thinking and how both drift.pdf
+     2.61 MB  YogaShastra/MHThaker/5 Minute Brelax.mp3
+     2.55 MB  YogaShastra/MHThaker/5.what do drifts convey.pdf
+     1.82 MB  YogaShastra/MHThaker/6.what is mind of man.pdf
+     1.10 MB  YogaShastra/MHThaker/7.do we think and how.pdf
+     0.75 MB  YogaShastra/MHThaker/8.must we sleep and how much.pdf
+     1.03 MB  YogaShastra/MHThaker/9.expanding consciousness.pdf
+     1.31 MB  YogaShastra/MHThaker/Book Yoga by Mahendra Thaker Mumbai.pdf
+     0.60 MB  YogaShastra/MHThaker/Dr yehudit feuer Presentation.pps
+     2.09 MB  YogaShastra/MHThaker/The hedgehog concept.pdf
+     0.03 MB  YogaShastra/MHThaker/stress management syllabus.doc
+    12.23 MB  YogaShastra/Meditation/2010-07-07-Smile-Meditation-TaraBrach-hq.mp3
+     7.20 MB  YogaShastra/Meditation/2014-11-05-Meditation-Relaxing-into-Living-Presence-15min-TaraBrach.mp3
+    23.87 MB  YogaShastra/Meditation/Mindfulness Bell - A 5 Minute Mindfulness Meditation.mpg
+     3.04 MB  YogaShastra/Meditation/soham108.mp3
+     0.30 MB  YogaShastra/NIOSYoga/NIOS_Pract_Guidelines_YTTP_E_498-499.pdf
+     0.26 MB  YogaShastra/NIOSYoga/NIOS_YOGA-A_Hindi_Ch-1.pdf
+     0.13 MB  YogaShastra/NIOSYoga/NIOS_YOGA-A_Hindi_Ch-10.pdf
+     0.17 MB  YogaShastra/NIOSYoga/NIOS_YOGA-A_Hindi_Ch-11.pdf
+     0.55 MB  YogaShastra/NIOSYoga/NIOS_YOGA-A_Hindi_Ch-12.pdf
+     0.23 MB  YogaShastra/NIOSYoga/NIOS_YOGA-A_Hindi_Ch-2.pdf
+     0.17 MB  YogaShastra/NIOSYoga/NIOS_YOGA-A_Hindi_Ch-3.pdf
+     0.18 MB  YogaShastra/NIOSYoga/NIOS_YOGA-A_Hindi_Ch-4.pdf
+     0.22 MB  YogaShastra/NIOSYoga/NIOS_YOGA-A_Hindi_Ch-5.pdf
+     0.18 MB  YogaShastra/NIOSYoga/NIOS_YOGA-A_Hindi_Ch-6.pdf
+     0.14 MB  YogaShastra/NIOSYoga/NIOS_YOGA-A_Hindi_Ch-7.pdf
+     0.18 MB  YogaShastra/NIOSYoga/NIOS_YOGA-A_Hindi_Ch-8.pdf
+     0.45 MB  YogaShastra/NIOSYoga/NIOS_YOGA-A_Hindi_Ch-9.pdf
+     3.42 MB  YogaShastra/NIOSYoga/NIOS_YTTP-Practial-Book 498-499.pdf
+     2.43 MB  YogaShastra/NIOSYoga/NIOS_YTTP-Practical_Training_Book-498_499.pdf
+     9.96 MB  YogaShastra/NIOSYoga/NIOS_YTTP-Theory Book 495-497.pdf
+     5.04 MB  YogaShastra/NIOSYoga/NIOS_YTTP_Book_1_3_Final_CRC.pdf
+     0.11 MB  YogaShastra/NIOSYoga/NIOS_Yoga Curriculum Hindi.pdf
+     0.07 MB  YogaShastra/NIOSYoga/NIOS_Yoga Curriculum.pdf
+     3.14 MB  YogaShastra/NIOSYoga/NIOS_YogaLevelA_Initial_pages_H_Yoga_A.pdf
+     0.25 MB  YogaShastra/NIOSYoga/NIOS_Yoga_(Level-A)_ch-1-final.pdf
+     0.12 MB  YogaShastra/NIOSYoga/NIOS_Yoga_(Level-A)_ch-10-final.pdf
+     0.16 MB  YogaShastra/NIOSYoga/NIOS_Yoga_(Level-A)_ch-11-final.pdf
+     0.54 MB  YogaShastra/NIOSYoga/NIOS_Yoga_(Level-A)_ch-12-final.pdf
+     0.22 MB  YogaShastra/NIOSYoga/NIOS_Yoga_(Level-A)_ch-2-final.pdf
+     0.16 MB  YogaShastra/NIOSYoga/NIOS_Yoga_(Level-A)_ch-3-final.pdf
+     0.17 MB  YogaShastra/NIOSYoga/NIOS_Yoga_(Level-A)_ch-4-final.pdf
+     0.20 MB  YogaShastra/NIOSYoga/NIOS_Yoga_(Level-A)_ch-5-final.pdf
+     0.17 MB  YogaShastra/NIOSYoga/NIOS_Yoga_(Level-A)_ch-6-final.pdf
+     0.13 MB  YogaShastra/NIOSYoga/NIOS_Yoga_(Level-A)_ch-7-final.pdf
+     0.16 MB  YogaShastra/NIOSYoga/NIOS_Yoga_(Level-A)_ch-8-final.pdf
+     0.44 MB  YogaShastra/NIOSYoga/NIOS_Yoga_(Level-A)_ch-9-final.pdf
+     0.39 MB  YogaShastra/NIOSYoga/NIOS_Yoga_Prospectus.pdf
+     5.26 MB  YogaShastra/NIOSYoga/NIOS_Yoga_pamplet.pdf
+     0.06 MB  YogaShastra/RamKishore/1.-BSC-1st-Year-Paper-IV-1-General-Introduction-to-Naturopathy-1.pdf
+     0.41 MB  YogaShastra/RamKishore/1.-Brief-Introduction-of-Yoga-1.pdf
+     0.10 MB  YogaShastra/RamKishore/1.-Brief-Introduction-of-Yoga.pdf
+     0.19 MB  YogaShastra/RamKishore/1.-Origin-meaning-and-Definition-of-Hatha-Yoga-1.pdf
+     0.08 MB  YogaShastra/RamKishore/1.-Yoga-Meaning-and-Definition-BSc-1st-year-paper-I.pdf
+     0.14 MB  YogaShastra/RamKishore/1.Application-of-Yoga-BPT-Third-Year.pdf
+     0.19 MB  YogaShastra/RamKishore/2.-Aim-Objective-and-Misconceptions-of-Hatha-Yoga-1.pdf
+     0.05 MB  YogaShastra/RamKishore/2.-BSC-1st-Year-Paper-IV-2-Basic-Priciples-of-Naturopathy-1.pdf
+     0.31 MB  YogaShastra/RamKishore/2.-Concept-of-Body-Health-Healing.pdf
+     0.05 MB  YogaShastra/RamKishore/2.-History-of-Yoga.pdf
+     0.24 MB  YogaShastra/RamKishore/2.-Origin-meaning-and-Definition-of-Hatha-Yoga.pdf
+     0.19 MB  YogaShastra/RamKishore/3.-Aim-Objective-and-Misconceptions-of-Hatha-Yoga.pdf
+     0.07 MB  YogaShastra/RamKishore/3.-Introduction-of-Gherand-Samhita-1.pdf
+     0.12 MB  YogaShastra/RamKishore/4.-Hatha-Paranpra-ke-Yogi.pdf
+     0.23 MB  YogaShastra/RamKishore/4.-Karma-Yoga.pdf
+     0.13 MB  YogaShastra/RamKishore/4.-Nath-Paranpra-ke-Yogi-1.pdf
+     0.12 MB  YogaShastra/RamKishore/5.-Badhak-and-Sadhak-Tattva.pdf
+     0.12 MB  YogaShastra/RamKishore/5.-Ghat-Shuddhi-Importance-and-Relivance-1.pdf
+     0.39 MB  YogaShastra/RamKishore/5.-Importance-and-Relevance-of-Ghat-Shuddhi-in-Hath-Yoga-Sadhana.pdf
+     0.07 MB  YogaShastra/RamKishore/6.-Concept-of-Sampragyat-Samadhi.pdf
+     0.22 MB  YogaShastra/RamKishore/6.-Inter-relation-of-Hathyoga-and-Rajyoga-1.pdf
+     0.20 MB  YogaShastra/RamKishore/6.-Inter-relation-of-Hathyoga-and-Rajyoga-2.pdf
+     0.20 MB  YogaShastra/RamKishore/7.-Badhak-and-Sadhak-Tattva-1.pdf
+     0.13 MB  YogaShastra/RamKishore/7.-Concept-of-Matha-in-Hatha-Yoga-Sadhana.pdf
+     0.12 MB  YogaShastra/RamKishore/8.-Concept-of-Matha-in-Hatha-Yoga-Sadhana-1.pdf
+     0.20 MB  YogaShastra/RamKishore/8.-Concept-of-Mitahara-and-Pathya-Apathya-in-Hathayoga-Sadhana.pdf
+     0.12 MB  YogaShastra/RamKishore/9.-Concept-of-Yama-and-Niyama-in-Hathayoga-Pradipika.pdf
+     0.23 MB  YogaShastra/RamKishore/Composition-of-Human-Body.pdf
+     3.21 MB  YogaShastra/Sadhguru/Book_Sadhguru_encounter-the-enlightened.pdf
+    43.53 MB  YogaShastra/YogaNidra/Audio/01-Advanced-Yoga-Nidra.mp3
+    15.01 MB  YogaShastra/YogaNidra/Audio/02-Yoga-Nidra.mp3
+     5.48 MB  YogaShastra/YogaNidra/Audio/Deep Relaxation.mp3   [REFERENCED]
+     3.72 MB  YogaShastra/YogaNidra/Audio/Feeling Lighter.mp3
+    11.95 MB  YogaShastra/YogaNidra/Audio/TheYogaPodcastYogaNidra.mp3
+    26.47 MB  YogaShastra/YogaNidra/Audio/Yog Nidra NirjananandSaraswati.mp3
+    15.31 MB  YogaShastra/YogaNidra/Audio/Yoga Nidra L4 610am 01 03 2025.m4a
+     7.81 MB  YogaShastra/YogaNidra/Audio/YogaNidraTim.mp3
+    16.32 MB  YogaShastra/YogaNidra/Audio/judi-yoga-nidra-short-2.mp3
+    15.84 MB  YogaShastra/YogaNidra/Audio/judi-yoga-nidra-short-3.mp3
+    18.50 MB  YogaShastra/YogaNidra/Audio/judi-yoga-nidra-short.-1.mp3
+    15.45 MB  YogaShastra/YogaNidra/Audio/yoga-nidra-61points.mp3
+    14.59 MB  YogaShastra/YogaNidra/Audio/yoga-nidra-ascending-breath.mp3
+    27.51 MB  YogaShastra/YogaNidra/Audio/yoga-nidra-long.mp3
+    13.04 MB  YogaShastra/YogaNidra/Audio/yoga-nidra-survey.mp3
+    11.95 MB  YogaShastra/YogaNidra/Audio/yoga-nidra-yogapoint.mp3
+     3.67 MB  YogaShastra/YogaNidra/Book_YogaNidrabySwamiSatyananda.pdf
+    11.95 MB  YogaShastra/YogaNidra/TheYogaPodcastYogaNidra.mp3
+     1.81 MB  YogaShastra/YogaSutra/ArticlesPapers/Book_Hindu_Classical_Yoga Bryant.pdf
+     3.34 MB  YogaShastra/YogaSutra/ArticlesPapers/Book_PatanjalYogasutra_Kolhatkar_prakaran-2.pdf
+     1.22 MB  YogaShastra/YogaSutra/ArticlesPapers/Book_PatanjaliYogaSutra_SwamiVivekanandaSanEng.pdf
+    15.99 MB  YogaShastra/YogaSutra/ArticlesPapers/Book_Pathway_To_God_Essential_Yog_Sutras.pdf
+    11.08 MB  YogaShastra/YogaSutra/ArticlesPapers/Book_Science_of_Yoga-Taimni.pdf
+     1.55 MB  YogaShastra/YogaSutra/ArticlesPapers/Book_TheHistoryOfYoga.pdf
+     2.29 MB  YogaShastra/YogaSutra/ArticlesPapers/Book_YogaSutraParichay-201.pdf
+     5.42 MB  YogaShastra/YogaSutra/ArticlesPapers/Book_yogasastrayogasutra_scan.pdf
+     0.10 MB  YogaShastra/Yogalaya/Bandha_s PDF.pdf
+     4.41 MB  YogaShastra/Yogalaya/Book_AsanaPranayamMudraBandha_Satyanand.pdf
+     1.00 MB  YogaShastra/Yogalaya/Course Form PDF..pdf
+     1.54 MB  YogaShastra/Yogalaya/Exercises_Suryanamaskar.mp3
+     0.42 MB  YogaShastra/Yogalaya/FAQ.pdf   [REFERENCED]
+     0.68 MB  YogaShastra/Yogalaya/Guideline-for-YP.pdf
+     1.27 MB  YogaShastra/Yogalaya/Guideline_for_YP_-_Version_0.3.pdf
+     0.05 MB  YogaShastra/Yogalaya/Online class Guide Lines PDF..pdf
+     7.72 MB  YogaShastra/Yogalaya/Pranayama, Mudra, Meditative Asana PDF.pdf
+     2.74 MB  YogaShastra/Yogalaya/Sukshma Vyayama Book.pdf
+    20.95 MB  YogaShastra/Yogalaya/Sun Salutaions, Asana PDF.pdf
+     0.36 MB  YogaShastra/Yogalaya/Syllabus for level 1.pdf
+     1.42 MB  YogaShastra/Yogalaya/Syllabus_Level_1.pdf
+     1.37 MB  YogaShastra/Yogalaya/Syllabus_Level_2.pdf
+     2.18 MB  YogaShastra/Yogalaya/Unit 1 YCB(QCI) Level 1 Notes PDF.pdf
+     0.25 MB  YogaShastra/Yogalaya/Yoga_(Level-A)_ch-1-final.pdf
+     0.12 MB  YogaShastra/Yogalaya/Yoga_(Level-A)_ch-10-final.pdf
+     0.16 MB  YogaShastra/Yogalaya/Yoga_(Level-A)_ch-11-final.pdf
+     0.54 MB  YogaShastra/Yogalaya/Yoga_(Level-A)_ch-12-final.pdf
+     0.22 MB  YogaShastra/Yogalaya/Yoga_(Level-A)_ch-2-final.pdf
+     0.16 MB  YogaShastra/Yogalaya/Yoga_(Level-A)_ch-3-final.pdf
+     0.17 MB  YogaShastra/Yogalaya/Yoga_(Level-A)_ch-4-final.pdf
+     0.20 MB  YogaShastra/Yogalaya/Yoga_(Level-A)_ch-5-final.pdf
+     0.17 MB  YogaShastra/Yogalaya/Yoga_(Level-A)_ch-6-final.pdf
+     0.13 MB  YogaShastra/Yogalaya/Yoga_(Level-A)_ch-7-final.pdf
+     0.16 MB  YogaShastra/Yogalaya/Yoga_(Level-A)_ch-8-final.pdf
+     0.44 MB  YogaShastra/Yogalaya/Yoga_(Level-A)_ch-9-final.pdf
+     8.06 MB  YogaShastra/Yogalaya/Yoga_Booklet.pdf
+     6.18 MB  YogaShastra/Yogalaya/Yogic Sukshma _ Sthula Vayama PDF..pdf
+    32.07 MB  YogaShastra/Yogalaya/yoga_certification_Book .pdf

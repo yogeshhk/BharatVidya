@@ -2,15 +2,15 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Status: closed (August 2026)
+## Status: maintained study archive (reopened November 2026)
 
-This repo is a **finished study archive**, not an active project. The YogaSutra slide system is
-final and all 15 documents were verified to compile on 2026-08-13. Continued Yoga Sutra study
-happens offline and does not produce changes here.
+The repo was closed in August 2026 and reopened in November 2026 for a bounded upgrade: Orientation
+frames in the intro and glance decks, removal of third-party and personal material (moved to a Desktop
+folder outside the repo), a landing-page README and licence files. The plan and its progress are in
+`reports/upgrade_nontech_14112026.md` and `reports/STATUS.md` (read STATUS first in a new session).
 
-Practical consequence: do not propose new content, new chapters, or restructuring work. Confine
-changes to genuine defects (broken builds, broken links, wrong facts). See `TODO.md` for the state
-each area was left in.
+Outside that plan, keep changes to genuine defects (broken builds, broken links, wrong facts). Do not
+add CI or workflows. Personal items are flag-only. See `TODO.md` for the state each area was left in.
 
 ## Repository Purpose
 

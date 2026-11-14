@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite it as below."
+title: "Bharat Vidya: study notes and slide decks on Indian Knowledge Systems, with a Yoga Sutra seminar series"
+type: dataset
+authors:
+  - family-names: Kulkarni
+    given-names: Yogesh Haribhau
+repository-code: "https://github.com/yogeshhk/BharatVidya"
+license: CC-BY-NC-SA-4.0
+keywords:
+  - Indian Knowledge Systems
+  - Yoga Sutra
+  - Sanskrit
+  - Beamer
