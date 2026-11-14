@@ -8,10 +8,6 @@ was left in.
 Further Yoga Sutra study continues offline, from video playlists and books.
 
 ## Open, from the upgrade plan
-- Release of the compiled PDFs (a GitHub Release is the author's step; compiled decks are git-ignored).
-- Read the newly included Yoga Nidra instruction frames before a Release (the number suffixes on their titles are gone).
-- Optional: record the source of `YogaSutra/Texts/Patanjali_YogaSutra_Vivekananda_Sanskrit_English.pdf` when remembered (the README already says it is unrecorded).
-- Read the new folder READMEs (`Yoga/Sketchnotes`, `Yoga/GoodLife`) against the files; they were written from file names.
 
 ## Completed
 
