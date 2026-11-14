@@ -16,16 +16,12 @@ Each domain has a dedicated batch script that recursively finds and compiles mat
 |--------|-------------|--------|
 | `make_yogasutra.bat` | `Main_*_YogaSutra*.tex` | Yoga Sutra seminars and workshop |
 | `make_yogashastra.bat` | `Main_*_YogaShastra*.tex` | Yoga philosophy workshop |
-| `make_bharatvidya.bat` | `Main_*_BharatVidya*.tex` | BharatVidya overview |
-| `make_arthashastra.bat` | `Main_*_Arthashastra*.tex` | Kautilya governance |
 | `make_onepagers.bat` | `Main_*_OnePager*.tex` | Summary one-pagers |
 | `make_yoganidra.bat` | `Main_*_YogaNidra*.tex` | Yoga Nidra |
 | `make_ycb1.bat` | `Main_*_YCB*.tex` | YCB certification |
 | `make_sharada.bat` | `Main_*_Sharada*.tex` | Sharada script |
-| `make_shrimath.bat` | `Main_*_Shrimath*.tex` | Shrimath teachings |
-| `make_zenyoga.bat` | `Main_*_ZenYoga*.tex` | Zen Yoga |
 
-The decks share `template_presentation.tex` and `template_cheatsheet.tex` in this folder. `Samskrit/LaTeX/` holds a separate set of style files (`preamble.tex`, `shloka.sty`) used only by its own standalone document.
+The decks share `template_presentation.tex` and `template_cheatsheet.tex` in this folder. Compiled PDFs are not stored in the repository; build them with the scripts above.
 
 ---
 
@@ -74,11 +70,10 @@ seminar_yogasutra_overview_content.tex  ← standalone short overview with all c
 | `yogsutra_brief_intro.tex` | Compact context-setter for the chapter seminars |
 | `yogasutra_refs.tex` | References (note: this file uses 'a', i.e. `yogasutra_refs`) |
 
-### Reference PDFs (in this folder)
+### References
 
-- `Notes_Yoga Teacher Training yoga-sutras_Nancy.pdf`: Nancy Wile, Yoga Education Institute
-- `An Overview of the Yoga Sutras - Integral Yoga Magazine.pdf`: Dr. Ananda Balayogi Bhavanani
-- `Yoga Sutras of Patanjali - Wikipedia.pdf`: Wikipedia scholarly overview
+The books and articles the slides draw on are listed in `yogasutra_refs.tex` and, with links, in
+[`YogaSutra/SOURCES.md`](../YogaSutra/SOURCES.md). The PDFs themselves are not hosted here.
 
 ---
 
@@ -101,7 +96,7 @@ Current topic files (in order): `yogashastra_yogoda`, `yogashastra_shrim`, `yoga
 Main_<Type>_<Domain>_<Subtype>_<Format>.tex
 
 Type:     Workshop | Seminar | OnePager
-Domain:   YogaSutra | YogaShastra | BharatVidya | Arthashastra | ...
+Domain:   YogaSutra | YogaShastra | YogaNidra | YCB1 | Sharada | ...
 Subtype:  Intro | Samadhipad | Overview | (blank for workshop)
 Format:   Presentation | CheatSheet
 ```

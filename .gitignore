@@ -176,10 +176,8 @@ cython_debug/
 *.ilg
 *.ind
 
-# Personal coursework and records, kept outside the repo (Desktop\BharatVidya_Moved\Private)
-YogaShastra/Yogalaya/*YogeshK*
-YogaShastra/Yogalaya/*YogeshKulkarni*
-Samskrit/Courses/Vagvipaka/*Certificate*
-Samskrit/Courses/Vagvipaka/Vagvipaka_Exam.pdf
-Dasbodh/Assignments/*kulkarni*
-Dasbodh/Assignments/Pravesh/*kulkarni*
+# Local tool settings (permissions and file paths of the maintainer's machine)
+.claude/settings.local.json
+
+# Compiled decks are published as GitHub Release assets, not stored in the tree
+LaTeX/Main_*.pdf

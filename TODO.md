@@ -8,46 +8,57 @@ was left in.
 Further Yoga Sutra study continues offline, from video playlists and books.
 
 ## Open, from the upgrade plan
-- Duplicate sets (hash-identical files) still to be removed after review.
-- Orphan LaTeX sources (`ycb1_theory_faqs`, `yogashastra_meditation`, `yogashastra_sankhya`) and unused images: decide and tidy.
-- Release of the compiled PDFs (a GitHub Release is the author's step).
-- Rewrite of git history to drop moved files is the author's step.
+- Release of the compiled PDFs (a GitHub Release is the author's step; compiled decks are git-ignored).
+- Start the git history fresh, so the moved-out files are gone from old commits too (the author's step).
+- Read the newly included Yoga Nidra instruction frames before a Release; some have draft-looking titles.
+- Decide whether the exam frames in the YCB1 workshop (`ycb1_exam.tex`) may stay public.
+- Yoga themes, to be done one step at a time (plan and analysis: [`reports/yoga_theme_plan.md`](reports/yoga_theme_plan.md)):
+  - [x] Access to the Drive `Yoga` folder only was granted.
+  - [x] Survey the Drive `Yoga` folder and write the analysis report (done; private report on the Desktop). Found: the Drive has only 19 of the 380 staged files.
+  - [x] Parent name decided: `BharatVidya`, with `Spirituality` as a theme folder inside.
+  - [x] The author renamed the Drive folder to `BharatVidya`.
+  - [x] Decided: certification is its own theme (`YogaCertification`); duplicates go to a holding folder, nothing deleted.
+  - [x] Staged material copied into the themed Drive folders, hash-checked; the Drive folder reorganised by theme with Yoga Sutra and Yoga Nidra as they were; 80 duplicate copies (362 MB) held.
+  - [ ] Update the FreeFileSync Yoga pair (it still points at the old folder name) and run the mirrors (the author).
+  - [ ] Review `_ToReview` in the Drive, then decide whether to delete the Desktop staging and the holding folder of duplicates.
+  - [ ] Tidy inside `YogaCertification`: merge the overlapping folders, add a private subfolder for the author's own assignments and forms.
+  - [ ] Copy the generic material into `Yoga/` and the other theme folders, with the questions listed in the plan (certification, own articles, IGNOU licence).
 
 ## Completed
 
 | Area | State | Notes |
 |---|---|---|
-| `YogaShastra/YogaSutra/` | **Complete.** Slide system final. | 1 Workshop + 6 Seminars (Intro, Samadhipad, Sadhanapad, Vibhutipad, Kaivalyapad, Overview), each with a matching cheat sheet. Built via `make_yogasutra.bat`; see [`LaTeX/README.md`](LaTeX/README.md). Source index: [`YogaShastra/YogaSutra/README.md`](YogaShastra/YogaSutra/README.md). |
-| `YogaShastra/YogaNidra/` | **Complete.** | Compiled Beamer deck (Presentation + CheatSheet), detailed practice script, 8-stage practice notes in README, a reading list of research papers in `Papers/`, separate teacher-training material. See [`YogaShastra/YogaNidra/README.md`](YogaShastra/YogaNidra/README.md). |
+| Yoga Sutra (`YogaSutra/`, slides in `LaTeX/`) | **Complete.** Slide system final. | 1 Workshop + 6 Seminars (Intro, Samadhipad, Sadhanapad, Vibhutipad, Kaivalyapad, Overview), each with a matching cheat sheet. Built via `make_yogasutra.bat`; see [`LaTeX/README.md`](LaTeX/README.md). Folder guide and video list: [`YogaSutra/README.md`](YogaSutra/README.md). |
+| Yoga Nidra (`YogaNidra/`, slides in `LaTeX/`) | **Complete.** | Beamer deck (Presentation + CheatSheet), detailed practice script, 8-stage practice notes, and a reading list of research papers. See [`YogaNidra/README.md`](YogaNidra/README.md). |
 
-## Dormant, by choice
+## Moved out
 
-`Dasbodh/`, `Samskrit/`, and `IKS/` (Ayurveda, ArthaShastra, Bhishma MCKS coursework) are reference
-collections. They were never on an active track and are not being picked up.
+Everything else that used to be in this repository (Dasbodh, the Sanskrit courses, most of IKS and the other yoga
+teachers' material, plus four unfinished decks) was moved out or deleted on 2026-11-14. See
+[`MOVED_MATERIAL.md`](MOVED_MATERIAL.md). What is left is only what is original and complete enough to be useful.
 
-## Build verification -- 2026-08-13
+## Build verification -- 2026-11-14
 
-All YogaSutra documents were compiled from a clean state with XeTeX (MiKTeX 23.12) as the final
-check before closing the repo in August 2026: all built successfully, exit code 0, zero LaTeX errors, in
-279 seconds total for the whole set. The page counts below are from that run; the Introduction
-presentation has since grown with the Orientation frames (re-run the build to refresh the table).
+The YogaSutra documents were rebuilt on 2026-11-14 with XeTeX (`texify --engine=xetex -cp`): all exit 0, no
+leftover build files. The page counts below are from that run (the August run had the Workshop at 492 and the Intro at 75;
+the one-pager was not rebuilt, so its August count of 2 pages stands).
 
 | Document | Pages |
 |---|---|
-| `Main_Workshop_YogaSutra_Presentation` | 492 |
+| `Main_Workshop_YogaSutra_Presentation` | 504 |
 | `Main_Seminar_YogaSutra_Vibhutipad_Presentation` | 129 |
 | `Main_Seminar_YogaSutra_Sadhanapad_Presentation` | 128 |
 | `Main_Seminar_YogaSutra_Samadhipad_Presentation` | 120 |
+| `Main_Seminar_YogaSutra_Intro_Presentation` | 87 |
 | `Main_Seminar_YogaSutra_Kaivalyapad_Presentation` | 80 |
-| `Main_Seminar_YogaSutra_Intro_Presentation` | 75 |
 | `Main_Seminar_YogaSutra_Overview_Presentation` | 50 |
-| `Main_Workshop_YogaSutra_CheatSheet` | 45 |
-| `Main_Seminar_YogaSutra_Samadhipad_CheatSheet` | 13 |
+| `Main_Workshop_YogaSutra_CheatSheet` | 46 |
 | `Main_Seminar_YogaSutra_Vibhutipad_CheatSheet` | 13 |
+| `Main_Seminar_YogaSutra_Samadhipad_CheatSheet` | 12 |
 | `Main_Seminar_YogaSutra_Sadhanapad_CheatSheet` | 11 |
 | `Main_Seminar_YogaSutra_Kaivalyapad_CheatSheet` | 7 |
 | `Main_Seminar_YogaSutra_Overview_CheatSheet` | 7 |
-| `Main_Seminar_YogaSutra_Intro_CheatSheet` | 6 |
+| `Main_Seminar_YogaSutra_Intro_CheatSheet` | 7 |
 | `Main_OnePager_YogaSutra_CheatSheet` | 2 |
 
 ### Fixed 2026-08-13: the headline overflow that made builds crawl

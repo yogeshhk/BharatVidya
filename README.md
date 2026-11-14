@@ -7,11 +7,12 @@
 
 What you will find here:
 - **Yoga Sutra seminars:** a workshop and independent seminars with cheat sheets, built with XeTeX. Start with the Introduction deck, which opens with an Orientation drawn from a lecture on how the Sutra reached modern yoga. See [LaTeX/README.md](./LaTeX/README.md) for the file guide and build scripts.
-- **Notes:** reorganised study notes on the Yoga Sutra in [`YogaShastra/YogaSutra`](./YogaShastra/YogaSutra/Notes%20on%20Yogasutra.md).
-- **Reference lists:** curated resources on Sanskrit, Yoga, Ayurveda, Arthashastra and the Dasbodh.
-- **A machine-readable Yoga Sutra graph:** [`YogaSutraTrees`](./YogaShastra/YogaSutra/YogaSutraTrees/README.md) (a third-party project, see [NOTICE.md](./NOTICE.md)).
+- **[`YogaSutra/`](./YogaSutra/README.md):** reorganised study notes on the Yoga Sutra, the Devanagari text, hand-drawn mind maps of the four pada, a long list of video lectures and the [sources behind the slides](./YogaSutra/SOURCES.md), including the YogaSutraTrees knowledge graph by Giacomo De Luca.
+- **[`YogaNidra/`](./YogaNidra/README.md):** Yoga Nidra notes, a detailed practice script and a [research reading list](./YogaNidra/Reading_list_research.md).
+- **[`Yoga/`](./Yoga/README.md):** a curated list of Yoga resources and a meditation note.
+- **[`Samskrit/`](./Samskrit/README.md):** curated lists on Sanskrit and the Arthashastra, and a reading list of [papers on Sanskrit and computing](./Samskrit/Reading_list_papers.md).
 
-Books, recordings and course packs by other people are not kept here; see [NOTICE.md](./NOTICE.md). Content is under [CC BY-NC-SA 4.0](./LICENSE_CONTENT.md) and code under MIT. Corrections to the Sanskrit, transliteration or commentary are especially welcome; see [CONTRIBUTING.md](./CONTRIBUTING.md). To cite this work, use [CITATION.cff](./CITATION.cff). Progress of the current upgrade: [reports/STATUS.md](./reports/STATUS.md).
+Books, recordings, course packs and coursework are not kept here; see [NOTICE.md](./NOTICE.md) and [MOVED_MATERIAL.md](./MOVED_MATERIAL.md). Content is under [CC BY-NC-SA 4.0](./LICENSE_CONTENT.md) and code under MIT. Corrections to the Sanskrit, transliteration or commentary are especially welcome; see [CONTRIBUTING.md](./CONTRIBUTING.md). To cite this work, use [CITATION.cff](./CITATION.cff). Progress of the current upgrade: [reports/STATUS.md](./reports/STATUS.md).
 
 A sample slide from the YogaSutra Overview seminar, showing the Devanagari, transliteration, and multi-translator commentary format used throughout:
 
@@ -31,16 +32,14 @@ The Indian Knowledge System is a rich and diverse repository of ancient wisdom, 
 
 For a full map of what's in this repository, see [CONTENTS.md](./CONTENTS.md).
 
-1. **Philosophy**: Explore the philosophical foundations of the Indian Knowledge System.
-2. **Science**: Examine the contributions of ancient Indian scientists and their pioneering discoveries.
-3. **Ayurveda (Medicine)**: Discover the traditional medical practices and holistic healing methods prevalent in India. More info [here](./IKS/Ayurveda/)
-4. **Mathematics**: Uncover the mathematical advancements made by Indian scholars through the ages.
-5. **Samskrit**: Predominant language in which this Vidya exists. More info [here](./Samskrit/Awesome_samskrit.md)
-6. **YogaShastra**: Yoga way of life. More info [here](./YogaShastra/README.md)
-   - **YogaSutra Seminar System** (`LaTeX/`): a Workshop and Seminars (Intro, Samadhipad, Sadhanapad, Vibhutipad, Kaivalyapad, Overview), each with a Beamer presentation and cheat sheet. Built via `make_yogasutra.bat`. More info [here](./LaTeX/README.md)
-7. **ArthaShastra**: Predominant text on geopolitics and governance. More info [here](./IKS/Arthashastra/Awesome_arthashastra.md)
-8. **Dasbodh**: Study of Samarth Ramdas Swami's Dasbodh via email-based learning. More info [here](./Dasbodh/)
-9. **IKS Coursework**: Master's-level study materials on Indian Knowledge Systems (Bhishma MCKS program). More info [here](./IKS/)
+What is covered today:
+- **Yoga**: a way of life. A curated list [here](./Yoga/README.md)
+  - **Yoga Sutra**: notes, mind maps, sources and a Seminar System (`LaTeX/`): a Workshop and Seminars (Intro, Samadhipad, Sadhanapad, Vibhutipad, Kaivalyapad, Overview), each with a Beamer presentation and cheat sheet. Built via `make_yogasutra.bat`. More info [here](./LaTeX/README.md)
+  - **Yoga Nidra**: notes, a detailed practice script, a seminar deck and a research reading list. More info [here](./YogaNidra/README.md)
+- **Samskrit**: Predominant language in which this Vidya exists. A curated list [here](./Samskrit/Awesome_samskrit.md)
+- **ArthaShastra**: Predominant text on geopolitics and governance. A curated list [here](./Samskrit/Awesome_arthashastra.md)
+
+Other areas of the Indian Knowledge System (philosophy, science, Ayurveda, mathematics) are not covered yet.
 
 ## References
 - [Indian Knowledge Systems (IKS) Division](https://iksindia.org/)  Division of Ministry of Education (MoE) located in the AICTE, New Delhi.
