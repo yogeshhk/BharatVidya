@@ -18,6 +18,19 @@ No git commands. No CI or workflows. Personal items are flag-only. Nothing from 
 
 - T5, T6, T7 done: README landing page, CLAUDE.md status, TODO head, LaTeX/README (no page counts or numbering), CONTENTS pending a final link pass; new `LICENSE_CONTENT.md`, `NOTICE.md`, `CITATION.cff`, `CODE_OF_CONDUCT.md`. The existing `LICENSE` (MIT) stays for code.
 
+- T4 done: moved to `Desktop\BharatVidya_Moved\Retired` (hash-checked, list in `_moved_from_repo.txt`): the three duplicate files `LaTeX/preamble.tex`, `shloka.sty`, `subantaruupaNi.tex` (identical copies remain in `Samskrit/LaTeX`) and 37 unused images (strict check against all .tex, .md, .sty, .bat; fewer than the 78 in the report). Orphans `ycb1_theory_faqs`, `yogashastra_sankhya` are deliberately commented out in their drivers and were kept; `yogashastra_meditation` is unreferenced and kept. Local markdown link check: 0 broken.
+- Workshop builds done, exit 0, no leftovers: YogaSutra workshop 504 and 46 pages, YogaShastra workshop 870 and 87 pages. The YogaShastra build had been failing on an unescaped underscore in a URL in `LaTeX/yogashastra_refs.tex` (fixed). Other YogaSutra seminars were not touched by the edits.
+- T3 done after the author said yes: 42 files (40.6 MB) moved to `Desktop\BharatVidya_Moved\Duplicates` (one copy per identical set kept, never a copy a doc links to; both pirate-library `zliborg` PDFs moved). List in `_moved_from_repo.txt` there. Link check: 0 broken.
+- T9: the NIOS Book-2 copy and the MHThaker mp3 pair moved out with tier A and B, so no separate fix is needed.
+
+## Left for the author
+- T8: publish the compiled PDFs as a GitHub Release (outward-facing). PDFs are built in `LaTeX/`.
+- Rewrite git history (the `.git` folder is about 4.9 GB); the repo working tree is now much smaller. Everything under `Desktop\BharatVidya_Moved` is outside the repo; review it, then delete or archive.
+- Flagged, not moved: WhatsApp image `IKS/IndianKnowledgeSystems/IMG-20260226-WA0001.jpg`, `LaTeX/ycb1_exam.tex` and its images, `Dasbodh/Assignments` (mixed), Bhishma assignment and oral-exam PDFs, the contact email in every deck footer.
+- T11: internal folders (`_backup`, `Code/claudecode`, `reports`, `.claude`): decide whether they stay public.
+- 20 linked files kept in the repo (see T2 note).
+- Commit all of this (git is yours).
+
 ## Pending (older list; T1, T2 tiers A and B, T5, T6, T7, T10 above are done)
 - T9 small fixes, T4 tidy (dry-run list first, move not delete), T5 stale facts, T6 README landing page, T7 files (LICENSE, NOTICE, CITATION.cff, CODE_OF_CONDUCT).
 - Recompile workshop decks once, after T4.

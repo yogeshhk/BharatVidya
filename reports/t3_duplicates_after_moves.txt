@@ -1,0 +1,127 @@
+40 identical sets, 40.3 MB redundant
+
+18.91 MB
+   Samskrit/Papers/Article Classifying Sanskrit Shlokas Using an LSTM-based Model.pdf
+   Samskrit/Papers/Classifying Sanskrit Shlokas Using an LSTM-based Model.pdf
+3.67 MB
+   YogaShastra/YogaNidra/Papers/YogaNidrabySwamiSatyanandaSaraswatizliborg-200817-225446.pdf
+   YogaShastra/YogaNidra/YogaNidrabySwamiSatyanandaSaraswatizliborg-200817-225446.pdf
+2.23 MB
+   Samskrit/Papers/A Graph-Based Framework for Structured Prediction Tasks in Sanskrit.pdf
+   Samskrit/Papers/Article A Graph-Based Framework for Structured Prediction Tasks in Sanskrit.pdf
+2.23 MB
+   YogaShastra/YogaNidra/Papers/Yoga Nidra Steps.pdf
+   YogaShastra/YogaNidra/Yoga Nidra Steps.pdf
+1.77 MB
+   Samskrit/Papers/NLP_Techniques_for_Sanskrit_MSR_Thesis.pdf
+   Samskrit/Papers/Thesis_NLP_Techniques_for_Sanskrit_MSR.pdf
+1.02 MB
+   YogaShastra/YogaSutra/SwamiJ/Book_Summary of Practices Swami J.pdf
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Book_Summary of Practices.pdf
+1.00 MB
+   YogaShastra/YogaNidra/Papers/The Origin and Clinical Relevance of Yoga Nidra.pdf
+   YogaShastra/YogaNidra/The Origin and Clinical Relevance of Yoga Nidra.pdf
+0.88 MB
+   YogaShastra/Certification/Syllabus-for-level-3.pdf
+   YogaShastra/Certification/YCBOfficial/Syllabus-for-level-3.pdf
+0.76 MB
+   YogaShastra/YogaSutra/SwamiJ/ClusteredYoga Sutras Swami J.pdf
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Yoga Sutras of Patanjali - Basics - Clustered.pdf
+0.56 MB
+   YogaShastra/Certification/Guideline-for-YogaProtocol-Version-0.2.pdf
+   YogaShastra/Certification/YCBOfficial/YCB_Guideline-for-YogaProtocol-Version-0.2.pdf
+0.46 MB
+   Samskrit/Papers/Sanskrit Tokenizer.pdf
+   Samskrit/Papers/Vaakkriti Sanskrit Tokenize.pdf
+0.44 MB
+   YogaShastra/YogaSutra/SwamiJ/Rainbow Patanjali Yoga Sutras.pdf
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Yoga Sutras of Patanjali - Rainbow.pdf
+0.42 MB
+   YogaShastra/Certification/Syllabus-for-level-2.pdf
+   YogaShastra/Certification/YCBOfficial/Syllabus-for-level-2.pdf
+0.39 MB
+   YogaShastra/Certification/Syllabus-for-level-1.pdf
+   YogaShastra/Certification/YCBOfficial/Syllabus-for-level-1.pdf
+0.38 MB
+   YogaShastra/YogaSutra/SwamiJ/Interpretive Yog Sutra Swami J.pdf
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Yoga Sutras of Patanjali - Intepretive.pdf
+   YogaShastra/YogaSutra/SwamiJ/Yoga Sutras of Patanjali Intepretive Swami J.pdf
+0.37 MB
+   Samskrit/Papers/Article Incorporating Domain Knowledge into Medical NLI using Knowledge Graphs.pdf
+   Samskrit/Papers/Incorporating Domain Knowledge into Medical NLI using Knowledge Graphs.pdf
+0.27 MB
+   YogaShastra/Shrimath/Shrimath_Yoganidra_Notes_Day1-5.pdf
+   YogaShastra/YogaNidra/Shrimath_Yoganidra_Notes_Day1-5.pdf
+0.26 MB
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Understanding and Practicing.pdf
+   YogaShastra/YogaSutra/SwamiJ/Understanding and Practicing Swami J.pdf
+0.26 MB
+   YogaShastra/YogaSutra/SwamiJ/Summary of Practices Swami J.pdf
+   YogaShastra/YogaSutra/SwamiJ/Summary of Practices, Witnessing, and Internal Dialogue.pdf
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Summary of Practices.pdf
+0.23 MB
+   Samskrit/Papers/Article Framework for Question-Answering in Sanskrit through Automated Construction of Knowledge Graphs.pdf
+   Samskrit/Papers/Framework for Question-Answering in Sanskrit .pdf
+   Samskrit/Papers/Framework for Question-Answering in Sanskrit through Automated Construction of Knowledge Graphs.pdf
+   Samskrit/Papers/Framework for Question-Answering in Sanskrit.pdf
+0.22 MB
+   LaTeX/images/Shrimath_Yoganidra_Mindmap.jpg
+   YogaShastra/Shrimath/Shrimath_Yoganidra_Mindmap.jpg
+0.21 MB
+   YogaShastra/YogaSutra/SwamiJ/Real Yoga Will Not Wreck Your Body Swami J.pdf
+   YogaShastra/YogaSutra/SwamiJ/Real Yoga Will Not Wreck Your Body.pdf
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Real Yoga Will Not Wreck Your Body.pdf
+0.21 MB
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Yogic Self-Awareness Assessment.pdf
+   YogaShastra/YogaSutra/SwamiJ/Yogic Self-Awareness Assessment Swami J.pdf
+0.21 MB
+   YogaShastra/YogaSutra/SwamiJ/Swami J_The Path.pdf
+   YogaShastra/YogaSutra/SwamiJ/The Path Swami J.pdf
+0.21 MB
+   Samskrit/Papers/Article Sanskrit Segmentation.pdf
+   Samskrit/Papers/Sanskrit Segmentation.pdf
+0.21 MB
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Yoga Sutras of Patanjali - Introduction.pdf
+   YogaShastra/YogaSutra/SwamiJ/Yoga Sutras of Patanjali - Introduction.pdf
+0.20 MB
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Yoga Sutras of Patanjali - Narrative Style of all Yoga Sutras.pdf
+   YogaShastra/YogaSutra/SwamiJ/Yoga Sutras of Patanjali - Narrative Style of all Yoga Sutras.pdf
+0.16 MB
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Yoga Sutras of Patanjali - Reminder Questions & Answers on Yoga Sutras.pdf
+   YogaShastra/YogaSutra/SwamiJ/Yoga Sutras of Patanjali - Reminder Questions & Answers on Yoga Sutras.pdf
+0.15 MB
+   YogaShastra/YogaSutra/SwamiJ/Self Study Outline Swami J.pdf
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Self Study Outline.pdf
+0.15 MB
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Yoga Sutras of Patanjali - Seven Keys to Practice.pdf
+   YogaShastra/YogaSutra/SwamiJ/Yoga Sutras of Patanjali - Seven Keys to Practice.pdf
+0.15 MB
+   LaTeX/images/SwamiJ_YogasutraCard.png
+   YogaShastra/YogaSutra/SwamiJ/SwamiJ_YogasutraCard.png
+0.07 MB
+   Admin/MindMap_Sanskrit.pdf
+   Samskrit/MindMap_Sanskrit.pdf
+0.07 MB
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Yoga Sutras of Patanjali – Narrative Translation.pdf
+   YogaShastra/YogaSutra/SwamiJ/Yoga Sutras of Patanjali – Narrative Translation Swami J.pdf
+0.06 MB
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Yoga Sutras of Patanjali - Biography Info of Patanjali.pdf
+   YogaShastra/YogaSutra/SwamiJ/Yoga Sutras of Patanjali - Biography Info of Patanjali.pdf
+0.04 MB
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Yoga Sutras of Patanjali - Basics .pdf
+   YogaShastra/YogaSutra/SwamiJ/Yoga Sutras of Patanjali - Basics Swami J.pdf
+0.04 MB
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Vedic Psychology for the Ills of Human Civilization.pdf
+   YogaShastra/YogaSutra/SwamiJ/Vedic Psychology for the Ills of Human Civilization Swami J.pdf
+0.03 MB
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Yoga Sutras of Patanjali – Questions.pdf
+   YogaShastra/YogaSutra/SwamiJ/Yoga Sutras of Patanjali – Questions Swami J.pdf
+0.02 MB
+   YogaShastra/YogaSutra/StudyGroup/YogSutra_Devnagari.txt
+   YogaShastra/YogaSutra/YogSutra_Devnagari_clean.txt
+0.02 MB
+   LaTeX/images/SwamiJ_LearningPath.png
+   YogaShastra/YogaSutra/SwamiJ/SwamiJ_LearningPath.png
+0.02 MB
+   YogaShastra/YogaSutra/SwamiJ/Swami J_Yoga Sutras of Patanjali – Summary.pdf
+   YogaShastra/YogaSutra/SwamiJ/Yoga Sutras of Patanjali – Summary Swami J.pdf
