@@ -19,12 +19,11 @@ sets waste about 362 MB; and only 19 of the 380 staged files are already in the 
 - The Drive folder is now 1,014 files and 2.15 GB (it was 771 files and 2.17 GB before the staged material arrived).
 - Log of every action: `Desktop\BharatVidya_Drive_move_log.csv`.
 
-## Still open
-- Review the near-duplicates in `_ToReview`, then decide whether to delete the Desktop staging, which now duplicates the Drive.
-- Tidy inside `YogaCertification` (the overlapping folders, and a private subfolder for the author's own assignments and forms).
-- Decide what happens to the holding folder of 80 duplicate copies (kept, or deleted).
-- The Drive `Yoga` mirror config points at the old folder name and the `D:\Yogesh\Yoga` replica is out of date; adjust and run the mirrors (the author's step).
-- Copy generic, public material into this repository's `Yoga/`, `YogaSutra/` and `YogaNidra/` folders, with the licence check; ask the author per item.
+## Later the same day: finished
+- The Drive folders were merged into six themes (`IKS`, `Samskrit`, `Spirituality`, `Yoga`, `YogaNidra`, `YogaSutra`); every underscore folder, the Desktop staging and the duplicates holding folder were cleared after hash checks.
+- The FreeFileSync Yoga pair now points at the new folder and the replica matches the Drive; the Z drive pair excludes `\ImpDocs\BharatVidya\` because Z is small.
+- The author's own and public items were copied into this repository's `Yoga/`, `YogaSutra/`, `YogaNidra/` and `Samskrit/` folders, each after the author confirmed it. Third-party books, papers and recordings stay in the Drive.
+- Nothing from this plan is open.
 
 ## What the author asked for
 - Move what is staged on the Desktop (`BharatVidya_Moved`) into the right folders of the Drive `Yoga` folder first.

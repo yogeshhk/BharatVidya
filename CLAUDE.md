@@ -86,13 +86,13 @@ Everything else that used to be here was moved out; see `MOVED_MATERIAL.md`.
 
 ## YogaSutra Seminar System
 
-The YogaSutra material in `LaTeX/` is structured as **1 workshop + 6 independent seminars**, each with a matching cheat sheet.
+The YogaSutra material in `LaTeX/` is structured as a workshop plus independent seminars, each with a matching cheat sheet.
 
 **Presentations (built by `make_yogasutra.bat`, glob: `Main_*_YogaSutra*.tex`):**
 
 | File | Title |
 |------|-------|
-| `Main_Workshop_YogaSutra_Presentation.tex` | Full workshop (all 5 chapter seminars) |
+| `Main_Workshop_YogaSutra_Presentation.tex` | Full workshop (all chapter seminars) |
 | `Main_Seminar_YogaSutra_Intro_Presentation.tex` | Seminar: Introduction |
 | `Main_Seminar_YogaSutra_Samadhipad_Presentation.tex` | Seminar: Samadhi Pada |
 | `Main_Seminar_YogaSutra_Sadhanapad_Presentation.tex` | Seminar: Sadhana Pada |
@@ -115,16 +115,8 @@ Each has a corresponding `*_CheatSheet.tex`.
 
 **Critical naming rule:** Source content files use `yogsutra_*` (no 'a'). Any `\input{yogasutra_*}` reference (with 'a') will break, so always use `\input{yogsutra_*}` except for refs.
 
-## YogaShastra Beamer Presentation
+## Workshops (2027 plan) and the retired YogaShastra deck
 
-The main workshop deck is `LaTeX/Main_Workshop_YogaShastra_Presentation.tex`. Its content is modularized via `LaTeX/workshop_yogashastra_content.tex`, which `\input`s individual topic files.
+The three workshops are Yoga certification (`Main_Workshop_YCB1_*`), Yoga Sutra (`Main_Workshop_YogaSutra_*`) and Yoga Nidra (`Main_Seminar_YogaNidra_*`); open items are in `TODO.md`. The YogaShastra deck is retired: it is not built (`make_yogashastra.bat` is switched off) and its topic files are sources to reuse; do not extend it.
 
-**Slide format conventions:**
-- Section title frame: `{\Large Title}` centered with `{\tiny (Ref: ...)}` footer
-- Content frames: `\begin{frame}[fragile]\frametitle{...}` with `\begin{itemize}\item...\end{itemize}`
-- All Marathi content stays in Marathi (do not translate)
-- Font: Nakula (Devanagari), loaded via `\devanagarifont`
-
-**Current `\section[Teachings]{Other Teachings}` files** (in order): `yogashastra_yogoda`, `yogashastra_shrim`, `yogashastra_zenoga`, `yogashastra_vinod`, `yogashastra_desikachar`, `yogashastra_shrimath`, `yogashastra_osho`, `yogashastra_watwe`, `yogashastra_nirvana_shatakam`, `yogashastra_rakesh`, `yogashastra_sivasankaran`, `yogashastra_shivkrupanand`, `yogashastra_sadhana`.
-
-**Transcript-to-slides workflow:** When a `.md` file containing a video transcript is placed in `LaTeX/`, convert it to a `yogashastra_<name>.tex` Beamer file (strip timestamps of format `H:MMM seconds` or `M:SS minute, N seconds`; summarize to bullet points in Marathi; keep essence without over-compression). Add `\input{yogashastra_<name>}` to `workshop_yogashastra_content.tex`. Delete the source `.md` file after the `.tex` is created. Recompile to verify.
+The retired deck is `LaTeX/Main_Workshop_YogaShastra_Presentation.tex` (content via `workshop_yogashastra_content.tex`). Do not convert new transcripts into it; its `yogashastra_*` topic files are to be mined for the three workshops (see `TODO.md`).

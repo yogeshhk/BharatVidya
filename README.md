@@ -7,6 +7,7 @@
 
 What you will find here:
 - **Yoga Sutra seminars:** a workshop and independent seminars with cheat sheets, built with XeTeX. Start with the Introduction deck, which opens with an Orientation drawn from a lecture on how the Sutra reached modern yoga. See [LaTeX/README.md](./LaTeX/README.md) for the file guide and build scripts.
+- **Three yoga workshops:** Yoga certification (the Yoga Certification Board Level 1 syllabus: theory, asanas, teaching skills), Yoga Sutra (the text) and Yoga Nidra (the guided practice). Each is a Beamer deck with a cheat sheet.
 - **[`YogaSutra/`](./YogaSutra/README.md):** reorganised study notes on the Yoga Sutra, the Devanagari text, hand-drawn mind maps of the four pada, a long list of video lectures and the [sources behind the slides](./YogaSutra/SOURCES.md), including the YogaSutraTrees knowledge graph by Giacomo De Luca.
 - **[`YogaNidra/`](./YogaNidra/README.md):** Yoga Nidra notes, a detailed practice script and a [research reading list](./YogaNidra/Reading_list_research.md).
 - **[`Yoga/`](./Yoga/README.md):** a curated list of Yoga resources and a meditation note.

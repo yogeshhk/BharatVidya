@@ -37,20 +37,11 @@ No git commands. No CI or workflows. Personal items are flag-only. Nothing from 
 - Two reading lists were kept with links read from the PDFs themselves (Sanskrit papers; Yoga Nidra research). Addresses that came out garbled or cut off were left out, not guessed.
 - Correction to earlier notes: the tidy step had been recorded as moving `LaTeX/preamble.tex`, `shloka.sty` and `subantaruupaNi.tex` out; they were in fact still there, identical to the `Samskrit/LaTeX` copies. They left in the final clean-up.
 
-## Staged on the Desktop, waiting for the Drive `Yoga` folder
-`C:\Users\yoges\Desktop\BharatVidya_Moved\` holds seven batch folders (380 files, 378 MB), each with its own list file: `Dasbodh` (118), `IKS_Bhishma` (31), `IKS_rest` (26), `LaTeX_unused` (55), `Rest_other` (62), `Samskrit` (13) and `YogaShastra_rest` (75). The author asked for them to be moved into the Drive `Yoga` folder. That is blocked until access to that folder is granted. Earlier batches were already moved by the author. Do not delete the Desktop copy until the Drive copy is hash-checked.
-
 ## Left for the author
-- Start the git history fresh, last (the agent never runs git). Back up the `.git` folder first (about 4.9 GB, so to C: or Drive), then delete it, `git init -b master`, `git add -A`, check `git status`, commit, add the remote `https://github.com/yogeshhk/BharatVidya.git` and `git push --force origin master`. Only `master` is visible locally; check the GitHub branches and tags pages for others. GitHub keeps old commits reachable by address until it collects them, and existing forks and clones keep the old history.
-- Publish the compiled PDFs as a GitHub Release (they are git-ignored now); build them from `LaTeX/` with the scripts.
-- Read the Yoga Nidra instruction frames that were newly included (the deck grew from 92 to 234 pages); some have draft-looking titles such as "Preparation - 0".
-- Decide whether the exam frames in the YCB1 workshop (`LaTeX/ycb1_exam.tex`) may stay public.
-- Contact email: it prints in every deck footer; confirm you want it published.
-- Empty the Windows Recycle Bin after the Drive copy is confirmed.
-- Commit all of this.
+Nothing is tracked as open. The git fresh start is done. The GitHub Release, the reading of the new Yoga Nidra frames and READMEs, and the email in the deck footers (kept) are the author's own, untracked decisions. The exam frames of the YCB1 workshop stay public.
 
-## Yoga theme work: the Drive is reorganised, the repository is next
-The Drive master (renamed `BharatVidya` by the author) was reorganised by theme on 2026-11-14 and the staged files were copied in; details, what is still open and the to-do entries are in `reports/yoga_theme_plan.md` and `TODO.md`. The staged material on the Desktop was copied, not moved, so `C:\Users\yoges\Desktop\BharatVidya_Moved` now duplicates the Drive: delete it only after the author agrees. A holding folder of 80 exact-duplicate copies is at `C:\Users\yoges\Desktop\BharatVidya_Duplicates`, and every action is in `Desktop\BharatVidya_Drive_move_log.csv`. In `Yoga/` of this repository the meaning is: the asana and philosophy side of yoga, plus yoga material that is not specific to the Yoga Sutra or Yoga Nidra. Copying generic Drive material into it comes next, one item at a time with the author's say.
+## Yoga theme work: finished
+The Drive master (renamed `BharatVidya` by the author) was reorganised by theme on 2026-11-14 and the staged files were copied in; the Desktop staging, the duplicates holding folder and the move log are gone. Generic and own material was copied from the Drive into `Yoga/`, `YogaSutra/`, `YogaNidra/` and `Samskrit/`, each item after the author confirmed it. In `Yoga/` of this repository the meaning is: the asana and philosophy side of yoga, plus yoga material that is not specific to the Yoga Sutra or Yoga Nidra. Details are in `reports/yoga_theme_plan.md`.
 
 Later the same day the Drive was tidied again at the author's direction: the master's course and the Arthashastra folder moved under `IKS`, certification under `Yoga`, Aurobindo and Sadhguru under `Spirituality/Philosophy`; the Desktop staging and the old tools folder were deleted. The slide leftovers (53 files: unused images, three draft topic files, `preamble.tex`, `shloka.sty` and `subantaruupaNi.tex`) were copied back into `LaTeX/` at the author's request, so the file count under `LaTeX/` is higher than in the table above; the two PowerPoint files went to the Drive `Yoga/Diagrams`. The unused images include the YCB1 exam screenshots, which ties in with the open question about the exam frames.
 

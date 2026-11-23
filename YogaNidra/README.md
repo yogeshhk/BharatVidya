@@ -146,6 +146,4 @@ These steps help create a structured Yoganidra practice, focusing on deep relaxa
 - [Yoga nidra as a practice of pratyahara](https://kamlayoga.com/yoga-nidra-as-a-practice-of-pratyahara/)
 	In the practice of yoga Nidra, the mind gradually becomes one-pointed while we disengage the other senses. The practitioner only maintains awareness of the auditory channel to prevent the consciousness from becoming withdrawn, which would result in mere sleep.
 In such a way, during yoga Nidra the senses disconnect, and we can experience the fifth stage of Patanjali yoga, known as pratyahara.
-
-- [योग निद्रा | आनन्दमूर्ति गुरुमाँ | Yoga Nidra | Guided Meditation by Anandmurti Gurumaa (Hindi)](https://www.youtube.com/watch?app=desktop&v=_j0vLXonSKQ)
-- [Yoga Nidra | Guided Meditation to Relax, Rejuvenate & Reform | Anandmurti Gurumaa (English)](https://www.youtube.com/watch?app=desktop&v=n_ce66a9MV0)
+
