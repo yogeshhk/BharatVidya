@@ -43,6 +43,11 @@
 \usepackage{xurl}
 \usepackage[hidelinks]{hyperref}
 
+% Fewer overfull lines: allow a little extra stretch, and let microtype adjust spacing.
+\usepackage[expansion=false]{microtype}
+\setlength{\emergencystretch}{3em}
+\hbadness=3000
+
 % Boxes used by the chapters: a cautions box and a quick-recall box.
 \newtcolorbox{caution}{breakable, colback=red!4, colframe=red!55!black, title=Caution, fonttitle=\bfseries}
 \newtcolorbox{recall}{breakable, colback=ycbsaffron!6, colframe=ycbsaffron, title=Quick recall, fonttitle=\bfseries}

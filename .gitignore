@@ -181,3 +181,10 @@ cython_debug/
 
 # Compiled decks are published as GitHub Release assets, not stored in the tree
 LaTeX/**/Main_*.pdf
+
+# YCB1 reference files that are third-party publications or carry a personal account identifier:
+# kept on the maintainer's disk for fact-checking, never published
+LaTeX/books/YCB1/docs/Book_YCB_Instructtor_Official.pdf
+LaTeX/books/YCB1/docs/yoga_certification_Book.pdf
+LaTeX/books/YCB1/docs/Yoga_Booklet.pdf
+LaTeX/books/YCB1/docs/*.gdraw
