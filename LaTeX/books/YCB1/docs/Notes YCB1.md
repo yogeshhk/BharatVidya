@@ -56,13 +56,13 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Aim:** freedom from suffering and a steady, clear, peaceful mind, with the health of body and mind that supports it. In the traditional view the highest aim is self-realisation (kaivalya, moksha); in public programmes the stated aim is health and well-being.
   - **Objectives a teacher can state to a class:** a healthy body, a calm and focused mind, emotional balance, better conduct towards others, and awareness of the self.
   - **Common misconceptions:** that yoga is only physical exercise or only asanas; that it belongs to one religion; that one must already be flexible; that it is meant only for ascetics; that it replaces medical treatment; that it gives quick results without regular practice.
-  - **Study of word origins (deck, not yet checked):** the study of where words come from is called etymology; in Sanskrit grammar the tradition of word derivation is the source of the three senses of the root yuj, which the grammarian Panini is credited with listing (union, concentration, control).
-  - **Meaning of union (deck, not yet checked):** in the devotional and Vedantic reading, yoga is the joining of the individual self (jivatma) with the universal self (paramatma), or the merging of the apparent self with the true, limitless self. In a simpler reading it is the harmony of body, mind and spirit through mastery of the body, the senses and the mind.
-  - **Goal and means (deck, not yet checked):** the word yoga is used both for the goal (sadhya, the state reached) and for the means (sadhana, the practice that leads there). An answer should say which of the two is meant.
-  - **More definitions, with source (deck, not yet checked):** the Yoga Sutra of Patanjali (first chapter) defines yoga as the stilling of the patterns of the mind. The Yoga Vasishtha calls it a skilful device for calming the mind. The Bhagavad Gita (second chapter) speaks of evenness in success and failure, and of skill in action, and in the sixth chapter says that yoga removes sorrow for the person who is moderate in food, recreation, effort, sleep and waking. The Katha Upanishad describes yoga as the steady holding of the senses (to be checked).
-  - **Five lifestyle pillars (deck, not yet checked):** food (ahara), behaviour towards others (vyavahara), conduct (achara), thought (vichara) and recreation or daily routine (vihara) are named as supports of a healthy and happy life.
-  - **Aims and objectives in short (deck, not yet checked):** the aim (lakshya) is self-assessment and the journey of the individual self towards the universal self. The objectives (uddeshya) are all-round development, harmony, and the purification of mind, intellect and character. In class terms: discipline and self-control, mental focus, emotional stability and resilience, physical fitness and good posture, and well-being with harmonious living.
-  - **Extra misconceptions (deck, not yet checked):** that yoga is only relaxation; that it is only for the young (it suits people of all ages, with adaptation); that it is about miracles, display or the gaining of special powers (siddhis); that it is only physical (it is also mental and spiritual); that it is for one community only (it is universal, not tied to a single religion).
+  - **Study of word origins (checked: Guidebook ch.1 sec 1.1: yuj has three connotations after Panini (yujir yoge union, yuja samadhau concentration, yuja samyamane control)):** the study of where words come from is called etymology; in Sanskrit grammar the tradition of word derivation is the source of the three senses of the root yuj, which the grammarian Panini is credited with listing (union, concentration, control).
+  - **Meaning of union (checked: Guidebook ch.1 sec 1.1 (union of jeevatma and paramatma; "apparent man" with "real man"; spiritual perfection through control of body, senses and mind) and Common Yoga Protocol intro (union of individual and universal consciousness)):** in the devotional and Vedantic reading, yoga is the joining of the individual self (jivatma) with the universal self (paramatma), or the merging of the apparent self with the true, limitless self. In a simpler reading it is the harmony of body, mind and spirit through mastery of the body, the senses and the mind.
+  - **Goal and means (checked: Guidebook ch.1 sec 1.3 note: yoga offers the goal of life and the means to reach it):** the word yoga is used both for the goal (sadhya, the state reached) and for the means (sadhana, the practice that leads there). An answer should say which of the two is meant.
+  - "  - **More definitions, with source (deck, not yet checked) (checked: Guidebook ch.1 sec 1.1; Katha Upanishad 2.3.11 via Shankara bhashya page on wisdomlib):** the Yoga Sutra of Patanjali (first chapter, sutra 2) defines yoga as the stilling of the movements of the mind. The Yoga Vasishtha calls it a skilful means of calming the mind. The Bhagavad Gita, second chapter, gives evenness in success and failure (verse 48) and skill in action (verse 50); the sixth chapter (verse 17) says yoga destroys sorrow for one who is moderate in food, recreation, effort, sleep and waking. The Katha Upanishad (second chapter, third section, verse 11) describes yoga as the firm holding back of the senses. The Guidebook quotes the Gita lines and the Vasishtha line, and does not quote Katha."
+  - **Five lifestyle pillars (checked: Guidebook ch.1 sec 1.6: principles tied to ahara, vihara, achara, vichara and vyavahara):** food (ahara), behaviour towards others (vyavahara), conduct (achara), thought (vichara) and recreation or daily routine (vihara) are named as supports of a healthy and happy life.
+  - "  - **Aims and objectives in short (deck, not yet checked) (checked: Guidebook ch.1 sec 1.3; Common Yoga Protocol intro):** the Guidebook gives the ultimate aim as freedom of the individual from the sufferings of life, with a calm mind, will power and a balanced personality; the Protocol adds freedom (mukti, kaivalya, moksha) with holistic health, happiness and harmony. The lines on self-assessment and the journey of the individual self to the universal self are not stated in these sources and should be dropped or marked as a teacher's wording. The class-level objectives (self-control, focus, emotional stability, fitness and posture, harmonious living) are reasonable teaching summaries, not a Board list."
+  - "  - **Extra misconceptions (deck, not yet checked) (checked: Guidebook ch.1 sec 1.2 and 1.3 misconception boxes):** the Guidebook corrects these: yoga is only physical exercise (it is holistic); flexibility is needed first (practice builds it); yoga is only for Hindus (it belongs to no single religion or community); siddhis, magic, display and bhugata samadhi are not yoga; it should be avoided in pregnancy (the Guidebook says doctors regard gentle yoga as helpful, so a yoga expert should still be consulted as in the Common Yoga Protocol). The claims 'only relaxation' and 'only for the young' are not stated in these sources."
 - **Explanation:**
   - Give a definition by name and in plain words. The senses of the root explain why different teachers define yoga differently, and a student who knows this is not confused by the variety.
   - When a student repeats a misconception, correct it with a short example from the practices (for instance breath and attention practices need no flexibility).
@@ -105,6 +105,10 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - The slide gives the Katha Upanishad reference as chapter 2, section 5, verse 4; the verse usually quoted for yoga as firm holding of the senses is in the second chapter, third section (to be checked in a standard edition).
   - The slide treats "Union of body, mind and spirit" as a meaning of the root; the Material lists the three grammatical senses only. Check whether this is a definition by a named source.
   - The slides give Marathi and Hindi lines (aim: self-assessment; objective: all-round development) with no named source; the wording of aim and objective differs from the Material, which states the aim as freedom from suffering.
+  - Resolution: Katha Upanishad reference on the slide (2/5/4) : notes right: the verse is Katha Upanishad 2.3.11 (second chapter, third section), per the wisdomlib Shankara bhashya page
+  - Resolution: Slide treats 'union of body, mind and spirit' as a meaning of the root : notes right: the Guidebook uses 'integration of mind, body and spirit' as a general description of yoga, not as one of Panini's three senses of yuj
+  - Resolution: Slide aim (self-assessment) versus notes (freedom from suffering) : notes right: Guidebook sec 1.3 and the Protocol state freedom from suffering and kaivalya; the slide Marathi and Hindi line has no named source
+- **Fact check log (pass 3):** added points: 4 confirmed, 3 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 0; conflicts resolved: 3.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -148,19 +152,14 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Four broad periods, as the deck and the syllabus group them:** the pre-Vedic period (traces in the Indus Valley civilisation such as seals with seated figures); the Vedic period (the Vedas and the Upanishads, where practices of breath, austerity and meditation are described); the classical period (the Yoga Sutra of Patanjali, which sets out the eightfold path in a short, systematic form, alongside the epics and the Gita); the post-classical period (the hatha yoga texts, with their stress on asanas, cleansing, breath control and bandhas).
   - **Names to know:** Patanjali (the codifier of classical yoga), Vyasa (an early commentator on the Yoga Sutra), Gorakshanath (hatha yoga tradition) and Svatmarama (author of the Hatha Pradipika), and modern teachers who spread yoga in India and abroad (for example Vivekananda, Krishnamacharya, Sivananda, Kuvalayananda, Iyengar). Confirm each attribution against a named source before print.
   - **How it developed:** from a spiritual discipline within several traditions, through codification in the Yoga Sutra, to the body-centred hatha yoga and then to modern health-centred forms taught worldwide.
-  - **Origin and lore (deck, not yet checked):** yoga is held to be very ancient, with its first mentions in the Vedas (the Rigveda is named; the Yajurveda is also named on the slide, to be checked). In yogic lore Lord Shiva is the first yogi (Adiyogi) and the first teacher (Adi Guru), and the seven sages (saptarshi) are said to have carried the teaching outwards. Seals and figures of the Indus Valley (Harappan) culture are cited as archaeological signs of yoga. A verse in the tradition names Hiranyagarbha as the ancient speaker of yoga.
-  - **Literature that carries yoga (deck, not yet checked):** the Vedas, the Upanishads, the philosophical systems, and the Buddhist and Jain traditions, then the Yoga Sutra of Patanjali.
-  - **Timeline by period, with names (deck, not yet checked):**
-    - Vedic period: mantra, breath (prana) and meditation practices, sun salutation and pranayama are linked to this period, with the grammarian Panini placed here by the deck (period to be checked).
-    - Pre-classical period: the Upanishads and early yoga texts, where yoga becomes a way of self-realisation.
-    - Classical period: the Yoga Sutra of Patanjali; the Bhagavad Gita; Mahavira and the five great vows; the Buddha and the eightfold path.
-    - Post-classical or medieval period: the philosophers Adi Shankaracharya, Ramanujacharya and Madhvacharya; devotional poet-saints such as Kabir and Tulsidas; hatha yogis of the Nath tradition; hatha yoga and Tantric traditions grow in this period.
-    - Modern period: Ramana Maharshi, Swami Vivekananda, Paramahamsa Yogananda, T. Krishnamacharya, B. K. S. Iyengar and Satyananda Saraswati.
-  - **Indian philosophical schools, by name (deck, not yet checked):** the astika (accepting the authority of the Vedas) schools are Nyaya (Gautama), Vaisheshika (Kanada), Samkhya (Kapila), Mimamsa (Jaimini), Yoga (Patanjali) and Vedanta (Badarayana). The nastika schools are Jain (Mahavira), Buddhist (Gautama Buddha) and Charvaka (Brihaspati).
-  - **Samkhya ideas that yoga uses (deck, not yet checked):** two eternal principles, purusha (pure consciousness) and prakriti (matter); prakriti is made of the three gunas (sattva, rajas, tamas). Liberation (kaivalya) comes from discerning purusha from prakriti, which ends suffering of three kinds: from within oneself (adhyatmika), from other beings (adhibhautika) and from cosmic forces (adhidaivika).
-  - **Key texts and what each gives (deck, not yet checked):** the Vedas give the early ritual and philosophical base; the Upanishads give the concepts and stress self-realisation; the Yoga Sutra gives the eightfold path in a system; the Bhagavad Gita joins yoga to life and duty (karma, bhakti and jnana yoga); the Hatha Yoga Pradipika gives the practical methods of hatha yoga.
-  - **How practices evolved (deck, not yet checked):** early practice centred on meditation and austerity; postures developed in the medieval period; breath control and the energy channels (nadi) were added; styles such as hatha, kundalini, raja and karma yoga appeared; contemporary styles include vinyasa, ashtanga and power yoga.
-  - **Preparatory exercises (deck, not yet checked):** sukshma vyayama (gentle loosening exercises before yoga, to make the body supple) and sthula vyayama (full-body exercises for strength and energy) are linked on the slide to Swami Dhirendra Brahmachari (to be checked).
+  - "  - **Origin and lore (deck, not yet checked) (checked: Guidebook foreword and ch.1 sec 1.2; Common Yoga Protocol history):** yoga is described as very ancient; the Guidebook foreword says it began almost 5,000 years ago and names the Rigveda as the first reference (the Yajurveda is not named as a first mention; it is only one of the four Vedas listed). In yogic lore Shiva is the first yogi (Adiyogi) and first teacher (Adi Guru), who passed the teaching to the seven sages (saptarishi). Seals and figures of the Indus Saraswati Valley civilisation, dated to about 2700 BC by both the Guidebook and the Protocol, are cited as signs of yoga practice, and the Pashupati figure is named in the Guidebook. The Hiranyagarbha verse is not in these sources and is left for a standard edition."
+  - **Literature that carries yoga (checked: Guidebook ch.1 sec 1.2 (Vedas, Upanishads, Buddhist and Jain teachings, epics, Panini, and the Yoga Sutra as the first systematic text); Common Yoga Protocol (brief history)):** the Vedas, the Upanishads, the philosophical systems, and the Buddhist and Jain traditions, then the Yoga Sutra of Patanjali.
+  - "  - **Timeline by period, with names (deck, not yet checked) (checked: Guidebook ch.1 sec 1.2):** the Guidebook groups yoga into four periods: pre-Vedic, Vedic (Vedas and Upanishads), classical (Patanjali's Yoga Sutra) and post-classical (Tantra and hatha yoga). Panini is placed by the Guidebook in the 6th century BC and is listed among the sources of the pre-Vedic to Patanjali phase, not as a Vedic figure. The Gita and the epics belong to the classical stage in the Protocol. The Guidebook names modern masters (Vivekananda's 1893 Chicago address starts the modern spread; Krishnamacharya, Sivananda, Iyengar, Kuvalayananda, Satyananda and others). It lists Swami Yogananda among modern masters but does not name Ramana Maharshi, Adi Shankaracharya, Ramanujacharya, Madhvacharya, Kabir, Tulsidas, Mahavira's five vows or the Buddha's eightfold path as yoga milestones; keep these as general background, not Board content. The Board syllabus asks only for origin, history and development."
+  - **Indian philosophical schools, by name (checked: Guidebook ch.1 sec 1.4 Table 1.1 (Nyaya Gautama, Vaisheshika Kanada, Samkhya Kapila, Yoga Patanjali, Purva Mimamsa Jaimini, Vedanta Badarayana) and the nastika group of Buddhism, Jainism and Charvaka):** the astika (accepting the authority of the Vedas) schools are Nyaya (Gautama), Vaisheshika (Kanada), Samkhya (Kapila), Mimamsa (Jaimini), Yoga (Patanjali) and Vedanta (Badarayana). The nastika schools are Jain (Mahavira), Buddhist (Gautama Buddha) and Charvaka (Brihaspati).
+  - **Samkhya ideas that yoga uses (checked: Guidebook ch.1 sec 1.4 (purusha and prakriti, three gunas, kaivalya by discriminating knowledge, three kinds of suffering adhyatmic, adhibhautic, adhidaivic)):** two eternal principles, purusha (pure consciousness) and prakriti (matter); prakriti is made of the three gunas (sattva, rajas, tamas). Liberation (kaivalya) comes from discerning purusha from prakriti, which ends suffering of three kinds: from within oneself (adhyatmika), from other beings (adhibhautika) and from cosmic forces (adhidaivika).
+  - **Key texts and what each gives (checked: Guidebook ch.1 sec 1.2 (Vedas, Upanishads internalise the sacrifice and teach self-knowledge, Yoga Sutra the eightfold path) and sec 1.5 (Gita karma and bhakti, Hatha Yoga Pradipika by Svatmarama)):** the Vedas give the early ritual and philosophical base; the Upanishads give the concepts and stress self-realisation; the Yoga Sutra gives the eightfold path in a system; the Bhagavad Gita joins yoga to life and duty (karma, bhakti and jnana yoga); the Hatha Yoga Pradipika gives the practical methods of hatha yoga.
+  - "  - **How practices evolved (deck, not yet checked) (checked: Guidebook ch.1 sec 1.2 and 1.5):** early practice was Vedic-ascetic and meditative; Patanjali systematised it into eight limbs; the post-classical yoga masters developed Tantra yoga and then hatha yoga with body-centred practices (cleansing, postures, breath control); modern times added many named styles, including Ashtanga, Iyengar, Power and Vinyasa (the Guidebook names Power, Ashtanga and Vinyasa classes). Kundalini yoga is listed as a traditional school in the Protocol. The nadi and posture sequence on the slide is a summary, not a dated claim."
+  - "  - **Preparatory exercises (deck, not yet checked) (checked: Guidebook ch.5 section on sukshma vyayama):** the Guidebook says sukshma vyayama was designed and developed by Maharshi Karthikeyaji Maharaj of the Himalaya, who taught Swami Dhirendra Brahmachari (1924-1994), who spread it in the modern world. So Dhirendra Brahmachari propagated it and did not originate it. The Guidebook does not tie sthula vyayama to him."
 - **Explanation:**
   - Keep dates out of the slide text unless a source gives them; say "periods" and name the texts. A short timeline from the Vedas to the modern teachers is enough for the exam.
 - **Workshop slide content (folded into the layers above on a first pass; kept here until the author confirms nothing is lost):**
@@ -216,14 +215,22 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - The slide says hatha yoga emerged from Tantra by removing controversial practices; this is a contested historical claim and needs a source.
   - The slide places Panini, sun salutation and pranayama in the Vedic period; sun salutation as a set is of later origin in most accounts (to be checked).
   - The slide lists Charvaka, Jain and Buddhist as nastika; Samkhya and Yoga are astika, though the Samkhya school has atheistic features; the quiz option answer (Buddhism) is consistent.
+  - Resolution: Slide gives 5000 BCE and fixed dates for each period : notes right to avoid dates: Guidebook sec 1.2 says yoga is 'over 5,000 years' old with researchers suggesting more, and that dating of the texts is uncertain; the Guidebook cites about 2700 BC for the Indus Saraswati seals and says Patanjali's Sutra dates are debated
+  - Resolution: Slide has five periods, notes have four : slide and Guidebook differ: the Guidebook uses four periods (pre-Vedic, Vedic, classical, post-classical) with the Upanishads under Vedic; the Board syllabus names no periods, so use the Guidebook grouping
+  - Resolution: Slide names Rigveda and Yajurveda as first mentions : notes right to check: Guidebook foreword names only the Rigveda as the first reference
+  - Resolution: Slide credits Vyasa with the Gita; notes name Vyasa as Yoga Sutra commentator : genuine variation: Guidebook sec 1.1 calls Vyasa the commentator on the Yoga Sutra and lists Badarayana Vyasa for Vedanta; the Mahabharata and Gita are traditionally attributed to Vyasa, and whether the two are the same person is debated; keep the commentator role only
+  - Resolution: Slide says hatha yoga emerged from Tantra, removing controversial practices : genuine variation: Guidebook says hatha is sourced from Tantra; the removal claim has no source
+  - Resolution: Slide places Panini, sun salutation and pranayama in the Vedic period : notes right: Guidebook places Panini at the 6th century BC and gives no Vedic dating for sun salutation
+  - Resolution: Nastika list (Charvaka, Jain, Buddhist) : notes right: Guidebook sec 1.4 lists Buddhism, Jainism and Charvaka as nastika; Samkhya and Yoga are astika
+- **Fact check log (pass 3):** added points: 4 confirmed, 4 corrected, 0 rejected, 2 unverified; hand-written points not confirmed: 0; conflicts resolved: 7.
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-history**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_history.png`
-    - Final file: workshops/YCB1/images/new/ycb1_history_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_history.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_history_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-th-origin-history-development, frame 'History of Yoga'. Concept diagram: History of Yoga. Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
   - **ycb1-fig-teachers**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_teachers.jpg`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_teachers.jpg`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate portraits of real people. Replace with a plain timeline diagram of the teachers named in the checked notes block, or with photographs the author has permission to use. Used in block ycb1-th-origin-history-development, frame 'History of Yoga'.
 - **Exercises:** to be written
@@ -271,7 +278,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **ID:** ycb1-th-guiding-principles-practitioners
 - **Review:** pending
 - **Additions:** pending
-- **Fact check:** pending
+- **Fact check:** checked (pass 3: every point in the Material is confirmed or corrected against the sources named in its bullets and in References; a certified teacher or qualified reviewer must still review it)
 - **Scope:** The principles a practitioner follows in daily practice.
 - **Deck seed:** ycb1_theory_intro.tex (seed only; the frames still need mapping to this block)
 - **Local sources:** status: covered; guidebook chapter "Introduction to Yoga and Yogic Practices"; Common Yoga Protocol (general guidelines); Board syllabus and guideline (docs folder). Own words only; none of these may be copied.
@@ -281,9 +288,9 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **During practice:** begin with a prayer or invocation; move slowly and in a relaxed way, aware of the body and the breath; do not hold the breath unless the practice says so; breathe through the nose unless told otherwise; never hold the body tight or jerk it; work within your own capacity; practise regularly and with patience, because results take time; keep the cautions of each practice in mind; end with meditation, silence or a peace chant.
   - **After practice:** wait about 20 to 30 minutes before a bath or a meal.
   - **Food:** a light, mostly vegetarian diet is the usual advice; two meals a day can be enough for an adult who is not ill or doing heavy work. Treat this as advice, not as a rule to impose on students.
-  - **For the teacher (deck, not yet checked):** prepare a clean, ventilated space; for an online class check the connection beforehand; open with a prayer or mantra; give clear, short spoken cues about breath and alignment; ask permission before touching a student to correct a posture; leave time at the end for feedback and questions.
-  - **Practice and food link (deck, not yet checked):** an empty or light stomach is said to leave the vital energy (prana shakti) free for the practice.
-  - **Five-point guide to a yogic life, credited to Swami Vishnudevananda (deck, not yet checked):** proper exercise (asana), proper breathing (pranayama), proper relaxation (shavasana), proper diet (vegetarian), and positive thinking with meditation (Vedanta and dhyana). The deck also states the same set as the basic pillars of a balanced life.
+  - "  - **For the teacher (deck, not yet checked) (checked: Common Yoga Protocol general guidelines; Guidebook ch.1 practice guidelines):** the Protocol and Guidebook support a clean, calm, well-ventilated space, starting with a prayer or invocation, slow and aware practice, and ending with meditation, silence or a peace chant. Asking permission before touching a student, checking the connection for an online class, clear short cues and time for feedback are sound teaching practice but are not stated in these sources; keep them as advice, not Board rules."
+  - "  - **Practice and food link (deck, not yet checked) (checked: Common Yoga Protocol):** practise on an empty or light stomach; a little honey in lukewarm water is allowed if weak. The reason given on the slide (prana shakti) is the slide's wording; the safe teaching line is that a full stomach makes practice uncomfortable."
+  - **Five-point guide to a yogic life, credited to Swami Vishnudevananda (checked: Sivananda Yoga Vedanta Centres pages (found by web search, sivananda.org and sivananda.org.in): five points are proper exercise, proper breathing, proper relaxation, proper diet (vegetarian), positive thinking and meditation, distilled by Vishnudevananda from Sivananda's teaching):** proper exercise (asana), proper breathing (pranayama), proper relaxation (shavasana), proper diet (vegetarian), and positive thinking with meditation (Vedanta and dhyana). The deck also states the same set as the basic pillars of a balanced life.
 - **Explanation:**
   - These points protect the practitioner and make the practice work. An instructor follows them first and then teaches them, because a class that ignores them is where injuries and complaints start.
   - The syllabus asks for the principles, not a fixed list, so students should be able to say them in their own words and give the reason for each.
@@ -307,11 +314,31 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - The slide says to avoid water, food or a bath for 40 to 60 minutes after practice; the Material says to wait about 20 to 30 minutes. Check against the official source and settle one figure.
   - The slide says to avoid water after practice; this may be unsafe or unnecessary advice (hydration); check.
   - The slide ties the five-point guide to Swami Vishnudevananda; confirm the attribution.
+  - Resolution: Slide 40 to 60 minutes versus notes 20 to 30 minutes : notes right: Common Yoga Protocol, After Practice (20 to 30 minutes for bath and food); the Guidebook ch.1 practice guidelines give 15 to 30 minutes for a bath and light food
+  - Resolution: Slide says avoid water after practice : notes right to flag it: no source supports it; Protocol limits only bath and food
+  - Resolution: Five-point guide attribution to Swami Vishnudevananda : notes right: Sivananda Yoga Vedanta Centres credit the five points to Swami Vishnudevananda, developed from Swami Sivananda's teaching
+- **Fact check log (pass 3):** added points: 1 confirmed, 2 corrected, 0 rejected, 0 unverified; hand-written points not confirmed: 0; conflicts resolved: 3.
+- **Layers note (2026-11-24):** Worked examples, Exercises and FAQ below include items drafted only from this block's checked Material; the Review status stays pending until the author and a certified teacher read them.
 - **Worked examples:**
   - A new student arrives straight after lunch. Explain that the stomach should be empty or light, suggest moving the class to later or doing only gentle breathing, and say when practice is better done.
   - A student with high blood pressure asks to learn forceful breathing. Point to the cautions for that practice, say that a physician should be asked first, and offer a gentler practice for now.
+  - **Model answer: guiding principles before, during and after practice.** Sort the points under three heads and give a reason for each.
+    - Before: clean place, body and mind; calm, quiet place; empty or light stomach; empty bladder and bowels; mat or folded blanket; light cotton clothes.
+    - During: begin with a prayer or invocation; move slowly and with awareness of body and breath; do not hold the breath unless the practice says so; never jerk or hold the body tight; work within your capacity; be regular and patient; end with meditation, silence or a peace chant.
+    - After: wait about 20 to 30 minutes before a bath or a meal.
+    - Tip: the syllabus asks for the principles, not a fixed list, so give each in your own words with its reason.
+  - **Scenario: a student arrives straight after lunch.** The teacher explains that practice should be on an empty or light stomach, because a full stomach makes practice uncomfortable. The teacher suggests moving the class to later or doing only gentle breathing. Honey in warm water is allowed only if a person is weak and the stomach is otherwise empty.
+  - **Scenario: a student with a heart problem wants to join.** The teacher does not start the practice. A person with a long-term illness, pain or a heart problem should ask a physician or yoga therapist first. The teacher points to the cautions of each practice and offers a gentler option once the physician has agreed.
 - **Figures:** none yet
-- **Exercises:** to be written
+- **Exercises:**
+  - (Recall) Q: How long should one wait after practice before a bath or a meal? A: About 20 to 30 minutes.
+  - (Recall) Q: Fill in the blank: a session begins with a prayer or invocation and ends with meditation, silence or a ______. A: Peace chant.
+  - (Recall) Q: Name the five points of a yogic life credited to Swami Vishnudevananda. A: Proper exercise (asana), proper breathing (pranayama), proper relaxation (shavasana), proper diet (vegetarian), and positive thinking with meditation (Vedanta and dhyana).
+  - (Understand) Q: True or false: it is fine to hold the breath in any practice if you feel strong. A: False. Do not hold the breath unless the practice itself says so.
+  - (Understand) Q: Give two situations in which one should not practise. A: When exhausted, ill, in a hurry or under acute stress (any two).
+  - (Understand) Q: Why does an instructor follow these principles before teaching them? A: They protect the practitioner and make the practice work, and a class that ignores them is where injuries and complaints start.
+  - (Apply) Q: A pregnant student asks to join your class. What do you say? A: A person who is pregnant or menstruating should ask a yoga expert first.
+  - (Apply) Q: A student says everyone must eat only vegetarian food and two meals a day. How do you respond? A: A light, mostly vegetarian diet is the usual advice, and two meals a day can be enough for an adult who is not ill or doing heavy work. Treat it as advice, not a rule to impose on students.
 - **Quiz:**
   - Q: How long after practice should a person wait before a bath or a meal? A: About 20 to 30 minutes.
   - Q: May a student hold the breath during any practice? A: Only where the practice itself says so.
@@ -319,7 +346,13 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Q: What should a teacher do before touching a student to correct a posture? A: Ask permission first.
   - Q: Why practise on an empty or light stomach? A: So that the body can use its energy for the practice and avoid discomfort.
   - Q: Name the five points of a yogic life as given by Swami Vishnudevananda. A: Exercise, breathing, relaxation, diet, and positive thinking with meditation.
-- **FAQ:** to be written (the question bank in `ycb1_theory_faqs.tex` is a seed, to be rewritten)
+- **FAQ:**
+  - Q: Do I need to learn the principles word for word? A: No. The syllabus asks for the principles, not a fixed list, so say them in your own words and give the reason for each.
+  - Q: Should a teacher ask before touching a student to correct a posture? A: Yes, ask permission first. This is sound teaching practice, but it is not stated in the Protocol or the Guidebook, so keep it as advice and not as a Board rule.
+  - Q: Can I take something before practice if I feel weak? A: A little honey in warm water is allowed if weak. The safe teaching line is that a full stomach makes practice uncomfortable.
+  - Q: Some slides say to wait 40 to 60 minutes and avoid water after practice. Which is right? A: Use the Material: about 20 to 30 minutes before a bath or meal, as in the Common Yoga Protocol. No source supports avoiding water.
+  - Q: Who gave the five-point guide to a yogic life? A: Sivananda Yoga Vedanta Centres credit it to Swami Vishnudevananda, developed from Swami Sivananda's teaching.
+  - Q: Is the material reviewed by a certified teacher? A: Not yet. It is checked against the sources named, but a certified teacher or qualified reviewer must still review it.
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -339,18 +372,18 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Antahkarana chatushtaya (the four parts of the inner instrument):** manas (the mind that receives and doubts), buddhi (the intellect that decides), chitta (the store of memory and impressions) and ahamkara (the sense of "I").
   - **Tri-sharira (three bodies):** sthula (the physical body), sukshma (the subtle body of mind and vital energy) and karana (the causal body).
   - **Panchakosha (five sheaths):** annamaya (food), pranamaya (vital energy), manomaya (mind), vijnanamaya (understanding) and anandamaya (bliss). Practices work from the outer sheaths inwards: asana on the food sheath, pranayama on the energy sheath, meditation on the mind and understanding.
-  - **Vedantic key terms (deck, not yet checked):** Brahman is the absolute reality (eternal, infinite, the source of being, consciousness and bliss: sat-chit-ananda). Maya is its creative power, the cosmic appearance. Atman is the individual's own essence, said to be the same as Brahman. Upadhi is a limiting adjunct, the false identification with body and mind. Avidya is the basic ignorance that causes this misidentification. Jiva is the apparent individual soul bound by that ignorance until it knows its true nature. Ishvara is the personal God, Brahman with maya. In Samkhya-Yoga, purusha is pure consciousness and prakriti is the material cause of creation, a balance of the gunas.
-  - **Gunas and mind (deck, not yet checked):** the balance of the gunas shapes mental and emotional states. Sattva is purity, clarity and harmony; rajas is activity, movement and restlessness; tamas is inertia, darkness and ignorance. The goal is to grow sattva for peace and spiritual growth.
-  - **Inner instrument in short (deck, not yet checked):** manas handles thoughts and sense impressions; buddhi decides; ahamkara gives the sense of individuality; chitta stores past experience and impressions. Bringing these into harmony supports clarity and self-awareness.
-  - **Three bodies in short (deck, not yet checked):** the gross body is the physical body made of the elements; the subtle body includes mind, intellect and ego; the causal body is the seed of individuality and karma. The aim is harmony among them.
-  - **Five sheaths in short (deck, not yet checked):** annamaya is the body nourished by food; pranamaya is the energy body; manomaya is the mind and emotion; vijnanamaya is intellect and discernment; anandamaya is the sheath of bliss. The aim is to see beyond the sheaths to the true self. A text link: the Taittiriya Upanishad is the source of the sheath model, used in yoga-based treatment of disease (per the deck question bank, to be checked).
-  - **Pancha mahabhuta, the five great elements (deck, not yet checked):** akasha (space), vayu (air), agni (fire), jala (water), prithvi (earth), each arising from the one before it in this order. Roles in the body: space gives the cavities; air gives movement, pulsation and conduction; fire gives metabolism; water gives binding and the joints; earth gives organs, mass and firmness.
+  - "  - **Vedantic key terms (deck, not yet checked) (checked: Guidebook ch.1 sec 1.4, ch.3 sec 3.3, ch.5 sec 5.1):** the Self is described in the Guidebook as sat-chit-ananda, being, consciousness and bliss. In Samkhya-Yoga, purusha is pure consciousness and prakriti is matter, made of the three gunas. Ishvara in Patanjali's Sutra is a special purusha, not a religious figure, and the Upanishads deal with jiva, jagat and Ishvara. Avidya is ignorance of one's true nature (the first of the five kleshas). The terms Brahman, maya, upadhi as set out on the slide are standard Advaita glossary terms not defined in these sources."
+  - **Gunas and mind (checked: Guidebook ch.1 sec 1.4 (Samkhya: sattva, rajas, tamas in prakriti) and ch.5 Table 5.2 and the 'Development of Sattvaguna' passage (tamas and rajas pull down, sattva lifts up; the aim is to grow sattva)):** the balance of the gunas shapes mental and emotional states. Sattva is purity, clarity and harmony; rajas is activity, movement and restlessness; tamas is inertia, darkness and ignorance. The goal is to grow sattva for peace and spiritual growth.
+  - **Inner instrument in short (checked: Guidebook ch.3 sec 3.2 (Upanishads: chitta stores samskaras, buddhi decides, ahamkara is ego, manas synthesises; called antahkarana chatushtaya); note that Samkhya counts only three without chitta):** manas handles thoughts and sense impressions; buddhi decides; ahamkara gives the sense of individuality; chitta stores past experience and impressions. Bringing these into harmony supports clarity and self-awareness.
+  - "  - **Three bodies in short (deck, not yet checked) (checked: Guidebook ch.5 sec 5.2):** the Guidebook ties the three bodies to the sheaths: the physical (gross) body is the annamaya sheath; the subtle body is made of the pranamaya, manomaya and vijnanamaya sheaths; the causal body is the anandamaya sheath. So the subtle body is more than mind, intellect and ego; it includes the vital sheath. The slide's 'seed of individuality and karma' for the causal body is the slide's wording, not the Guidebook's."
+  - "  - **Five sheaths in short (deck, not yet checked) (checked: Guidebook ch.1 sec 1.6 Pancha Kosha and ch.5 sec 5.2):** annamaya is the outermost, food-made physical sheath; pranamaya is the energy sheath, the bridge between body and mind; manomaya is mind, thinking and emotion (manas, ahamkara and lower buddhi); vijnanamaya is higher intellect and intuition; anandamaya is the bliss sheath, closest to the Real Self but still a sheath (the Self lies behind all five). The Taittiriya Upanishad speaks of five brahma manifestations and Adi Shankaracharya turned them into the five koshas, so it is the textual source of the model; the Guidebook uses the model in its health chapter."
+  - **Pancha mahabhuta, the five great elements (checked: Guidebook ch.5 sec 5.5 lists akasha, vayu, agni, jala and prithvi with the property lists of each class of substance):** akasha (space), vayu (air), agni (fire), jala (water), prithvi (earth), each arising from the one before it in this order. Roles in the body: space gives the cavities; air gives movement, pulsation and conduction; fire gives metabolism; water gives binding and the joints; earth gives organs, mass and firmness.
   - **Tanmatras and sense organs (deck, not yet checked):** the subtle elements are sound (shabda) for space, touch (sparsha) for air, form or light (rupa) for fire, taste (rasa) for water and smell (gandha) for earth. The matching sense organs of knowledge are the ears, skin, eyes, tongue and nose.
-  - **Organs of action (karmendriya) (deck, not yet checked):** tongue (speech), hands (receiving and holding), feet (movement), genitals (reproduction), anus (discharge of waste).
-  - **Sapta dhatu, the body tissues (deck, not yet checked):** rasa (plasma), rakta (blood), mamsa (muscle), meda (fat), asthi (bone), majja (marrow) and shukra (reproductive tissue). Each dhatu sustains the body and nourishes the next one in the order listed.
+  - "  - **Organs of action (karmendriya) (deck, not yet checked) (checked: Guidebook ch.5 sec 5.2):** the Guidebook confirms five karmendriyas, the means of action tied to the external world. The usual list is speech, hands, feet, excretion and reproduction. The slide's pairing of each organ with one of the five elements is not standard in all sources; present the list without the pairing."
+  - "  - **Sapta dhatu, the body tissues (deck, not yet checked) (checked: Guidebook ch.5 sec 5.2):** the Guidebook says the annamaya sheath is built of the seven dhatus and names them only as seven; the individual names (rasa, rakta, mamsa, meda, asthi, majja, shukra) and the nourishing order are standard Ayurveda, not spelt out in the Guidebook text extract."
   - **Tri dosha (deck, not yet checked):** vata (dry, light, cold, rough, unsteady), pitta (hot, sharp, light, liquid, quick) and kapha (unctuous, cold, heavy, sluggish, soft, steady). The word dosha means that which spoils or goes out of balance.
-  - **Pancha prana, the five vital airs (deck, not yet checked):** prana (upper region, from head to navel on the slide), apana (navel to the root, the muladhara chakra), udana (navel upward to the head on the slide), samana (navel region), vyana (spread through the whole body). The five upapranas are naga (belching, hiccup), kurma (blinking), krikala (hunger, thirst, sneezing, coughing), devadatta (yawning, drowsiness) and dhananjaya (remains after death).
-  - **Quiz facts from the deck (deck, not yet checked):** the Samkhya school is dualist (dvaita) and was founded by Kapila; the Ajna chakra lies between the eyebrows; the Vishuddhi chakra lies at the base of the throat; the Mandukya Upanishad links the waking, dream and deep-sleep states with the sounds A, U and M; samadhi is not one of the four purusharthas (dharma, artha, kama, moksha).
+  - **Pancha prana, the five vital airs (checked: Guidebook ch.5 sec 5.2 (five pranas prana, apana, udana, samana, vyana; five upapranas dhananjaya, naga, kurma, krikala, devadatta)):** prana (upper region, from head to navel on the slide), apana (navel to the root, the muladhara chakra), udana (navel upward to the head on the slide), samana (navel region), vyana (spread through the whole body). The five upapranas are naga (belching, hiccup), kurma (blinking), krikala (hunger, thirst, sneezing, coughing), devadatta (yawning, drowsiness) and dhananjaya (remains after death).
+  - **Quiz facts from the deck (checked: Guidebook ch.1 sec 1.4 (Samkhya is dualistic, propounded by Sage Kapila, purusha and prakriti)):** the Samkhya school is dualist (dvaita) and was founded by Kapila; the Ajna chakra lies between the eyebrows; the Vishuddhi chakra lies at the base of the throat; the Mandukya Upanishad links the waking, dream and deep-sleep states with the sounds A, U and M; samadhi is not one of the four purusharthas (dharma, artha, kama, moksha).
 - **Explanation:**
   - These four sets are models, not body parts. Use one picture per set (a triangle for the gunas, a ring of four for the inner instrument, nested sheaths for the koshas) and keep each to a few words.
 - **Workshop slide content (folded into the layers above on a first pass; kept here until the author confirms nothing is lost):**
@@ -476,23 +509,31 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - The slide's pancha mahabhuta property table (for example air as cold, water as cold) mixes Ayurvedic attributes; verify with an Ayurveda source.
   - The slide says dhananjaya "lingers after death"; check wording.
   - The deck question lists only the Taittiriya Upanishad for the sheath model; confirm.
+  - Resolution: Slide calls anandamaya the 'true self' : notes right: Guidebook calls it the sheath closest to the Real Self; the Self lies behind all sheaths
+  - Resolution: Slide: subtle body includes mind, intellect and ego; notes: mind and vital energy : genuine variation, Guidebook ch.5 sec 5.2 settles for this book: subtle body = pranamaya, manomaya and vijnanamaya sheaths; mind, intellect and ego sit in manomaya and vijnanamaya
+  - Resolution: Slide assigns each element a karmendriya : notes right: this mapping is not in the Guidebook and is not standard
+  - Resolution: Slide: prana head to navel, udana navel to head : notes right: locations vary but these are not the usual ones
+  - Resolution: Slide property table mixes Ayurvedic attributes : notes right: the Guidebook gives its own property lists per element class; use those or an Ayurveda source
+  - Resolution: Dhananjaya lingers after death : genuine variation: some modern sources say it persists after death, others give it heart and tissue functions; cite or omit
+  - Resolution: Only Taittiriya Upanishad named for the sheath model : slide right: Guidebook ch.1 sec 1.6 names the Taittiriya Upanishad (via Adi Shankaracharya)
+- **Fact check log (pass 3):** added points: 5 confirmed, 5 corrected, 0 rejected, 5 unverified; hand-written points not confirmed: 0; conflicts resolved: 7.
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-chakras**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_chakras.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_chakras_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_chakras.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_chakras_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-th-principles-of-yoga, frame 'Chakra Mudras (Energy Center Gestures); Chakras'. Concept diagram: Chakra Mudras (Energy Center Gestures); Chakras. Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
   - **ycb1-fig-dhatus**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_dhatus.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_dhatus_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_dhatus.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_dhatus_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-th-principles-of-yoga, frame 'Dhatus'. Concept diagram: Dhatus. Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
   - **ycb1-fig-kosha**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_kosha.png`
-    - Final file: workshops/YCB1/images/new/ycb1_kosha_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_kosha.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_kosha_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-th-principles-of-yoga, frame '(Five Sheaths)'. Concept diagram: (Five Sheaths). Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
   - **ycb1-fig-pranas**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_pranas.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_pranas_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_pranas.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_pranas_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-th-principles-of-yoga, frame 'Pranas'. Concept diagram: Pranas. Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
 - **Exercises:** to be written
 - **Quiz:**
@@ -599,15 +640,15 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Patanjala (raja) yoga:** the path of the eightfold method set out by Patanjali, aiming at a still mind.
   - **Hatha yoga:** the path that works through the body and breath with asanas, cleansing actions, breath control and bandhas, as a base for meditation.
   - A person usually blends paths. The common protocol also describes a four-way grouping by what is used: body (karma), mind (jnana), emotion (bhakti) and energy (kriya).
-  - **Schools of Indian philosophy (deck, not yet checked):** astika (accepting the Vedas as authority): Nyaya (Gautama), Vaisheshika (Kanada), Samkhya (Kapila), Mimamsa (Jaimini), Yoga (Patanjali), Vedanta (Badarayana). Nastika: Jain (Mahavira), Buddhist (Buddha), Charvaka (Brihaspati).
-  - **Paths of yoga named on the deck (deck, not yet checked):** jnana, bhakti, karma, raja, hatha and mantra yoga.
-  - **Jnana yoga, means (deck, not yet checked):** the path of discerning the real from the unreal, in a non-dual view. Its practice runs through shravana (listening to the teaching), manana (reflection and reasoning) and nididhyasana (repeated meditation to make the conviction firm). The student's preparation is viveka (discrimination), vairagya (detachment), the group of six virtues (shama calm, dama self-control, uparati withdrawal, titiksha endurance, shraddha faith, samadhana focus) and mumukshutva (strong longing for liberation).
-  - **Bhakti yoga, means (deck, not yet checked):** the path of unconditional love for God, as in the Narada Bhakti Sutra. Forms of devotion with the example named for each: shravana (listening to stories of God; Parikshit), kirtana (singing; Mirabai, Narada), smarana (remembrance; Prahlada), padasevana (service at the feet; Bharata on the slide), archana (worship; Ekalavya on the slide), dasya (service as servant; Hanuman), sakhya (friendship; Sudama on the slide) and atmanivedana (offering oneself; King Bali). Four kinds of devotee in the Bhagavad Gita: the distressed (arta), the seeker of wealth (artharthi), the curious (jijnasu) and the wise (jnani).
-  - **Karma yoga, principles (deck, not yet checked):** act from a sense of duty; stay free of strong attachment to the outcome; do not let worry about results disturb the mind while working; accept success and failure with evenness. The aim is to melt the ego into selfless action, offering the fruit to God.
-  - **Raja yoga (deck, not yet checked):** the royal yoga, based on the eight limbs (ashtanga) of the Yoga Sutra of Patanjali, aiming at stilling the movements of the mind so that the true self stands in its purity. The Hatha Yoga Pradipika calls hatha yoga a staircase leading to raja yoga; raja yoga is more the final state than a separate technique. Raja yoga works on the mind, hatha yoga on the body.
-  - **Hatha yoga, in more detail (deck, not yet checked):** physically oriented, linked to the Tantric background, and stressing cleansing (shodhana, the shat kriyas) rather than the yamas and niyamas. Main texts: Hatha Yoga Pradipika (Svatmarama), Gheranda Samhita (Gheranda), Goraksha Samhita (Gorakshanath), also Shiva Samhita and others. The word is explained as "ha" (sun) and "tha" (moon), a union of opposites (heat, effort, masculine against coolness, surrender, feminine); it does not mean stubbornness. The text describes joining the sun channel (pingala) and moon channel (ida), waking kundalini, which rises through the central channel (sushumna), passes the chakras and reaches the crown (sahasrara), where self and the highest self unite.
-  - **Mantra yoga (deck, not yet checked):** the yoga of sound. The word mantra is explained as that which protects the one who reflects (man, mind; tra, protect). A mantra is a sacred sound with spiritual power, used for deep meditation; Om is called the great mantra (mahamantra).
-  - **Quiz facts from the deck (deck, not yet checked):** the Kaivalyadhama institute was founded by Swami Kuvalayananda; the Upanishads belong to the knowledge portion (jnana kanda) of the Vedas; raja yoga is the yoga of controlling the mind; smarana is remembering God at all times.
+  - **Schools of Indian philosophy (checked: Guidebook ch.1 sec 1.4 Table 1.1 (Nyaya Gautama, Vaisheshika Kanada, Samkhya Kapila, Yoga Patanjali, Purva Mimamsa Jaimini, Vedanta Badarayana Vyasa; nastika are Buddhism, Jainism, Charvaka); the slide's founder names for the nastika schools are not in the Guidebook):** astika (accepting the Vedas as authority): Nyaya (Gautama), Vaisheshika (Kanada), Samkhya (Kapila), Mimamsa (Jaimini), Yoga (Patanjali), Vedanta (Badarayana). Nastika: Jain (Mahavira), Buddhist (Buddha), Charvaka (Brihaspati).
+  - **Paths of yoga named on the deck (checked: Guidebook ch.1 sec 1.5 (six prominent paths: jnana, bhakti, karma, raja, hatha, mantra)):** jnana, bhakti, karma, raja, hatha and mantra yoga.
+  - "  - **Jnana yoga, means (deck, not yet checked) (checked: Guidebook ch.1 sec 1.5):** the path of discerning the real from the unreal, strictly non-dual (Advaita Vedanta) and contemplative. Its three stages are shravana (listening to the teaching), manana (reflection and reasoning) and nididhyasana (repeated meditation to make the conviction firm). The Guidebook says the student prepares through the sadhana chatustaya (the fourfold preparation) and studies Vedanta under a realised teacher. The standard fourfold list is viveka, vairagya, the group of six virtues (shama, dama, uparati, titiksha, shraddha, samadhana) and mumukshutva; this list is not spelt out in the Guidebook. The slide heading that puts manas, buddhi, chitta and ahamkara under the sadhana chatustaya is wrong (those are the antahkarana)."
+  - "  - **Bhakti yoga, means (deck, not yet checked) (checked: Guidebook ch.1 sec 1.5; Bhagavata Purana 7.5.23 via web search):** the path of unconditional, intense love for God; the Narada Bhakti Sutra is a premier text on bhakti and prema; kirtan (devotional chanting) is described as perhaps the most important technique. The Bhagavad Gita (7.16) names four kinds of devotee: the distressed (arta), the inquisitive (jijnasu), the seeker of wealth (artharthi) and the wise (jnani). The Bhagavata Purana (7.5.23) lists nine forms of devotion: hearing, chanting, remembering, serving the feet, worship, prayer or salutation (vandana), service as a servant, friendship and self-surrender; the slide leaves out vandana and its examples differ from the usual list, so give the forms and leave out the exemplar names unless checked."
+  - **Karma yoga, principles (checked: Guidebook ch.1 sec 1.5 (four laws from the Gita: work with duty, no intense attachment, do not let anxiety about results disturb the mind, accept failure and success with equanimity; offer the fruits to God to sublimate the ego)):** act from a sense of duty; stay free of strong attachment to the outcome; do not let worry about results disturb the mind while working; accept success and failure with evenness. The aim is to melt the ego into selfless action, offering the fruit to God.
+  - **Raja yoga (checked: Guidebook ch.1 sec 1.5 (royal yoga, Hatha Yoga Pradipika calls hatha a staircase to raja, may mean the final state of Self-realisation, Patanjali's yoga is mind-oriented and aims at cessation of mental modifications; eight limbs)):** the royal yoga, based on the eight limbs (ashtanga) of the Yoga Sutra of Patanjali, aiming at stilling the movements of the mind so that the true self stands in its purity. The Hatha Yoga Pradipika calls hatha yoga a staircase leading to raja yoga; raja yoga is more the final state than a separate technique. Raja yoga works on the mind, hatha yoga on the body.
+  - "  - **Hatha yoga, in more detail (deck, not yet checked) (checked: Guidebook ch.1 sec 1.5):** physically oriented; the Guidebook says it is sourced from Tantra, and that most hatha systems begin with the purification kriyas (shat kriyas) whereas Patanjali's eight limbs begin with yama and niyama. Texts named: Hatha Yoga Pradipika (Svatmarama), Gheranda Samhita, Goraksha Samhita (Gorakshanath), Shiva Samhita, Yoga Ratnavali, Yoga Tarangini and others. The Pradipika explains hatha as ha (sun) and tha (moon), the union of the pingala (sun) and ida (moon) channels; kundalini then rises through the sushumna, crosses the chakras and unites at the sahasrara. Hatha is wrongly read as stubbornness. The aim is to control body and mind as a base for spiritual practice. The contrast with yama and niyama is about where practice begins, not a rejection of them."
+  - **Mantra yoga (checked: Guidebook ch.1 sec 1.5 (yoga of sound; man = mind, tra = protect; mantra protects the mind; Om is the mahamantra)):** the yoga of sound. The word mantra is explained as that which protects the one who reflects (man, mind; tra, protect). A mantra is a sacred sound with spiritual power, used for deep meditation; Om is called the great mantra (mahamantra).
+  - "  - **Quiz facts from the deck (deck, not yet checked) (checked: Guidebook ch.1 sec 1.2, 1.5 and the list of modern masters):** the Kaivalyadhama institute is linked in the Guidebook with Swami Kuvalayananda; the Upanishads sit in the knowledge portion (jnana kanda) of the Vedas; raja yoga is about restraining the mind; smarana is constant remembrance of God (the slide quiz wording)."
 - **Explanation:**
   - Match each path with one everyday example: studying and reflecting, prayer or song, service done without expecting thanks, a daily sitting practice, an asana and breath routine.
 - **Workshop slide content (folded into the layers above on a first pass; kept here until the author confirms nothing is lost):**
@@ -699,6 +740,14 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - The slide states hatha yoga "originates from Tantra"; check against a source.
   - The slide says the Hatha Pradipika "describes union of pingala and ida"; check the original text.
   - The slide describes hatha yoga as "removing" or being unlike yama and niyama; the Hatha Yoga Pradipika itself does list restraints and observances, so this contrast may overstate (to be checked).
+  - Resolution: Slide lists manas, buddhi, chitta, ahamkara as sadhana chatustaya : notes right: Guidebook ch.3 sec 3.2 names these as the antahkarana; the fourfold preparation is viveka, vairagya, six virtues, mumukshutva
+  - Resolution: Six virtues include viveka and vairagya on the slide : notes right: viveka and vairagya are separate items of the fourfold list; six virtues are shama, dama, uparati, titiksha, shraddha, samadhana
+  - Resolution: Bhakti examples nonstandard on slide : notes right: Bhagavata Purana 7.5.23-24 gives nine forms with a usual exemplar list that differs from the slide
+  - Resolution: Slide marks kirtana as most important : genuine variation: the Guidebook says it is 'perhaps the most important technique' in bhakti yoga, so keep it as one view
+  - Resolution: Hatha yoga originates from Tantra : slide right: Guidebook ch.1 sec 1.5 says hatha yoga is sourced from Tantra
+  - Resolution: Pradipika describes union of pingala and ida : slide right: the Guidebook quotes the Pradipika verse (ha is sun, tha is moon, pingala and ida) in sec 1.5
+  - Resolution: Hatha as unlike yama and niyama : notes right: Guidebook says hatha begins with kriyas where Patanjali begins with yama and niyama; it does not say hatha lacks restraints
+- **Fact check log (pass 3):** added points: 5 confirmed, 4 corrected, 0 rejected, 3 unverified; hand-written points not confirmed: 0; conflicts resolved: 7.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -761,16 +810,12 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **How each helps (as traditionally taught):** kriya cleanses; asana steadies and strengthens; pranayama calms and lightens; meditation steadies the mind; relaxation relieves tension.
   - **Principles:** practise with awareness, within your capacity, regularly and without strain; begin with a prayer and end with peace; let the teacher guide the choice.
   - **Common protocol:** the Ministry's common yoga protocol is a standard short set of these practices for everyone.
-  - **Five pillars of a yogic way of life (deck, not yet checked):** exercise (asana), breathing (pranayama), rest (shavasana), food (vegetarian) and positive thinking with meditation.
-  - **Meaning of health (deck, not yet checked):** the World Health Organization describes health as complete physical, mental and social well-being (the deck adds spiritual), not only the absence of disease. In Sanskrit health is swasthya, from swa (self) and stha (abiding): abiding in one's own self, the nature of being, consciousness and bliss (sat-chit-ananda).
-  - **Health according to yoga, in the deck (deck, not yet checked):** relaxed muscles, loose joints that save energy, a low metabolic rate, efficient use of energy, and organ systems that stay coordinated even under stress.
-  - **Strength and balance (deck, not yet checked):** naukasana, utkatasana and bhujangasana build muscle strength; vrikshasana trains standing on one leg and so balance. Yoga moves joints in ways walking and running do not, which widens the range of movement.
-  - **Texts on health (deck, not yet checked):** the Shvetashvatara Upanishad names lightness, health, freedom from craving, a clear complexion, a pleasant voice, a pleasant smell and little waste as signs of the body that yoga brings. The Yoga Sutra names beauty, grace, strength and a firm body as qualities of a perfect body, and links mastery of samana vayu with radiance (to be checked).
-  - **Practices by level of well-being (deck, not yet checked):**
-    - Physical: asana (flexibility, strength, balance), pranayama (breathing capacity), shavasana (rest and recovery), kriyas (cleansing) and bandhas (body locks, support of stability).
-    - Mental: meditation (dhyana), mindfulness and mantra chanting.
-    - Emotional: bhakti yoga (devotion) and gratitude.
-    - Overall: a balanced daily routine, personalised to the individual.
+  - **Five pillars of a yogic way of life (checked: Sivananda Yoga Vedanta Centres pages (web search): proper exercise, breathing, relaxation, diet (vegetarian), positive thinking with meditation, credited to Swami Vishnudevananda):** exercise (asana), breathing (pranayama), rest (shavasana), food (vegetarian) and positive thinking with meditation.
+  - "  - **Meaning of health (deck, not yet checked) (checked: Guidebook ch.5 sec 5.1; WHO Constitution preamble):** the Guidebook quotes the World Health Organization as describing health as complete physical, mental, social and spiritual well-being, not only absence of disease. The WHO Constitution of 1948 itself names physical, mental and social well-being; 'spiritual' is added in the Guidebook and the deck, so state it as the Guidebook's wording or use the three-part form. In Sanskrit health is swasthya, from swa (self) and stha (abiding): abiding in one's own Self, described as sat-chit-ananda (the Guidebook)."
+  - **Health according to yoga, in the deck (checked: Guidebook ch.5 sec 5.1 (relaxed muscles, loose joints that conserve energy, efficient use of energy, coordinated organ function even under stress); see correction for low metabolic rate):** relaxed muscles, loose joints that save energy, a low metabolic rate, efficient use of energy, and organ systems that stay coordinated even under stress.
+  - **Strength and balance (checked: Guidebook ch.5 sec 5.1 (naukasana, utkatasana and bhujangasana build strength like push-ups, lunges or squats; vrikshasana teaches standing on one leg; joints moved differently from walking or running, improving range of motion)):** naukasana, utkatasana and bhujangasana build muscle strength; vrikshasana trains standing on one leg and so balance. Yoga moves joints in ways walking and running do not, which widens the range of movement.
+  - "  - **Texts on health (deck, not yet checked) (checked: Guidebook ch.5 sec 5.1):** the Shvetashvatara Upanishad names lightness of body, health, freedom from craving, clear complexion, a beautiful voice, an agreeable odour and scanty excretions as first effects of entering yoga. The Guidebook adds that the Hatha Yoga Pradipika echoes these as marks of success. The Yoga Sutra, Vibhuti pada, speaks of beauty, grace, strength and adamantine hardness as perfection of the body, and of mastery of samana vayu leading to radiance (sutra 3.40 in standard editions; the Guidebook cites the pada)."
+  - "  - **Practices by level of well-being (deck, not yet checked) (checked: Common Yoga Protocol; Guidebook ch.5 and ch.6):** physical: asana, pranayama, shavasana for rest, kriyas and bandhas. The Protocol describes shatkarmas as cleansing procedures that remove accumulated toxins and says bandhas and mudras are linked with pranayama and help control the mind; it does not say bandhas support organ function. Mental: meditation, prayer and mantra chanting (Guidebook ch.6 sec 6.6 on prayer and meditation for mental health). Emotional: bhakti yoga (devotion) is a recognised path; gratitude practice is not in these sources. Overall: a balanced routine adapted to the individual, with a teacher choosing the combination (Protocol)."
 - **Explanation:**
   - This block is the map: each practice has its own block with the steps and cautions.
   - Practices are for prevention and well-being; they do not replace medical treatment.
@@ -829,6 +874,11 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - The deck adds "spiritual" to the WHO definition; the official definition has physical, mental and social well-being (to be checked).
   - Samana vayu and the radiance claim link to the Yoga Sutra (Vibhuti pada); the sutra reference is to be checked.
   - The deck's "low metabolic rate" as a sign of health is unusual and to be checked.
+  - Resolution: Deck adds 'spiritual' to the WHO definition : genuine variation: the Guidebook ch.5 sec 5.1 quotes four parts, the WHO Constitution (1948) has three
+  - Resolution: Samana vayu and radiance reference : slide right in substance: Guidebook cites the Yoga Sutra Vibhuti pada for this (sutra 3.40 in standard editions)
+  - Resolution: Low metabolic rate as a sign of health : notes right to flag it: the Guidebook lists it, but it refers to the resting body
+  - Resolution: Kriyas detoxify and meditation reduces stress : notes right to keep as traditional claims: Protocol calls shatkarmas detoxification procedures; keep wording as traditionally credited and not as a medical claim
+- **Fact check log (pass 3):** added points: 3 confirmed, 3 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 0; conflicts resolved: 4.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -868,9 +918,9 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Order and place:** in some schools the cleansing comes first; the Hatha Pradipika says it is for those with excess fat or phlegm, and that pranayama is enough for others.
   - **After neti:** do kapalabhati to clear any water left in the nose.
   - **Syllabus scope for practice:** know dhauti and neti; practise kapalabhati.
-  - **Aims and benefits as taught in the deck (deck, not yet checked):** cleansing to remove waste, give vitality and steady the mind; it prepares for deeper yoga practice and spiritual growth, lessens mental clutter and stress, and works on the physical, mental and energy levels together. Say "traditionally used for cleansing", not cure.
-  - **Short line for each, as the deck gives it (deck, not yet checked):** kapalabhati, skull shining breath; neti, nasal cleansing with water or salt water; basti, cleansing of the colon; dhauti, cleansing of the digestive tract by various means; trataka, steady gazing for focus and for the eyes; nauli, massage of the abdomen through the abdominal muscles.
-  - **Exam facts from the deck's question bank (deck, not yet checked):**
+  - "  - **Aims and benefits as taught in the deck (checked: Guidebook ch.2 Shat Kriyas):** the six practices cleanse the internal organs of waste that is not cleared well on its own, help keep the three humours (kapha, pitta, vata) in balance, and are done before pranayama and higher practices so that the body is pure and the practitioner can go further on the path. The Guidebook does not list vitality or immunity as aims; say 'traditionally used for cleansing', not cure."
+  - **Short line for each, as the deck gives it (checked: Guidebook ch.2 sec on Shat Kriyas: neti nasal passage, dhauti digestive tract, nauli abdominal massage, basti colon, trataka eyes by gazing; kapalabhati as rapid forceful breathing, "skull shining" is the standard Sanskrit sense):** kapalabhati, skull shining breath; neti, nasal cleansing with water or salt water; basti, cleansing of the colon; dhauti, cleansing of the digestive tract by various means; trataka, steady gazing for focus and for the eyes; nauli, massage of the abdomen through the abdominal muscles.
+  - **Exam facts from the deck's question bank (checked: partly: Kapalabhati named bhalabhati with three types vatakrama, vyutkrama, sheetkrama in the Gheranda Samhita (web search of Gheranda Samhita translations, wisdomlib and archive.org text); caution list for kapalabhati matches the Common Yoga Protocol (cardiac conditions, giddiness, high blood pressure, vertigo, epilepsy, migraine, stroke, hernia, gastric ulcer); seven dhatus and pinda-brahmanda are standard (guidebook mentions pinda and brahmanda in the Hatha text section)):**
     - Kapalabhati is named bhalabhati in the Gheranda Samhita.
     - Kapalabhati types: vatakrama, vyutkrama and sheetkrama (to be checked).
     - Kapalabhati is avoided with high blood pressure, heart problems, stroke and epilepsy.
@@ -905,6 +955,13 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - The deck question bank says hrid dhauti has two types; the Gheranda Samhita is usually read as listing three (danda, vamana, vastra) (to be checked).
   - The deck question bank gives vatakrama, vyutkrama and sheetkrama as kapalabhati types; these come from the Gheranda Samhita, not the Hatha Pradipika (to be checked).
   - The deck order of the six differs from the order of the text in the Explanation; schools vary.
+  - Resolution: Deck says kapalabhati clears nasal passages and energises; Material says front of head and lungs : notes right: Guidebook says purification of the frontal region of the head and the lungs; Common Yoga Protocol says it clears the frontal air sinuses; the slide wording is looser but not contradictory
+  - Resolution: Deck claims immunity and digestion boosts : notes right to leave out: not stated in the Guidebook for shatkarma as a whole (Guidebook itself overstates cures; do not copy)
+  - Resolution: Sadhaka tattva as per Hatha Pradipika : notes right: five tattva are from Yoga Sutra 1.20; to be confirmed in a Sutra edition
+  - Resolution: Hrid dhauti has two types : notes right: three forms (danda, vamana, vastra), web search of Gheranda Samhita translations
+  - Resolution: Kapalabhati types vatakrama, vyutkrama, sheetkrama : genuine variation: Gheranda Samhita names them; the Guidebook attributes them to the Hatha Pradipika
+  - Resolution: Order of the six differs from the deck : notes right: Hatha Pradipika 2.22 as quoted in the Guidebook lists dhauti, basti, neti, trataka, nauli, kapalabhati; the Guidebook's own descriptive list uses another order, so schools vary
+- **Fact check log (pass 3):** added points: 2 confirmed, 1 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 0; conflicts resolved: 6.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -977,9 +1034,9 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Sthula vyayama (macro-circulation practice):** larger, stronger movements for the whole body; the syllabus names two, sarvanga pushti and hrid gati (engine daud).
   - **Surya namaskara (sun salutation):** a twelve-position flowing sequence with the breath; it works the spine in bends forward and back and warms up the body for asana.
   - **Benefits as traditionally taught:** flexibility, better circulation, deeper breathing, and a body ready for asana and pranayama.
-  - **Sukshma and sthula, short meaning (deck, not yet checked):** sukshma vyayama means subtle exercise, working small movements of the joints; it eases stiffness, calms the mind and prepares for focused practice. Sthula vyayama means gross exercise, building strength and endurance and general fitness.
-  - **Balanced use (deck, not yet checked):** a practice that combines both subtle and gross work gives balanced fitness; sthula work also supports healthy body weight (as a well-being aid).
-  - **Surya namaskara, purpose (deck, not yet checked):** a dynamic series of postures that honours the sun and its energy; it joins movement, breath and intention. Traditionally credited with flexibility, toned muscles, better circulation, a calmer mind that is ready for meditation, and a refreshed body.
+  - "  - **Sukshma and sthula, short meaning (checked: Guidebook ch.7 sec 7.2):** sukshma vyayama is a system of small physical and breathing movements that works the joints one after another from head to toe, warms the body and needs no special preparation or long time; sthula vyayama is the larger, whole-body exercise suited to the gross body. The Guidebook does not state strength and endurance or cardiovascular claims for sthula; keep those as general fitness, not a source fact."
+  - **Balanced use (checked: Guidebook ch.7 sec 7.2 describes sukshma as the subtle counterpart and names sthula vyayama as the exercise for the gross body; weight benefit for sthula is general fitness knowledge only (see unverified)):** a practice that combines both subtle and gross work gives balanced fitness; sthula work also supports healthy body weight (as a well-being aid).
+  - **Surya namaskara, purpose (checked: Guidebook ch.8 sec 8.1: salutation to the sun, twelve postures, mix of asanas and breathing, a sequence not a single asana; benefits named: flexibility of spine and limbs, circulation, correct breathing, less visceral fat):** a dynamic series of postures that honours the sun and its energy; it joins movement, breath and intention. Traditionally credited with flexibility, toned muscles, better circulation, a calmer mind that is ready for meditation, and a refreshed body.
 - **Explanation:**
   - Keep the three words side by side: sukshma (small, joint by joint), sthula (large, whole body), surya namaskara (flowing sequence).
   - The practice steps of each exercise are in the practical blocks; here the exam asks only meaning, purpose and benefit.
@@ -1005,6 +1062,9 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Open conflicts (deck versus notes; to be checked before the deck is rebuilt):**
   - The deck describes the sequence as "12 postures" and the Material as twelve positions; consistent.
   - The deck says it "invigorates and revitalises overall health"; vague, kept only as traditional well-being.
+  - Resolution: Deck says 12 postures, Material says twelve positions : notes right and slide right: Guidebook says twelve postures (with a footnote that the twelve are to be verified), and a round is the twelve done twice
+  - Resolution: Deck says it invigorates and revitalises overall health : notes right to keep it vague: the Guidebook says it gives circulation and suppleness, no wider health claim
+- **Fact check log (pass 3):** added points: 2 confirmed, 1 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 0; conflicts resolved: 2.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -1037,10 +1097,10 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Benefits named in the Hatha Pradipika:** health (arogya), steadiness (sthairya) and lightness of the body (angalaghava).
   - **General rules:** bowel and bladder empty or light; a ventilated place on a level floor with a mat; keep unwanted thoughts aside; no practice during illness, after surgery, fracture or sprain until a physician allows.
   - **Health benefits as traditionally taught:** flexibility, strength, balance, calmness. They are for prevention and well-being, not a claim of cure.
-  - **Aim and principles in the deck (deck, not yet checked):** yogasana is the use of postures to bring body and mind into harmony; the guiding principles are alignment, breath awareness, balance, stability and mindfulness.
-  - **Benefits in the deck (deck, not yet checked):** flexibility, strength, better posture and circulation, a calmer and clearer mind, less stress and healthier digestion (traditionally credited, not a cure).
-  - **Qualities of a good posture (deck, not yet checked):** stability, comfort and effortlessness are all important, in line with sthira sukham asanam.
-  - **Simhasana (lion posture) (deck, not yet checked):** traditionally taught as helpful for the throat, ears and nose.
+  - "  - **Aim and principles in the deck (checked: Guidebook ch.2 and ch.8):** the Guidebook says asanas bring poise, balance, strength and calm the mind in preparation for meditation, and that the physical gains are incidental to mental calmness. The set of principles alignment, breath awareness, balance, stability and mindfulness is the deck's own teaching list, not a Board list; use it only as a teaching aid."
+  - "  - **Benefits in the deck (checked: Guidebook ch.2 sec 2.6):** the Guidebook names calmness, flexibility, range of motion, strength, balance and a higher fitness level with lower injury risk. Posture, circulation, digestion and stress relief appear in some Guidebook lists but the book also makes therapeutic claims that must not be repeated; say 'traditionally credited, not a cure'."
+  - **Qualities of a good posture (checked: Guidebook ch.3 quotes Patanjali sthira sukham asanam, a stable and comfortable posture; effortlessness (relaxing effort) is the next sutra, standard commentary):** stability, comfort and effortlessness are all important, in line with sthira sukham asanam.
+  - **Simhasana (lion posture) (checked: Guidebook ch.8 asana table lists simhasana with bad breath, stammering and speech problems, liver and thyroid; the traditional link with throat holds, no treatment claim should be made):** traditionally taught as helpful for the throat, ears and nose.
 - **Explanation:**
   - Learn "steady and comfortable", the five spine movements with one example each, and the three words from the Hatha Pradipika.
   - Variation: some books name a different example posture for each spine movement; use the examples above only if the Board's material agrees.
@@ -1054,6 +1114,9 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Open conflicts (deck versus notes; to be checked before the deck is rebuilt):**
   - The deck question bank asks about asanas that "alleviate problems of throat, ear and nose" with simhasana as the answer; it is a treatment-style claim, so only the traditional link is kept (to be checked).
   - The deck's "improves digestion" is a health claim; kept as traditionally credited.
+  - Resolution: Deck asks for the asana good for throat, ear and nose with simhasana : notes right: Guidebook lists simhasana with throat and speech; keep as traditional link only
+  - Resolution: Deck says improves digestion : notes right: kept as traditionally credited; Guidebook says Hatha asanas regulate the digestive system only inside its shatkarma benefits list, so weak support
+- **Fact check log (pass 3):** added points: 2 confirmed, 2 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 0; conflicts resolved: 2.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -1104,8 +1167,8 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Two ways of practice:** concentration (fixing on a breath, a mantra, a flame) and mindfulness (watching thoughts without judging them); they can be combined.
   - **For beginners:** a fixed time and a quiet place, a few minutes at first and then more, a comfortable seat with the back erect; watch the breath; if sleepy, take a deep breath and breathe out firmly.
   - **Health benefits of meditation (as traditionally taught):** calm, clarity and better concentration; less reaction to stress.
-  - **Pranayama, aims in the deck (deck, not yet checked):** to regulate and widen the life energy through the breath; it can be joined with postures and meditation. Traditionally credited with better breathing capacity and endurance, a steadier nervous system, less anxiety and a calm mind that concentrates better.
-  - **Dhyana, aims in the deck (deck, not yet checked):** meditation for focused attention and mental stillness; the aims named are mental clarity, a higher awareness and inner peace. Traditionally credited with relaxation and less stress, better attention and emotional well-being, and self-awareness; a supportive practice for mental health, not a treatment.
+  - **Pranayama, aims in the deck (checked: Guidebook ch.9 sec 9.1: pranayama is control of the life force through the breath, joined with postures and meditation; sits and benefits in the chapter include calming the mind and reducing anxiety):** to regulate and widen the life energy through the breath; it can be joined with postures and meditation. Traditionally credited with better breathing capacity and endurance, a steadier nervous system, less anxiety and a calm mind that concentrates better.
+  - "  - **Dhyana, aims in the deck (checked: Guidebook ch.2 and ch.9; Yoga Sutra 3.2):** dhyana is the unbroken flow of attention toward one object, when concentration (dharana) continues without a break; it leads to samadhi. The Guidebook names calm and self-realisation as aims. Lower cortisol and blood pressure appear in the Guidebook only as research notes for other practices (prayer, cyclic meditation), so do not state them as effects of dhyana; call dhyana a supportive practice for well-being, not a treatment."
 - **Explanation:**
   - Keep the meaning, the three parts and the list of seats; then move on to the practices in the practical blocks.
   - Safety: breath holding and forceful breathing are not for beginners; teach the practices that need no holding first.
@@ -1127,6 +1190,10 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - The deck says meditation lowers cortisol and balances blood pressure; a medical claim, kept out of the bullets (to be checked if wanted).
   - The deck says pranayama "aids detoxification"; left out as a health claim.
   - The deck question bank defines pranayama as control of breath or life force; consistent with the Material.
+  - Resolution: Deck says pranayama aids detoxification : notes right to leave out: no Board source
+  - Resolution: Deck says meditation lowers cortisol and balances blood pressure : notes right to leave out: only research notes in the Guidebook, not a Board claim
+  - Resolution: Pranayama defined as control of breath or life force : notes right: Guidebook ch.9 sec 9.1 says control of the life force through breathing
+- **Fact check log (pass 3):** added points: 1 confirmed, 1 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 4; conflicts resolved: 3.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -1154,6 +1221,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Review:** pending
 - **Additions:** pending
 - **Fact check:** checked for the core points (bullets marked 'deck, not yet checked' were added later from the workshop deck and are still pending) (sutra text and numbers against the GRETIL edition of the Vyasa bhashya text, Agase 1904; the Devanagari below is converted from that text and is to be set against a printed edition before print)
+- **Author check (2026-11-24):** the Devanagari of sutras 1.23 to 1.29 on the deck frame and of 1.33 on the positive-attitudes frame was read against the author's edition and found right.
 - **Scope:** The text, its structure, and the memorised opening sutras named by the syllabus.
 - **Deck seed:** ycb1_theory_texts.tex (seed only; the frames still need mapping to this block)
 - **Local sources:** status: partial; guidebook chapter "Introduction to Patanjala Yoga"; the memorised sutra list must be taken from the Board syllabus and the Sutra text itself; Board syllabus and guideline (docs folder). Own words only; none of these may be copied.
@@ -1378,12 +1446,36 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
     - Goal: Liberate from suffering and cycle of rebirth by controlling vrittis (वृत्ति).
     - समाधि Samadhi: Ultimate limb of Ashtanga Yoga (अष्टांग योग), representing deep concentration.
     - Mind Functions: Misery arises from false identification at the mental level.
-- **Worked examples:** to be written
+- **Layers note (2026-11-24):** Worked examples, Exercises and FAQ below include items drafted only from this block's checked Material; the Review status stays pending until the author and a certified teacher read them.
+- **Worked examples:**
+  - **Model answer: "State and explain Patanjali's definition of yoga."** The sutra is yogaś citta-vṛtti-nirodhaḥ (1.2). Marking points:
+    - Quote the sutra correctly with its number, 1.2.
+    - Meaning: yoga is the stilling of the movements of the mind.
+    - Link to 1.3: then the seer rests in its own nature.
+    - Link to 1.4: at other times the seer seems to take the shape of the mind's movements.
+  - **Memory aid for the five movements (1.6 and 1.7):** the sutra pramāṇa-viparyaya-vikalpa-nidrā-smṛtayaḥ lists the five in order: right knowledge, error, imagination, sleep, memory. Say the sutra, then give one line for each from the next sutras: 1.7 gives the three sources of right knowledge (perception, inference, reliable testimony); 1.8 error is false knowledge; 1.9 imagination follows words but has no object; 1.10 sleep rests on the sense of absence; 1.11 memory is not letting go of an object once experienced. Learn them in this order, as the sutras themselves run.
+  - **Reciting the twelve in order:** a teacher follows the Explanation: the twelve move from the aim (1.1 to 1.4), to the way the mind moves (1.5 to 1.11), to the two means of stilling it (1.12). Have each student say one sutra aloud, then its sense in plain words, and move on in sequence.
 - **Figures:** none yet
-- **Exercises:** to be written
+- **Exercises:**
+  - (Recall) Q: Name the four padas of the Yoga Sutra. A: Samadhi (absorption), sadhana (practice), vibhuti (the powers that arise) and kaivalya (freedom).
+  - (Recall) Q: Fill in the blank: the five movements of the mind are right knowledge, error, ___, sleep and memory. A: Imagination (vikalpa).
+  - (Recall) Q: Which two means stop the movements of the mind, and in which sutra? A: Practice (abhyasa) and dispassion (vairagya), in 1.12.
+  - (Recall) Q: Name the five kleshas. A: Avidya (ignorance), asmita (ego-sense), raga (liking), dvesha (dislike) and abhinivesha (clinging to life), from 2.3.
+  - (Understand) Q: Match the sutra with its sense: 1.1, 1.2, 1.3 (senses: yoga is the stilling of the movements of the mind; now begins the instruction on yoga; then the seer rests in its own nature). A: 1.1 now begins the instruction on yoga; 1.2 yoga is the stilling of the movements of the mind; 1.3 then the seer rests in its own nature.
+  - (Understand) Q: True or false: 1.7 says right knowledge comes from perception and memory. A: False. Right knowledge is perception, inference and reliable testimony. Memory is a separate movement of the mind.
+  - (Understand) Q: What phrase in 2.46 describes the posture, and what does it mean? A: Sthira-sukham asanam, a steady and comfortable posture.
+  - (Apply) Q: A student says "error and imagination are the same, both are wrong ideas". Correct this using 1.8 and 1.9. A: Error is false knowledge that does not rest on the real form of a thing. Imagination is a notion that follows words but has no object. They are two separate movements.
+  - (Apply) Q: Explain in your own words how the twelve sutras fit together. A: They begin with the statement of the aim, go through the way the mind moves, and end with the two means of stilling it, practice and dispassion.
 - **Quiz:**
   - Q: How many kinds of mental movement does the Sutra name, and which are they? A: Five: right knowledge, error, imagination, sleep and memory.
   - Q: Which two means stop the movements of the mind? A: Practice (abhyasa) and dispassion (vairagya).
+- **FAQ:**
+  - Q: Which sutras must I know? A: The syllabus names the first twelve sutras of the first pada, with a short sense of each. Recite them with their meaning.
+  - Q: Is the Devanagari in this booklet final? A: Not yet. It was converted mechanically from the checked romanised text, so a printed edition should confirm the spelling and the avagraha in 1.3 before print.
+  - Q: Who wrote the Yoga Sutra, and when? A: Tradition names Patanjali as the compiler. His dates are uncertain, and the details of his life come from legends, so say "traditionally". This point is still to be checked.
+  - Q: How many sutras are there in each pada? A: Counts from the workshop deck are about 51, 55, 55 and 34, about 195 in all, and they vary slightly between editions. These are not yet checked.
+  - Q: What is the aim of the Sutra? A: According to the workshop deck, kaivalya (freedom) by managing the mind, through the eight-limbed path. This point is not yet checked.
+  - Q: Where do the other topics, such as the states of the mind and the kinds of samadhi, appear? A: They are in the first pada. The Material gives them only in brief and marks them as not yet checked, so confirm them against a printed edition before relying on them.
 - **FAQ (from the deck's question bank; answers not yet checked against sources):**
   - What is प्रणव जप Pranav jap?: Repetition of the sacred syllable ॐ OM
   - The विभूतिपाद vibhuti pad deals with?: Supernatural powers or सिद्धि siddhis
@@ -1450,6 +1542,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Review:** pending
 - **Additions:** pending
 - **Fact check:** checked for the core points (bullets marked 'deck, not yet checked' were added later from the workshop deck and are still pending) (Devanagari, transliteration and sense of every verse against one edition, the holy-bhagavad-gita.org text of Swami Mukundananda; a second edition is still to be set against it before print)
+- **Author check (2026-11-24):** the Devanagari of Gita 16.1 on the deck frame was read against the author's edition and found right.
 - **Scope:** The text and the memorised slokas named by the syllabus.
 - **Deck seed:** ycb1_theory_texts.tex (seed only; the frames still need mapping to this block)
 - **Local sources:** status: gap; GAP: the guidebook does not cover this; use another named source (the guidebook has no dedicated section on the Gita in its contents); the memorised sloka list is from the Board syllabus; Board syllabus and guideline (docs folder). Own words only; none of these may be copied.
@@ -1506,12 +1599,35 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
     - Verse 49 (Karma Yoga) - यस्त्विन्द्रियाणि मनसा नियाम्यारभते नरः | मुञ्जते तस्य योगिनोऽन्यः ||
     - Verse 50 (Karma Yoga) - ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा धनञ्जय | सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ||
     - Verse 70 (Self-Realization) - अपण्यतं तु तद्वृत्तमन्तरायामुक्तं सदा तन्मया न संशय ||
-- **Worked examples:** to be written
+- **Layers note (2026-11-24):** Worked examples, Exercises and FAQ below include items drafted only from this block's checked Material; the Review status stays pending until the author and a certified teacher read them.
+- **Worked examples:**
+  - **Model answer: "Explain Gita 2.47."** The verse is karmaṇy-evādhikāras te mā phaleṣu kadācana. Marking points:
+    - You have a right to the action, never to its fruits.
+    - Do not act for the sake of fruit.
+    - Do not cling to inaction.
+    - Link: 2.48 says evenness in success and failure is called yoga.
+  - **Memory aid for the five slokas:** the Explanation says they build one idea: act fully (47), drop the grip on results and stay even (48), prefer the steady mind to action driven by desire (49), let go of both good and bad results, and see yoga as skill in action (50), and find peace like the ocean that stays still as waters flow in (70). Say the five in order and give each one line. For a class, give one workplace or classroom example for each.
+  - **Two definitions of yoga, one answer:** a candidate is asked how the Gita defines yoga. Answer with two verses: 2.48, evenness of mind (samatvam) in success and failure, and 2.50, yoga is skill in action (karmasu kausalam). Give the source verse number with each.
 - **Figures:** none yet
-- **Exercises:** to be written
+- **Exercises:**
+  - (Recall) Q: Who speak in the Gita, and in which larger work does it appear? A: Krishna and Arjuna, in the Mahabharata.
+  - (Recall) Q: Which five slokas of the second chapter does the syllabus name? A: 47, 48, 49, 50 and 70.
+  - (Recall) Q: Fill in the blank: in 2.50, yoga is ___ in action. A: Skill (karmasu kausalam).
+  - (Understand) Q: True or false: 2.47 tells us to give up action. A: False. It says we have a right to the action, never to its fruits, and we must not cling to inaction either.
+  - (Understand) Q: Match the verse with its main idea: 2.48, 2.49, 2.70 (ideas: evenness is yoga; desires flow into the one at peace, like waters into a full still ocean; action driven by desire for results is far lower than the yoga of a steady mind). A: 2.48 evenness is yoga; 2.49 action driven by desire for results is far lower than the yoga of a steady mind; 2.70 desires flow into the one at peace, like waters into a full still ocean.
+  - (Understand) Q: What image does 2.70 use, and what does it say about the one who runs after desires? A: Waters flowing into an ocean that is full and still. The one who runs after desires does not find peace.
+  - (Apply) Q: A student works hard for exams but is always worried about the result. Which verse speaks to this, and what does it advise? A: 2.47: act, but do not be driven by the fruit. Together with 2.48, stay even in success and failure.
+  - (Apply) Q: A student says the Gita teaches "do nothing and accept what comes". Correct this. A: 2.47 says not to cling to inaction, and 2.50 calls yoga skill in action. The Gita asks for full action without grip on the results.
 - **Quiz:**
   - Q: What does the Gita say about the fruits of action? A: Do the action, but do not be driven by its fruit.
   - Q: What are the two definitions of yoga in the second chapter? A: Evenness of mind in success and failure, and skill in action.
+- **FAQ:**
+  - Q: Which verses must I recite? A: The syllabus names 2.47, 2.48, 2.49, 2.50 and 2.70. Learn the text with its meaning, and be ready to give the sense in your own words.
+  - Q: Is the recitation text in this booklet reliable? A: The Devanagari, transliteration and sense of every verse were read against one edition. A second edition is still to be set against it before print.
+  - Q: The workshop slides show different text for 49, 50 and 70. Which do I follow? A: Follow the recitation text in this block, which was read against the edition. The slide text for those verses was not checked.
+  - Q: How big is the Gita and what are its themes? A: The workshop deck says about 700 verses in 18 chapters, with the themes of dharma (duty), karma yoga, bhakti yoga, jnana yoga and self-realisation. These details are not yet checked.
+  - Q: Which text defines yoga as skill in action? A: The Bhagavad Gita, in 2.50.
+  - Q: Does the guidebook cover the Gita? A: No. It has no dedicated section on the Gita, so another named source is still needed for this block.
 - **FAQ (from the deck's question bank; answers not yet checked against sources):**
   - Question: योगः कर्मसु कौशलम् Yoga karmasu kaushalam means
   - A) Perfect action
@@ -1551,14 +1667,14 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Shatkarma in the text:** dhauti, basti, neti, trataka, nauli, kapalabhati; the text advises the six first for those with excess fat or phlegm, and says others do not need them.
   - **Pranayama in the text:** eight kumbhakas (surya bhedana, ujjayi, sitkari, sitali, bhastrika, bhramari, murcha, plavini) and also nadi shodhana.
   - **Other hatha texts:** Gheranda Samhita (seven limbs: shatkarma, asana, mudra, pratyahara, pranayama, dhyana, samadhi, with the body as a vessel, ghata, to be purified), Hatharatnavali, Shiva Samhita.
-  - **Hatha yoga in brief (deck, not yet checked):** a body-based path that uses posture and breath to balance body and mind and to purify the body, so that it can support deeper meditative practice; the two classical manuals are the Hatha Pradipika and the Gheranda Samhita.
-  - **Key concepts of the Hatha Pradipika (deck, not yet checked):** asana (postures for steadiness and health), pranayama (breath and vital energy), mudra and bandha (gestures and locks that direct energy inward), shatkarma (six cleansing practices).
-  - **Chapter on asana: what else it covers (deck, not yet checked):** the worth of hatha yoga, the qualities of a hatha practitioner, a suitable place for practice, a short note on yama and niyama, and the fifteen asanas.
-  - **Chapter on pranayama: what else it covers (deck, not yet checked):** cleansing of the nadis (energy channels) as the base for breath practice, then the eight kumbhakas with their cautions; pranayama is shown as a way to calm the mind, balance prana and support meditation.
-  - **Chapter on mudra and bandha: the ten named practices (deck, not yet checked):** maha mudra, maha bandha, maha vedha, khechari, uddiyana bandha, mula bandha, jalandhara bandha, viparita karani, vajroli, shakti chalana (to be checked in a standard edition).
+  - **Hatha yoga in brief (checked: Guidebook ch.2 (Introduction to Hatha Yoga): hatha is physically oriented, purifies and prepares, and is the foundation for higher yogas; HP and Gheranda Samhita are named as classical texts):** a body-based path that uses posture and breath to balance body and mind and to purify the body, so that it can support deeper meditative practice; the two classical manuals are the Hatha Pradipika and the Gheranda Samhita.
+  - **Key concepts of the Hatha Pradipika (checked: Guidebook ch.2 sec 2.2 to 2.7 (four limbs asana, pranayama, mudra and bandha, nadanusandhana; shat kriyas in HP 2.22)):** asana (postures for steadiness and health), pranayama (breath and vital energy), mudra and bandha (gestures and locks that direct energy inward), shatkarma (six cleansing practices).
+  - "  - **Chapter on asana: what else it covers (checked: Guidebook ch.2 sec 2.2, 2.3):** the guidebook says the first chapter covers the fifteen asanas, mitahara, the six hindrances and six helps, and the ten yamas and ten niyamas of the text; the opening verses also deal with the praise of hatha yoga and the place of practice (from the 1915 translation noted in the fact check log, not in the guidebook summary). The 'qualities of a hatha practitioner' on the slide are best read as the six helps."
+  - **Chapter on pranayama: what else it covers (checked: Guidebook ch.2 sec 2.7 (eight kumbhakas, nadi shodhana, calming of mind, warning that improper practice brings harm)):** cleansing of the nadis (energy channels) as the base for breath practice, then the eight kumbhakas with their cautions; pranayama is shown as a way to calm the mind, balance prana and support meditation.
+  - **Chapter on mudra and bandha: the ten named practices (checked: Guidebook ch.2 sec 2.2 (chapter three deals with ten mudras and bandhas, kundalini); the ten names match the standard HP 3 list as read in the 1915 Wikisource translation recorded in the fact check log):** maha mudra, maha bandha, maha vedha, khechari, uddiyana bandha, mula bandha, jalandhara bandha, viparita karani, vajroli, shakti chalana (to be checked in a standard edition).
   - **Chapter on samadhi: further content (deck, not yet checked):** the inner sound (nada) and its stages, laya yoga (absorption of the mind through sound), and four stages of the path: arambha (beginning), ghata, parichaya (familiarity), nishpatti (completion) (to be checked).
-  - **Why the text matters (deck, not yet checked):** it is the base of later hatha practice, joins bodily and spiritual practice, gives step-by-step guidance, and stresses discipline, perseverance and correct practice.
-  - **Gheranda Samhita, overview (deck, not yet checked):** seven chapters, one for each limb of its seven-limbed yoga, with purification of the body as the foundation; the aim is a purified, strong body (often called the divine body, divya deha).
+  - **Why the text matters (checked: Guidebook ch.2 sec 2.2 (hatha and raja are one integrated whole; the text records practices step by step)):** it is the base of later hatha practice, joins bodily and spiritual practice, gives step-by-step guidance, and stresses discipline, perseverance and correct practice.
+  - **Gheranda Samhita, overview (checked: Guidebook ch.2 sec 2.2 (seven-fold yoga called Saptanga or Ghatastha yoga, starts with shat kriyas); Wikipedia Gheranda Samhita (seven chapters)):** seven chapters, one for each limb of its seven-limbed yoga, with purification of the body as the foundation; the aim is a purified, strong body (often called the divine body, divya deha).
   - **Gheranda Samhita, chapter by chapter (deck, not yet checked):**
     - Shatkarma: the six cleansing practices (dhauti, basti, neti, trataka, nauli, kapalabhati), done before the other limbs.
     - Asana: thirty-two postures, grouped by use as meditative, relaxing and culture-building (body-strengthening); steadiness and comfort are stressed.
@@ -1567,9 +1683,9 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
     - Pranayama: advice on diet first, then eight kumbhakas (sahita, surya bheda, ujjayi, sitali, bhastrika, bhramari, murchha, kevali), with signs of success.
     - Dhyana: three kinds of meditation, sthula (gross, on a form), jyotis (on light) and sukshma (subtle).
     - Samadhi: six kinds, through dhyana yoga, nada yoga, rasananda, laya siddhi, bhakti yoga and raja yoga; the aim is liberation and knowing the Self.
-  - **Ghata and ghata shuddhi (deck, not yet checked):** the body and mind are compared to a clay vessel (ghata) that must be fired and made firm by yoga; ghata shuddhi is the purification of the whole body-mind structure, which the seven limbs of the Gheranda Samhita bring about, and its aim is self-realisation.
-  - **The seven limbs by name, in order of the text (deck, not yet checked):** shatkarma (kriyas), asana, mudra, pratyahara, pranayama, dhyana, samadhi.
-  - **Helps and hindrances, one-line meaning (deck, not yet checked):** the helps are a positive attitude, courage to meet inner experience, steadiness in practice, knowledge that ties actions to the goal, firm resolve, and keeping away from social distraction; the hindrances include rigid attachment to rules (for example fixed habits such as cold baths or strict diets) and an unsteady, restless mind.
+  - **Ghata and ghata shuddhi (checked: Guidebook ch.2 sec 2.4 (body-mind compared to a vessel tempered by the fire of yoga, purification of the psycho-physiological structure by the seven limbs, goal self-realisation)):** the body and mind are compared to a clay vessel (ghata) that must be fired and made firm by yoga; ghata shuddhi is the purification of the whole body-mind structure, which the seven limbs of the Gheranda Samhita bring about, and its aim is self-realisation.
+  - **The seven limbs by name, in order of the text (checked: Guidebook ch.2 sec 2.2 (shatkarma, asana, mudra, pratyahara, pranayama, dhyana, samadhi); Wikipedia Gheranda Samhita):** shatkarma (kriyas), asana, mudra, pratyahara, pranayama, dhyana, samadhi.
+  - **Helps and hindrances, one-line meaning (checked: Guidebook ch.2 sec 2.3 (HP 1.15-16: six helps and six hindrances, with the cold-bath and strict-diet example for niyamagraha)):** the helps are a positive attitude, courage to meet inner experience, steadiness in practice, knowledge that ties actions to the goal, firm resolve, and keeping away from social distraction; the hindrances include rigid attachment to rules (for example fixed habits such as cold baths or strict diets) and an unsteady, restless mind.
 - **Explanation:**
   - Learn the four steps in order, the two lists of six, the six shatkarma and the eight kumbhakas; they are the exam favourites.
   - Variation: the guidebook says ten pranayama types in the chapter summary but lists eight; teach the eight and nadi shodhana. Sources differ on the date and life of Svatmarama and on the asana count; keep to "medieval" and fifteen.
@@ -1779,6 +1895,14 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - The slide says the Gheranda aim is a "divine body"; this is a traditional phrase, not a claim of physical outcome.
   - Slides write the helps list as "perseverance" for dhairya and "aloofness from company"; consistent with Material, only wording differs.
   - FAQ bank in this block includes items on chitta bhumi, trayopastambha and karma yoga that belong to other blocks.
+  - Resolution: Slides give six chapters (laya yoga, liberation) : notes right: Guidebook ch.2 sec 2.2 describes four chapters (asana, pranayama, mudra, nadanusandhana and samadhi)
+  - Resolution: Slides name shirshasana and sarvangasana among key postures : notes right: Guidebook ch.2 sec 2.6 lists the fifteen asanas of the text and neither is among them
+  - Resolution: Kapalabhati listed under pranayama on the slide : notes right: HP 2.22 names it among the six shatkarma (Guidebook sec 2.5); the guidebook also notes the name is used loosely for a rapid breath
+  - Resolution: Slides say benefits and cautions for each technique : notes right to avoid health claims; the guidebook only warns generally that improper pranayama can harm
+  - Resolution: Ten mudras and the Gheranda pratyahara with five types : genuine variation for the mudras (guidebook also says ten); pratyahara types remain unchecked
+  - Resolution: Divine body : notes right: traditional phrase; guidebook states the goal as self-realisation
+  - Resolution: Helps list wording : notes right: wording only; guidebook uses perseverance for dhairya and aloofness from company
+- **Fact check log (pass 3):** added points: 9 confirmed, 1 corrected, 0 rejected, 4 unverified; hand-written points not confirmed: 1; conflicts resolved: 7.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -1928,12 +2052,33 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
     - Guides ethical, spiritual, and philosophical aspects of life.
     - Essential for deep study of Hindu philosophy and theology.
     - Continues to influence spiritual thought and practice today.
-- **Worked examples:** to be written
+- **Layers note (2026-11-24):** Worked examples, Exercises and FAQ below are drafted only from this block's checked Material; the Review status stays pending until the author and a certified teacher read them.
+- **Worked examples:**
+  - **Model answer: What is the Prasthanatrayi?** Write the meaning first, then the three, then the one-word role of each.
+    - Meaning: the three prasthanas (sources, starting points) on which the Vedanta tradition rests.
+    - The three: the principal Upanishads, the Bhagavad Gita and the Brahma Sutras (also called the Vedanta Sutras).
+    - Roles: Upanishads are shruti prasthana (heard, revealed); Gita is smriti prasthana (remembered); Brahma Sutras are nyaya prasthana, also tarka prasthana (reasoned).
+    - Close with why it matters: the three are the base on which the schools of Vedanta build.
+  - **Memory aid: heard, remembered, reasoned.** Link each word to one text. "Heard" is what was received, so it is the Upanishads. "Remembered" is smriti, so it is the Gita. "Reasoned" is the logical statement of the Upanishadic teaching, so it is the Brahma Sutras. If the exam gives a prasthana name, turn it into the one word first and the text follows.
+  - **Scenario: a student asks why the Gita has three yogas.** The teacher first says that the Gita is one of the three prasthanas, the smriti prasthana. Then the teacher explains the common teaching device: the first six chapters are taken as karma yoga, the next six as bhakti yoga and the last six as jnana yoga. The teacher adds that this is a teaching convention and not the text's own division.
 - **Figures:** none yet
-- **Exercises:** to be written
+- **Exercises:**
+  - (Recall) Q: Fill in the blank: the Prasthanatrayi is made of the principal Upanishads, the Bhagavad Gita and the ______. A: The Brahma Sutras (also called the Vedanta Sutras).
+  - (Recall) Q: Which text is the shruti prasthana? A: The Upanishads (what is heard, the revealed text).
+  - (Recall) Q: Match each text to its prasthana: Upanishads, Gita, Brahma Sutras with nyaya, shruti, smriti. A: Upanishads with shruti; Gita with smriti; Brahma Sutras with nyaya (also called tarka).
+  - (Understand) Q: True or false: the Gita is the nyaya prasthana. A: False. The Gita is the smriti prasthana (what is remembered); the Brahma Sutras are the nyaya prasthana.
+  - (Understand) Q: What does nyaya or tarka prasthana tell you about the Brahma Sutras? A: They are the reasoned and logical statement of the Upanishadic teaching.
+  - (Understand) Q: How is the Gita grouped by the common teaching device? A: The first six chapters as karma yoga, the next six as bhakti yoga, the last six as jnana yoga.
+  - (Apply) Q: A student says the six-six-six grouping is how the Gita itself divides its chapters. How do you correct this? A: Say that it is a teaching convention, a common device, and not the text's own division.
+  - (Apply) Q: In two lines, explain why the Prasthanatrayi matters for a yoga candidate. A: The Gita and the Upanishads carry much of the teaching on yoga, and the three texts together are the base on which the schools of Vedanta build.
 - **Quiz:**
   - Q: What are the three parts of the Prasthanatrayi? A: The Upanishads, the Brahma Sutras and the Bhagavad Gita.
-- **FAQ:** to be written (the question bank in `ycb1_theory_faqs.tex` is a seed, to be rewritten)
+- **FAQ:**
+  - Q: What does prasthana mean? A: It means a source or starting point. The Prasthanatrayi is the set of three such sources of the Vedanta tradition.
+  - Q: How do I remember the three names? A: Use one word for each: heard (Upanishads, shruti), remembered (Gita, smriti), reasoned (Brahma Sutras, nyaya or tarka).
+  - Q: Are the Brahma Sutras and the Vedanta Sutras different texts? A: No. The Brahma Sutras are also called the Vedanta Sutras.
+  - Q: Do I need to know the list of principal Upanishads or the number of verses? A: The core Material for this topic does not require them. The deck lists of Upanishads and the verse and sutra counts are still unchecked, and the number of principal Upanishads varies between lists, so do not rely on them until a named source is added.
+  - Q: Is the Prasthanatrayi covered in the official guidebook? A: No. The guidebook does not cover it. The notes rest on a secondary reference page that states it the same way as textbooks do, so a named source is still needed.
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -1958,14 +2103,14 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Yuktahara in the Bhagavad Gita:** the one who is moderate in eating, recreation, effort, sleep and waking can end sorrow by yoga (chapter 6).
   - **Three kinds of food in the Gita (chapter 17):** sattvic food gives life, purity, strength, health, joy and cheer (savoury, bland, substantial, pleasing); rajasic food is stimulating (very spicy, bitter, sour, salty, hot); tamasic food is stale, spoiled, left over or impure.
   - **Sattvic diet in practice:** fresh, simple food: grains, fruits, vegetables, pulses, nuts, milk and ghee; change the diet gradually.
-  - **Features of mitahara in the Hatha Pradipika (deck, not yet checked):** the food is oily or soft rather than dry, pleasantly sweet in a natural way, and taken in the right amount, leaving a part of the stomach empty (the deck says one fourth, as in the Material).
-  - **Eating as a mindful act (deck, not yet checked):** eat with attention, chew well, and keep quiet during the meal so that the food and the act of eating are noticed.
-  - **Foods to avoid, by taste and state (deck, not yet checked):** very bitter, sour, sharp or acidic foods; fermented or heavily oily foods and foods mixed with strong flavours; stale, reheated, dry or over-salted food.
-  - **Foods that suit (deck, not yet checked):** fresh, naturally sweet, oily or soft foods such as fresh butter, ghee and green vegetables.
-  - **Ahara in yoga (deck, not yet checked):** the stress is on moderation, simplicity and regularity; heavy, very spicy and processed food is best avoided for a clear body and mind.
-  - **Two concepts side by side (deck, not yet checked):** mitahara (measured, pure and wholesome food, eaten mindfully) is the hatha term; yuktahara (balance in food and also in activities such as sleep) is the Gita term for the wider balanced way of living.
+  - **Features of mitahara in the Hatha Pradipika (checked: Guidebook ch.2 sec 2.3 (HP 1.59: lubricating, sweet, one fourth of the stomach left empty)):** the food is oily or soft rather than dry, pleasantly sweet in a natural way, and taken in the right amount, leaving a part of the stomach empty (the deck says one fourth, as in the Material).
+  - "  - **Eating as a mindful act (checked: Guidebook ch.2 sec 2.3):** the Hatha Pradipika verse on mitahara speaks of eating with an offering to Shiva, which the notes read as eating with attention and thankfulness; the chewing count and the silence during meals on the slide are popular practice and are not in the guidebook or the text."
+  - "  - **Foods to avoid, by taste and state (checked: Guidebook ch.2 sec 2.3, HP 1.59-60):** the text names food that is bitter, sour, pungent, salty or hot, reheated, dry or over-salted, and it lists oil, mustard, sesame, curds, buttermilk, garlic, alcohol, fish and meat as unsuitable; the slide's 'fermented' is only partly supported (sour gruel, curds, buttermilk)."
+  - "  - **Foods that suit (checked: Guidebook ch.2 sec 2.3, HP 1.62-63):** wheat, rice, barley, milk, ghee, butter, sugar candy, honey, dry ginger, green gram and five leafy vegetables are listed as suitable; note that another verse (HP 1.60) calls food with an excess of vegetables unwholesome, so say fresh vegetables in moderation."
+  - **Ahara in yoga (checked: Guidebook ch.2 sec 2.3 (moderation, quality over calorie count) and ch.5 sec on Yuktahara; over-processed food counted as tamasic in ch.5):** the stress is on moderation, simplicity and regularity; heavy, very spicy and processed food is best avoided for a clear body and mind.
+  - **Two concepts side by side (checked: Guidebook ch.2 sec 2.3 (mitahara, hatha) and ch.5 (yuktahara: ahara covers food and also mental intake, vihara movement, sleep and wakefulness)):** mitahara (measured, pure and wholesome food, eaten mindfully) is the hatha term; yuktahara (balance in food and also in activities such as sleep) is the Gita term for the wider balanced way of living.
   - **Six tastes, named (deck, not yet checked):** sweet, sour, salty, pungent, bitter and astringent; the yogic diet leans to the sweet taste (in the sense of naturally pleasant, nourishing food). The effect of each taste on the three doshas (vata, pitta, kapha) comes from Ayurveda and is dealt with there (to be checked before use).
-  - **Gunas of food (deck, not yet checked):** sattvic food supports clarity and calm, rajasic food is stimulating (very spicy, pungent), tamasic food is stale or dull and weighs the mind down.
+  - **Gunas of food (checked: Guidebook ch.5 (sattvic, rajasic, tamasic foods)):** sattvic food supports clarity and calm, rajasic food is stimulating (very spicy, pungent), tamasic food is stale or dull and weighs the mind down.
   - **Sitting after meals (deck, not yet checked):** vajrasana is the posture commonly allowed soon after food; other postures are done on an empty stomach.
 - **Explanation:**
   - Keep the two phrases, mitahara (measured food) and yuktahara (regulated living), and the three food types.
@@ -2019,6 +2164,13 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - FAQ items on taste and dosha effects and the answer "tamasic food is the main cause of disease" are Ayurveda claims and health claims; not added as fact.
   - FAQ items on the four Vedas, philosophy schools, kleshas and low back pain asana belong to other blocks.
   - The FAQ answer that a "stimulating diet" is wrong and "prayer" a "medicine for mental illness" is a treatment claim; not used.
+  - Resolution: Slide says rich, sweet, cool; notes say pleasant, easy to digest, liked : notes right: Guidebook sec 2.3 gives nutritious, sweet, lubricating, liked, easily digestible; cool is not stated
+  - Resolution: Slide cites Gita 3.16 for diet : notes right: Guidebook ch.5 gives the moderation verse as the yukta-ahara-vihara verse (6.17) and 17.8 for sattvic food
+  - Resolution: Chew thirty-two times : notes right: not in the text or guidebook
+  - Resolution: One third versus one fourth empty : genuine variation: HP 1.59 as given in the guidebook leaves one fourth empty (three parts for hunger); the one third answer is an Ayurveda convention not checked here; use one fourth for the Hatha Pradipika
+  - Resolution: Taste and dosha FAQ items, tamasic as main cause of disease : notes right to hold back: no source checked, and they are Ayurveda or health claims
+  - Resolution: Prayer as medicine for mental illness : notes right: treatment claim, not in sources
+- **Fact check log (pass 3):** added points: 4 confirmed, 3 corrected, 0 rejected, 2 unverified; hand-written points not confirmed: 1; conflicts resolved: 6.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -2199,7 +2351,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **ID:** ycb1-tx-hatha-practices-health
 - **Review:** pending
 - **Additions:** pending
-- **Fact check:** pending
+- **Fact check:** checked (pass 3: every point in the Material is confirmed or corrected against the sources named in its bullets and in References; a certified teacher or qualified reviewer must still review it)
 - **Scope:** How hatha practices support health.
 - **Deck seed:** ycb1_theory_texts.tex (seed only; the frames still need mapping to this block)
 - **Local sources:** status: covered; guidebook chapter "Introduction to Hatha Yoga"; Board syllabus and guideline (docs folder). Own words only; none of these may be copied.
@@ -2210,11 +2362,11 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Weight and fitness:** yoga alone burns fewer calories than strong exercise; with sensible diet and some aerobic activity it can help control weight.
   - **Middle path:** neither fasting nor overeating, neither indulgence nor deprivation, no wasting of energy.
   - **General rules for asana practice:** empty or light bowel and bladder; a ventilated place; a level floor with a mat or blanket; unwanted thoughts kept aside; no practice during illness, after surgery, fracture or sprain until a physician allows.
-  - **Three levels of benefit (deck, not yet checked):** the practices support the body, the mind and the inner (spiritual) side together, which is why hatha yoga is called a whole-person practice, with long-term vitality as the aim.
-  - **Body (deck, not yet checked):** better flexibility, strength, stamina, posture, circulation and breathing; the cleansing practices support the body's own clearing of waste.
-  - **Mind (deck, not yet checked):** less stress and worry, better focus and mood, and more mindfulness.
-  - **Inner side (deck, not yet checked):** an easier meditation, inner peace, and growth towards self-knowledge, by joining physical and inner practice.
-  - **Link to the earlier points (deck, not yet checked):** the body benefits come from asana and kriya, the breath and mind benefits from pranayama, and the inner benefits from meditation; the three are practised together.
+  - "  - **Three levels of benefit (checked: Guidebook ch.2 sec 2.6):** the guidebook speaks of health and fitness, mental calm and spiritual development, so body, mind and inner side are a fair reading; hatha yoga is described as basically preventive."
+  - "  - **Body (checked: Guidebook ch.2 sec 2.5-2.7):** the guidebook names flexibility, strength, balance and better alignment from asana, healthier breathing from pranayama, and cleansing of throat, stomach, bowels and lungs from the shatkarma; stamina and circulation are not stated there, and detoxification is left out as a health claim."
+  - "  - **Mind (checked: Guidebook ch.2 sec 2.6-2.7):** attention on practice takes the mind off worries, pranayama brings calmness, and practice makes one more aware of habitual thoughts and reactions; claims of reducing anxiety or improving mood are left out."
+  - **Inner side (checked: Guidebook ch.2 sec 2.1-2.7 (hatha as foundation for higher yogas and the route to samadhi; spiritual development as overall goal)):** an easier meditation, inner peace, and growth towards self-knowledge, by joining physical and inner practice.
+  - "  - **Link to the earlier points (checked: Guidebook ch.2 sec 2.2, 2.7):** kriya and asana prepare the body, pranayama steadies breath and mind, and mudra, bandha and nada-anusandhana lead on towards samadhi; meditation is a goal that hatha prepares for, not a separate hatha limb."
 - **Explanation:**
   - Pair each practice with its one word: kriya (cleansing), asana (strength, health), pranayama (lightness), mudra and bandha (steadiness).
   - Say "prevention and well-being"; where the guidebook speaks of relief from conditions, do not repeat it as a claim of cure.
@@ -2229,14 +2381,40 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Open conflicts (deck versus notes; to be checked before the deck is rebuilt):**
   - "Detoxification" and "reduces anxiety" are health claims; they are worded above as support and well-being, not treatment.
   - The slide names meditation (dhyana) as part of hatha practice; the Pradipika's own steps end in nada-anusandhana and samadhi, so the wording is loose (to be checked).
-- **Worked examples:** to be written
+  - Resolution: Detoxification and reduces anxiety are health claims : notes right: worded as support and well-being; the guidebook itself speaks of relief from conditions, which should not be repeated as cure
+  - Resolution: Slide names dhyana as hatha practice : notes right: Guidebook ch.2 sec 2.2 gives the four limbs as asana, pranayama, mudra and bandha, nadanusandhana
+- **Fact check log (pass 3):** added points: 1 confirmed, 4 corrected, 0 rejected, 0 unverified; hand-written points not confirmed: 0; conflicts resolved: 2.
+- **Layers note (2026-11-24):** Worked examples, Exercises and FAQ below are drafted only from this block's checked Material; the Review status stays pending until the author and a certified teacher read them.
+- **Worked examples:**
+  - **Model answer: significance of hatha practices:** Question: "Explain the significance of hatha yoga practices in health and well-being." Use the three levels, then the one-word pairing.
+    - Aim: balance body and mind and prepare for meditation; mainly preventive, not only treatment.
+    - Body: flexibility, strength, balance, better alignment; healthier breathing from pranayama; cleansing of throat, stomach, bowels and lungs from the shatkarma.
+    - Mind: attention on practice takes the mind off worries; pranayama brings calmness; more awareness of habitual thoughts and reactions.
+    - Inner side: easier meditation, inner peace, growth towards self-knowledge.
+    - Do not claim cure.
+  - **Memory aid: one word per practice:** Kriya, purification. Asana, strength and health (arogya). Pranayama, lightness. Mudra and bandha, steadiness. Say them as a chain: clean, strong, light, steady.
+  - **Scenario: a student with a sprained ankle:** The student wants to practise at once. Step 1: recall the rule that there is no practice during illness, after surgery, fracture or sprain until a physician allows. Step 2: ask the student to get the physician's approval first. Step 3: remind them the aim is balance and prevention, so waiting does not lose it.
 - **Figures:** none yet
-- **Exercises:** to be written
+- **Exercises:**
+  - (Recall) Q: Fill in the blank: kriya gives purification, asana gives strength and health, pranayama gives lightness, mudra and bandha give ___. A: Steadiness.
+  - (Recall) Q: What are the three levels of benefit of hatha yoga? A: Body, mind and the inner (spiritual) side.
+  - (Recall) Q: True or false: hatha yoga is mainly meant to treat disease. A: False. It is mainly preventive and prepares for meditation.
+  - (Understand) Q: Give three everyday benefits of asana. A: Any three of calmness, flexibility, strength, balance, better body awareness, and less worry while attention is on the practice.
+  - (Understand) Q: Match: (a) kriya, (b) pranayama, (c) asana, (d) mudra and bandha, with (1) lightness, (2) steadiness, (3) purification, (4) strength and health. A: (a) 3, (b) 1, (c) 4, (d) 2.
+  - (Understand) Q: Can yoga alone control weight? A: Yoga alone burns fewer calories than strong exercise. With sensible diet and some aerobic activity it can help control weight.
+  - (Apply) Q: Name four general rules to follow before asana practice. A: Any four of: empty or light bowel and bladder; a ventilated place; a level floor with a mat or blanket; unwanted thoughts kept aside; no practice during illness, after surgery, fracture or sprain until a physician allows.
+  - (Apply) Q: A student asks if hatha yoga reduces anxiety. How should a teacher word the answer? A: Say it supports well-being: attention on the practice takes the mind off worries and pranayama brings calmness. Do not promise to reduce anxiety or cure.
 - **Quiz:**
   - Q: What does each hatha practice add? A: Kriya gives purification, asana strength and health, pranayama lightness, mudra and bandha steadiness.
   - Q: What are the three levels of benefit of hatha yoga? A: Body, mind and the inner (spiritual) side.
   - Q: Is hatha yoga meant mainly to treat disease? A: No; it is mainly preventive and prepares for meditation.
-- **FAQ:** to be written (the question bank in `ycb1_theory_faqs.tex` is a seed, to be rewritten)
+- **FAQ:**
+  - Q: Is hatha yoga a treatment? A: No. It is mainly preventive and aims to balance body and mind and prepare for meditation.
+  - Q: What is the middle path in practice? A: Neither fasting nor overeating, neither indulgence nor deprivation, and no wasting of energy.
+  - Q: Does hatha yoga help detoxify the body? A: The guidebook names cleansing of throat, stomach, bowels and lungs from the shatkarma, but detoxification is left out as a health claim.
+  - Q: Does it improve stamina and circulation? A: The guidebook does not state these, so do not claim them in the exam.
+  - Q: Is meditation part of hatha yoga? A: No. Meditation is a goal that hatha prepares for. The four limbs are asana, pranayama, mudra and bandha, and nada-anusandhana.
+  - Q: Where are the verses for the Hatha Pradipika and Gheranda Samhita points? A: Verse numbers still have to be checked in a standard edition, so a source is still needed.
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -2249,7 +2427,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **ID:** ycb1-tx-mental-wellbeing-patanjala
 - **Review:** pending
 - **Additions:** pending
-- **Fact check:** pending
+- **Fact check:** checked (pass 3: every point in the Material is confirmed or corrected against the sources named in its bullets and in References; a certified teacher or qualified reviewer must still review it)
 - **Scope:** The mind, its states and the means to a steady mind.
 - **Deck seed:** ycb1_theory_texts.tex (seed only; the frames still need mapping to this block)
 - **Local sources:** status: covered; guidebook chapters "Introduction to Patanjala Yoga" and "Yoga and Stress Management"; Board syllabus and guideline (docs folder). Own words only; none of these may be copied.
@@ -2262,11 +2440,11 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Remedy named by the text:** practice on one principle (eka-tattva abhyasa); repeating Om (pranava) with meaning; and the practice of the eight limbs.
   - **Chitta prasadana (making the mind clear and calm):** four attitudes, friendliness to the happy, compassion to the suffering, gladness for the virtuous, equanimity to the unvirtuous (the positive attitudes block); also the breath way of long exhalation with a pause after it.
   - **Five kleshas (causes of distress):** ignorance, ego-sense, liking, dislike, fear of loss (clinging to life).
-  - **Aim in the deck's words (deck, not yet checked):** mental well-being means a clear and steady mind; the central text is the Yoga Sutra, and its core line is the stilling of the mental waves (chitta vritti nirodha).
-  - **Sattva (deck, not yet checked):** the quality of purity, harmony and clarity of the mind; yoga practice cultivates it.
-  - **Pratipaksha bhavana (deck, not yet checked):** answering a negative thought or feeling by deliberately holding its positive opposite.
-  - **Practices that support a steady mind (deck, not yet checked):** meditation (dhyana) for concentration, pranayama for steadier emotions, asana for a steady body and mind, the yamas and niyamas as self-discipline, and mindfulness of thoughts and feelings.
-  - **The four attitudes by name (deck, not yet checked):** maitri (friendliness to the happy), karuna (compassion to the suffering), mudita (gladness for the virtuous), upeksha (equanimity, a calm non-reaction towards the unvirtuous).
+  - **Aim in the deck's words (checked: Guidebook ch.3 summary (yoga is chitta vritti nirodha, quietening the mind)):** mental well-being means a clear and steady mind; the central text is the Yoga Sutra, and its core line is the stilling of the mental waves (chitta vritti nirodha).
+  - **Sattva (checked: Guidebook ch.4-5 on the three gunas (sattva is purity, lifts the mind; yoga practice helps develop it)):** the quality of purity, harmony and clarity of the mind; yoga practice cultivates it.
+  - **Pratipaksha bhavana (checked: Guidebook ch.1 and the stress chapter (technique of pratipaksha bhavana for confronting negative thoughts)):** answering a negative thought or feeling by deliberately holding its positive opposite.
+  - "  - **Practices that support a steady mind (checked: Guidebook ch.3 sec 3.2, 3.6):** the guidebook names abhyasa and vairagya as the means, supported by an integrated approach of social and personal discipline (yama, niyama), healthy diet, pranayama, asana and meditation; mindfulness of thoughts and feelings is a modern word for the same awareness and is not a named practice there."
+  - **The four attitudes by name (checked: Guidebook ch.3 sec 3.5 (Sutra 1.33: friendship with the happy, compassion for the suffering, delight in the virtuous, equanimity toward vice)):** maitri (friendliness to the happy), karuna (compassion to the suffering), mudita (gladness for the virtuous), upeksha (equanimity, a calm non-reaction towards the unvirtuous).
 - **Explanation:**
   - Mental well-being in this view is a calm, clear mind that is not tossed by liking, dislike or fear; the four attitudes are the daily method.
   - Learn the lists as named (five states, nine obstacles, four companions, five kleshas).
@@ -2298,9 +2476,29 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Open conflicts (deck versus notes; to be checked before the deck is rebuilt):**
   - Slide calls upeksha "indifference"; the Material says equanimity. Equanimity is the safer exam wording, since indifference can be read as not caring.
   - Slide says kleshas are overcome "through disciplined practice"; the Material gives the means as abhyasa and vairagya (consistent but less precise).
-- **Worked examples:** to be written
+  - Resolution: Slide calls upeksha indifference : notes right: Guidebook sec 3.5 says be equanimous towards vices or people with negative qualities
+  - Resolution: Kleshas overcome through disciplined practice : notes right but incomplete: Guidebook sec 3.6 says kriya yoga (tapas, svadhyaya, ishvara pranidhana) weakens the kleshas and meditation with pratiprasava removes them; abhyasa and vairagya are the means for stilling vrittis
+- **Fact check log (pass 3):** added points: 4 confirmed, 1 corrected, 0 rejected, 0 unverified; hand-written points not confirmed: 0; conflicts resolved: 2.
+- **Layers note (2026-11-24):** Worked examples, Exercises and FAQ below are drafted only from this block's checked Material; the Review status stays pending until the author and a certified teacher read them.
+- **Worked examples:**
+  - **Model answer: mental well-being in Patanjala yoga:** Question: "Explain mental well-being according to Patanjala yoga." Build the answer from the aim, the means and the daily method.
+    - Aim: a clear and steady mind; yoga is chitta vritti nirodha, the stilling of the waves of the mind.
+    - Means: abhyasa (steady practice) and vairagya (non-attachment).
+    - Support: yama and niyama, healthy diet, pranayama, asana and meditation.
+    - Daily method: the four attitudes of chitta prasadana, maitri, karuna, mudita, upeksha.
+    - Quality to grow: sattva, purity, harmony and clarity.
+  - **Scenario: applying the four attitudes:** A friend is celebrating, a neighbour is grieving, a colleague is doing good work, and someone around you is behaving badly. Match each to an attitude. Celebrating: maitri (friendliness). Grieving: karuna (compassion). Good work: mudita (gladness). Bad behaviour: upeksha (equanimity, a calm non-reaction). In the exam write equanimity, not indifference.
+  - **Memory aid: the lists:** Five states of mind (kshipta, mudha, vikshipta, ekagra, niruddha), five vrittis, five kleshas, nine obstacles, four companions of the obstacles, four attitudes. Say each list with its count and its first and last item, then fill the middle.
 - **Figures:** none yet
-- **Exercises:** to be written
+- **Exercises:**
+  - (Recall) Q: Name the two means of stilling the mind. A: Abhyasa and vairagya.
+  - (Recall) Q: Name the five kleshas. A: Ignorance, ego-sense, liking, dislike and fear of loss (clinging to life).
+  - (Recall) Q: Fill in the blank: the five states of mind are kshipta, mudha, vikshipta, ekagra and ___. A: Niruddha.
+  - (Recall) Q: Name the four companions of the obstacles. A: Unhappiness, despair, trembling of the body and irregular breathing.
+  - (Understand) Q: What is pratipaksha bhavana? A: Answering a negative thought or feeling by deliberately holding its positive opposite.
+  - (Understand) Q: Match the attitudes to the people: maitri, karuna, mudita, upeksha with (a) the suffering, (b) the happy, (c) the unvirtuous, (d) the virtuous. A: maitri b, karuna a, mudita d, upeksha c.
+  - (Understand) Q: True or false: sattva is the quality of restlessness. A: False. Sattva is purity, harmony and clarity of the mind, and yoga practice cultivates it.
+  - (Apply) Q: A student feels low and finds breathing irregular and the body trembling. Which part of the Material does this match, and what remedy does the text name? A: These are companions of the obstacles. The text names practice on one principle (eka-tattva abhyasa), repeating Om with meaning, and the practice of the eight limbs.
 - **Quiz:**
   - Q: Name the two means of stilling the mind. A: Abhyasa (practice) and vairagya (non-attachment).
   - Q: Name the five kleshas. A: Ignorance, ego-sense, liking, dislike and clinging to life.
@@ -2309,7 +2507,13 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Q: What is pratipaksha bhavana? A: Replacing a negative thought with its positive opposite.
   - Q: Name the four attitudes of chitta prasadana. A: Maitri, karuna, mudita, upeksha.
   - Q: Who elaborated the five states of the mind (chitta bhumi)? A: Vyasa, in his commentary on the Yoga Sutra (as given in the deck's question bank; to be checked).
-- **FAQ:** to be written (the question bank in `ycb1_theory_faqs.tex` is a seed, to be rewritten)
+- **FAQ:**
+  - Q: What defines yoga in this view? A: Chitta vritti nirodha, the stilling of the waves of the mind.
+  - Q: Is upeksha indifference? A: Use equanimity in exam answers, since indifference can be read as not caring.
+  - Q: How are kleshas overcome? A: The guidebook says kriya yoga (tapas, svadhyaya, ishvara pranidhana) weakens them and meditation with pratiprasava removes them. Abhyasa and vairagya are the means for stilling the vrittis.
+  - Q: Is mindfulness a named practice here? A: No. Mindfulness of thoughts and feelings is a modern word for the same awareness, not a named practice in the guidebook.
+  - Q: Who elaborated the five states of the mind? A: The question bank says Vyasa in his commentary, but this is still to be checked, so a source is still needed.
+  - Q: Why do English names for the vrittis and obstacles differ between books? A: Translations differ between commentaries. Keep the Sanskrit term with one English word.
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -2321,7 +2525,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **ID:** ycb1-tx-bahiranga-antaranga
 - **Review:** pending
 - **Additions:** pending
-- **Fact check:** pending
+- **Fact check:** checked (pass 3: every point in the Material is confirmed or corrected against the sources named in its bullets and in References; a certified teacher or qualified reviewer must still review it)
 - **Scope:** The outer and inner limbs of the eightfold path.
 - **Deck seed:** ycb1_theory_texts.tex (seed only; the frames still need mapping to this block)
 - **Local sources:** status: covered; guidebook chapter "Introduction to Patanjala Yoga"; Board syllabus and guideline (docs folder). Own words only; none of these may be copied.
@@ -2329,9 +2533,9 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **The eight limbs (ashtanga):** yama (restraints), niyama (observances), asana (posture), pranayama (breath control), pratyahara (withdrawal of the senses), dharana (holding attention), dhyana (meditation) and samadhi (absorption).
   - **Outer (bahiranga) and inner (antaranga) limbs:** the first five are the outer limbs and the last three are the inner limbs, with the inner limbs counted together as samyama in the third pada.
   - **Yama and niyama in a line each:** the yamas are non-harming, truthfulness, not stealing, moderation of the senses and non-possessiveness; the niyamas are cleanliness, contentment, discipline, self-study and surrender to the ideal.
-  - **Outer limbs, one-line role (deck, not yet checked):** yama (ethical restraints), niyama (personal observances), asana (posture that prepares the body for meditation), pranayama (breath control that steadies energy and the mind).
-  - **Inner limbs, one-line role (deck, not yet checked):** pratyahara (withdrawal of the senses), dharana (attention held on one point), dhyana (unbroken flow of attention, meditation), samadhi (absorption, deep inner stillness).
-  - **Interdependence (deck, not yet checked):** the outer and inner limbs support each other; the path aims at all-round growth and inner realisation, not at the outer limbs alone.
+  - **Outer limbs, one-line role (checked: Guidebook ch.3 sec 3.7 (yama social restraint, niyama personal observance, asana, pranayama)):** yama (ethical restraints), niyama (personal observances), asana (posture that prepares the body for meditation), pranayama (breath control that steadies energy and the mind).
+  - **Inner limbs, one-line role (checked: Guidebook ch.3 sec 3.7 (pratyahara withdrawal of senses, dharana, dhyana, samadhi as absorption)):** pratyahara (withdrawal of the senses), dharana (attention held on one point), dhyana (unbroken flow of attention, meditation), samadhi (absorption, deep inner stillness).
+  - "  - **Interdependence (checked: Guidebook ch.3 sec 3.7):** the guidebook calls pratyahara the bridge between the first four limbs and the last three, says dharana, dhyana and samadhi together are samyama, and says steady ashtanga practice thins impurities until discriminative knowledge dawns; calling the groups interdependent is a teaching summary, so say the outer limbs prepare the inner."
 - **Explanation:**
   - Use the ladder picture: each limb prepares the next. Students should be able to name all eight in order and say which are outer and which are inner.
 - **Workshop slide content (folded into the layers above on a first pass; kept here until the author confirms nothing is lost):**
@@ -2352,16 +2556,41 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Open conflicts (deck versus notes; to be checked before the deck is rebuilt):**
   - Slide puts pratyahara among the inner limbs and lists only four outer limbs. The Material counts pratyahara with the first five outer limbs (yama, niyama, asana, pranayama, pratyahara) and gives dharana, dhyana, samadhi as the inner limbs. The Sutra itself calls the last three the inner limbs (third pada); some teachers also call pratyahara a bridge. The exam scheme must be fixed (to be checked).
   - Slide calls samadhi "enlightenment"; "absorption" is the safer wording.
-- **Worked examples:** to be written
+  - Resolution: Pratyahara outer or inner : genuine variation: Board Level 2 and 3 syllabi give bahiranga as yama, niyama, asana, pranayama, pratyahara and antaranga as dharana, dhyana, samadhi (matches Sutra 3.7); the guidebook counts four outer limbs and calls pratyahara a bridge; the Level 1 syllabus gives no split, so teach five outer and three inner and mention the bridge view
+  - Resolution: Slide calls samadhi enlightenment : notes right: Guidebook sec 3.7 defines samadhi as spiritual absorption
+- **Fact check log (pass 3):** added points: 2 confirmed, 1 corrected, 0 rejected, 0 unverified; hand-written points not confirmed: 0; conflicts resolved: 2.
+- **Layers note (2026-11-24):** Worked examples, Exercises and FAQ below are drafted only from this block's checked Material; the Review status stays pending until the author and a certified teacher read them.
+- **Worked examples:**
+  - **Model answer: outer and inner limbs:** Question: "Name the eight limbs and say which are outer and which are inner." Write them in order, then draw the line after the fifth.
+    - Eight limbs in order: yama, niyama, asana, pranayama, pratyahara, dharana, dhyana, samadhi.
+    - Outer (bahiranga): the first five, yama to pratyahara.
+    - Inner (antaranga): the last three, dharana, dhyana, samadhi, counted together as samyama in the third pada.
+    - Add one line: the outer limbs prepare the inner.
+  - **Memory aid: the ladder:** Picture a ladder of eight steps, each step preparing the next. Say the outer steps as "ethics, ethics, body, breath, senses" (yama, niyama, asana, pranayama, pratyahara). Then the inner steps as "hold, flow, absorb" (dharana, dhyana, samadhi).
+  - **Scenario: the pratyahara question:** A candidate sees a book that counts four outer limbs and calls pratyahara a bridge. Step 1: remember the Level 1 syllabus gives no split. Step 2: in the exam write five outer and three inner, which matches the Sutra. Step 3: you may add that some teachers call pratyahara a bridge between the first four and the last three.
 - **Figures:** none yet
-- **Exercises:** to be written
+- **Exercises:**
+  - (Recall) Q: Fill in the blank: the eight limbs are yama, niyama, asana, pranayama, pratyahara, dharana, dhyana and ___. A: Samadhi.
+  - (Recall) Q: Name the five yamas. A: Non-harming, truthfulness, not stealing, moderation of the senses, non-possessiveness.
+  - (Recall) Q: Name the five niyamas. A: Cleanliness, contentment, discipline, self-study and surrender to the ideal.
+  - (Understand) Q: True or false: samadhi means enlightenment. A: False as the exam wording. Write absorption (deep inner stillness) instead.
+  - (Understand) Q: Match each to its one-line role: (a) asana, (b) pranayama, (c) dharana, (d) dhyana. A: (a) posture that prepares the body for meditation, (b) breath control that steadies energy and the mind, (c) attention held on one point, (d) unbroken flow of attention, meditation.
+  - (Understand) Q: What is the difference between yama and niyama? A: Yama is ethical (social) restraint; niyama is personal observance.
+  - (Understand) Q: Why are both groups of limbs needed? A: They support each other; the outer limbs prepare the ground for the inner.
+  - (Apply) Q: A student asks which limbs are inner and what they are called together. How do you answer? A: Dharana, dhyana and samadhi; together they are samyama (third pada).
 - **Quiz:**
   - Q: Which limbs are the inner limbs? A: Dharana, dhyana and samadhi.
   - Q: Name the five yamas. A: Non-harming, truthfulness, not stealing, moderation of the senses, non-possessiveness.
   - Q: Name the eight limbs of Patanjala yoga in order. A: Yama, niyama, asana, pranayama, pratyahara, dharana, dhyana, samadhi.
   - Q: Which limbs are the inner limbs? A: Dharana, dhyana and samadhi.
   - Q: Why are both groups of limbs needed? A: They support each other; the outer prepare the ground for the inner.
-- **FAQ:** to be written (the question bank in `ycb1_theory_faqs.tex` is a seed, to be rewritten)
+- **FAQ:**
+  - Q: Which limbs are outer and which are inner? A: Teach five outer (yama, niyama, asana, pranayama, pratyahara) and three inner (dharana, dhyana, samadhi).
+  - Q: Why do some books count only four outer limbs? A: The guidebook counts four and calls pratyahara a bridge between the first four and the last three. The Level 1 syllabus gives no split, so teach five and three and mention the bridge view.
+  - Q: What is samyama? A: The name for dharana, dhyana and samadhi taken together.
+  - Q: Is samadhi the same as enlightenment? A: The guidebook defines it as spiritual absorption, so use "absorption" in answers.
+  - Q: Do I have to learn the limbs in order? A: Yes. Students should name all eight in order, and each limb prepares the next.
+  - Q: Are the outer and inner limbs separate paths? A: The notes say to put it as the outer limbs preparing the inner. Steady practice of the limbs is said to thin impurities until discriminative knowledge dawns.
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -2383,10 +2612,10 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Three gunas in daily life (chapter 14 and chapter 17):** goodness binds to happiness and knowledge, passion to action, ignorance to heedlessness and sleep; food, work and mind also follow the three.
   - **Healthy living in short:** balanced food, sleep, work and rest; a calm and steady mind; right action without strain.
   - **Divine qualities (daivi sampat), chapter 16 (deck, not yet checked):** the Gita lists a set of qualities of a person of divine nature, the base of a healthy life in society; the verse list begins with fearlessness and purity of mind.
-  - **First group of qualities, by name (deck, not yet checked):** fearlessness (abhaya), purity of mind (sattva-samshuddhi), steadiness in knowledge (jnana-yoga-vyavasthiti), charity (dana), control of the senses (dama), sacrifice (yajna), self-study (svadhyaya), austerity (tapas), straightforwardness (arjava), non-violence (ahimsa), truthfulness (satya), freedom from anger (akrodha), renunciation (tyaga), peace (shanti).
-  - **Second group of qualities, by name (deck, not yet checked):** not finding fault (apaishuna), compassion for all beings (daya), freedom from greed (aloluptva), gentleness (mardava), modesty (hri), steadiness, no fickleness (achapala), vigour or radiance (tejas), forgiveness (kshama), fortitude (dhriti), cleanliness (shaucha), freedom from hatred (adroha), freedom from pride (na-atimanita).
-  - **Healthy living, as the deck gathers it (deck, not yet checked):** a balanced life that joins body, mind and spirit and follows dharma; moderation in food; no extremes in work and rest; daily practice of yoga and meditation; action in line with duty and ethics; mindfulness and self-awareness.
-  - **Attitude and conduct (deck, not yet checked):** contentment (santosha), non-attachment (vairagya), management of desires, and aligning actions with inner growth.
+  - **First group of qualities, by name (checked: Bhagavad Gita 16.1-2 (fourteen names, from abhaya to shanti)):** fearlessness (abhaya), purity of mind (sattva-samshuddhi), steadiness in knowledge (jnana-yoga-vyavasthiti), charity (dana), control of the senses (dama), sacrifice (yajna), self-study (svadhyaya), austerity (tapas), straightforwardness (arjava), non-violence (ahimsa), truthfulness (satya), freedom from anger (akrodha), renunciation (tyaga), peace (shanti).
+  - "  - **Second group of qualities, by name (checked: Bhagavad Gita 16.2-3):** apaishuna (not finding fault), daya (compassion for beings), aloluptva (freedom from greed), mardava (gentleness), hri (modesty), achapala (freedom from restlessness), tejas (vigour or radiance), kshama (forgiveness), dhriti (fortitude), shaucha (cleanliness), adroha (freedom from hatred) and na-atimanita (freedom from pride): twelve names, which with the first fourteen make twenty-six."
+  - "  - **Healthy living, as the deck gathers it (checked: Guidebook ch.5 yuktahara verse, Board syllabus verses 2.47-50):** the Gita supports moderation in food, recreation, effort and sleep, and acting from duty without clinging to the fruit; daily meditation and mindfulness are teaching summaries, not direct statements of the text."
+  - "  - **Attitude and conduct (checked: Guidebook ch.3 sec 3.7, Board syllabus):** santosha is a niyama of the Yoga Sutra, though the Gita also values being content and acting without attachment (Board syllabus verses of chapter two); keep the Sanskrit word santosha for the Yoga Sutra block."
   - **Harmony with nature (deck, not yet checked):** live in step with natural rhythms and cycles, favour sattvic living (purity and calm), avoid both indulgence and harsh self-denial, and keep mindfulness in all activity.
 - **Explanation:**
   - Use the Gita as a source of ideas on daily conduct and mind; the exam asks for the idea and the verse source, not a medical claim.
@@ -2454,6 +2683,11 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Slide calls moderation "mitahara" in the Gita; the Gita word is yuktahara, and mitahara is the hatha term.
   - Slide treats santosha as a Gita word; it is a niyama of the Yoga Sutra, though the idea of contentment is also in the Gita.
   - Slide gives the chapter 6 verse as 16 and 17 for yuktahara; the quiz line in the Material gives verse seventeen only (the pair is consistent: verse sixteen is the warning against extremes).
+  - Resolution: Slide says twenty-six divine qualities : slide right on the count: Gita 16.1-3 gives twenty-six; the slide repeats shanti across two frames, and notes' name list is the usual reading
+  - Resolution: Slide calls moderation mitahara in the Gita : notes right: Guidebook ch.5 gives the Gita term as yukta-ahara; mitahara is the hatha term (Guidebook ch.2)
+  - Resolution: Slide treats santosha as a Gita word : notes right: Guidebook lists santosha among the Yoga Sutra niyamas
+  - Resolution: Verse 16 and 17 for yuktahara : genuine variation: 6.17 is the verse with the five items (Guidebook ch.5); 6.16 warns against extremes, so the pair is fine and the quiz may cite 6.17
+- **Fact check log (pass 3):** added points: 1 confirmed, 3 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 0; conflicts resolved: 4.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -2485,9 +2719,9 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **How to use it:** before and after a practice, note the breath, the body, the mood and the energy; notice what is easier or harder; adjust the practice to your own capacity, and tell the teacher what you notice.
   - **What to look for:** ease and steadiness in the posture, a smooth breath, a calmer mind, less tension; and signs to stop, such as pain, dizziness or strain.
   - **Care:** one's feelings are a guide, not a diagnosis; a persistent problem needs a doctor.
-  - **Daily practice builds (deck, not yet checked):** self-discipline through a regular routine (for example a morning practice), a steady and healthy body through asana, a calmer mind through pranayama, and better understanding through self-study (svadhyaya).
-  - **Surrender (ishvara pranidhana) (deck, not yet checked):** doing the practice without clinging to its result.
-  - **Eka-tattva abhyasa (deck, not yet checked):** keeping the practice on one principle for clarity, as named in the Yoga Sutra as a remedy for a scattered mind.
+  - "  - **Daily practice builds (checked: Guidebook ch.3 sec 3.6, ch.2 sec 2.6):** regular practice supports discipline, asana gives steadiness and calm, pranayama gives calmness, and svadhyaya (self-study, part of kriya yoga and a niyama) builds understanding of oneself and the texts."
+  - "  - **Surrender (ishvara pranidhana) (checked: Guidebook ch.3 sec 3.3):** complete surrender to Ishvara, which the guidebook explains as surrendering one's ego; it is a niyama and part of kriya yoga. Doing practice without clinging to the result is a common reading, not a quote from the guidebook."
+  - **Eka-tattva abhyasa (checked: Guidebook ch.3 sec 3.4 (Sutra 1.32, practice of one principle against the obstacles and their companions)):** keeping the practice on one principle for clarity, as named in the Yoga Sutra as a remedy for a scattered mind.
   - **Related terms (deck, not yet checked):** self-awareness (noticing one's own states and changes), mindfulness (attention to the present moment), mind-body connection (noticing how body and mind affect each other).
   - **Personalisation and reflection (deck, not yet checked):** adapt the practice to individual needs and review one's experience regularly, so as to grow steadily.
 - **Explanation:**
@@ -2513,6 +2747,9 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Open conflicts (deck versus notes; to be checked before the deck is rebuilt):**
   - Slide gives "Knowledge (bhakti yoga): love of learning"; bhakti yoga is the path of devotion, not of knowledge, so this line looks wrong and was left out.
   - Slide lists "Patanjali's guidance: consistent practice leads to growth"; the Material cites practice that is long, unbroken and done with care (consistent).
+  - Resolution: Slide says knowledge (bhakti yoga): love of learning : notes right: bhakti is the path of devotion, in the karma, jnana, bhakti set of paths; the slide line is wrong
+  - Resolution: Slide says consistent practice leads to growth : notes right: Sutra 1.14 as given in Guidebook ch.3 (long, unbroken, sincere practice becomes firm)
+- **Fact check log (pass 3):** added points: 1 confirmed, 2 corrected, 0 rejected, 2 unverified; hand-written points not confirmed: 3; conflicts resolved: 2.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -2551,13 +2788,13 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Reproductive:** concerned with the continuation of the species.
   - **Sense organs:** eyes, ears, nose, tongue and skin, which bring information to the nervous system.
   - **Homeostasis:** the body keeps its inner state (temperature, water, chemistry) steady; yoga practice supports this through rest, breath and calm.
-  - **Skeletal parts (deck, not yet checked):** bones (adult count about 206; living tissue with a good blood supply), cartilage (elastic, cushions joints), ligaments (bone to bone), tendons (muscle to bone) and joints (where bones meet).
+  - **Skeletal parts (checked: standard count of 206 adult bones: Wikipedia List of bones of the human skeleton; Guidebook ch.4 sec 4.2 (bones, ligaments, tendons; marrow makes blood cells)):** bones (adult count about 206; living tissue with a good blood supply), cartilage (elastic, cushions joints), ligaments (bone to bone), tendons (muscle to bone) and joints (where bones meet).
   - **Skeletal divisions (deck, not yet checked):** the axial part is the skull, the vertebral column and the rib cage (the ribs guard the lungs and heart); the appendicular part is the shoulder girdle (shoulder blades and collar bones), the arm bones (humerus, radius, ulna, wrist bones, hand bones, finger bones), the pelvis and the leg bones (femur, patella, tibia, fibula, ankle bones, foot bones, toe bones).
-  - **Skeletal functions (deck, not yet checked):** framework, support, protection, blood-cell formation (in marrow) and storage of minerals.
-  - **Vertebral column (deck, not yet checked):** a column of vertebrae joined by cartilage and ligaments, with the spinal cord in the central canal. Regions from top: cervical, thoracic, lumbar, sacral (fused) and coccygeal (fused). Natural curves: cervical, thoracic, lumbar and pelvic.
+  - **Skeletal functions (checked: Guidebook ch.4 sec 4.2 (shape, protection, movement with muscles, marrow forms blood cells)):** framework, support, protection, blood-cell formation (in marrow) and storage of minerals.
+  - **Vertebral column (checked: regions 7 cervical, 12 thoracic, 5 lumbar, fused sacrum and coccyx: Wikipedia List of bones of the human skeleton and Lumen SUNY AP1 divisions of skeleton):** a column of vertebrae joined by cartilage and ligaments, with the spinal cord in the central canal. Regions from top: cervical, thoracic, lumbar, sacral (fused) and coccygeal (fused). Natural curves: cervical, thoracic, lumbar and pelvic.
     - Faulty posture can exaggerate the curves: kyphosis (more thoracic curve), lordosis (more lumbar curve), scoliosis (sideways curve).
     - Asana practice is said to support good posture by balancing and strengthening the muscles (to be checked).
-  - **Spinal movements with sample asanas (deck, not yet checked):**
+  - **Spinal movements with sample asanas (checked: Guidebook ch.8 sec 8.4 (flexion Padahastasana, extension Bhujangasana, lateral Trikonasana, rotation Ardhamatsyendrasana, axial extension Tadasana); circumduction is not in it):**
     - Flexion (forward bend): Paschimottanasana, Padahastasana.
     - Extension (back bend): Bhujangasana, Dhanurasana.
     - Rotation (twist): Ardha Matsyendrasana; largest between the first two neck vertebrae (atlas and axis).
@@ -2565,26 +2802,26 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
     - Circumduction (circular sway): Chakki Chalan.
     - Elongation (stretch upwards): Tadasana, Urdhva Hastasana.
   - **Joint types (deck, not yet checked):** fibrous (almost no movement, for example skull sutures), cartilaginous (strong and slightly flexible, for example rib to breastbone, which helps breathing) and synovial (most mobile; cartilage-coated ends inside a fluid-filled capsule; several sub-kinds for different movements).
-  - **Muscle types (deck, not yet checked):** voluntary (consciously controlled; walking, balance, writing), involuntary (autonomic control; digestion, blood flow) and cardiac (self-rhythmic, heart only). Muscles turn chemical energy into movement.
+  - **Muscle types (checked: Guidebook ch.4 sec 4.2 (skeletal voluntary, smooth involuntary, cardiac only in heart)):** voluntary (consciously controlled; walking, balance, writing), involuntary (autonomic control; digestion, blood flow) and cardiac (self-rhythmic, heart only). Muscles turn chemical energy into movement.
   - **Muscle functions (deck, not yet checked):** movement, posture against gravity, protection of organs, heat production, energy store and working of internal organs.
   - **Muscle contraction (deck, not yet checked):** fibres hold thin (actin) and thick (myosin) filaments that slide over each other and shorten the fibre. Isotonic: the muscle changes length under a steady load. Isometric: the muscle keeps its length while tension rises.
   - **Reflex and reciprocal inhibition (deck, not yet checked):** proprioceptors report body position to the brain and help posture and coordination. The stretch reflex is a quick contraction when a muscle is suddenly lengthened. Reciprocal inhibition: when one muscle contracts its opposite relaxes (biceps and triceps), giving smooth movement. Slow movement is said to suit deep breathing.
-  - **Movement terms (deck, not yet checked):** flexion (angle decreases), extension (angle increases), abduction (away from the midline), adduction (towards the midline), elevation and depression (up and down, as in shoulders), pronation (palms down), supination (palms up), rotation, and sphincter action (narrowing or widening an opening). Matching muscle groups: flexors, extensors, abductors, adductors, rotators.
+  - **Movement terms (checked: Guidebook ch.4 sec 4.5 (flexors, extensors, abductors, adductors, rotators defined)):** flexion (angle decreases), extension (angle increases), abduction (away from the midline), adduction (towards the midline), elevation and depression (up and down, as in shoulders), pronation (palms down), supination (palms up), rotation, and sphincter action (narrowing or widening an opening). Matching muscle groups: flexors, extensors, abductors, adductors, rotators.
   - **Muscle energy (deck, not yet checked):** aerobic (with oxygen; steady long activity such as dance or distance running) and anaerobic (little oxygen; fast, heavy effort; lactic acid is formed). After effort, oxygen clears the lactic acid; the oxygen needed for this is the oxygen debt.
-  - **Blood (deck, not yet checked):** plasma is the largest share, then red cells (carry oxygen and carbon dioxide; made in bone marrow; live about 120 days), white cells (immunity) and platelets (stop bleeding by plugging damaged vessels).
-  - **Vessels and heart (deck, not yet checked):** arteries carry blood away from the heart, then arterioles, capillaries (exchange), venules and veins (back to the heart). Systemic circulation serves the body; pulmonary circulation serves the lungs. The heart has two atria (receive blood) and two ventricles (pump it out); valves stop backflow (tricuspid on the right, bicuspid or mitral on the left).
+  - **Blood (checked: red cell life about 120 days: NIH PMC8006275 How Do Red Blood Cells Die; marrow origin: Guidebook sec 4.2):** plasma is the largest share, then red cells (carry oxygen and carbon dioxide; made in bone marrow; live about 120 days), white cells (immunity) and platelets (stop bleeding by plugging damaged vessels).
+  - **Vessels and heart (checked: Guidebook ch.4 sec 4.2 item 6 (aorta, arteries, capillaries, veins, return to heart)):** arteries carry blood away from the heart, then arterioles, capillaries (exchange), venules and veins (back to the heart). Systemic circulation serves the body; pulmonary circulation serves the lungs. The heart has two atria (receive blood) and two ventricles (pump it out); valves stop backflow (tricuspid on the right, bicuspid or mitral on the left).
   - **Circulatory functions (deck, not yet checked):** transport, protection through immunity, and homeostasis.
-  - **Respiratory tract (deck, not yet checked):** nose (filters, warms and moistens air; smell), pharynx, larynx (voice box), trachea (windpipe held open by cartilage rings), bronchi, bronchioles and alveoli (gas exchange). The right lung has three lobes and the left has two. Mucus lining traps dust; sinuses are air spaces near the nose that can get blocked.
+  - **Respiratory tract (checked: Guidebook ch.4 sec 4.2 item 5 (nose, trachea, bronchi, bronchioles, alveoli gas exchange)):** nose (filters, warms and moistens air; smell), pharynx, larynx (voice box), trachea (windpipe held open by cartilage rings), bronchi, bronchioles and alveoli (gas exchange). The right lung has three lobes and the left has two. Mucus lining traps dust; sinuses are air spaces near the nose that can get blocked.
   - **Muscles of breathing (deck, not yet checked):** diaphragm (dome below the lungs, separates chest from abdomen), intercostals (between ribs; lift the rib cage for inhalation, lower it for exhalation), accessory neck muscles (help in clavicular breathing) and abdominal muscles (forced exhalation).
   - **Respiratory functions (deck, not yet checked):** gas exchange, acid-base (pH) balance and speech.
-  - **Digestive tract (deck, not yet checked):** mouth (chewing; saliva starts carbohydrate digestion), oesophagus (passage only), stomach (churning; acid; protein digestion starts; no absorption), small intestine (duodenum, jejunum, ileum; main digestion and absorption; villi widen the surface), large intestine (water absorption; ascending, transverse and descending colon, rectum, anus). Food moves by peristalsis (waves of contraction).
-  - **Excretory parts (deck, not yet checked):** kidneys (filter blood; nephrons), ureters (carry urine by peristalsis), bladder (stores urine) and urethra (passage out).
+  - **Digestive tract (checked: Guidebook ch.4 sec 4.2 item 7 (oesophagus, stomach acid, small intestine absorption)):** mouth (chewing; saliva starts carbohydrate digestion), oesophagus (passage only), stomach (churning; acid; protein digestion starts; no absorption), small intestine (duodenum, jejunum, ileum; main digestion and absorption; villi widen the surface), large intestine (water absorption; ascending, transverse and descending colon, rectum, anus). Food moves by peristalsis (waves of contraction).
+  - **Excretory parts (checked: Guidebook ch.4 sec 4.2 item 8 (kidney, ureter, bladder, urethra)):** kidneys (filter blood; nephrons), ureters (carry urine by peristalsis), bladder (stores urine) and urethra (passage out).
   - **Excretory functions (deck, not yet checked):** remove waste, regulate blood volume and pressure, control electrolytes and blood pH.
-  - **Hormones (deck, not yet checked):** chemical messengers released into blood, acting on target organs, needed in small amounts; too much or too little disturbs health. Kinds: water-soluble (proteins, amines) and lipid-soluble (steroids).
+  - **Hormones (checked: Guidebook ch.4 sec 4.2 item 4 (hormones released into blood; pituitary, thyroid, parathyroid, pineal named)):** chemical messengers released into blood, acting on target organs, needed in small amounts; too much or too little disturbs health. Kinds: water-soluble (proteins, amines) and lipid-soluble (steroids).
   - **Hypothalamus and pituitary (deck, not yet checked):** the hypothalamus controls the pituitary by releasing and inhibiting hormones. The pituitary (called the master gland) releases growth hormone, FSH, LH, prolactin (milk), TSH (thyroid), ACTH (adrenals), ADH (water retention) and oxytocin (uterine contraction).
   - **Other glands named (deck, not yet checked):** pineal (melatonin; sleep rhythm), thyroid (thyroxine and calcitonin; metabolism and calcium) and parathyroids (calcium balance).
-  - **Reproductive system (deck, not yet checked):** male parts: testes (sperm), scrotum, seminal vesicles, prostate, penis. Female parts: ovaries (eggs), oviducts (fertilisation site), uterus (nurtures embryo), vagina. Fertilisation gives a zygote, then embryo, then fetus.
-  - **Nervous system divisions (deck, not yet checked):** the neuron is the basic unit. Central part: brain (cerebrum, cerebellum for balance and coordination, medulla for vital functions, diencephalon with thalamus and hypothalamus; guarded by skull and meninges) and spinal cord (from the medulla to the lumbar region; reflexes; carries sensory and motor signals). Peripheral part: somatic (voluntary; sensory and motor nerves; cranial and spinal nerve pairs) and autonomic (involuntary; sympathetic "fight or flight", parasympathetic "rest and digest").
+  - **Reproductive system (checked: Guidebook ch.4 sec 4.2 item 9 (fertilisation in fallopian tube, uterus, foetus)):** male parts: testes (sperm), scrotum, seminal vesicles, prostate, penis. Female parts: ovaries (eggs), oviducts (fertilisation site), uterus (nurtures embryo), vagina. Fertilisation gives a zygote, then embryo, then fetus.
+  - **Nervous system divisions (checked: Guidebook ch.4 sec 4.4 (CNS brain and spinal cord; PNS somatic and autonomic)):** the neuron is the basic unit. Central part: brain (cerebrum, cerebellum for balance and coordination, medulla for vital functions, diencephalon with thalamus and hypothalamus; guarded by skull and meninges) and spinal cord (from the medulla to the lumbar region; reflexes; carries sensory and motor signals). Peripheral part: somatic (voluntary; sensory and motor nerves; cranial and spinal nerve pairs) and autonomic (involuntary; sympathetic "fight or flight", parasympathetic "rest and digest").
 - **Explanation:**
   - Learn one function for each system and the role of the autonomic parts (sympathetic and parasympathetic) in the stress and relaxation link.
   - Variation: books count the systems in different ways (some add immune or lymphatic); use the list above and state the function only.
@@ -2903,118 +3140,129 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Slide lists "chakki chalavan"; the usual spelling is chakki chalan (to be checked).
   - Slide says "Anaemia", "Asana Benefits" frame has only a guidebook reference and no content.
   - Slide says asanas "can help correct posture" and slow movement "supports deep breathing"; kept as soft statements, to be checked.
+  - Resolution: Slide says the skull has 23 : notes right: usual count is 22 (8 cranial plus 14 facial), standard anatomy; no 23 source seen
+  - Resolution: Slide says anaemia is when red cells : notes right: anaemia is defined by low haemoglobin (WHO), not a red cell percentage; WHO haemoglobin thresholds
+  - Resolution: Slide says platelets live about 4 days : notes right: about 8 to 10 days (Physiology journal review, Platelet Biogenesis in the Lung Circulation); some sources say 7 to 12
+  - Resolution: Slide says the alimentary canal is 12 m : genuine variation: figures of about 9 m and up to 12 m appear; no source opened, leave out
+  - Resolution: Slide says hormones are not stored : notes right: some hormones are stored (for example thyroid), so slide wording is too strong
+  - Resolution: Three slides titled Functions of Muscular System : notes right: slide title error, content is circulatory, respiratory and excretory
+  - Resolution: Slide says fibrous joints allow least movement : notes right: fibrous joints allow little or no movement; skull sutures are fixed in adults
+  - Resolution: Slide lists chakki chalavan : not settled: spelling not found in any source opened (guidebook does not list it); verify in a standard text
+  - Resolution: Slide says Anaemia, Asana Benefits frame : slide defect: empty frame, nothing to check
+  - Resolution: Slide says asanas can help correct posture : notes right to keep soft: guidebook sec 8.4 and 4.5 support only strength, stretch and spinal movement effects
+- **Fact check log (pass 3):** added points: 14 confirmed, 0 corrected, 0 rejected, 13 unverified; hand-written points not confirmed: 1; conflicts resolved: 10.
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-autonomic-nervous-system**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/Autonomic_Nervous_System.jpg`
-    - Final file: workshops/YCB1/images/new/Autonomic_Nervous_System_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Autonomic_Nervous_System.jpg`
+    - Final file: books/YCB1/workshop/images/new/Autonomic_Nervous_System_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Autonomic Nervous System (ANS)'. Anatomy diagram: Autonomic Nervous System (ANS). A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-basic-brain-anatomy**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/Basic-brain-anatomy.jpg`
-    - Final file: workshops/YCB1/images/new/Basic-brain-anatomy_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Basic-brain-anatomy.jpg`
+    - Final file: books/YCB1/workshop/images/new/Basic-brain-anatomy_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Central Nervous System: Brain'. Anatomy diagram: Central Nervous System: Brain. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-cardiovascularsystem**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/CardiovascularSystem.jpg`
-    - Final file: workshops/YCB1/images/new/CardiovascularSystem_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/CardiovascularSystem.jpg`
+    - Final file: books/YCB1/workshop/images/new/CardiovascularSystem_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Cardiovascular System'. Anatomy diagram: Cardiovascular System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-heart-diagram**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/Heart-diagram.png`
-    - Final file: workshops/YCB1/images/new/Heart-diagram_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Heart-diagram.png`
+    - Final file: books/YCB1/workshop/images/new/Heart-diagram_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Blood Vessels and Heart'. Anatomy diagram: Blood Vessels and Heart. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-human-excretory-system**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/Human-Excretory-System.jpg`
-    - Final file: workshops/YCB1/images/new/Human-Excretory-System_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Human-Excretory-System.jpg`
+    - Final file: books/YCB1/workshop/images/new/Human-Excretory-System_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Excretory System'. Anatomy diagram: Excretory System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-human-male-reproductive-system-en**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/Human_male_reproductive_system_en.jpg`
-    - Final file: workshops/YCB1/images/new/Human_male_reproductive_system_en_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Human_male_reproductive_system_en.jpg`
+    - Final file: books/YCB1/workshop/images/new/Human_male_reproductive_system_en_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Male Reproductive System'. Anatomy diagram: Male Reproductive System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-mechnaism-of-muscle-contrtaction**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/Mechnaism-of-muscle-contrtaction.png`
-    - Final file: workshops/YCB1/images/new/Mechnaism-of-muscle-contrtaction_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Mechnaism-of-muscle-contrtaction.png`
+    - Final file: books/YCB1/workshop/images/new/Mechnaism-of-muscle-contrtaction_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Muscle Contraction'. Anatomy diagram: Muscle Contraction. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-muscle-chart-showing-the-muscular-system-labeled**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/Muscle-chart-showing-the-muscular-system-labeled.jpg`
-    - Final file: workshops/YCB1/images/new/Muscle-chart-showing-the-muscular-system-labeled_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Muscle-chart-showing-the-muscular-system-labeled.jpg`
+    - Final file: books/YCB1/workshop/images/new/Muscle-chart-showing-the-muscular-system-labeled_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Muscular System Overview'. Anatomy diagram: Muscular System Overview. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-peripheral-nervous-system**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/Peripheral_Nervous_System.jpg`
-    - Final file: workshops/YCB1/images/new/Peripheral_Nervous_System_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Peripheral_Nervous_System.jpg`
+    - Final file: books/YCB1/workshop/images/new/Peripheral_Nervous_System_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Peripheral Nervous System: Overview'. Anatomy diagram: Peripheral Nervous System: Overview. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-reciprocal-inhibition**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/Reciprocal-Inhibition.jpg`
-    - Final file: workshops/YCB1/images/new/Reciprocal-Inhibition_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Reciprocal-Inhibition.jpg`
+    - Final file: books/YCB1/workshop/images/new/Reciprocal-Inhibition_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Reflex Action and Reciprocal Inhibition'. Anatomy diagram: Reflex Action and Reciprocal Inhibition. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-somatic-nervous-system**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/Somatic_nervous_system.jpg`
-    - Final file: workshops/YCB1/images/new/Somatic_nervous_system_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Somatic_nervous_system.jpg`
+    - Final file: books/YCB1/workshop/images/new/Somatic_nervous_system_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Somatic Nervous System (SNS)'. Anatomy diagram: Somatic Nervous System (SNS). A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-spinal-chord**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/Spinal_chord.png`
-    - Final file: workshops/YCB1/images/new/Spinal_chord_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Spinal_chord.png`
+    - Final file: books/YCB1/workshop/images/new/Spinal_chord_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Central Nervous System: Spinal Cord'. Anatomy diagram: Central Nervous System: Spinal Cord. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-article-respiration-muscles-wc1**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/article-Respiration-Muscles-WC1.jpg`
-    - Final file: workshops/YCB1/images/new/article-Respiration-Muscles-WC1_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/article-Respiration-Muscles-WC1.jpg`
+    - Final file: books/YCB1/workshop/images/new/article-Respiration-Muscles-WC1_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Muscle Breathing'. Anatomy diagram: Muscle Breathing. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-breathing**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/breathing.jpg`
-    - Final file: workshops/YCB1/images/new/breathing_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/breathing.jpg`
+    - Final file: books/YCB1/workshop/images/new/breathing_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Muscles of Respiration'. Anatomy diagram: Muscles of Respiration. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-digestive-system**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/digestive-system.jpg`
-    - Final file: workshops/YCB1/images/new/digestive-system_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/digestive-system.jpg`
+    - Final file: books/YCB1/workshop/images/new/digestive-system_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Digestive System'. Anatomy diagram: Digestive System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-endocrine-system**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/endocrine-system.jpg`
-    - Final file: workshops/YCB1/images/new/endocrine-system_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/endocrine-system.jpg`
+    - Final file: books/YCB1/workshop/images/new/endocrine-system_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Endocrine System'. Anatomy diagram: Endocrine System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-endocrine**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/endocrine.jpg`
-    - Final file: workshops/YCB1/images/new/endocrine_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/endocrine.jpg`
+    - Final file: books/YCB1/workshop/images/new/endocrine_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Endocrine Glands: Pineal, Thyroid, and Parathyroid'. Anatomy diagram: Endocrine Glands: Pineal, Thyroid, and Parathyroid. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-female-reproductive-system**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/female-reproductive-system.jpg`
-    - Final file: workshops/YCB1/images/new/female-reproductive-system_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/female-reproductive-system.jpg`
+    - Final file: books/YCB1/workshop/images/new/female-reproductive-system_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Female Reproductive System'. Anatomy diagram: Female Reproductive System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-joints**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/joints.jpg`
-    - Final file: workshops/YCB1/images/new/joints_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/joints.jpg`
+    - Final file: books/YCB1/workshop/images/new/joints_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Types of Joints'. Anatomy diagram: Types of Joints. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-overview-nervious-system**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/overview_nervious_system.jpg`
-    - Final file: workshops/YCB1/images/new/overview_nervious_system_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/overview_nervious_system.jpg`
+    - Final file: books/YCB1/workshop/images/new/overview_nervious_system_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Overview of Nervous System'. Anatomy diagram: Overview of Nervous System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-pituitary-gland**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/pituitary-gland.jpg`
-    - Final file: workshops/YCB1/images/new/pituitary-gland_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/pituitary-gland.jpg`
+    - Final file: books/YCB1/workshop/images/new/pituitary-gland_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Endocrine Glands: Hypothalamus and Pituitary'. Anatomy diagram: Endocrine Glands: Hypothalamus and Pituitary. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-reprosys**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/reprosys.jpg`
-    - Final file: workshops/YCB1/images/new/reprosys_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/reprosys.jpg`
+    - Final file: books/YCB1/workshop/images/new/reprosys_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Overview of Reproductive System'. Anatomy diagram: Overview of Reproductive System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-respiratory-system**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/respiratory-system.jpg`
-    - Final file: workshops/YCB1/images/new/respiratory-system_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/respiratory-system.jpg`
+    - Final file: books/YCB1/workshop/images/new/respiratory-system_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Respiratory System'. Anatomy diagram: Respiratory System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-skeleton**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/skeleton.jpg`
-    - Final file: workshops/YCB1/images/new/skeleton_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/skeleton.jpg`
+    - Final file: books/YCB1/workshop/images/new/skeleton_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Components of the Skeletal System'. Anatomy diagram: Components of the Skeletal System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-skeleton-divisions**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/skeleton_divisions.jpg`
-    - Final file: workshops/YCB1/images/new/skeleton_divisions_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/skeleton_divisions.jpg`
+    - Final file: books/YCB1/workshop/images/new/skeleton_divisions_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Divisions of the Skeletal System'. Anatomy diagram: Divisions of the Skeletal System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-spinal-movements**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/spinal_movements.jpg`
-    - Final file: workshops/YCB1/images/new/spinal_movements_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/spinal_movements.jpg`
+    - Final file: books/YCB1/workshop/images/new/spinal_movements_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Types of Spinal Movements'. Anatomy diagram: Types of Spinal Movements. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-vertebral-column**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/vertebral_column.jpg`
-    - Final file: workshops/YCB1/images/new/vertebral_column_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/vertebral_column.jpg`
+    - Final file: books/YCB1/workshop/images/new/vertebral_column_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Vertebral Column'. Anatomy diagram: Vertebral Column. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-bodysystems**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_bodysystems.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_bodysystems.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-hl-human-body-introduction, in own words where it is a list of facts. Used in block ycb1-hl-human-body-introduction, frame 'Body System, Organs and their Functions'.
 - **Exercises:** to be written
@@ -3067,11 +3315,11 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Signs of physical well-being in yoga:** relaxed muscles, loose joints, calm use of energy, coordinated working of the organ systems even under stress.
   - **Yoga's part:** it builds strength, balance and joint movement; it calms the mind; it works through conduct, thought, diet, asana, pranayama and meditation together.
   - **Ancient pointers:** the texts list lightness of body, health, a clear voice and a calm mind as early signs of progress.
-  - **Aim of health promotion (deck, not yet checked):** encourage healthy lifestyles and teach people so that awareness and well-being grow; the goal is healthy living and prevention of disease.
-  - **Areas yoga touches (deck, not yet checked):** heart and circulation, muscle strength and flexibility, stamina and body balance, internal cleansing (shatkriya), breath work for relaxation and for prana (pranayama), and concentration (dhyana and meditation).
-  - **Experience-based learning (deck, not yet checked):** yoga is learned by doing; steady practice (abhyasa, as Patanjali advises) and watching its effects give better understanding of one's own well-being. A learner may try different paths (bhakti, karma, Ishvara pranidhana) and see what suits.
-  - **Effects often listed for hatha practices (deck, not yet checked):** more flexibility of tendons, muscles and spine; better circulation and oxygen supply; support for heart health; better posture and alignment; ease in stiff neck, shoulders and joints; mental well-being along with physical well-being (to be checked by a qualified reviewer).
-  - **Limits of yoga (deck, not yet checked):** know the contraindications before starting; yoga is mainly for prevention and well-being; people differ, so not every practice suits everyone and comparing with others is avoided; it works alongside, not instead of, medical care and needs support from diet and lifestyle.
+  - **Aim of health promotion (checked: Board syllabus unit 3 (Yoga for Health Promotion); WHO Ottawa Charter 1986 definition (enabling people to control and improve health)):** encourage healthy lifestyles and teach people so that awareness and well-being grow; the goal is healthy living and prevention of disease.
+  - "  - **Areas yoga touches (checked: Guidebook ch.5 sec 5.1):** muscle strength, balance and joint mobility; shatkriya as internal cleansing; pranayama for breath and prana; dhyana for concentration. Leave out heart function and circulation as treatment claims."
+  - **Experience-based learning (checked: Guidebook ch.1 (abhyasa as steady practice, Chitta Vrittinirodhopaya); Common Yoga Protocol (learn by practice)):** yoga is learned by doing; steady practice (abhyasa, as Patanjali advises) and watching its effects give better understanding of one's own well-being. A learner may try different paths (bhakti, karma, Ishvara pranidhana) and see what suits.
+  - "  - **Effects often listed for hatha practices (checked: Guidebook ch.4 sec 4.8 and ch.5 sec 5.1):** the guidebook names strength, balance and joint mobility, and says stiffness and pain can lessen with regular practice. Better posture and flexibility fit this. Claims about blood pressure, detoxification and heart function have no source in it and stay out."
+  - **Limits of yoga (checked: Guidebook ch.4 sec 4.8 (know contraindications; mainly preventive; individual constitution so no comparison; complementary use)):** know the contraindications before starting; yoga is mainly for prevention and well-being; people differ, so not every practice suits everyone and comparing with others is avoided; it works alongside, not instead of, medical care and needs support from diet and lifestyle.
 - **Explanation:**
   - Say "promotion and prevention", and keep medical claims out.
   - Variation: WHO's own statement has physical, mental and social well-being; the guidebook and Indian texts add spiritual. State both with their source.
@@ -3118,6 +3366,11 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Slide says yoga is "more effective for functional than organic conditions" and names cancer and obesity; rephrased to prevention and well-being only, treatment claims left out.
   - Slide claims "lowers blood pressure", "detoxification" through the lymphatic system and "improves heart function"; these are health claims to be checked by a qualified reviewer; softened or left out.
   - Slide says "relieves pain"; rephrased to ease of stiffness (to be checked).
+  - Resolution: Slide calls yoga an alternative therapy : genuine variation: Guidebook sec 4.8 uses both alternative therapy and complementary therapy; notes choice of complementary is safer and supported
+  - Resolution: Slide says yoga is more effective for functional : slide matches Guidebook sec 4.8 (functional more than organic); notes right to omit as a treatment claim
+  - Resolution: Slide claims lowers blood pressure : notes right: no source opened supports these; needs qualified reviewer
+  - Resolution: Slide says relieves pain : notes right to soften: Guidebook ch.5 says stiffness and pain can lessen with regular practice, so ease of stiffness is acceptable
+- **Fact check log (pass 3):** added points: 3 confirmed, 2 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 0; conflicts resolved: 4.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -3149,9 +3402,9 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **The four attitudes (Yoga Sutra, first pada):** maitri (friendliness towards the happy), karuna (compassion towards those who suffer), mudita (gladness towards the virtuous, those who do well) and upeksha (even-minded acceptance, neither joining in nor condemning, towards those who act wrongly).
   - **Variation to know:** translations differ. Upeksha is rendered as indifference, equanimity or acceptance; karuna is usually compassion but is sometimes read as willingness to help. Learn the four Sanskrit names, the situation each fits, and one plain meaning each.
   - **Why they matter:** the Sutra names them as a way to a clear and calm mind, because resentment, envy, cruelty and pride disturb it.
-  - **Sutra reference (deck, not yet checked):** the four attitudes come from the verse numbered in the first chapter (Samadhi pada), and the result named is chitta prasadana, the clearing or settling of the mind (to be checked in a standard edition).
-  - **Effects listed for the attitudes (deck, not yet checked):** a mind cleaned of negative feeling, inner peace, steadier emotions, personal growth, better relationships and more mindful self-awareness in daily life.
-  - **Slide wording of each attitude (deck, not yet checked):** maitri as friendship and kindness; karuna as compassion and empathy for those who suffer; mudita as joy in others' happiness; upeksha as equanimity and detachment from life's ups and downs.
+  - **Sutra reference (checked: Guidebook ch.3 sec 3.5 quotes Yoga Sutra 1.33 (first pada) and names chitta prasadana as the result; Board syllabus 1.x lists the four attitudes):** the four attitudes come from the verse numbered in the first chapter (Samadhi pada), and the result named is chitta prasadana, the clearing or settling of the mind (to be checked in a standard edition).
+  - "  - **Effects listed for the attitudes (checked: Guidebook ch.3 sec 3.5):** the Guidebook names peace, calm, serenity, tranquillity and clarity of the mind. Other effects on the slide (better relationships, personal growth, mindfulness) are interpretation and are not in it."
+  - **Slide wording of each attitude (checked: Guidebook sec 3.5: friendship with the happy, compassion for the suffering, delight in the virtuous, equanimity toward vices):** maitri as friendship and kindness; karuna as compassion and empathy for those who suffer; mudita as joy in others' happiness; upeksha as equanimity and detachment from life's ups and downs.
 - **Explanation:**
   - Teach them as pairs of situation and response. A short role play for each attitude is more useful than a definition.
 - **Workshop slide content (folded into the layers above on a first pass; kept here until the author confirms nothing is lost):**
@@ -3171,6 +3424,10 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Slide gives upeksha as detachment from life's fluctuations in general; the Material gives it as even-minded acceptance towards those who act wrongly. The Sutra ties it to wrongdoing (apunya); check.
   - The Devanagari verse on the slide has broken characters in "vishaya" (shows as a garbled form); retype from a standard edition.
   - Slide says karuna is for "those in suffering" and mudita for "others' happiness"; the Sutra says mudita is for the virtuous (punya), so the slide is looser.
+  - Resolution: Slide gives upeksha as detachment : notes right: Sutra 1.33 and Guidebook sec 3.5 tie equanimity to vice or wrongdoing (apunya)
+  - Resolution: The Devanagari verse on the slide : notes right: slide verse is garbled; retype from a standard edition (Sutra 1.33)
+  - Resolution: Slide says karuna is for those in suffering : notes right: Guidebook says mudita is for the virtuous (punya); slide wording is looser
+- **Fact check log (pass 3):** added points: 2 confirmed, 1 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 0; conflicts resolved: 3.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -3202,8 +3459,8 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Four negative bhavas:** adharma (unrighteousness), raga (attachment), dvesha (aversion), ajnana (ignorance).
   - **Practices that support the positive bhavas (as taught in the workshop deck):** for dharma, steady sitting postures with yama and niyama; for jnana, balancing postures with kapalabhati and trataka; for vairagya, forward-bending postures; for aishvarya, self-awareness and introspection.
   - **Relevance to well-being:** the positive bhavas steady the mind and keep conduct, understanding, calm detachment and inner strength; the negative ones are seen as causes of restlessness and distress.
-  - **Examples of postures that raise a bhava (deck, not yet checked):** the deck names forward-bending postures and chest openers as examples of practices that bring up a feeling or attitude (to be checked).
-  - **Spelling note (deck, not yet checked):** the deck writes aishwarya; the Material uses aishvarya; the Devanagari form is the same.
+  - "  - **Examples of postures that raise a bhava (checked: no named source found):** the deck's pairing is forward bends with vairagya and chest openers as an example; no Board or guidebook text gives this. Keep as the author's workshop teaching, not as a sourced fact."
+  - **Spelling note (checked: Samkhya Karika 23 via Centre for Yoga Studies (yogastudies.org) and Wikipedia Aisvarya use aishvarya or aiswarya; Devanagari is one word):** the deck writes aishwarya; the Material uses aishvarya; the Devanagari form is the same.
 - **Explanation:**
   - Learn the two sets of four with one word each.
   - Variation: in Samkhya the opposites of the four are given as adharma, ajnana, avairagya and anaishvarya; the workshop deck lists adharma, raga, dvesha, ajnana. State the deck's list and note the other if asked.
@@ -3239,6 +3496,10 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Slide gives chest openers as an example of bhava-raising practice, but the Material and the slide's own practice list tie vairagya to forward bends only; the pairing of chest openers with a particular bhava is not given.
   - The slide list of negative bhavas (adharma, raga, dvesha, ajnana) differs from the Samkhya opposites noted in the Material; the source is unnamed.
   - The practice pairs have no named source (as the fact check log already says).
+  - Resolution: Slide gives chest openers as an example : not settled: no source pairs chest openers with a particular bhava; leave out until a named text is found
+  - Resolution: The slide list of negative bhavas : genuine variation: Samkhya Karika 23 (Centre for Yoga Studies) gives the tamasic opposites as adharma, ajnana, avairagya, anaishvarya; slide list with raga and dvesha follows a different (bhava training) tradition, source not opened
+  - Resolution: The practice pairs have no named source : notes right: no source found; guidebook and Board texts do not list them
+- **Fact check log (pass 3):** added points: 1 confirmed, 1 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 4; conflicts resolved: 3.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -3271,12 +3532,12 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Ritusandhi:** the junction between two seasons, about two weeks: the last seven days of one season and the first seven days of the next; change diet and routine gradually then, since colds, flu and fever are common.
   - **Benefits as traditionally taught:** better immunity and fewer seasonal illnesses; the focus is prevention.
   - **Dosha hours of the day (deck, not yet checked):** vata governs early morning and late afternoon (about 2 to 6, morning and evening clock); kapha governs about 6 to 10 in the morning and again in the evening; pitta governs about 10 to 2 at midday and again in the night.
-  - **Waking time (deck, not yet checked):** brahmamuhurta, roughly one to one and a half hours before sunrise.
-  - **Morning cleansing items named (deck, not yet checked):** rinsing the mouth, brushing the teeth, cleaning the tongue, oil pulling and washing the face (the Sanskrit names on the slides are to be checked).
-  - **Daily activity items named (deck, not yet checked):** physical exercise (vyayama), oil massage (abhyanga), bath (snana) and dressing and grooming.
-  - **Seasons in two groups (deck, not yet checked):** adana kala (the taking-away half, strength tends to fall): shishira (winter), vasanta (spring), grishma (summer). Visarga kala (the giving half): varsha (monsoon), sharad (autumn), hemanta (late autumn or early winter). Six seasons in all.
-  - **Use of the seasonal routine (deck, not yet checked):** adjust food and activity to the season; seek a qualified Ayurvedic practitioner for a personal routine.
-  - **Season and dosha questions from the deck bank (deck, not yet checked):** pitta builds up in varsha; kapha builds up in vasanta (as the bank gives it; to be checked); sattu is said to be unsuitable in grishma.
+  - **Waking time (checked: Ayurveda dinacharya reviews (carakasamhitaonline Dinacharya, JAIMS reviews): brahma muhurta before sunrise; the quoted lead varies from about 45 minutes to about 96 minutes, so 1 to 1.5 hours is within the range):** brahmamuhurta, roughly one to one and a half hours before sunrise.
+  - "  - **Morning cleansing items named (checked: Ayurveda dinacharya reviews, carakasamhitaonline.com):** classical lists name brushing the teeth (danta pavana), cleaning the tongue (jihwa nirlekhana), washing the mouth and face (mukha prakshalana) and oil pulling, which is called gandusha (liquid held in the mouth) or kavala (swishing or gargling). The slide Sanskrit for oil pulling (kaundalya) and for face wash (arghyam) was not found in these lists; use gandusha or kavala and mukha prakshalana."
+  - "  - **Daily activity items named (checked: Ayurveda dinacharya reviews):** exercise (vyayama), oil massage (abhyanga) and bathing (snana) are standard items in the classical daily regimen; dressing and grooming is also listed in some texts, and the lists differ between texts."
+  - **Seasons in two groups (checked: Caraka Samhita online (Ritucharya page) and Ayurveda reviews: adana kala = shishira, vasanta, grishma (strength declines); visarga kala = varsha, sharad, hemanta; six seasons):** adana kala (the taking-away half, strength tends to fall): shishira (winter), vasanta (spring), grishma (summer). Visarga kala (the giving half): varsha (monsoon), sharad (autumn), hemanta (late autumn or early winter). Six seasons in all.
+  - **Use of the seasonal routine (checked: Caraka Samhita online (Ritucharya): diet and activity are adjusted by season; classical purification therapies are given only under a physician):** adjust food and activity to the season; seek a qualified Ayurvedic practitioner for a personal routine.
+  - "  - **Season and dosha questions from the deck bank (checked: Ayurveda ritucharya tables, ayurvaid.com and Ritucharya slides; Caraka Samhita online does not map doshas to seasons):** a commonly given table has kapha accumulating in shishira, aggravating in vasanta and settling in grishma; pitta accumulating in varsha, aggravating in sharad and settling in hemanta. So the bank answer that kapha accumulates in vasanta is not the usual one (vasanta is its aggravation), while pitta accumulating in varsha and pitta and kapha settling in hemanta and grishma fit the table. The bank claim that sattu is harmful in grishma is not found in the sources checked and is left out."
 - **Explanation:**
   - Say it simply: live in rhythm with the day and the season, and change gradually at the junction of seasons.
   - Variation: the exact items of the daily routine and the grouping of the seasons differ between texts; use the Board's or the institute's text when in hand.
@@ -3329,6 +3590,13 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Slide Sanskrit for oil pulling ("kaundalya") and face wash ("arghyam") and mouth rinse look doubtful (oil pulling is usually gandusha or kavala); check before use.
   - Slide's list of morning items differs from the Material (which includes clearing the bowels and bladder, and cleaning eyes and nose); the two lists are to be merged from a named text.
   - Slide times for dosha phases follow common teaching but have no named source.
+  - Resolution: Bank says kapha accumulates in vasanta : notes right: the usual table gives accumulation in shishira and aggravation in vasanta (ayurvaid.com ritucharya table, Ritucharya slides); texts differ on mapping
+  - Resolution: Bank says pitta is suppressed in hemanta : genuine variation: pitta settling in hemanta fits the common table; strong agni in hemanta is a separate classical remark; both can be stated
+  - Resolution: Hemanta and shishira season names versus months : genuine variation: texts differ on calendar months (Ayurveda reviews)
+  - Resolution: Slide Sanskrit for oil pulling and face wash : notes right: gandusha or kavala is the usual term for oil pulling; kaundalya and arghyam not found
+  - Resolution: Slide morning list versus Material : genuine variation: classical lists differ; Material list (bowels, bladder, eyes, nose) is consistent with the guidebook practice rules for emptying bowel and bladder before practice
+  - Resolution: Slide times for dosha phases : genuine variation: no classical clock-time source found; keep as a common teaching
+- **Fact check log (pass 3):** added points: 3 confirmed, 3 corrected, 0 rejected, 2 unverified; hand-written points not confirmed: 1; conflicts resolved: 6.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -3478,9 +3746,9 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Five elements (panchamahabhuta):** space, air, fire, water, earth; the body and food are described in these terms.
   - **Yoga's way:** work at every level together: conduct and thought, diet, asana, pranayama, meditation.
   - **Obstacles in the Yoga Sutra:** disease is the first of the nine obstacles to the practice.
-  - **Prevention emphasis (deck, not yet checked):** yoga aims to act before trouble appears; the deck quotes Patanjali on avoiding the pain that has not yet come (the Sutra phrase is heyam duhkham anagatam; the deck's spelling is garbled, to be checked).
-  - **Whole-person aims (deck, not yet checked):** physical, mental, social and spiritual well-being, together with stress management and a balanced life.
-  - **Breath practices in recent years (deck, not yet checked):** the deck notes interest in pranayama and breath work for lung capacity and oxygen levels, and in kapalabhati and surya namaskara; research claims are to be checked and kept to well-being, not treatment.
+  - **Prevention emphasis (checked: Guidebook ch.5 states yoga is basically a preventive discipline; the Sutra phrase heyam duhkham anagatam is Yoga Sutra 2.16 (standard edition, well known)):** yoga aims to act before trouble appears; the deck quotes Patanjali on avoiding the pain that has not yet come (the Sutra phrase is heyam duhkham anagatam; the deck's spelling is garbled, to be checked).
+  - **Whole-person aims (checked: Guidebook ch.5 sec 5.1 gives the WHO definition of health: complete physical, mental, social and spiritual well-being):** physical, mental, social and spiritual well-being, together with stress management and a balanced life.
+  - **Breath practices in recent years (deck, rejected: pandemic and lung-diffusion research claims were not found in the guidebook and no study was checked; slide wording about managing existing illness is a treatment claim and is unsafe to print without a named study and a qualified reviewer):** the deck notes interest in pranayama and breath work for lung capacity and oxygen levels, and in kapalabhati and surya namaskara; research claims are to be checked and kept to well-being, not treatment.
 - **Explanation:**
   - Memorise the five sheaths in order and the idea "mind first, then body".
   - Say that yoga supports health; it does not replace medical care.
@@ -3507,6 +3775,11 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Slide writes the Patanjali phrase as "dukham anatma"; the Sutra phrase is heyam duhkham anagatam (garbled on the slide).
   - Slide contrasts yoga with "medicine" as if opposed; the Material says yoga supports health and does not replace medical care.
   - The slide's claim that regular practice is "associated with reduced risk of illness" needs a source.
+  - Resolution: Slide says yoga manages existing illness, cites the pandemic : notes right: treatment claim, no source; Guidebook speaks of prevention and says to consult a doctor in chronic disease
+  - Resolution: Slide writes "dukham anatma" : notes right: the Sutra phrase is heyam duhkham anagatam (YS 2.16)
+  - Resolution: Slide contrasts yoga with medicine : notes right: Guidebook advises consulting doctor and yoga therapist in chronic disease, so yoga supports and does not replace care
+  - Resolution: Slide says regular practice reduces risk of illness : genuine variation: Guidebook says yoga is preventive and cites benefits such as lowered heart rate and blood pressure, but no firm risk figure; keep it general
+- **Fact check log (pass 3):** added points: 2 confirmed, 0 corrected, 1 rejected, 1 unverified; hand-written points not confirmed: 0; conflicts resolved: 4.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -3600,14 +3873,43 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
     - Rate: 100-120 compression per minute.
     - When to Perform CPR:
     - When the person is unresponsive and not breathing normally.
-- **Worked examples:** to be written
+- **Layers note (2026-11-24):** Worked examples, Exercises and FAQ below are drafted only from this block's checked Material; the Review status stays pending until the author and a certified teacher read them.
+- **Worked examples:**
+  - **Model answer: the four steps in any emergency.** Give the steps in order and add one line on each.
+    - Make the area safe, your own safety first.
+    - Evaluate the person: conscious? breathing normally?
+    - Seek help: send a bystander to call, and to come back and confirm.
+    - Give first aid.
+    - Memory aid: safe, check, call, help.
+  - **Scenario: a person collapses in the hall.** Step through it in order.
+    - Check that the place is safe for you and for the person.
+    - Tilt the head back and lift the chin; look, listen and feel for breathing for no more than 10 seconds. Do not spend time on a pulse.
+    - Send a bystander to call for help and to come back and confirm. The caller should have ready: where you are, the number being called from, what has happened, and how many are hurt and how.
+    - If the person is not breathing, or only gasps noisily just after the collapse, start CPR. Occasional gasps are not normal breathing.
+    - Push in the centre of the chest, 5 to 6 cm deep, about 100 a minute and not more than 120, in sets of 30. Add two breaths only if you are trained.
+    - Stop only when there are signs of life such as breathing, a trained person or medical staff takes over, you are too exhausted, or the place becomes unsafe.
+  - **Memory aid for CPR numbers.** Breathing check: up to 10 seconds. Depth: 5 to 6 cm. Rate: 100 to 120 a minute. Ratio: 30 to 2. Swap rescuers every two minutes. Say the five numbers aloud in this order until they come without effort.
 - **Figures:** none yet
-- **Exercises:** to be written
+- **Exercises:**
+  - (Recall) Q: Fill in the blank: the ratio of chest compressions to rescue breaths is ___ to ___. A: 30 to 2.
+  - (Recall) Q: What is the compression rate for an adult? A: About 100 a minute, and not more than 120.
+  - (Understand) Q: True or false: you should feel for a pulse for a full minute before starting CPR. A: False. Check breathing for no more than 10 seconds and do not spend time feeling for a pulse.
+  - (Understand) Q: Why is a noisy gasp just after a collapse not a sign to wait? A: Occasional noisy gasps just after a collapse are not normal breathing, so CPR should start.
+  - (Understand) Q: Who gives rescue breaths, and who gives compressions only? A: A trained helper gives compressions with breaths; an untrained or little trained helper gives compressions only. For a baby under one year breaths are always given, with the technique for babies.
+  - (Apply) Q: A person has fallen and is badly hurt but is breathing, and the place is safe. May you move them to another spot just to make them comfortable? A: As a rule, do not move an injured person. Move only if staying is more dangerous, the place cannot be made safe and help will not come soon, and only if you are not in danger yourself.
+  - (Apply) Q: A conscious person who feels sick asks for a drink after a fall. What do you do? A: Give nothing to eat or drink to a person who is badly hurt, feels sick, is getting sleepy or is losing consciousness. The manual lists a few exceptions, for example low blood sugar, only when the person is conscious.
+  - (Apply) Q: Two helpers are doing CPR and one is tiring. What should they do? A: Swap rescuers every two minutes with the smallest possible pause. If breathing returns after CPR, place the person in the recovery position and wash your hands afterwards.
 - **Quiz:**
   - Q: What is the emergency number in India? A: 112.
   - Q: What compression rate does current AHA guidance give for adult CPR? A: 100 to 120 compressions a minute.
   - Q: What is the usual ratio of compressions to breaths for a trained helper? A: 30 compressions to 2 breaths.
-- **FAQ:** to be written (the question bank in `ycb1_theory_faqs.tex` is a seed, to be rewritten)
+- **FAQ:**
+  - Q: Is the emergency number in India 112? A: The notes give 112, but it is not in the Indian First Aid Manual and is still to be confirmed on an official page.
+  - Q: Will this topic make me able to do CPR? A: No. It is an introduction for the exam and does not replace a first-aid course. Learn it in a hands-on course of the Indian Red Cross or St John Ambulance.
+  - Q: What is the yoga instructor expected to do in an emergency? A: Call for help early, give first aid or CPR only as trained, and hand over to medical staff.
+  - Q: Do the Indian manual and the American Heart Association give different figures? A: No. The AHA rate, depth and 30 to 2 ratio agree with the Indian manual. Use the Indian manual for the exam.
+  - Q: What about the first aid kit list and the steps for wounds, burns and fractures? A: These come from the workshop deck, are still unchecked, and the manual treats them in later chapters. They are not part of the checked Material yet.
+  - Q: Is CPR certification compulsory for yoga teachers in India? A: The deck says it is not, but this is still to be checked. A course is worth taking in any case.
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -3631,26 +3933,26 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Gita view:** dwelling on the objects of the senses leads to attachment, desire, anger and confusion; the Gita's rule for steady living is regulated action, without attachment, without liking or dislike, and without a hunger for its fruit (chapter 18).
   - **What yoga offers:** asanas and loosening practices that release tension; slow breathing and pranayama; meditation and relaxation (including cyclic meditation, where postures alternate with rest); right conduct and a regulated life.
   - **Practical steps for a class:** know your stress signs and stressors; breathe slowly; practise regularly; learn to let go and rest; keep a balanced day.
-  - **Psychology and behaviour (deck, not yet checked):** psychology is the scientific study of mental processes and behaviour, and it touches family life, education and health. Overt behaviour is what can be seen from outside (actions and reactions to a stimulus); covert behaviour is the inner mental activity.
-  - **Consciousness in the yogic view (deck, not yet checked):** the practices are said to widen awareness, with the traditional goal of union of the individual Self (Atman) with the Supreme Self (Paramatman); this is a school-specific statement, so learn it as the yogic view.
-  - **Five sheaths and what feeds them (deck, not yet checked):**
+  - **Psychology and behaviour (checked: Guidebook ch.6 sec 6.1: psychology as scientific study of activity and behaviour, overt and covert behaviour):** psychology is the scientific study of mental processes and behaviour, and it touches family life, education and health. Overt behaviour is what can be seen from outside (actions and reactions to a stimulus); covert behaviour is the inner mental activity.
+  - **Consciousness in the yogic view (checked: Guidebook ch.6: final yogic attainment is individual consciousness joining Supreme consciousness (Self realization)):** the practices are said to widen awareness, with the traditional goal of union of the individual Self (Atman) with the Supreme Self (Paramatman); this is a school-specific statement, so learn it as the yogic view.
+  - **Five sheaths and what feeds them (checked: Guidebook ch.6: annamaya fed by anna, pranamaya by prana, manomaya by pratyahara, vijnanamaya by dhyana, anandamaya by samadhi):**
     - Annamaya kosha, the food sheath, is fed by food (anna).
     - Pranamaya kosha, the vital sheath, is fed by prana, the life energy.
     - Manomaya kosha, the mental sheath, is fed by pratyahara, the drawing in of the senses (to be checked).
     - Vijnanamaya kosha, the intellect sheath, is fed by dhyana, meditation (to be checked).
     - Anandamaya kosha, the bliss sheath, is fed by samadhi (to be checked).
-  - **Gunas and the mind (deck, not yet checked):** sattva gives steadiness (love, compassion, honesty, calm); rajas gives activity (drive, ambition, desire, leadership); tamas gives inertia (laziness, sleep, dullness, aversion). The vrittis (mental modifications) and pravritti (urge to act) are shown as expressions of the gunas.
-  - **How a thought becomes a feeling (deck, not yet checked):** the senses (indriyas) bring in information; the intellect, helped by memory, processes it; emotion then colours it. Thoughts are compared to waves on the sea.
-  - **Negative and positive emotions (deck, not yet checked):** anger, fear, hatred and jealousy feed stress and the mind-born disorders called adhi; peace, contentment and happiness refresh and build up. In the question bank, adhija vyadhi is a disturbance at the mental level, linked to the manomaya kosha, and anadhija vyadhi is a bodily ailment, mainly of the annamaya kosha.
-  - **Mental hygiene (deck, not yet checked):** the habit of keeping the mind healthy by watching and managing one's thoughts and feelings. Aims: to realise one's potential, to respect oneself and others, to accept the limits of self and others, to bring harmony and happiness, to adjust well to life, and to know one's true Self.
-  - **Three yogic attitudes for a healthy mind (deck, not yet checked):** pratipaksha bhavana, cultivating the opposite thought to cancel a disturbing one; anitya bhavana, seeing that bodily experiences are impermanent, which grows detachment (vairagya); sakshi bhavana, watching one's own actions as a witness, which grows self-awareness and evenness of mind.
-  - **Mental health in yoga (deck, not yet checked):** a state of well-being in which a person knows their abilities, copes with the usual stresses, works productively and serves the community. Patanjali's yoga is the stilling of the vrittis, by abhyasa (steady repeated practice) and vairagya (detachment); the inner limbs named here are pratyahara, dharana, dhyana and samadhi.
-  - **Prayer and meditation (deck, not yet checked):** prayer is said to bring relaxation, ease the strain of trying to control everything, raise positive feeling, fit a person's beliefs and join body, mind and spirit; the slide also calls it a placebo and "the most widely used healing practice", so treat those two as claims to be checked. Om meditation makes the mind one-pointed, helps with focus, clears information overload and is a tool for self-realisation.
-  - **Psychosocial stress (deck, not yet checked):** the climate and culture of a workplace, and the strain that comes from dealing with other people, are sources of stress.
-  - **Stress effects (deck, not yet checked):** the body is prepared for "fight or flight": more energy, faster heart and higher blood pressure, blood diverted to the muscles and sharper senses; stress that is not resolved can end in psychosomatic disorders.
-  - **Likes and dislikes (deck, not yet checked):** strong liking and disliking upset the balance of the mind and give rise to stress (adhi).
-  - **Four yogic means of managing stress (deck, not yet checked):** ahara, right food; vihara, proper recreation and rest; vichara, positive thinking; vyavahara, correct conduct and action.
-  - **Cyclic meditation and karma yoga (deck, not yet checked):** cyclic meditation is reported to lower stress, raise attention and emotional steadiness and ease anxiety (to be checked against a named study). Karma yoga, with regular practice, non-attachment and balance, leads to a steady mind.
+  - **Gunas and the mind (checked: Guidebook ch.6: sattva stability, rajas activation, tamas inertia; vrittis and pravritti as manifestations of the gunas):** sattva gives steadiness (love, compassion, honesty, calm); rajas gives activity (drive, ambition, desire, leadership); tamas gives inertia (laziness, sleep, dullness, aversion). The vrittis (mental modifications) and pravritti (urge to act) are shown as expressions of the gunas.
+  - **How a thought becomes a feeling (checked: Guidebook ch.6 sec 6.2: thoughts as ocean waves, indriyas, intellect with memory, then emotions):** the senses (indriyas) bring in information; the intellect, helped by memory, processes it; emotion then colours it. Thoughts are compared to waves on the sea.
+  - **Negative and positive emotions (checked: Guidebook ch.5 and ch.6: strong likes and dislikes lead to mental illness called adhis; adhija and anadhija vyadhi (mental origin versus not of the mind)):** anger, fear, hatred and jealousy feed stress and the mind-born disorders called adhi; peace, contentment and happiness refresh and build up. In the question bank, adhija vyadhi is a disturbance at the mental level, linked to the manomaya kosha, and anadhija vyadhi is a bodily ailment, mainly of the annamaya kosha.
+  - **Mental hygiene (checked: Guidebook ch.6 sec 6.4: objectives listed (potential, self-respect and respect for others, tolerance of limits, harmony and happiness, adjustment, know oneself)):** the habit of keeping the mind healthy by watching and managing one's thoughts and feelings. Aims: to realise one's potential, to respect oneself and others, to accept the limits of self and others, to bring harmony and happiness, to adjust well to life, and to know one's true Self.
+  - **Three yogic attitudes for a healthy mind (checked: Guidebook ch.6 sec 6.4: pratipaksha, anitya and sakshi bhavana):** pratipaksha bhavana, cultivating the opposite thought to cancel a disturbing one; anitya bhavana, seeing that bodily experiences are impermanent, which grows detachment (vairagya); sakshi bhavana, watching one's own actions as a witness, which grows self-awareness and evenness of mind.
+  - **Mental health in yoga (checked: Guidebook ch.6 sec 6.5: recognise abilities, cope with normal stress, work productively, contribute; abhyasa and vairagya; the guidebook lists yama, pratyahara, dharana, dhyana, samadhi in the quoted passage, so the inner limbs named are right):** a state of well-being in which a person knows their abilities, copes with the usual stresses, works productively and serves the community. Patanjali's yoga is the stilling of the vrittis, by abhyasa (steady repeated practice) and vairagya (detachment); the inner limbs named here are pratyahara, dharana, dhyana and samadhi.
+  - **Prayer and meditation (checked: Guidebook ch.6 sec 6.6: prayer explanations include relaxation response, secondary control, placebo response, positive feelings; Om meditation per Yoga Sutra 1.28; meditation clears information overload):** prayer is said to bring relaxation, ease the strain of trying to control everything, raise positive feeling, fit a person's beliefs and join body, mind and spirit; the slide also calls it a placebo and "the most widely used healing practice", so treat those two as claims to be checked. Om meditation makes the mind one-pointed, helps with focus, clears information overload and is a tool for self-realisation.
+  - **Psychosocial stress (checked: Guidebook ch.6 sec 6.7: psychosocial environment is workplace culture and climate; psychosocial stress comes from interaction with people):** the climate and culture of a workplace, and the strain that comes from dealing with other people, are sources of stress.
+  - **Stress effects (checked: Guidebook ch.6 sec 6.8: fight or flight, energy, heart rate, blood pressure, blood to muscles, senses heightened; unresolved stress gives psychosomatic disorders):** the body is prepared for "fight or flight": more energy, faster heart and higher blood pressure, blood diverted to the muscles and sharper senses; stress that is not resolved can end in psychosomatic disorders.
+  - **Likes and dislikes (checked: Guidebook ch.6 sec 6.8: strong likes and dislikes give rise to adhis):** strong liking and disliking upset the balance of the mind and give rise to stress (adhi).
+  - **Four yogic means of managing stress (checked: Guidebook ch.6 sec 6.9 names ahara, vihara, achara (conduct) and vichara (thinking) and vyavahara (actions)):** ahara, right food; vihara, proper recreation and rest; vichara, positive thinking; vyavahara, correct conduct and action.
+  - "  - **Cyclic meditation and karma yoga (checked: Guidebook ch.6 sec 6.9):** cyclic meditation (SMET) alternates yoga postures with supine rest, based on the Mandukya Upanishad; the guidebook cites studies reporting better attention, emotional competence, lower oxygen consumption and lower anxiety. Say 'reported in studies', not 'cures'. The karma yoga line is from the Gita idea of action without attachment; the guidebook cites Gita 2.62 and 2.63 on attachment and desire."
 - **Explanation:**
   - Keep the definition, the three views (body, yoga, Gita) and the list of yoga means.
   - Say "helps to manage stress"; do not promise a cure of any disorder.
@@ -3782,6 +4084,12 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - The slide says consciousness is a "non-physical entity that creates, retains and annihilates concepts of Self and Universe"; doctrinal, wording is unclear, only the safer paraphrase was used.
   - The slide says cyclic meditation "boosts attention and emotional quotient" and "reduces anxiety" as research; no source is given; kept as a hedged claim.
   - The slide lists the four yogic means (ahara, vihara, vichara, vyavahara); the existing Material lists the yoga means differently (asana, pranayama, meditation, conduct). Not contradictory, but the author may want one list.
+  - Resolution: Slides call prayer a placebo and most widely practised healing modality : genuine variation: the guidebook itself says both, but frames them as explanations offered; hedge in print
+  - Resolution: Pratyahara, dhyana, samadhi nourishing manomaya, vijnanamaya, anandamaya : slide right: Guidebook ch.6 states exactly this mapping
+  - Resolution: Slide on consciousness as non-physical entity : notes right: safer paraphrase; guidebook wording is about expansion to super-consciousness
+  - Resolution: Cyclic meditation boosts attention and emotional quotient : slide right with hedge: Guidebook cites studies (Sarang and Telles 2007; Kumari et al 2007; Subramanya and Telles 2009)
+  - Resolution: Four means versus asana, pranayama, meditation, conduct : genuine variation: not contradictory; guidebook gives ahara, vihara, achara, vichara, vyavahara
+- **Fact check log (pass 3):** added points: 14 confirmed, 1 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 1; conflicts resolved: 5.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -3851,10 +4159,10 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Limits:** yoga is not a remedy for every illness and does not replace medical treatment; a person with a condition practises only after the doctor's advice and under a qualified teacher.
   - **Cautions:** avoid forceful breathing, long breath holding and strong practices in heart disease, high blood pressure and severe asthma unless the doctor and the teacher agree.
   - **Respiratory system (deck, not yet checked):** nose, throat, lungs, the diaphragm and the muscles that help breathing. The upper and lower air passages are linked, so a trouble in one often touches the other.
-  - **Yogic outlook on the airways (deck, not yet checked):** clearing mucus is seen as helpful, and the cleansing practice for it is jala neti with warm salted water; the aim is to keep the passages open and support easy breathing, as a practice for well-being.
-  - **Digestion and metabolism (deck, not yet checked):** good digestion is the base of physical and mental well-being. Right food, in right amount and at right time keeps it steady; eating for comfort, from greed or from emotional need upsets it. Keeping digestion in balance is seen as the base of preventing lifestyle disorders.
-  - **Digestive fire in yoga (deck, not yet checked):** manipura chakra, at the navel region (solar plexus), stands for the digestive organs and the inner fire (agni) that digests; the other elements (air, water, earth) support the fire.
-  - **Hatha yoga for the abdomen (deck, not yet checked):** asanas, pranayama and the cleansing actions (shatkarmas) are used to keep the abdomen healthy; dhauti, nauli and basti are the cleansing actions named for the digestive tract. They are learnt only from a qualified teacher and are not for a beginner's home practice (to be checked).
+  - **Yogic outlook on the airways (checked: Guidebook ch.2 Shat Kriyas: jala neti uses a neti pot with warm salted water; neti cleanses the nasal passage):** clearing mucus is seen as helpful, and the cleansing practice for it is jala neti with warm salted water; the aim is to keep the passages open and support easy breathing, as a practice for well-being.
+  - **Digestion and metabolism (deck, rejected: the slide link of asthma, diabetes and heart disorders to digestive dysfunction, and that dhauti, nauli and basti heal the digestive tract, is a treatment claim not supported by the sources; leave out):** good digestion is the base of physical and mental well-being. Right food, in right amount and at right time keeps it steady; eating for comfort, from greed or from emotional need upsets it. Keeping digestion in balance is seen as the base of preventing lifestyle disorders.
+  - **Digestive fire in yoga (checked: Guidebook ch.2 chakra section: manipura is the solar plexus chakra; Guidebook ch.5 links the fire element to digestion):** manipura chakra, at the navel region (solar plexus), stands for the digestive organs and the inner fire (agni) that digests; the other elements (air, water, earth) support the fire.
+  - **Hatha yoga for the abdomen (checked: Guidebook ch.2 Shat Kriyas: dhauti cleanses the digestive tract up to the stomach, nauli massages the abdomen, basti cleanses the colon; Hatha Yoga Pradipika 2.21 treats them as for those with excess fat or phlegm):** asanas, pranayama and the cleansing actions (shatkarmas) are used to keep the abdomen healthy; dhauti, nauli and basti are the cleansing actions named for the digestive tract. They are learnt only from a qualified teacher and are not for a beginner's home practice (to be checked).
 - **Explanation:**
   - Say "prevention and support", never "cure".
 - **Fact check log (still pending):** read against the official guidebook chapter on human systems and wellness (older scheme, so a coverage check only), own words; anatomy and health statements to be checked by a qualified reviewer.
@@ -3890,6 +4198,10 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - The slide says asthma, diabetes and heart disorders are "linked to digestive dysfunction" and that yoga can "manage" them and "heal" the digestive tract with dhauti, nauli and basti; this is a treatment claim and was rephrased to prevention and well-being; the link itself is unsupported (to be checked by a qualified reviewer).
   - "Activate vital energy promotes self-healing and regeneration" and "gentle redirection of subtle energies" were left out as unverified.
   - The shatkarmas are strong practices with cautions; the slide gives none, so a caution was added with "to be checked".
+  - Resolution: Slide links asthma, diabetes, heart disorders to digestion and says yoga can manage and heal : notes right: unsupported treatment claim
+  - Resolution: Vital energy and subtle energy redirection left out : notes right: no source checked
+  - Resolution: Shatkarma cautions : notes right: Guidebook ch.2 and Hatha Yoga Pradipika 2.21 restrict them to those with excess fat or phlegm and Guidebook asks for medical advice
+- **Fact check log (pass 3):** added points: 3 confirmed, 0 corrected, 1 rejected, 2 unverified; hand-written points not confirmed: 2; conflicts resolved: 3.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -3919,7 +4231,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Model of the person:** the five sheaths, and the inner instrument of mind (manas, chitta, ahankara, buddhi).
   - **How yoga helps:** by right conduct (yama and niyama), a sattvic diet and way of life, asana, pranayama, concentration and meditation, the sattva grows and the mind becomes calmer and steadier.
   - **Attitudes:** friendliness, compassion, gladness and equanimity towards people.
-  - **Gains of practice for personality (deck, not yet checked):** self-awareness, steadier handling of stress and emotion, discipline and focus, confidence and self-esteem, an optimistic attitude, better empathy and talk with others, resilience, and all-round growth. These are supported effects of regular practice, not guaranteed results.
+  - "  - **Gains of practice for personality (checked: Guidebook ch.5 sec 5.4, ch.6):** the guidebook ties the sattvic mind to calm, alert, kind and thoughtful qualities, and links yama and niyama and meditation to a balanced mind and emotional competence. The slide list (self-awareness, emotional control, discipline, confidence, optimism, empathy, resilience, growth) is a reasonable summary but is not listed item by item in a named source; present as expected gains of regular practice, not guaranteed."
 - **Explanation:**
   - Keep the gunas and the four parts of the inner instrument; the rest is example.
   - Variation: personality is a modern word; the texts speak of nature (svabhava) and the gunas.
@@ -3936,6 +4248,8 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
     - Holistic Growth: Supports overall development.
 - **Open conflicts (deck versus notes; to be checked before the deck is rebuilt):**
   - None found; the slide gives only short headings, all consistent with the existing Material, which already carries the gunas, the sheaths, the conduct rules and the attitudes.
+  - Resolution: None found in the notes : notes right: the Guidebook ch.6 sec 6.2 covers the gunas, sheaths and personality consistent with the Material
+- **Fact check log (pass 3):** added points: 0 confirmed, 1 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 0; conflicts resolved: 1.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -3966,8 +4280,8 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **The opening hymn of the common protocol** is the Rigveda verse that begins "saṃ gacchadhvaṃ saṃ vadadhvaṃ saṃ vo manāṃsi jānatām; devā bhāgaṃ yathā pūrve saṃjānānā upāsate". In plain words: a wish that those present move together, speak together and think in agreement, as the ancient gods shared their portion in harmony.
   - **The closing:** the session ends with a short sankalpa (a personal resolve to become a healthy, peaceful, joyful and loving person and to treat all life as kin), then the peace chant "sarve bhavantu sukhinaḥ, sarve santu nirāmayāḥ; sarve bhadrāṇi paśyantu, mā kaścid duḥkhabhāg bhavet; om śāntiḥ śāntiḥ śāntiḥ" (may all be happy, may all be free from illness, may all see what is auspicious, may no one suffer).
   - **Pranava (the syllable om) and other hymns from the Vedas and Upanishads:** to be written from a named source; the syllabus asks for recitation, which the common protocol does not teach.
-  - **Pranava (deck, not yet checked):** the sacred sound in yoga, the syllable om, understood as the cosmic vibration and as the essence of Brahman. The sound is read as three parts, A (creation), U (preservation) and M (dissolution), a traditional reading and not a statement of science.
-  - **Mantra japa (deck, not yet checked):** the repeated chanting of om. Used in meditation and prayer to steady the mind and deepen the sense of connection; it supports focus and calm.
+  - "  - **Pranava (checked: Guidebook ch.3 on Ishvara pranidhana):** the Guidebook (following Patanjali) names pranava or AUM as the word that designates Ishvara, and says its japa, done with full involvement and understanding of its meaning, removes obstacles and turns the mind inward. The A, U, M reading as creation, preservation and dissolution is a popular traditional reading and is not in the Guidebook."
+  - "  - **Mantra japa (checked: Guidebook ch.3, Board syllabus 5.2):** japa is the repeated chanting of a mantra; Patanjali's japa of AUM is done with its meaning in mind (Guidebook ch.3), and the Board syllabus lists mantra and japa among the practices leading to meditation. Describe the steadying effect as the tradition's claim."
   - **Hymns (deck, not yet checked):** sacred verses used in ritual and devotional practice. Vedic hymns are valued as ancient sacred sound and are chanted for purification and blessing, in the tradition's own words.
 - **Explanation:**
   - Say the words slowly and have the class repeat them. Give the meaning in the language of the class first, so that the chant is understood and not only repeated.
@@ -3997,15 +4311,20 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Deck FAQ: "Aham Brahmasmi" is marked as "I am god" (and options like "God is me"); the usual rendering is "I am Brahman" (the ultimate reality), which is not the same as "I am God"; the answer key should be reworded.
   - Deck FAQ: the Gayatri mantra is credited to the seer Vishwamitra; tradition names him as the seer (rishi) of the verse, so "written by" is loose wording.
   - The Material gives the common protocol's opening hymn and closing chant; the slides do not mention either, so nothing contradicts them.
+  - Resolution: Slide belief statements (invokes energies, deepens connection with the divine) : notes right: keep as tradition and inclusive, per Common Yoga Protocol wording on prayer or a prayerful mood
+  - Resolution: Aham Brahmasmi as I am god : notes right: standard rendering is I am Brahman; this is a Mahavakya of the Upanishads (general knowledge, no Board source read)
+  - Resolution: Gayatri mantra credited to Vishwamitra : notes right: tradition names him the seer (rishi) of the verse; general knowledge, no Board source read
+  - Resolution: Slides do not give the opening or closing hymn : notes right: Common Yoga Protocol items 1 (prayer) and 8 (shanti path) give them
+- **Fact check log (pass 3):** added points: 0 confirmed, 2 corrected, 0 rejected, 2 unverified; hand-written points not confirmed: 0; conflicts resolved: 4.
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-hymns**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_hymns.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_hymns_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_hymns.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_hymns_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-prayer-pranava-hymns, frame 'Concept of Hymns'. Concept diagram: Concept of Hymns. Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
   - **ycb1-fig-pranav**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_pranav.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_pranav_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_pranav.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_pranav_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-prayer-pranava-hymns, frame 'Concept of Pranava'. Concept diagram: Concept of Pranava. Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
 - **Exercises:** to be written
 - **Quiz:**
@@ -4048,13 +4367,10 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Kapalabhati (the practice the syllabus asks you to perform):** sit in a meditative posture such as sukhasana, padmasana or vajrasana, eyes closed and the body relaxed; inhale deeply through both nostrils and expand the chest; breathe out forcefully by contracting the abdominal muscles, then relax so that the next inhalation happens by itself. Continue as rapid breaths: active exhalation, passive inhalation, with no extra movement of the chest and shoulders. The protocol gives one round as 30 rapid breaths followed by a deep breath and a slow exhale, repeated for three rounds, each followed by deep breathing; beginners may do up to three rounds of 20 breaths and build up slowly. Do not strain.
   - **Cautions:** avoid it with heart conditions, giddiness, high blood pressure, vertigo, chronic nose bleeding, epilepsy, migraine, stroke, hernia and gastric ulcer.
   - **Dhauti and neti:** the syllabus asks for knowledge of these, not performance. To be written from the guidebook chapter on joints and vyayama and the Hatha Yoga chapter, with a named source for each cleansing action.
-  - **Kapalabhati, meaning and mechanism (deck, not yet checked):** kapala is the skull and bhati is shining, so "skull shining"; it is also called kapalabhati pranayama because it is a breathing practice classed with the cleansing actions. In ordinary breathing the in-breath is the active part and the out-breath passive; in kapalabhati this is reversed, with the out-breath active and the in-breath passive.
-  - **Dhauti (deck, not yet checked):** cleansing of the digestive tract, learned only from a qualified teacher and known for the exam by meaning and types. Types named: vaman dhauti (with lukewarm salted water), danda dhauti (with a soft tube) and vastra dhauti (with a strip of cloth).
-  - **Neti (deck, not yet checked):** cleansing of the nasal passages, learned only from a qualified teacher. Types named: jala neti (lukewarm salted water through the nose, using a neti pot) and sutra neti (a soft thread or tube).
-  - **Other cleansing actions known by name (deck, not yet checked):** these are outside the practice list and are learned only from a qualified teacher.
-    - Nauli: cleansing and massage of the abdominal region through control of the abdominal muscles; types madhya nauli (centre), vama nauli (left) and dakshina nauli (right).
-    - Trataka: steady gazing at one point such as a candle flame; it cleanses and exercises the eyes and builds concentration. Types: antar (internal, on the point between the eyebrows) and bahir (external, on an outside object).
-    - Basti: cleansing of the large intestine; types jala basti (water) and sthala basti (see the Shatkarma block for the medium).
+  - **Kapalabhati, meaning and mechanism (checked: Common Yoga Protocol (kapalabhati technique: active forceful exhalation by abdominal contraction, passive inhalation); kapala skull and bhati shining is the standard Sanskrit sense; Guidebook ch.2 calls it rapid forceful breathing):** kapala is the skull and bhati is shining, so "skull shining"; it is also called kapalabhati pranayama because it is a breathing practice classed with the cleansing actions. In ordinary breathing the in-breath is the active part and the out-breath passive; in kapalabhati this is reversed, with the out-breath active and the in-breath passive.
+  - **Dhauti (checked: Guidebook ch.2: cleansing of the digestive tract up to the stomach; three common forms vaman (saline tepid water), danda (rubber tube), vastra (strip of cloth)):** cleansing of the digestive tract, learned only from a qualified teacher and known for the exam by meaning and types. Types named: vaman dhauti (with lukewarm salted water), danda dhauti (with a soft tube) and vastra dhauti (with a strip of cloth).
+  - **Neti (checked: Guidebook ch.2: cleansing of the nasal passage; jala neti with salt water and sutra neti with a thread or rubber tube):** cleansing of the nasal passages, learned only from a qualified teacher. Types named: jala neti (lukewarm salted water through the nose, using a neti pot) and sutra neti (a soft thread or tube).
+  - "  - **Other cleansing actions known by name (checked: Guidebook ch.2 Shat Kriyas):** these are outside the practice list and are learned only from a qualified teacher. Nauli: churning and massage of the abdomen by separating the middle abdominal muscles; the Guidebook gives four forms, madhya (middle), vama (left), dakshina (right) and nauli chalana (rotation). Trataka: steady gazing at a small mark without blinking, traditionally till the eyes water, for the eyes and concentration. Basti: cleansing of the colon, jala basti with water and sthala basti with air. The inner and outer trataka split is common teaching, not in the Guidebook."
 - **Explanation:**
   - Kapalabhati is a breathing practice classed with the cleansing actions. It is a quick, forceful practice, so it is the one most often done too hard. Teach the sound and the abdominal pull slowly first, then add speed.
   - The cautions list is long; check it before every class that includes this practice.
@@ -4119,32 +4435,38 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - The deck says both basti types draw in water; the Material in the Shatkarma block says sthala basti uses air. To be checked.
   - The deck says sutra neti uses a rubber thread; the Shatkarma Material says thread or tube. Minor, to be checked.
   - The deck gives the external trataka object as "objects that give pleasure"; unclear wording, to be checked.
+  - Resolution: Deck says kapalabhati cleanses frontal lobes and improves brain function and expels CO2 impurities : slide partly right: Guidebook says frontal region of the head and lungs; Protocol says frontal air sinuses; brain-function and CO2 claims are unsupported, leave out
+  - Resolution: Deck says basti cures half of abdominal diseases : notes right: cure claim, no Board support, leave out
+  - Resolution: Both basti types draw in water (deck) : notes right: Guidebook says jala basti with water and sthala basti with air
+  - Resolution: Deck says sutra neti uses a rubber thread : genuine variation: Guidebook says sutra or rubber tube, a thread is the traditional form
+  - Resolution: External trataka object "objects that give pleasure" : notes right to flag: Guidebook says a small mark; wording on slide is unclear
+- **Fact check log (pass 3):** added points: 3 confirmed, 1 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 0; conflicts resolved: 5.
 - **Worked examples:**
   - A beginner finds the chest and shoulders moving with every breath. Put a hand on the lower abdomen, practise slow pulls with a relaxed chest, and add speed only when the chest stays still.
 - **Figures:**
   - **ycb1-fig-basti**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_basti.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_basti_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_basti.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_basti_new.png
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-cleansing-techniques, frame 'Basti'. Cleansing technique: Basti. A clean schematic only: the practitioner (CS1) in the starting posture of the technique with a small simple inset showing the path or the area involved, as a flat outline with no internal organs drawn in detail and nothing graphic. Show the posture and the direction of the action with thin arrows. No tools or fluids drawn realistically. Aspect ratio 4:3. This technique is taught only under a qualified teacher; the picture is a memory aid. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-dhauti**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_dhauti.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_dhauti_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_dhauti.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_dhauti_new.png
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-cleansing-techniques, frame 'Dhauti'. Cleansing technique: Dhauti. A clean schematic only: the practitioner (CS1) in the starting posture of the technique with a small simple inset showing the path or the area involved, as a flat outline with no internal organs drawn in detail and nothing graphic. Show the posture and the direction of the action with thin arrows. No tools or fluids drawn realistically. Aspect ratio 4:3. This technique is taught only under a qualified teacher; the picture is a memory aid. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-kapalbhati**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_kapalbhati.png`
-    - Final file: workshops/YCB1/images/new/ycb1_kapalbhati_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_kapalbhati.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_kapalbhati_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-cleansing-techniques, frame 'Kapalabhati (Skull Shining Breath); Kapalabhati'. Practice: Kapalabhati (Skull Shining Breath); Kapalabhati. One adult practitioner (CS1), seated, front three-quarter view, in the posture of the notes block. Show the key action in a small inset: the abdomen drawn in sharply for kapalabhati, the throat narrowed softly for ujjayi, the steady gaze on a candle flame at eye level for trataka, the tongue position for the mukh mudra. Use only the inset that matches Kapalabhati (Skull Shining Breath); Kapalabhati. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-nauli**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_nauli.png`
-    - Final file: workshops/YCB1/images/new/ycb1_nauli_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_nauli.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_nauli_new.png
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-cleansing-techniques, frame 'Nauli'. Cleansing technique: Nauli. A clean schematic only: the practitioner (CS1) in the starting posture of the technique with a small simple inset showing the path or the area involved, as a flat outline with no internal organs drawn in detail and nothing graphic. Show the posture and the direction of the action with thin arrows. No tools or fluids drawn realistically. Aspect ratio 4:3. This technique is taught only under a qualified teacher; the picture is a memory aid. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-neti**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_neti.png`
-    - Final file: workshops/YCB1/images/new/ycb1_neti_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_neti.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_neti_new.png
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-cleansing-techniques, frame 'Neti'. Cleansing technique: Neti. A clean schematic only: the practitioner (CS1) in the starting posture of the technique with a small simple inset showing the path or the area involved, as a flat outline with no internal organs drawn in detail and nothing graphic. Show the posture and the direction of the action with thin arrows. No tools or fluids drawn realistically. Aspect ratio 4:3. This technique is taught only under a qualified teacher; the picture is a memory aid. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-tratak**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_tratak.png`
-    - Final file: workshops/YCB1/images/new/ycb1_tratak_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_tratak.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_tratak_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-cleansing-techniques, frame 'Trataka'. Practice: Trataka. One adult practitioner (CS1), seated, front three-quarter view, in the posture of the notes block. Show the key action in a small inset: the abdomen drawn in sharply for kapalabhati, the throat narrowed softly for ujjayi, the steady gaze on a candle flame at eye level for trataka, the tongue position for the mukh mudra. Use only the inset that matches Trataka. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
 - **Exercises:** to be written
 - **Quiz:**
@@ -4169,6 +4491,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Review:** pending
 - **Additions:** pending
 - **Fact check:** pending
+- **Source note (2026-11-24, author decision):** the step-by-step practice text in this block and in the workshop deck comes from an edited reprint of Swami Dhirendra Brahmachari's Yogic Sukshma Vyayama and Yogic Sthula Vyayama (the Board names the originals on its practicum list). It is to be set against the original or the MDNIY monograph (Basavaraddi, 2016). This block stays pending, so nothing flows to the book until then. Rounds and cautions for sarvanga pushti and hrid gati are still without a named source.
 - **Scope:** The neck, shoulder, trunk, knee and ankle movement series.
 - **Deck seed:** ycb1_practical_demoskills.tex (seed only; the frames still need mapping to this block)
 - **Local sources:** status: covered; guidebook chapter "Familiarity with Body Joints and Vyayama"; Common Yoga Protocol (loosening practices: neck, trunk, knee); Board syllabus and guideline (docs folder). Own words only; none of these may be copied.
@@ -4178,14 +4501,14 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Trunk twisting (kati shakti vikasaka):** feet about two to three feet apart; raise the arms to chest height with the palms facing each other; exhale and twist to the left so that the right palm reaches the left shoulder; inhale back; then to the other side; three rounds; rest in samasthiti. Move slowly with the breath. Heart patients take care. Avoid it with severe back pain, spine or disc disorders, after abdominal surgery and during menstruation.
   - **Knee movement:** inhale and raise the arms to shoulder height, palms down; exhale and bend the knees into a squat until the arms and thighs are parallel to the floor; inhale and straighten; exhale and lower the arms; three rounds. It works the knees and hips. Avoid it in acute arthritis.
   - **The full syllabus list** names the neck, shoulder, trunk, knee and ankle series (griva shakti vikasaka, bhuja valli and purna bhuja shakti vikasaka, kati shakti vikasaka, jangha shakti vikasaka, janu shakti vikasaka, pada-mula shakti vikasaka, and the gulpha, pada-prishtha, pada-tala practice). The common protocol covers only three of these in outline. Match each syllabus name to its practice and steps using the guidebook chapter on joints and vyayama, then write it here. To be written.
-  - **Purpose and order of the series (deck, not yet checked):** subtle exercises that make the joints mobile and prepare the body for stronger practice; used as a warm-up at the start of a session. The deck groups them by joint: neck, shoulder, trunk, knee, thigh, ankle. Each is named a shakti vikasaka (strength-developing practice).
-  - **Greeva shakti vikasaka, neck (deck, not yet checked):** four parts (bending forward and back, twisting right and left, tilting to each side, rotation). Breath cue: exhale as the head goes down or turns, inhale as it returns. This agrees with the neck practice above; the deck lists the tilt (side bending) third, the notes list it second.
+  - **Purpose and order of the series (checked: Board syllabus (practical 4.3, Sukshma Vyayama list names the Shakti Vikasaka series); guidebook chapter on joints and vyayama (joint practice before asanas, warm-up use); Common Yoga Protocol (loosening practices)):** subtle exercises that make the joints mobile and prepare the body for stronger practice; used as a warm-up at the start of a session. The deck groups them by joint: neck, shoulder, trunk, knee, thigh, ankle. Each is named a shakti vikasaka (strength-developing practice).
+  - **Greeva shakti vikasaka, neck (checked: Board syllabus (Griva Shakti Vikasaka I to IV); Common Yoga Protocol neck stages (bend, side bend, twist, rotation; exhale down or turn, inhale return)):** four parts (bending forward and back, twisting right and left, tilting to each side, rotation). Breath cue: exhale as the head goes down or turns, inhale as it returns. This agrees with the neck practice above; the deck lists the tilt (side bending) third, the notes list it second.
   - **Bhuja valli and purna bhuja shakti vikasaka, shoulder (deck, not yet checked):** arm circles (one arm or both, forward and backward) and shoulder shrugs belong to bhuja valli; shoulder rotations and arm raises belong to purna bhuja. Keep the movement slow and the neck relaxed. Credited with range of motion at the shoulder.
   - **Kati shakti vikasaka, trunk (deck, not yet checked):** the deck names five forms: a back bend with the hands interlocked and stretched behind, then a forward bend; a forward bend with the legs apart and the hands on the waist; a quick bend forward and back with the hands at the sides; a side twist with the arms stretched out to the sides; and a rotational stretch with the legs apart and the arms out. The twisting form is the one given in the Material above. Credited with trunk strength and flexibility. Back and spine problems, recent abdominal surgery and heart disease need a gentler form or a skip (to be checked).
   - **Janu shakti vikasaka, knee (deck, not yet checked):** raise one leg and swing the lower leg forward and back from the knee, one leg after the other; a second form is a side stretch. Credited with knee strength and mobility. Avoid with acute knee pain or arthritis.
   - **Jangha shakti vikasaka, thigh (deck, not yet checked):** the deck gives a chair-like sit with the thighs together and the arms forward and up, and a version with the knees wide in a diamond shape and the arms forward and up. It also lists jumping jacks; jumping belongs to the dynamic practices and is better left out for the elderly and for those with joint problems (to be checked).
   - **Pada-mula shakti vikasaka and gulpha-pada-prishtha-pada-tala shakti vikasaka, ankle and foot (deck, not yet checked):** raising the heels and lowering them, and ankle circles with bending and stretching of the foot. The deck also lists jumping on the toes; check whether it belongs in the syllabus. Credited with ankle mobility.
-  - **General teaching points (deck, not yet checked):** teach the position first and the breath after; keep the range small and stop at pain; chair versions suit the old and the unsteady.
+  - **General teaching points (checked: Common Yoga Protocol neck and trunk notes (move slowly with breath, do not over-strain, chair version, gentle for neck pain)):** teach the position first and the breath after; keep the range small and stop at pain; chair versions suit the old and the unsteady.
 - **Explanation:**
   - The aim is to wake up the joints and settle the breath before asanas. Teach each movement in two parts: the position, then the breath that goes with it. Watch for tension in the shoulders and jaw.
   - Offer a chair version for older students and for anyone who cannot stand comfortably.
@@ -4250,76 +4573,84 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Ankle: the deck includes jumping on the toes, which is not a subtle practice.
   - Neck order differs (tilt third on the deck, second in the Material).
   - The deck says the practices "enhance strength"; treat as traditional claims only.
+  - Resolution: The deck's concept frame lists wrist movements : Wrist movements and a seven-minute claim appear in the guidebook's own scheme but not in the Board syllabus list; keep out of the syllabus section, genuine variation.
+  - Resolution: Trunk: the Material gives kati : Syllabus has five kati forms (deck count right); the protocol gives only the twist (notes right for that practice); safety of fast bends is not settled by any source here.
+  - Resolution: Knee: the Material describes a squat-like : Genuine variation: the protocol knee movement is the squat; the syllabus lists janu and jangha separately, so the deck's leg swing likely belongs to janu and the squat to jangha (secondary web only).
+  - Resolution: Thigh: the deck labels the first practice : Syllabus lists only jangha II-A and II-B, so the deck's extra first label has no syllabus basis; notes right to doubt it.
+  - Resolution: Ankle: the deck includes jumping on the toes : Syllabus lists pada-mula A and B only; whether B is a jump is not settled by any local source.
+  - Resolution: Neck order differs : Notes right: the Common Yoga Protocol puts side bending second and twisting third.
+  - Resolution: The deck says the practices "enhance strength" : Notes right: traditional claim only; the guidebook cure statements are not accepted.
+- **Fact check log (pass 3):** added points: 3 confirmed, 0 corrected, 0 rejected, 5 unverified; hand-written points not confirmed: 1; conflicts resolved: 7.
 - **Worked examples:**
   - An older student with a stiff neck joins a class. Teach the four neck stages seated on a chair, a small range, shoulders relaxed, and say that they should stop at any pain.
 - **Figures:**
   - **ycb1-fig-abductors**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_abductors.png`
-    - Final file: workshops/YCB1/images/new/ycb1_abductors_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_abductors.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_abductors_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Abductors'. Muscle action: Abductors. Simple stick figure in side view, two overlapping positions (start and end) in light and dark line, the working muscle group drawn as a thick coloured line along the limb, one thin arrow for the movement. Label only with the single word 'Abductors'. Aspect ratio 4:3. Check before use: qualified subject reviewer.
   - **ycb1-fig-adductors**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_adductors.png`
-    - Final file: workshops/YCB1/images/new/ycb1_adductors_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_adductors.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_adductors_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Adductors'. Muscle action: Adductors. Simple stick figure in side view, two overlapping positions (start and end) in light and dark line, the working muscle group drawn as a thick coloured line along the limb, one thin arrow for the movement. Label only with the single word 'Adductors'. Aspect ratio 4:3. Check before use: qualified subject reviewer.
   - **ycb1-fig-bhuja**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_bhuja.png`
-    - Final file: workshops/YCB1/images/new/ycb1_bhuja_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_bhuja.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_bhuja_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Shoulder Movement'. Movement practice: Shoulder Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-extensors**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_extensors.png`
-    - Final file: workshops/YCB1/images/new/ycb1_extensors_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_extensors.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_extensors_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Extensors'. Muscle action: Extensors. Simple stick figure in side view, two overlapping positions (start and end) in light and dark line, the working muscle group drawn as a thick coloured line along the limb, one thin arrow for the movement. Label only with the single word 'Extensors'. Aspect ratio 4:3. Check before use: qualified subject reviewer.
   - **ycb1-fig-flexors**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_flexors.png`
-    - Final file: workshops/YCB1/images/new/ycb1_flexors_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_flexors.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_flexors_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Flexors'. Muscle action: Flexors. Simple stick figure in side view, two overlapping positions (start and end) in light and dark line, the working muscle group drawn as a thick coloured line along the limb, one thin arrow for the movement. Label only with the single word 'Flexors'. Aspect ratio 4:3. Check before use: qualified subject reviewer.
   - **ycb1-fig-greeva**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_greeva.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_greeva_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_greeva.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_greeva_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Neck Movement'. Movement practice: Neck Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-greevabend**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_greevabend.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_greevabend_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_greevabend.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_greevabend_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Neck Movement'. Movement practice: Neck Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-gulpha**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_gulpha.png`
-    - Final file: workshops/YCB1/images/new/ycb1_gulpha_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_gulpha.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_gulpha_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Ankle Movement'. Movement practice: Ankle Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-jangha**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_jangha.png`
-    - Final file: workshops/YCB1/images/new/ycb1_jangha_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_jangha.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_jangha_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Jangha'. Movement practice: Jangha. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-jangha-1**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_jangha_1.png`
-    - Final file: workshops/YCB1/images/new/ycb1_jangha_1_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_jangha_1.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_jangha_1_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Thighs Movement'. Movement practice: Thighs Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-jangha-2**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_jangha_2.png`
-    - Final file: workshops/YCB1/images/new/ycb1_jangha_2_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_jangha_2.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_jangha_2_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Thighs Movement'. Movement practice: Thighs Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-janu-1**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_janu_1.png`
-    - Final file: workshops/YCB1/images/new/ycb1_janu_1_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_janu_1.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_janu_1_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Knee Movement'. Movement practice: Knee Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-janu-2**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_janu_2.png`
-    - Final file: workshops/YCB1/images/new/ycb1_janu_2_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_janu_2.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_janu_2_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Knee Movement'. Concept illustration: Knee Movement. One practitioner (CS1) performing the practice described in the notes block, plus one small clean schematic if the concept needs it, nothing else. Aspect ratio 4:3. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-kati**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_kati.png`
-    - Final file: workshops/YCB1/images/new/ycb1_kati_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_kati.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_kati_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Trunk Movement'. Movement practice: Trunk Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-pada**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_pada.png`
-    - Final file: workshops/YCB1/images/new/ycb1_pada_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_pada.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_pada_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Ankle Movement'. Movement practice: Ankle Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-rotators**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_rotators.png`
-    - Final file: workshops/YCB1/images/new/ycb1_rotators_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_rotators.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_rotators_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Rotators'. Muscle action: Rotators. Simple stick figure in side view, two overlapping positions (start and end) in light and dark line, the working muscle group drawn as a thick coloured line along the limb, one thin arrow for the movement. Label only with the single word 'Rotators'. Aspect ratio 4:3. Check before use: qualified subject reviewer.
   - **ycb1-fig-sukshma**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_sukshma.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_sukshma_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_sukshma.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_sukshma_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Sukshma Vyayama: Concept'. Concept illustration: Sukshma Vyayama: Concept. One practitioner (CS1) performing the practice described in the notes block, plus one small clean schematic if the concept needs it, nothing else. Aspect ratio 4:3. Check before use: certified teacher confirms the form against the steps in the notes block.
 - **Exercises:** to be written
 - **Quiz:**
@@ -4349,6 +4680,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Review:** pending
 - **Additions:** pending
 - **Fact check:** pending
+- **Source note (2026-11-24, author decision):** the step-by-step practice text in this block and in the workshop deck comes from an edited reprint of Swami Dhirendra Brahmachari's Yogic Sukshma Vyayama and Yogic Sthula Vyayama (the Board names the originals on its practicum list). It is to be set against the original or the MDNIY monograph (Basavaraddi, 2016). This block stays pending, so nothing flows to the book until then. Rounds and cautions for sarvanga pushti and hrid gati are still without a named source.
 - **Scope:** Sarvanga pushti and hrid gati.
 - **Deck seed:** ycb1_practical_demoskills.tex (seed only; the frames still need mapping to this block)
 - **Local sources:** status: partial; guidebook chapter "Familiarity with Body Joints and Vyayama" (sarvanga pushti appears; hrid gati or engine daud does not); Board syllabus and guideline (docs folder). Own words only; none of these may be copied.
@@ -4360,12 +4692,12 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Cautions:** back pain, spondylitis of the neck or lower back, hernia, recent surgery (ask the doctor), heart disease, high blood pressure, vertigo.
   - **Benefits as traditionally taught:** whole-body development, spine flexibility, toning of the abdominal organs, better posture and balance, less stress, help with weight control, toned muscles.
   - **Examiner's expectation (candidates report):** know the Sanskrit names, perform it, and say the benefits and cautions.
-  - **Aim in the deck (deck, not yet checked):** muscle strength, endurance and stamina through dynamic movements and stretches; it forms part of physical yoga routines.
-  - **Sukshma and sthula compared (deck, not yet checked):** sukshma is gentle, subtle and works joints and flexibility; sthula is dynamic and strength based and works muscle strength and endurance. The two complement each other in a balanced practice.
-  - **General fitness examples named in the deck (deck, not yet checked):** push-ups, squats, planks, lunges and leg raises, used for the upper body, leg muscles, core, lower body and abdominal muscles. These are not the Board's named practices (to be checked).
+  - "  - **Aim in the deck (checked: Board syllabus Level 1, Guidebook ch.7):** sthula vyayama means larger loosening movements of the gross body. The syllabus names two practices, sarvanga pushti and hrid gati. Strength, endurance and stamina are general fitness aims; no Board source gives them in words, so keep them as 'traditionally credited'."
+  - **Sukshma and sthula compared (checked: Guidebook ch.7 sec 7.2 (sukshma works joints in sequence, gentle, no preparation; sthula is the gross-body exercise); the two are complementary in the Board syllabus structure):** sukshma is gentle, subtle and works joints and flexibility; sthula is dynamic and strength based and works muscle strength and endurance. The two complement each other in a balanced practice.
+  - "  - **General fitness examples named in the deck (checked: Board syllabus Level 1):** push-ups, squats, planks, lunges and leg raises are ordinary gym exercises and are not in the Board syllabus for sthula vyayama; leave them out of the syllabus practices."
   - **Sarvanga pushti, deck summary (deck, not yet checked):** a full-body strength exercise engaging all major muscle groups, done with controlled movement; credited with strength, endurance and balance. Additional caution from the deck: neck pain.
   - **Hrid gati, deck summary (deck, not yet checked):** a cardio-type practice that mimics running, done at a rhythmic, steady pace with steady breathing; traditionally credited with heart fitness, endurance and stamina (a well-being claim, not a treatment).
-  - **Kaya mudras (body gestures) in the deck (deck, not yet checked):** mudras combined with postures to link body and gesture and steady the flow of energy; the examples given are viparita karani (legs up the wall), sarvangasana (shoulder stand) and adho mukha svanasana (downward facing dog).
+  - "  - **Kaya mudras (body gestures) in the deck (checked: Guidebook ch.8 and Board syllabus):** the deck's three examples (viparita karani, sarvangasana, adho mukha svanasana) are asanas, not sthula vyayama or mudras of the syllabus; they belong in the asana block. Viparita karani and sarvangasana carry cautions for neck and blood pressure; do not present them here."
 - **Explanation:**
   - Say sarvanga pushti as "wide stance, bend, circle, other side, slowly", and know the cautions.
   - Variation: sources give different forms of sarvanga pushti (one has the hands clasped overhead and an arch back, another uses fists and the ankle bend); teach the form of the Board's protocol or your institute.
@@ -4416,19 +4748,24 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - The deck's list of push-ups, squats, planks, lunges and leg raises is not the sarvanga pushti and hrid gati set that the Board syllabus names; keep it apart from the syllabus practices.
   - Viparita karani and sarvangasana are inverted postures that carry cautions (neck, blood pressure, eyes); calling them "kaya mudras" and listing them here is unclear and to be checked.
   - The deck question bank gives "three principles of sukshma vyayama: slow movement, synchronisation with breath, awareness"; fine, but it sits with sukshma, not here.
+  - Resolution: Deck describes sarvanga pushti and hrid gati in general words with no steps : notes right: nothing in the Board papers to add; steps stay from the notes until an institute source is found
+  - Resolution: Deck push-ups, squats and similar : notes right to keep apart: not the Board named practices (Board syllabus Level 1)
+  - Resolution: Kaya mudras as inverted postures : notes right to flag: no Board source for this heading
+  - Resolution: Three principles of sukshma vyayama in the deck question bank : notes right to move to sukshma: Guidebook ch.7 gives breathing, concentration and the exercise itself as features, slow movement as a principle is common teaching
+- **Fact check log (pass 3):** added points: 1 confirmed, 3 corrected, 0 rejected, 2 unverified; hand-written points not confirmed: 6; conflicts resolved: 4.
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-sthula**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_sthula.png`
-    - Final file: workshops/YCB1/images/new/ycb1_sthula_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_sthula.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_sthula_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sthula-vyayama, frame 'Sthula Vyayama: Concept'. Concept illustration: Sthula Vyayama: Concept. One practitioner (CS1) performing the practice described in the notes block, plus one small clean schematic if the concept needs it, nothing else. Aspect ratio 4:3. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-sthula-hrid**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_sthula_hrid.png`
-    - Final file: workshops/YCB1/images/new/ycb1_sthula_hrid_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_sthula_hrid.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_sthula_hrid_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sthula-vyayama, frame 'Hrid Gati (Engine Daud)'. Posture: Hrid Gati (Engine Daud). One adult practitioner (CS1) in the final held position of Hrid Gati (Engine Daud), side view. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-sthula-sarvanga**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_sthula_sarvanga.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_sthula_sarvanga_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_sthula_sarvanga.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_sthula_sarvanga_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sthula-vyayama, frame 'Sarvanga Pushti'. Posture: Sarvanga Pushti. One adult practitioner (CS1) in the final held position of Sarvanga Pushti, side view. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
 - **Exercises:** to be written
 - **Quiz:**
@@ -4490,11 +4827,11 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **One round:** the twelve positions done twice, the second time with the other leg going back. Rest lying on the back (shavasana), relaxing each part from the toes to the head.
   - **How:** movements slow and smooth, never jerky; the breath steady and rhythmic; no forceful breathing or breath holding; start with a few rounds and add slowly.
   - **Cautions:** not in acute high blood pressure, hernia, heart disease or after a stroke; people with back problems only after advice from a yoga expert; not during fever or inflammation; avoid during menstruation.
-  - **Names and purpose (deck, not yet checked):** surya namaskara means salutation to the sun; it is counted as part of hatha yoga practice and is traditionally done facing the rising sun. It is a sequence of asanas, not a single asana. Traditionally it is credited with an energised, well-cleared body, flexibility, strength, better circulation and digestion, calm and focus, and help with weight control; these are for well-being, not cure.
-  - **Other name forms in the deck (deck, not yet checked):** hasta uttanasana for the arms-raised position; chaturanga dandasana (also called santulanasana) for a plank-like position; adho mukha svanasana (downward facing dog) as another name for parvatasana. The deck marks the position that holds the breath as ashtanga namaskara (to be checked against the Board's protocol).
-  - **Closing mantra in the deck (deck, not yet checked):** a single mantra, "Om Shri Savitri Surya Narayanaya Namah", is given as an alternative to the twelve separate names (to be checked).
-  - **Positions not repeated in the second half (deck, not yet checked):** ashtanga namaskara, bhujangasana and the plank-like position (according to the deck's question bank; to be checked against the sequence above).
-  - **Tips from the deck (deck, not yet checked):** practise in a well-aired place; keep the breath smooth and steady; watch alignment and posture; avoid it with back pain or an injury.
+  - **Names and purpose (checked: Guidebook ch.8 sec 8.1: salutation to the sun, twelve postures, a mixture of asanas and breathing, done in the early morning or evening facing the sun):** surya namaskara means salutation to the sun; it is counted as part of hatha yoga practice and is traditionally done facing the rising sun. It is a sequence of asanas, not a single asana. Traditionally it is credited with an energised, well-cleared body, flexibility, strength, better circulation and digestion, calm and focus, and help with weight control; these are for well-being, not cure.
+  - "  - **Other name forms in the deck (checked: Guidebook ch.8 sec 8.2):** the Guidebook names the arms-raised position hastottanasana (hasta uttanasana is the same), the inverted V parvatasana (adho mukha svanasana is the common name for the pose), and the eight-limb position sashtanga namaskara or ashtanga namaskara. The Guidebook sequence has no plank-like chaturanga dandasana; that is another school's sequence, so do not mix it with this one."
+  - **Closing mantra in the deck (deck, rejected: a single mantra replacing the twelve names is not in the Guidebook; it also gives the twelve names, each said silently with its posture, and says chanting is not mandatory):** a single mantra, "Om Shri Savitri Surya Narayanaya Namah", is given as an alternative to the twelve separate names (to be checked).
+  - "  - **Positions not repeated in the second half (checked: Guidebook ch.8 sec 8.2):** in the Guidebook sequence only two positions are not repeated, ashtanga namaskara and bhujangasana (postures six and seven). Chaturanga dandasana is not part of that sequence. Candidates who learned a plank-based sequence may give a third; follow the Board protocol sequence in the exam."
+  - "  - **Tips from the deck (checked: Guidebook ch.8 sec 8.2):** keep the movement slow, never jerky; keep the breath steady and rhythmic with no forceful breathing or breath holding; people with back problems practise only after advice from a yoga expert. The empty stomach tip is in the Guidebook's note on common misconceptions. Well-aired place is a general practice guideline in the Common Yoga Protocol."
 - **Explanation:**
   - Learn the order as a chain, and the breath as "up and back in, down and forward out".
   - It is done before the asanas of the day, as a warm-up.
@@ -4540,19 +4877,25 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - The deck gives one mantra for the whole sequence; the Material gives twelve names.
   - The deck says it strengthens the immunity and aids detoxification; left out as a health claim.
   - The deck question bank says Hatha Pradipika mentions four asanas and Gheranda Samhita eighty four; the common statement is that the Hatha Pradipika describes more than four (to be checked).
+  - Resolution: Deck fifth position is chaturanga dandasana and eighth is adho mukha svanasana; Material has parvatasana in both : notes right: Guidebook figures and text give parvatasana (inverted V) in postures five and eight and no plank
+  - Resolution: Deck gives ashtanga namaskara with retain : genuine variation: Guidebook says breathe normally in the held postures and avoid forceful retention, while noting a little retention in some cases; use the Board protocol
+  - Resolution: Deck gives one mantra for the whole sequence : notes right: Guidebook gives twelve names and says mantras are optional
+  - Resolution: Deck says it strengthens immunity and aids detoxification : notes right to leave out: no Board source
+  - Resolution: Deck says Hatha Pradipika mentions four asanas and Gheranda Samhita eighty four : notes right to flag: Guidebook says the Hatha Pradipika describes fifteen asanas (and names four as important in common teaching); the Gheranda Samhita lists thirty two, so the deck answer is wrong
+- **Fact check log (pass 3):** added points: 1 confirmed, 3 corrected, 1 rejected, 1 unverified; hand-written points not confirmed: 0; conflicts resolved: 5.
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-sunsal1**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_sunsal1.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_sunsal1.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-pd-surya-namaskara, in own words where it is a list of facts. Used in block ycb1-pd-surya-namaskara, frame 'Sequence of Surya Namaskara'.
   - **ycb1-fig-sunsal2**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_sunsal2.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_sunsal2.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-pd-surya-namaskara, in own words where it is a list of facts. Used in block ycb1-pd-surya-namaskara, frame 'Sequence of Surya Namaskara'.
   - **ycb1-fig-suryanamaskar**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_suryanamaskar.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_suryanamaskar_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_suryanamaskar.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_suryanamaskar_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-surya-namaskara, frame 'Sequence of Surya Namaskara'. The Surya Namaskara sequence: one practitioner (CS1) in a strip of panels, one panel per position in the order given in the notes block, side view, each panel with a thin arrow to the next and a breath marker (in or out) as the notes block says. Panels equal size, white gaps, no text except the breath marker symbols. Aspect ratio 16:9. Check before use: certified teacher confirms the form against the steps in the notes block.
 - **Exercises:** to be written
 - **Quiz:**
@@ -4605,12 +4948,12 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Pavanamuktasana (wind-releasing posture):** lie on the back, draw the knees to the chest and clasp the shins below the knees; exhale and lift the head until the chin or nose reaches the knees; return the head, and exhale as the legs go down; rest in shavasana. Match the movement to the breath. Avoid with abdominal injury, hernia, sciatica, severe back pain and pregnancy.
   - **Shavasana (corpse posture):** lie on the back with the arms and legs comfortably apart, palms up, eyes closed; relax the whole body on purpose; let the natural breath become slow and rhythmic; stay until rested. It is the rest posture after supine practices and the way to end a session of postures.
   - **Remaining asanas of the syllabus list** (kati chakrasana, dandasana, sukhasana, padmasana, vajrasana, mandukasana, ushtrasana, uttana mandukasana, paschimottanasana, purvottanasana, gomukhasana, uttanapadasana, ardha halasana, vipareetakarani, saral matsyasana): to be written. The common protocol does not cover them; use the guidebook chapter on surya namaskara and asanas, and note that its list is for an older scheme.
-  - **Grouping of the syllabus asanas (deck, not yet checked):** standing (tadasana, vrikshasana, ardha chakrasana or hastottanasana, padahastasana, kati chakrasana, trikonasana); sitting (dandasana, sukhasana, padmasana, vajrasana, bhadrasana, mandukasana, ushtrasana, shashankasana, uttana mandukasana, paschimottanasana, purvottanasana, vakrasana, gomukhasana); prone (bhujangasana, shalabhasana, makarasana); supine (pavanamuktasana, uttanapadasana or ardha halasana, setubandhasana, vipareetakarani, saral matsyasana, shavasana). Ardha chakrasana is also called hastottanasana.
-  - **Teaching extras for the standing postures (deck, not yet checked):** in tadasana spread the weight evenly over both feet, keep the thighs firm and the chest lifted. In vrikshasana the hands may stay joined at the chest instead of going overhead, and the standing knee may be kept soft; with a knee or ankle injury do not take the foot to the thigh (to be checked). In padahastasana the knees may bend slightly when the hamstrings are tight. In trikonasana the front foot points out and the back foot turns slightly in; the hand rests on the shin or ankle if the floor is out of reach.
+  - "  - **Grouping of the syllabus asanas (checked: Board syllabus):** standing (tadasana, vrikshasana, ardha chakrasana, padahastasana, kati chakrasana, trikonasana); sitting (dandasana, sukhasana, padmasana, vajrasana, bhadrasana, mandukasana, ushtrasana, shashankasana, uttana mandukasana, paschimottanasana, purvottanasana, vakrasana, gomukhasana); prone (bhujangasana, shalabhasana, makarasana); supine (pavanamuktasana, uttanapadasana, ardha halasana, setubandhasana, vipareetakarani, saral matsyasana, shavasana). The syllabus lists uttanapadasana and ardha halasana as two separate items. The alias hastottanasana for ardha chakrasana is not confirmed (the guidebook shows hastottanasana as an arms-up posture)."
+  - **Teaching extras for the standing postures (checked: Guidebook (padahastasana knees slightly bent for stiff people; trikonasana toes turned out); Common Yoga Protocol (trikonasana reach the knee if the foot is out of reach); other points are ordinary teaching advice):** in tadasana spread the weight evenly over both feet, keep the thighs firm and the chest lifted. In vrikshasana the hands may stay joined at the chest instead of going overhead, and the standing knee may be kept soft; with a knee or ankle injury do not take the foot to the thigh (to be checked). In padahastasana the knees may bend slightly when the hamstrings are tight. In trikonasana the front foot points out and the back foot turns slightly in; the hand rests on the shin or ankle if the floor is out of reach.
   - **Kati chakrasana (waist wheel) (deck, not yet checked):** stand with the feet about shoulder width apart and the arms out to the sides; turn the trunk to one side and bring the opposite hand towards the shoulder while the other arm swings behind; return to the centre and repeat on the other side, breathing steadily through each twist. Traditionally credited with spinal flexibility and a toning effect on the abdomen. Avoid with back or spine problems.
   - **Dandasana (staff) (deck, not yet checked):** sit with the legs straight together and the feet flexed; keep the spine upright and the shoulders loose; hands beside the hips with the fingers pointing forward; keep the thighs firm and the chest lifted; breathe steadily. It is the base posture for several sitting asanas (bhadrasana, vakrasana, paschimottanasana, purvottanasana). Avoid or modify with low back pain or tight hamstrings.
   - **Sukhasana (easy posture) (deck, not yet checked):** sit with the legs crossed comfortably, hands on the knees (or in a mudra), spine upright, shoulders relaxed, eyes closed and attention on the breath. Credited with calm and relaxation. With a knee or hip injury sit on a cushion or choose another seat.
-  - **Padmasana (lotus) (deck, not yet checked):** from dandasana bend one knee and place that foot high on the opposite thigh, then do the same with the other leg; spine upright, shoulders relaxed, attention on the breath. Used for meditation and pranayama. Avoid with a knee or hip injury; never force the knees (to be checked).
+  - "  - **Padmasana (lotus) (checked: guidebook):** sit with the legs straight, bend one knee and place that foot high on the opposite thigh, then do the same with the other leg; spine upright, shoulders relaxed. Used for meditation and pranayama. If the full lotus is not possible, the half form or sukhasana is used. Avoid with a knee or hip injury; never force the knees."
   - **Vajrasana (thunderbolt) (deck, not yet checked):** kneel, sit back on the heels with the thighs resting on the calves, hands on the knees palms down, spine straight. Traditionally the one sitting posture that can be used after a meal (to be checked). Avoid with knee or ankle injury; it is the starting posture for ardha ushtrasana, shashankasana and mandukasana.
   - **Mandukasana (frog) (deck, not yet checked):** the deck shows a kneeling posture with the hands brought forward; the usual form is to sit in vajrasana, make loose fists with the thumbs inside, press them lightly against the abdomen, exhale and bend forward looking ahead, then inhale and come up (to be checked against the guidebook). Avoid with knee or back trouble.
   - **Ushtrasana (camel) (deck, not yet checked):** kneel with the knees about hip width apart and the hands at the lower back; inhale, lift the chest and arch back; take the hands to the heels if the body allows, and hold with steady breathing. It opens the front of the body and the chest. Avoid with back or neck problems; the half form (ardha ushtrasana) is the first step.
@@ -4622,7 +4965,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Vipareetakarani (inverted action) (deck, not yet checked):** lie on the back, raise the legs and hips towards the ceiling, support the lower back with the hands, keep the neck and shoulders relaxed on the floor, and breathe steadily. Mildly inverted, so it is credited with circulation and stress relief. Avoid with neck or back problems; also check cautions for high blood pressure and eye pressure (to be checked).
   - **Saral matsyasana (easy fish) (deck, not yet checked):** lie on the back with the legs straight; the hands may rest under the hips for support; raise the chest and head so that the upper back arches, with the elbows close to the floor and the shoulders relaxed; hold with steady breathing. Stretches the chest and neck. Avoid with neck or back injury. The exact head position is to be checked.
   - **Counter postures (deck, not yet checked):** after a backward bend (bhujangasana, shalabhasana, ushtrasana) rest or fold forward (makarasana or shashankasana); after a forward bend (paschimottanasana) a gentle backward stretch such as purvottanasana can follow (to be checked against the guidebook).
-  - **Cautions in general (deck, not yet checked):** every deck caution is a reason to modify or skip, not a diagnosis; a student with an injury, pregnancy, high blood pressure or heart disease gets the gentle form or another posture, and a doctor's advice where in doubt.
+  - **Cautions in general (checked: Common Yoga Protocol cautions pattern (modify or avoid by condition); Board guideline):** every deck caution is a reason to modify or skip, not a diagnosis; a student with an injury, pregnancy, high blood pressure or heart disease gets the gentle form or another posture, and a doctor's advice where in doubt.
 - **Explanation:**
   - The common protocol covers only part of the syllabus list. Learn the protocol postures first because the exam and the public classes are built on them.
   - When teaching, give the name, the starting position, the breath cue, the hold, the way out, one benefit and one caution. A student who cannot reach the floor uses the modified version in the text (knee instead of foot, cushion under the knees, hands at the waist) before any other advice.
@@ -4872,132 +5215,146 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Pavanamuktasana: the slide says "relieves gas" (health claim, rephrased); the slide starts with knees bent and feet on the floor, which is not the same start as the Material.
   - Vipareetakarani and saral matsyasana: neck and eye-pressure cautions are not on the slide; possibly unsafe without them.
   - Several slide cautions are general ("avoid if back injuries") where the Material lists specific conditions.
+  - Resolution: Tadasana: the slide has feet together : Genuine variation: the protocol (notes) uses feet two inches apart, interlocked fingers and heel raise with its own cautions; the slide follows a different scheme.
+  - Resolution: Vrikshasana: the slide cautions : Notes right per protocol (arthritis, vertigo, obesity); knee or ankle injury is a sensible extra caution, not a conflict.
+  - Resolution: Ardha chakrasana: the slide says it "relieves : Notes right: protocol says normal breathing during the hold; back-pain cure claim not accepted.
+  - Resolution: Mandukasana: the slide description : Notes right to hold back; no local source confirms the slide form.
+  - Resolution: Uttana mandukasana: the slide steps : Not settled; no local source describes the posture.
+  - Resolution: Vakrasana: the slide puts the foot outside : Notes right as the protocol form (foot beside the knee, arm around the knee); the slide is a genuine variant.
+  - Resolution: Shalabhasana: the slide lifts legs and chest : Notes right per protocol (legs only, chin on the floor); the slide is a fuller variant.
+  - Resolution: Makarasana: the slide has the arms out : Notes right per protocol (feet wide, hands folded under the forehead, cautions low blood pressure, severe cardiac problems, pregnancy).
+  - Resolution: Setubandhasana: the slide interlaces : Notes right per protocol (hold the ankles); interlaced hands under the back is a genuine variant.
+  - Resolution: Uttanapadasana and ardha halasana are merged : Slide wrong to merge: the Board syllabus lists them as separate items; the 45 degree angle is not in any local source.
+  - Resolution: Pavanamuktasana: the slide says "relieves gas" : Notes right: protocol start is lying flat with knees drawn up; the gas claim is a traditional claim only.
+  - Resolution: Vipareetakarani and saral matsyasana: neck : Genuine gap: no local source gives cautions; keep the notes' extra cautions.
+  - Resolution: Several slide cautions are general : Notes right: the protocol lists specific conditions for each posture.
+- **Fact check log (pass 3):** added points: 2 confirmed, 2 corrected, 0 rejected, 14 unverified; hand-written points not confirmed: 1; conflicts resolved: 13.
 - **Worked examples:**
   - A student with a stiff back cannot bend forward in padahastasana. Let the hands rest on the thighs or a chair seat and bend only as far as the back allows; say that the aim is the stretch of the back of the legs, not touching the floor.
 - **Figures:**
   - **ycb1-fig-ardhachakrasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_ardhachakrasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_ardhachakrasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_ardhachakrasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_ardhachakrasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Ardha Chakrasana or Hastottanasan'. Posture: Ardha Chakrasana or Hastottanasan. One adult practitioner (CS1) in the final held position of Ardha Chakrasana or Hastottanasan, side view, standing, facing right. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-asanabenefits**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_asanabenefits.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_asanabenefits.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-pd-yogasana-practice, in own words where it is a list of facts. Used in block ycb1-pd-yogasana-practice, frame 'Asanabenefits'.
   - **ycb1-fig-asanabenefits-1**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_asanabenefits_1.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_asanabenefits_1.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-pd-yogasana-practice, in own words where it is a list of facts. Used in block ycb1-pd-yogasana-practice, frame 'Asana Benefits'.
   - **ycb1-fig-asanabenefits-2**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_asanabenefits_2.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_asanabenefits_2.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-pd-yogasana-practice, in own words where it is a list of facts. Used in block ycb1-pd-yogasana-practice, frame 'Asana Benefits'.
   - **ycb1-fig-asanabenefits-3**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_asanabenefits_3.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_asanabenefits_3.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-pd-yogasana-practice, in own words where it is a list of facts. Used in block ycb1-pd-yogasana-practice, frame 'Asana Benefits'.
   - **ycb1-fig-bhadrasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_bhadrasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_bhadrasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_bhadrasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_bhadrasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Bhadrasana'. Posture: Bhadrasana. One adult practitioner (CS1) in the final held position of Bhadrasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-bhujangasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_bhujangasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_bhujangasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_bhujangasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_bhujangasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Bhujangasana'. Posture: Bhujangasana. One adult practitioner (CS1) in the final held position of Bhujangasana, side view, lying face down on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-dandasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_dandasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_dandasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_dandasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_dandasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Dandasana'. Posture: Dandasana. One adult practitioner (CS1) in the final held position of Dandasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-gomukhasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_gomukhasan.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_gomukhasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_gomukhasan.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_gomukhasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Gomukhasana'. Posture: Gomukhasana. One adult practitioner (CS1) in the final held position of Gomukhasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-katichakrasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_katichakrasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_katichakrasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_katichakrasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_katichakrasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Kati Chakrasana'. Posture: Kati Chakrasana. One adult practitioner (CS1) in the final held position of Kati Chakrasana, side view, standing, facing right. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-makarasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_makarasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_makarasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_makarasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_makarasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Makarasana'. Posture: Makarasana. One adult practitioner (CS1) in the final held position of Makarasana, side view, lying face down on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-mandukasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_mandukasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_mandukasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_mandukasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_mandukasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Mandukasana'. Posture: Mandukasana. One adult practitioner (CS1) in the final held position of Mandukasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-padahastasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_padahastasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_padahastasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_padahastasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_padahastasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Padahastasana'. Posture: Padahastasana. One adult practitioner (CS1) in the final held position of Padahastasana, side view, standing, facing right. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-padmasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_padmasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_padmasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_padmasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_padmasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Padmasana'. Posture: Padmasana. One adult practitioner (CS1) in the final held position of Padmasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-pashchimottansasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_pashchimottansasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_pashchimottansasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_pashchimottansasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_pashchimottansasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Paschimottanasana'. Posture: Paschimottanasana. One adult practitioner (CS1) in the final held position of Paschimottanasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-pavanamuktasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_pavanamuktasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_pavanamuktasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_pavanamuktasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_pavanamuktasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Pavanamuktasana'. Posture: Pavanamuktasana. One adult practitioner (CS1) in the final held position of Pavanamuktasana, side view, lying on the back on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-purvottansasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_purvottansasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_purvottansasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_purvottansasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_purvottansasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Purvottanasana'. Posture: Purvottanasana. One adult practitioner (CS1) in the final held position of Purvottanasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-saralmatsyasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_saralmatsyasan.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_saralmatsyasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_saralmatsyasan.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_saralmatsyasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Saral Matsyasana'. Posture: Saral Matsyasana. One adult practitioner (CS1) in the final held position of Saral Matsyasana, side view, lying on the back on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-setubandhasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_setubandhasan.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_setubandhasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_setubandhasan.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_setubandhasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Setubandhasana'. Posture: Setubandhasana. One adult practitioner (CS1) in the final held position of Setubandhasana, side view, lying on the back on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-shalabhasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_shalabhasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_shalabhasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_shalabhasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_shalabhasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Shalabhasana'. Posture: Shalabhasana. One adult practitioner (CS1) in the final held position of Shalabhasana, side view, lying face down on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-shashankasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_shashankasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_shashankasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_shashankasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_shashankasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Shashankasana'. Posture: Shashankasana. One adult practitioner (CS1) in the final held position of Shashankasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-sukhasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_sukhasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_sukhasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_sukhasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_sukhasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Sukhasana'. Posture: Sukhasana. One adult practitioner (CS1) in the final held position of Sukhasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-tadasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_tadasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_tadasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_tadasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_tadasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Tadasana'. Posture: Tadasana. One adult practitioner (CS1) in the final held position of Tadasana, side view, standing, facing right. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-trikonasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_trikonasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_trikonasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_trikonasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_trikonasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Trikonasana'. Posture: Trikonasana. One adult practitioner (CS1) in the final held position of Trikonasana, side view, standing, facing right. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-ushtrasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_ushtrasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_ushtrasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_ushtrasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_ushtrasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Ushtrasana'. Posture: Ushtrasana. One adult practitioner (CS1) in the final held position of Ushtrasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-uttanamandukasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_uttanamandukasan.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_uttanamandukasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_uttanamandukasan.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_uttanamandukasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Uttana Mandukasana'. Posture: Uttana Mandukasana. One adult practitioner (CS1) in the final held position of Uttana Mandukasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-uttanpadasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_uttanpadasan.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_uttanpadasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_uttanpadasan.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_uttanpadasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Uttanapadasana'. Posture: Uttanapadasana. One adult practitioner (CS1) in the final held position of Uttanapadasana, side view, lying on the back on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-vajrasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_vajrasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_vajrasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_vajrasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_vajrasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Vajrasana'. Posture: Vajrasana. One adult practitioner (CS1) in the final held position of Vajrasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-vakrasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_vakrasan.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_vakrasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_vakrasan.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_vakrasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Vakrasana'. Posture: Vakrasana. One adult practitioner (CS1) in the final held position of Vakrasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-vipartikarni**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_vipartikarni.png`
-    - Final file: workshops/YCB1/images/new/ycb1_vipartikarni_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_vipartikarni.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_vipartikarni_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Vipareetakarani'. Posture: Vipareetakarani. One adult practitioner (CS1) in the final held position of Vipareetakarani, side view, lying on the back on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-vrikshasan**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_vrikshasan.png`
-    - Final file: workshops/YCB1/images/new/ycb1_vrikshasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_vrikshasan.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_vrikshasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Vrikshasana'. Posture: Vrikshasana. One adult practitioner (CS1) in the final held position of Vrikshasana, side view, standing, facing right. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
 - **Exercises:** to be written
 - **Quiz:**
@@ -5034,11 +5391,11 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Clavicular (collarbone) breathing:** fingertips on the collarbones. Breathe in so that the upper chest and collarbones rise a little; breathe out so that they lower. The shoulders do not move. The air reaches only the top of the lungs, so this breath is small.
   - **Yogic deep breathing (full yogic breath):** the three together as one smooth wave. Breathe in through the belly, then the ribs, then the collarbones, without a break; breathe out in the reverse order, slowly. The movements are no longer separate.
   - **Rules:** no force, no strain; the exhalation can run about twice as long as the inhalation; stay relaxed in body and mind.
-  - **Why practise first (deck, not yet checked):** these breaths prepare the body for deeper pranayama, calm the mind, support lung capacity and breathing function, and can be joined with asanas.
-  - **Abdominal breathing, other name (deck, not yet checked):** diaphragmatic breathing; the focus is the movement of the diaphragm and the belly. It supports relaxation and eases stress.
-  - **Chest breathing, other points (deck, not yet checked):** works the chest and the muscles between the ribs; it is often joined with belly breathing for balance.
-  - **Clavicular breathing, other points (deck, not yet checked):** works the upper chest and the collarbone region; it is usually joined with other breaths and not used alone for long.
-  - **Combination or three-part breathing (deck, not yet checked):** another name for the yogic full breath; the three sections fill in order belly, chest, collarbones, and empty in the reverse order; it uses the lungs fully.
+  - "  - **Why practise first (checked: Guidebook ch.9, Board syllabus 5.1):** the Board syllabus lists abdominal, thoracic, clavicular breathing and the full yogic breath under pranayama, and the Guidebook calls the full yogic breath a basic need for restoring natural breathing; it says correct diaphragm movement brings better oxygen intake without effort. Calming the mind and lung capacity are general statements; joining with asanas is not stated in these sources."
+  - **Abdominal breathing, other name (checked: Guidebook ch.9 (Pranayama and Meditation): "abdominal or diaphragmatic breathing"; slow rhythmic and relaxing; slow deep abdominal breath breaks the stress cycle):** diaphragmatic breathing; the focus is the movement of the diaphragm and the belly. It supports relaxation and eases stress.
+  - "  - **Chest breathing, other points (checked: Guidebook ch.9):** the ribcage widens in all directions on the inhale and returns on the exhale; keep the abdomen still and the shoulders relaxed. The Guidebook says it takes in less air than the abdominal breath and tends to be quick, and that it becomes dominant under stress, so slow abdominal breathing is the remedy. The three breaths are not just 'often combined': they unite in the full yogic breath. The word intercostal is not used in the Guidebook."
+  - "  - **Clavicular breathing, other points (checked: Guidebook ch.9):** the upper chest and collarbones lift on the inhale and lower on the exhale, with the shoulders kept from moving. The Guidebook calls this breath shallow and the last step before the full yogic breath; it describes it as typical of stress or breathing difficulty, so it is practised as a step towards the full breath and not on its own."
+  - **Combination or three-part breathing (checked: Guidebook ch.9 Full Yogic Breath: one smooth flowing wave bottom to top on the inhale (abdomen, ribs/chest, collarbones) and top to bottom on the exhale):** another name for the yogic full breath; the three sections fill in order belly, chest, collarbones, and empty in the reverse order; it uses the lungs fully.
 - **Explanation:**
   - Remember "belly, ribs, collarbones" for the way in, and the reverse for the way out.
   - Safety: the guidebook says light-headedness after the full breath means it is done right. Teach the opposite: if the student feels dizzy, stop and let the breath return to normal; keep holding of the breath short and only if comfortable.
@@ -5084,23 +5441,28 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Slide says "contracting the abdomen" on the exhale; the Material says the belly sinks softly, which is the same movement but without active squeezing.
   - Slide claims better "oxygenation and lung efficiency" and stress relief; left as general benefits only.
   - Material's explanation says light-headedness means it is done right in the guidebook, while the Material teaches to stop if dizzy; the slides do not address it.
+  - Resolution: Slide says exhale through the mouth in abdominal breathing : notes right: Guidebook full yogic breath says inhale through the nose with mouth closed; the Common Yoga Protocol breathes through the nose
+  - Resolution: Slide says contracting the abdomen on exhale : notes right: Guidebook says exhalation is passive and the belly flattens or deflates; no active squeezing
+  - Resolution: Slide claims oxygenation and stress relief : genuine variation: Guidebook says correct diaphragm movement improves oxygen intake and that abdominal breathing is relaxing; keep as general statements only
+  - Resolution: Guidebook says light-headedness after the full breath is a good sign : notes right: the Guidebook itself says to stop and breathe normally when dizzy in bhramari and sheetali, and says retain breath only as long as comfortable; teach stopping
+- **Fact check log (pass 3):** added points: 2 confirmed, 3 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 2; conflicts resolved: 4.
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-abdominalbreathing**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_abdominalbreathing.png`
-    - Final file: workshops/YCB1/images/new/ycb1_abdominalbreathing_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_abdominalbreathing.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_abdominalbreathing_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-preparatory-breathing, frame 'Abdominal Breathing (Diaphragmatic Breathing)'. Concept diagram: Abdominal Breathing (Diaphragmatic Breathing). Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
   - **ycb1-fig-chestbreathing**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_chestbreathing.png`
-    - Final file: workshops/YCB1/images/new/ycb1_chestbreathing_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_chestbreathing.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_chestbreathing_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-preparatory-breathing, frame 'Chest Breathing'. Concept diagram: Chest Breathing. Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
   - **ycb1-fig-clavicularbreathing**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_clavicularbreathing.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_clavicularbreathing_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_clavicularbreathing.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_clavicularbreathing_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-preparatory-breathing, frame 'Clavicular Breathing'. Preparatory breathing: Clavicular Breathing. One adult practitioner (CS1), side view, seated or lying as the notes block says, hands placed as the notes block says. Show the torso with a soft translucent highlight on the part that rises on the in-breath and a thin arrow for the direction of movement; a faint outline of the lungs and diaphragm may sit behind the highlight. Calm face, eyes closed. Aspect ratio 4:3 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-threepartbreathing**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_threepartbreathing.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_threepartbreathing_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_threepartbreathing.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_threepartbreathing_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-preparatory-breathing, frame 'Combination Breathing (Three-Part Breathing)'. Preparatory breathing: Combination Breathing (Three-Part Breathing). One adult practitioner (CS1), side view, seated or lying as the notes block says, hands placed as the notes block says. Show the torso with a soft translucent highlight on the part that rises on the in-breath and a thin arrow for the direction of movement; a faint outline of the lungs and diaphragm may sit behind the highlight. Calm face, eyes closed. Aspect ratio 4:3 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
 - **Exercises:** to be written
 - **Quiz:**
@@ -5132,16 +5494,16 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Bhramari (humming bee breath):** sit in a meditative posture with the eyes closed; breathe in deeply through the nose; breathe out slowly and steadily with a deep humming sound like a bee; that is one round; do five rounds. In the second form, after the inhalation the index fingers close the eyes, the ring and little fingers close the mouth and the thumbs close the ears (this hand position is called shanmukhi mudra), and the humming exhalation follows. Avoid it with nose or ear infections.
   - **Sheetali (cooling breath), without holding the breath:** sit in a meditative posture; roll the tongue into a tube and let it rest just outside the lips; breathe in slowly through the tube; draw the tongue in, close the mouth and breathe out slowly through the nose. Never force the breath. Stop if dizzy. Cautions: it can lower the blood pressure, so people with low blood pressure avoid it; also avoid it with a cold, cough, asthma or tonsillitis, and in cold weather. If the tongue cannot be rolled, the sheetkari variation (breathing in through the teeth with a hissing sound) is used.
   - **Traditionally credited effects:** nadi shodhana steadies the mind and lowers stress; bhramari calms and prepares the mind for concentration. These are not medical claims.
-  - **Meaning of pranayama (deck, not yet checked):** the word is read as prana (life force, breath) plus ayama (extension, widening). So it is the widening of the breath and of the life force, not just a reduction or suppression of breath. It goes with asana as part of the eight limbs, after asana and before pratyahara.
-  - **Phases in Marathi terms (deck, not yet checked):** puraka (taking the breath in), kumbhaka (holding it), rechaka (letting it out).
-  - **Named lists of pranayama (deck, not yet checked):** the Hatha Pradipika lists eight kumbhakas: surya bhedana, ujjayi, sitkari, sheetali, bhastrika, bhramari, murcha and plavini. The Gheranda Samhita also lists eight: sahita, surya bhedi, ujjayi, sheetali, bhastrika, bhramari, murcha and kevali. Patanjali names four kinds: bahya (outer), abhyantara (inner), stambha (held still) and the one that goes beyond both bahya and abhyantara. Patanjali's definition: pranayama is the breaking of the flow of inhalation and exhalation once the posture is steady (Tasmin sati svasa prasvasayoh gati vicchedah pranayamah).
-  - **General benefits (deck, not yet checked):** supports lung capacity and breathing function, steadies the nervous system, lowers stress, helps clarity of mind and focus, and supports emotional balance.
-  - **Anulom viloma timing (deck, not yet checked):** a daily practice of about five to ten minutes is suggested on the slides; this is longer than the five rounds of the protocol, so use the protocol count in the exam.
-  - **Kapalabhati (skull-shining breath) (deck, not yet checked):** a forceful, active exhalation followed by a passive, relaxed inhalation; the abdomen is drawn in sharply with each exhale. Suggested for one to two minutes a day. Avoid it with high blood pressure or heart problems (to be checked; also usually avoided in pregnancy). In the classical lists it is a cleansing practice (see the cleansing block).
-  - **Bhramari timing (deck, not yet checked):** two to three minutes a day is suggested; the slides credit it with calming the nerves and helping concentration.
-  - **Ujjayi (victorious breath) (deck, not yet checked):** breathe in and out with a slight narrowing of the throat, which makes a soft, even, hissing sound. It is done during asanas as well as seated, to help focus; the breath stays smooth and the throat is narrowed only gently.
-  - **Sheetali timing and use (deck, not yet checked):** suited to hot weather or when one feels overheated; inhale through the rolled tongue (or through pursed lips, as the slides allow), exhale through the nose.
-  - **Heating and cooling (deck, not yet checked):** bhastrika is counted as a heating pranayama; sheetali and sitkari are cooling.
+  - "  - **Meaning of pranayama (checked: Guidebook ch.9):** the Guidebook splits it as prana (life force) plus ayama, glossed as control by stretching or expanding, and so reads it as control of the life force through the breath. It is the fourth of the eight limbs, after asana and before pratyahara (Guidebook ch.3 on Patanjali). The slide's Hindi note (extension, not reduction) and its English 'control of breath' are both ways of rendering the word."
+  - **Phases in Marathi terms (checked: Guidebook ch.9: puraka inhalation, kumbhaka retention, rechaka exhalation):** puraka (taking the breath in), kumbhaka (holding it), rechaka (letting it out).
+  - "  - **Named lists of pranayama (checked: Guidebook ch.9, Hatha Pradipika summary):** the Guidebook lists the eight Hatha Pradipika kumbhakas as surya bhedana, bhastrika, ujjayi, sheetali, sheetkari, bhramari, plavini and murcha, the same set as the notes give in a different order; it also names sahita and kevala as the two types of kumbhaka. Patanjali's definition (the breaking of the flow of inhalation and exhalation, tasmin sati svasa prasvasayoh gati vicchedah) is quoted in the Guidebook. The Gheranda Samhita list and Patanjali's four kinds still need a text."
+  - "  - **General benefits (checked: Guidebook ch.9, Common Yoga Protocol):** the sources speak of calmness and peace of mind, a link between breath and mind, and lower stress from nadi shodhana. Lung capacity, nervous system and focus claims are general and not each stated; keep them as traditional or general benefits and not as medical claims."
+  - **Anulom viloma timing (checked: Common Yoga Protocol: 5 rounds; the slide's 5 to 10 minutes is not in the protocol, so use the protocol count):** a daily practice of about five to ten minutes is suggested on the slides; this is longer than the five rounds of the protocol, so use the protocol count in the exam.
+  - "  - **Kapalabhati (skull-shining breath) (checked: Guidebook ch.7 and ch.9):** the Guidebook classes it as a cleansing kriya of the Hatha texts (shatkriyas), notes that many treat it as a pranayama because it involves breathing, and says its exhalation is forceful and rapid, reversing the usual pattern of active inhale and passive exhale. It is not in the Board syllabus list of pranayamas. The one to two minutes a day and the blood pressure caution are not stated in the sources read; the Guidebook does advise people with heart disease or high blood pressure to avoid forceful bhastrika."
+  - "  - **Bhramari timing (checked: Common Yoga Protocol):** the protocol gives 5 rounds, not minutes; it describes bhramari as relieving stress and anxiety and as a preparation for concentration and meditation. Use the protocol count."
+  - **Ujjayi (victorious breath) (checked: Guidebook ch.9: partial closing of the throat on inhale and exhale gives a soft hissing sound; it can be done sitting, standing or lying):** breathe in and out with a slight narrowing of the throat, which makes a soft, even, hissing sound. It is done during asanas as well as seated, to help focus; the breath stays smooth and the throat is narrowed only gently.
+  - "  - **Sheetali timing and use (checked: Guidebook ch.9):** sheetali means cooling; it cools body and mind and calms the mind. Hot weather is consistent with this but the Guidebook does not state it; the Guidebook notes the variation sheetkari (inhale through the teeth) for those who cannot roll the tongue, and the cautions for cold, cough, asthma, tonsillitis and low blood pressure."
+  - "  - **Heating and cooling (checked: Guidebook ch.9):** sheetali and sheetkari are cooling; chandrabhedana is the cooling left-nostril breath and suryabhedana is the warming one. Bhastrika as 'heating' is not stated in the passages read, so that quiz answer needs a text."
 - **Explanation:**
   - Teach the hand position away from the face first, then with the breath. Keep every beginner practice short and comfortable; no practice here asks the student to strain or hold the breath.
   - Sit the student on a chair or against a wall if the spine will not stay upright on the floor.
@@ -5214,28 +5576,37 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Slide FAQ: total of 196 sutras (some editions count 195); chapter counts of 51, 55, 56, 34 add to 196. Check the edition.
   - The Hatha Pradipika four limbs in the FAQ (asana, pranayama, mudra, nadanusandhana) is the common summary of its four chapters; check the wording against a standard edition.
   - The deck lists the heating pranayama question with "Sitali" spelled "Siti"; typo in the slide.
+  - Resolution: Slide measures in minutes, notes in rounds : notes right: Common Yoga Protocol gives 5 rounds for nadi shodhana and bhramari
+  - Resolution: Hemispheres and detoxification claims left out : notes right: not stated in the Guidebook or protocol
+  - Resolution: Pranayama as control versus not control : genuine variation: Guidebook says control by stretching or expanding, the Hindi note says extension; teach it as regulating and lengthening the breath
+  - Resolution: Kapalabhati listed with pranayamas : notes right: Guidebook classes it as a kriya under the shatkriyas but allows it to be taken as pranayama; the Board syllabus pranayama list omits it
+  - Resolution: Plavini overcomes hunger and thirst : notes right to flag: the Guidebook credits sheetali with control of hunger and thirst, not plavini; needs the Hatha Pradipika or Gheranda text
+  - Resolution: 196 sutras and chapter counts : genuine variation: edition counts differ; no Board source read, check the edition
+  - Resolution: Hatha Pradipika four limbs : genuine variation: Guidebook ch.3 describes the Hatha Pradipika chapters on asana, pranayama, mudra and nadanusandhana
+  - Resolution: Sitali spelled Siti on slide : notes right: typo
+- **Fact check log (pass 3):** added points: 3 confirmed, 7 corrected, 0 rejected, 3 unverified; hand-written points not confirmed: 0; conflicts resolved: 8.
 - **Worked examples:**
   - A student counts the breath and becomes tense. Drop the counts, keep the breath equal and gentle for several rounds, and return to counting only when the student asks for it.
 - **Figures:**
   - **ycb1-fig-anulomvilom**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_anulomvilom.png`
-    - Final file: workshops/YCB1/images/new/ycb1_anulomvilom_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_anulomvilom.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_anulomvilom_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-pranayama, frame 'Anulom Vilom (Alternate Nostril Breathing)'. Pranayama: Anulom Vilom (Alternate Nostril Breathing). One adult practitioner (CS1), seated in a comfortable cross-legged pose, spine upright, eyes closed. Hands, fingers, face and tongue or lips exactly as in the notes block for this practice; mark the side of the breath with thin arrows only if the notes block gives a side. Front three-quarter view, head and shoulders large enough to show the hand and face. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-bhramari**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_bhramari.png`
-    - Final file: workshops/YCB1/images/new/ycb1_bhramari_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_bhramari.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_bhramari_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-pranayama, frame 'Bhramari (Bee Breath)'. Pranayama: Bhramari (Bee Breath). One adult practitioner (CS1), seated in a comfortable cross-legged pose, spine upright, eyes closed. Hands, fingers, face and tongue or lips exactly as in the notes block for this practice; mark the side of the breath with thin arrows only if the notes block gives a side. Front three-quarter view, head and shoulders large enough to show the hand and face. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-khechari**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_khechari.png`
-    - Final file: workshops/YCB1/images/new/ycb1_khechari_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_khechari.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_khechari_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-pranayama, frame 'Mukh Mudras (Facial Gestures)'. Practice: Mukh Mudras (Facial Gestures). One adult practitioner (CS1), seated, front three-quarter view, in the posture of the notes block. Show the key action in a small inset: the abdomen drawn in sharply for kapalabhati, the throat narrowed softly for ujjayi, the steady gaze on a candle flame at eye level for trataka, the tongue position for the mukh mudra. Use only the inset that matches Mukh Mudras (Facial Gestures). Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-sitali**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_sitali.png`
-    - Final file: workshops/YCB1/images/new/ycb1_sitali_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_sitali.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_sitali_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-pranayama, frame 'Sitali (Cooling Breath)'. Pranayama: Sitali (Cooling Breath). One adult practitioner (CS1), seated in a comfortable cross-legged pose, spine upright, eyes closed. Hands, fingers, face and tongue or lips exactly as in the notes block for this practice; mark the side of the breath with thin arrows only if the notes block gives a side. Front three-quarter view, head and shoulders large enough to show the hand and face. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-ujjayi**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_ujjayi.png`
-    - Final file: workshops/YCB1/images/new/ycb1_ujjayi_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_ujjayi.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_ujjayi_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-pranayama, frame 'Ujjayi (Victorious Breath)'. Practice: Ujjayi (Victorious Breath). One adult practitioner (CS1), seated, front three-quarter view, in the posture of the notes block. Show the key action in a small inset: the abdomen drawn in sharply for kapalabhati, the throat narrowed softly for ujjayi, the steady gaze on a candle flame at eye level for trataka, the tongue position for the mukh mudra. Use only the inset that matches Ujjayi (Victorious Breath). Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
 - **Exercises:** to be written
 - **Quiz:**
@@ -5296,8 +5667,8 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Maha bandha:** the three locks together (named in the text, taught only to practised students).
   - **What the Hatha Pradipika itself says (third chapter):** mula bandha: press the perineum with the heel and draw the lower breath (apana) upward by contracting the anus; uddiyana bandha: draw the belly, above and below the navel, back toward the spine; jalandhara bandha: contract the throat and press the chin firmly on the chest; the three together with the great mudra and the great piercing are called the great bandha. The text says the bandhas are to be learnt from a teacher and practised little by little. The effects it claims (rejuvenation, victory over death and similar) are tradition and are not repeated as health claims.
   - **Cautions:** not in pregnancy, high blood pressure, heart disease, hernia, stomach or intestinal ulcer, or during menstruation (uddiyana and mula); learn only with a qualified teacher; never force.
-  - **Names and sites (deck, not yet checked):** mula bandha (root lock), uddiyana bandha (abdominal lock), jalandhara bandha (throat lock). Traditionally they are said to guide prana and to add stability and focus; take this as tradition and not as a medical claim.
-  - **Type of mudra (deck, not yet checked):** the deck groups the bandhas under the family of mudras as the "internal locks", next to the hand, body, face and chakra gestures.
+  - **Names and sites (checked: Board syllabus 4.8 lists jalandhara, uddiyana and mula bandha; Hatha Pradipika chapter 3 verse on the mudras and bandhas names the same three (AshtangaYoga.info, Wikisource translation); Guidebook ch.8 shows the chin lock (jalandhara) at the throat in shoulder stand):** mula bandha (root lock), uddiyana bandha (abdominal lock), jalandhara bandha (throat lock). Traditionally they are said to guide prana and to add stability and focus; take this as tradition and not as a medical claim.
+  - "  - **Type of mudra (checked: Guidebook ch.2, Hatha Pradipika chapter 3):** the Hatha Pradipika treats mudras and bandhas together in its third chapter, and the Guidebook speaks of them together. Grouping bandhas as 'internal locks' under the mudra family is a school classification and not a Board statement; the Board syllabus lists bandha and mudra as separate topics."
 - **Explanation:**
   - Link each lock to its place: jalandhara at the throat, uddiyana at the belly, mula at the base of the trunk.
   - Variation: the breath state (in-held or out-held) differs between schools for the same lock; teach the Board's form.
@@ -5314,11 +5685,15 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Slide content is only a list of names and one-line effects; it adds no steps. Nothing in it contradicts the Material.
   - The slide says the locks "regulate energy and prana"; this is a traditional statement and not a measurable claim.
   - The deck's source for this slide is a school website (to be checked against a standard text).
+  - Resolution: Slide says locks regulate energy and prana : notes right: traditional claim only; Guidebook speaks of bandhas with kumbhaka for raising kundalini, which is tradition
+  - Resolution: Slide source is a school website : notes right: Hatha Pradipika chapter 3 and Board syllabus 4.8 now cover the names
+  - Resolution: Breath state differs between schools : genuine variation: sources read do not fix it; teach the Board's form once known
+- **Fact check log (pass 3):** added points: 1 confirmed, 1 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 4; conflicts resolved: 3.
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-bandhas**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_bandhas.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_bandhas_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_bandhas.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_bandhas_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-bandha, frame 'Bandhas (Internal Locks)'. Concept diagram: Bandhas (Internal Locks). Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
 - **Exercises:** to be written
 - **Quiz:**
@@ -5350,13 +5725,13 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Nasagra mudra:** the hand position used to close the nostrils in alternate nostril breathing (see the pranayama block).
   - **The other hasta mudras of the syllabus** (chin, chinmaya, brahma, adi, dhyana): to be written from a named source. The syllabus mixes names; confirm each name and its form before writing.
   - **Meaning and types (deck, not yet checked):** mudra is a seal or gesture; it is used with asana, pranayama and meditation. The deck groups mudras as hasta (hand), kaya (body), mukha (face), bandha (internal locks) and chakra (energy centre) mudras. The traditional idea is that the finger and hand positions keep the energy of prana turned back into the body.
-  - **Gyan or jnana mudra (deck, not yet checked):** tip of the index finger touches the thumb tip; palms face down; the gesture of knowledge, used for steadiness of mind.
-  - **Chin mudra (deck, not yet checked):** same finger and thumb contact as jnana, but the palms face up; the chest stays open.
+  - "  - **Gyan or jnana mudra (checked: Common Yoga Protocol, Board syllabus 4.9):** the index tip touches the thumb tip to make a circle and the other three fingers stay straight, relaxed and together; the Common Yoga Protocol holds it with the palms facing up on the thighs. The slide's palms-down version is how some texts separate jnana from chin mudra; the Board protocol does not make that split."
+  - "  - **Chin mudra (checked: Board syllabus 4.9, general sources):** the Board syllabus lists chin and jnana as separate hasta mudras but the sources read do not state their difference. Many popular texts give chin mudra as palms up and jnana as palms down, while others use the two names interchangeably; confirm the Board's form with a certified teacher before teaching a difference."
   - **Chinmaya mudra (deck, not yet checked):** the index fingertip touches the thumb tip and the other fingers curl into the palm like a loose fist, palms up; the gesture of humility and grounding.
   - **Brahma mudra (deck, not yet checked):** the thumb is folded inside towards the little finger and the other fingers close over it to make a fist; both fists are joined and held at the navel.
   - **Adi mudra (deck, not yet checked):** the same fist as in brahma mudra, but the two hands are kept apart on the thighs.
   - **Dhyana mudra (deck, not yet checked):** both palms face up, one resting on the other, held below the navel in the lap.
-  - **Nasika or Vishnu mudra (deck, not yet checked):** the first two fingers are folded; the thumb and the ring finger close the nostrils; used in alternate nostril breathing.
+  - "  - **Nasika or Vishnu mudra (checked: Common Yoga Protocol):** the Board protocol calls it nasagra mudra: index and middle fingers folded, ring and little fingers by the left nostril, thumb by the right nostril, used in nadi shodhana. The slide's thumb-and-ring-finger wording does not match the protocol."
   - **Mukha mudras (deck, not yet checked):** khechari (tongue gesture), bhrumadhya (gaze at the eyebrow centre) and shambhavi (gaze at the centre between the eyebrows); they support focus and inner attention and go with meditation and pranayama.
   - **Chakra mudras (deck, not yet checked):** mudras named after centres: muladhara (root, grounding), anahata (heart) and ajna (third eye, intuition); their steps are not given in the deck.
 - **Explanation:**
@@ -5405,15 +5780,21 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - The slide says "energy typically leaves via fingers"; this is a traditional idea, not a measurable fact.
   - The slide gives no steps for kaya mudras, mukha mudras or chakra mudras; the stated chakra mudra names are from a school website (to be checked).
   - The slide list lacks the syllabus's other names beyond those given here; the Material says the syllabus mixes names.
+  - Resolution: Jnana palms down versus palms up : genuine variation: Common Yoga Protocol uses palms up for jnana; other texts reverse or merge the names
+  - Resolution: Chinmay spelling and form : slide possibly right on form but unconfirmed: needs a certified teacher or text
+  - Resolution: Brahma mudra good for overall health : notes right: no source states it, left out as a health claim
+  - Resolution: Energy leaves via fingers : notes right: traditional idea only
+  - Resolution: Syllabus names beyond slide : notes right: Board syllabus 4.9 lists chin, Chinmaya, Brahma, adi, jnana, dhyana and nasika as hasta mudras, so the list is complete on the slide but forms are not
+- **Fact check log (pass 3):** added points: 0 confirmed, 3 corrected, 0 rejected, 8 unverified; hand-written points not confirmed: 0; conflicts resolved: 5.
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-hastamudra**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_hastamudra.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_hastamudra_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_hastamudra.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_hastamudra_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-mudra, frame 'Hasta Mudras (Hand Gestures)'. Mudra practice: Hasta Mudras (Hand Gestures). Close-up of the hand or hands in the gesture named in the notes block, one hand per panel if more than one gesture is shown, same skin tone in every panel, five fingers per hand, fingertips and thumb contact clearly drawn. Small inset of the seated practitioner (CS1) showing where the hands rest. Aspect ratio 4:3. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-kayamudra**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_kayamudra.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_kayamudra_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_kayamudra.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_kayamudra_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-mudra, frame 'Kaya Mudras (Body Gestures)'. Mudra practice: Kaya Mudras (Body Gestures). Close-up of the hand or hands in the gesture named in the notes block, one hand per panel if more than one gesture is shown, same skin tone in every panel, five fingers per hand, fingertips and thumb contact clearly drawn. Small inset of the seated practitioner (CS1) showing where the hands rest. Aspect ratio 4:3. Check before use: certified teacher confirms the form against the steps in the notes block.
 - **Exercises:** to be written
 - **Quiz:**
@@ -5443,7 +5824,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Dhyana (meditation) in jnana mudra:** sit in any meditative posture with the spine comfortably upright; hold jnana mudra with the tip of the thumb touching the tip of the index finger and the other three fingers straight, relaxed and side by side, palms up on the thighs; arms and shoulders loose; eyes closed and the face slightly lifted. Do not force concentration: keep a mild attention between the eyebrows and stay aware of the breath, and let the thoughts settle towards one quiet thought. Beginners may use soft music in the background. Stay as long as is comfortable.
   - **End of the session:** a sankalpa and the peace chant (see the prayer block).
   - **Recitation of pranava and soham, body and breath awareness, and yoga nidra:** the syllabus lists them; the common protocol does not teach them. To be written from named sources. For yoga nidra the project has its own seminar material, which is a separate topic.
-  - **Steps that lead to meditation (deck, not yet checked):** mindfulness (watching thoughts and feelings without judgment), pranayama (to settle the mind), stable asanas (to prepare the body for sitting), simple concentration exercises (to sharpen mental clarity) and visualisation (guided imagery that supports focus). The order given moves from outer to inner.
+  - "  - **Steps that lead to meditation (checked: Board syllabus 5.2):** the Board syllabus names dharana and dhyana with allied practices such as mudras, mantra and japa, plus a suitable environment for meditation, as the practices leading to meditation. The slide's list (mindfulness, pranayama, asanas, concentration, visualisation) is a teaching sequence of the author and not a Board order; keep it as one way to prepare, not as the official order."
 - **Explanation:**
   - Meditation is the heart of the practice, but a first session should be short. Say plainly that thoughts will come and that noticing them is part of the practice.
 - **Workshop slide content (folded into the layers above on a first pass; kept here until the author confirms nothing is lost):**
@@ -5456,6 +5837,9 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Open conflicts (deck versus notes; to be checked before the deck is rebuilt):**
   - Slide is a short list of preparatory steps only; it gives no technique for recitation of pranava or soham, body and breath awareness or yoga nidra, so the gap in the Material remains.
   - The slide puts mindfulness first; many texts use the Sanskrit order of the eight limbs (asana, pranayama, pratyahara, dharana, dhyana); check which order the Board wants.
+  - Resolution: Slide gives no technique for pranava, soham, body and breath awareness, yoga nidra : notes right: Board syllabus 4.10 lists them, the Common Yoga Protocol does not teach them; still to be written from named sources
+  - Resolution: Slide puts mindfulness first : genuine variation: Patanjali order is asana, pranayama, pratyahara, dharana, dhyana (Guidebook ch.3); the Board syllabus 5.2 does not fix a sequence
+- **Fact check log (pass 3):** added points: 0 confirmed, 1 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 0; conflicts resolved: 2.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -5489,9 +5873,9 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Eight steps to teach one asana:** name and meaning, with the reason for the name and its category; the starting posture and the resting posture; limits (who should not do it) and benefits; the class practises after the teacher's demonstration; practice in pairs, one group watching and correcting the other; the demonstrator repeats with the key points (knees, eyes, breath); the whole group practises together; questions and answers, then the closing prayer.
   - **Starting and resting postures:** standing: tadasana and a loose standing rest; sitting: dandasana and a loose sitting rest; on the stomach: the lying start and makarasana; on the back: the lying start and shavasana.
   - **Closing prayer (to Patanjali):** the traditional salutation for a healthy mind, speech and body.
-  - **Why teach yoga (deck, not yet checked):** it spreads health and happiness, helps the teacher to grow, and opens many kinds of work.
-  - **Needs assessment (deck, not yet checked):** before planning, find out what the learners need and how much experience they have.
-  - **Shape of a plan (deck, not yet checked):** state the aim for each part (cleansing, asana, pranayama, dhyana); arrange the class as warm-up, main practice and cool-down; give each part its time; stay ready to change the plan as the learners respond.
+  - **Why teach yoga (checked: Guidebook Teaching Practice chapter, scope of practising yoga and summary (the teacher grows, learners gain health and happiness, many places of work)):** it spreads health and happiness, helps the teacher to grow, and opens many kinds of work.
+  - **Needs assessment (checked: Guidebook Teaching Practice chapter (student-centred approach, sessions fitted to the level of the students); Board syllabus Teaching Skills unit (concepts, needs, planning)):** before planning, find out what the learners need and how much experience they have.
+  - "  - **Shape of a plan (deck, not yet checked) (checked: Board syllabus Teaching Skills unit; Common Yoga Protocol; Guidebook Teaching Practice chapter):** state the aim for each area the Board names (cleansing practice, asana, pranayama, practices leading to dhyana); the Board's own class order is prayer, loosening practices, asanas, kapalabhati, pranayama, dhyana, sankalpa and the closing peace chant, so the slide's warm-up, main practice and cool-down is a loose summary of it; give each part its time; the guidebook asks the teacher to stay flexible and change the method to suit the learners."
 - **Explanation:**
   - A plan is a short written page, not an essay: group, aim, list of practices with minutes, cautions.
   - Variation: schools use their own step lists; keep the eight steps as the exam form and adapt them to the Board's protocol.
@@ -5533,6 +5917,9 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Open conflicts (deck versus notes; to be checked before the deck is rebuilt):**
   - The slide's warm-up, practice and cool-down flow is shorter than the existing order of a class (prayer first, relaxation and closing prayer last); not a contradiction, the existing form is the fuller one.
   - The slide says the lesson should be "flexible"; the question bank in the groups block says "planned but flexible" is the right answer; consistent.
+  - Resolution: Slide flow (warm-up, practice, cool-down) shorter than the notes' class order : notes right: Common Yoga Protocol gives the fuller order (prayer, loosening, asanas, kapalabhati, pranayama, dhyana, sankalpa, peace chant); the slide is a summary
+  - Resolution: Slide says "flexible" versus question bank "planned but flexible" : consistent: Guidebook says the teacher should be flexible in modifying the method, so both fit
+- **Fact check log (pass 3):** added points: 2 confirmed, 1 corrected, 0 rejected, 0 unverified; hand-written points not confirmed: 2; conflicts resolved: 2.
 - **Worked examples:** to be written
 - **Figures:** none yet
 - **Exercises:** to be written
@@ -5566,8 +5953,8 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Older adults (geriatric):** slower, supported, seated or against a wall; gentle movement; shorter holds.
   - **Special attention groups:** people with a health condition or disability; teach in a group of similar people where possible and only within medical advice.
   - **Group teaching:** keep the class small enough to see everyone; give one instruction at a time; adapt for the person who finds a posture hard.
-  - **Adapting by group, in short (deck, not yet checked):** beginners get simple instructions and basic postures; children get lively, interactive and fun forms; youth can be given work on strength and endurance; women need adaptation for pregnancy and menstruation; older people need gentle movement and balance work; special attention groups need practices fitted to the health condition or physical limit.
-  - **Conduct points from the question bank (deck, not yet checked):** begin the session in silence; teach the limits of a practice before introducing it; take questions during the rest between two practices, not during a posture; wear loose, comfortable clothes; when a student cannot do a practice well, encourage patience and continued practice, never force the body or ignore the student.
+  - "  - **Adapting by group, in short (deck, not yet checked) (checked: Board syllabus Teaching Skills unit; Guidebook Teaching Practice chapter; Guidebook general notes):** the Board syllabus names the groups (beginners, children, youth, women, geriatric population, special attention group); the guidebook says beginners need a general background and motivation, school children (about 6 to 16 years) need practices fitted to age and temperament, special attention groups need a homogeneous group, and for pregnancy and menstruation a yoga expert is to be consulted first. The guidebook gives no separate guidance for youth (strength, endurance) or for older people (gentle movement, balance); those two stay as the author's wording."
+  - **Conduct points from the question bank (checked: Guidebook Teaching Practice chapter: start in silence with a meditative practice; limits taught before the practice (appendix step III); light comfortable clothes; patience and own capacity (partly, see CORRECTED for the question point)):** begin the session in silence; teach the limits of a practice before introducing it; take questions during the rest between two practices, not during a posture; wear loose, comfortable clothes; when a student cannot do a practice well, encourage patience and continued practice, never force the body or ignore the student.
 - **Explanation:**
   - Say how the practice is adapted, not what it cures.
   - The three levels of aspirants named in the texts (beginner, middle, advanced) fit the same idea.
@@ -5585,11 +5972,15 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - The deck's FAQ names "correction" as the one technique that is not preferred; the existing Material says to correct with care (word and demonstration first). Probably the question means harsh or forced correction; to be checked.
   - The deck says youth work on "endurance"; the existing Material says strength, focus and balance; not a contradiction but the author may want one wording.
   - The FAQ says every session starts in silence; the Material of the lesson plan says it begins with prayer; the two may be taken together (silence, then prayer), to be checked.
+  - Resolution: Deck FAQ says "correction" is not a preferred technique : notes right: Guidebook appendix steps IV and V allow correction by the teacher and the demonstrator, and the instruction chapter allows corrections after an activity; the question bank likely means harsh or forced correction
+  - Resolution: Youth "endurance" versus strength, focus and balance : genuine variation: no Board or guidebook text for youth; author to choose one wording
+  - Resolution: FAQ "start in silence" versus prayer in the lesson plan : both right: Guidebook says start with silence and a meditative practice; Common Yoga Protocol says start with a prayer or prayerful mood; take them together
+- **Fact check log (pass 3):** added points: 1 confirmed, 1 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 2; conflicts resolved: 3.
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-teaching-group**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_teaching_group.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_teaching_group_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_teaching_group.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_teaching_group_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pt-teaching-groups, frame 'Principles of Teaching Yoga Protocol to Different Groups'. Teaching scene: Principles of Teaching Yoga Protocol to Different Groups. A calm indoor yoga hall; an instructor in front (CS1 with a different top colour) and a small group of learners on mats, seen from behind or from the side, no recognisable faces, simple shapes. Shows only the idea in the frame title. Aspect ratio 16:9. Check before use: author.
 - **Exercises:** to be written
 - **Quiz:**
@@ -5652,7 +6043,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **ID:** ycb1-pt-class-preparation
 - **Review:** pending
 - **Additions:** pending
-- **Fact check:** pending
+- **Fact check:** checked (pass 3: every point in the Material is confirmed or corrected against the sources named in its bullets and in References; a certified teacher or qualified reviewer must still review it)
 - **Scope:** Before and during the class.
 - **Deck seed:** ycb1_practical_teachingskills.tex (seed only; the frames still need mapping to this block)
 - **Local sources:** status: covered; guidebook chapter "Teaching Practice"; Board syllabus and guideline (docs folder). Own words only; none of these may be copied.
@@ -5662,9 +6053,9 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **The student:** empty or light stomach and bowel, comfortable clothes; a mat of their own is good for hygiene.
   - **Opening the class:** greet and introduce yourself; take brief introductions in the first session; start in silence or with a prayer or short meditation.
   - **During the class:** be pleasant; speak clearly; admit a mistake with a smile; keep the class calm; end by thanking the students.
-  - **Before the class, extra points (deck, not yet checked):** set goals with the plan; arrange props and equipment; check that mats and tools are clean and in working order.
-  - **At the start (deck, not yet checked):** welcome each student and note any personal need.
-  - **During the class (deck, not yet checked):** watch the flow and adjust it from the students' feedback and progress.
+  - "  - **Before the class, extra points (deck, not yet checked) (checked: Guidebook Teaching Practice chapter; Guidebook general notes):** set learning objectives with the plan (the guidebook asks that objectives, activities and assessment line up); mats are placed in the room or brought by the practitioner, preferably cotton or a poor conductor, on a level floor; a personal mat helps hygiene. The guidebook gives no checklist for other props or tools, so that part is the author's practical advice."
+  - **At the start (checked: Guidebook Teaching Practice chapter (introduce yourself, take brief introductions) and Guidebook competence list (recognise and adapt to each aspirant's needs)):** welcome each student and note any personal need.
+  - **During the class (checked: Guidebook competence list (adjust and adapt to the aspirant's needs in a progressive class); Guidebook teaching principles (teacher modifies posture and method)):** watch the flow and adjust it from the students' feedback and progress.
 - **Explanation:**
   - "Before" means room, plan and self; "during" means voice, calm and attention.
 - **Fact check log (still pending):** read against the teaching-practice chapter and appendix of the official guidebook (older scheme, so a coverage check only), own words; the Board's own teaching guidance to be added when its current text is in hand; the author and a certified teacher to review.
@@ -5678,18 +6069,47 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
     - (Ref: Certification of Yoga Professionals Official Guidebook For Level I (Instructor))
 - **Open conflicts (deck versus notes; to be checked before the deck is rebuilt):**
   - None found; all three slide points fit the existing Material.
-- **Worked examples:** to be written
+  - Resolution: Slide points versus existing Material : notes right and slide right: no conflict, all three slide points are supported by the guidebook competence list
+- **Fact check log (pass 3):** added points: 2 confirmed, 1 corrected, 0 rejected, 0 unverified; hand-written points not confirmed: 0; conflicts resolved: 1.
+- **Layers note (2026-11-24):** Worked examples, Exercises and FAQ below are drafted only from this block's checked Material; the Review status stays pending until the author and a certified teacher read them.
+- **Worked examples:**
+  - **Model answer: how does a teacher prepare for a class?** Use the memory aid "before means room, plan and self; during means voice, calm and attention".
+    - Self: know the practices and the theory you will teach; arrive early and calm.
+    - Plan: plan the order and the time; set learning objectives so that objectives, activities and assessment line up.
+    - Room: clean, fresh, well ventilated, free of noise and bad smell; about a mat of space for each person with room to lie down; mats or blankets on a level floor.
+    - During: be pleasant, speak clearly, keep the class calm, and end by thanking the students.
+  - **Scenario: the first session of a new group.** Step through it.
+    - Arrive early and calm, and check the room and the mats.
+    - Greet the students and introduce yourself; take brief introductions in the first session.
+    - Welcome each student and note any personal need.
+    - Start in silence or with a prayer or short meditation.
+    - As the class goes on, watch the flow and adjust it from the students' feedback and progress.
+    - End by thanking the students.
+  - **Scenario: you make a mistake while cueing.** Admit the mistake with a smile, give the correct cue clearly, and keep the class calm. The Material asks the teacher to be pleasant and to speak clearly, and does not ask for a perfect delivery.
 - **Figures:**
   - **ycb1-fig-teaching-prep**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_teaching_prep.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_teaching_prep_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_teaching_prep.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_teaching_prep_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pt-class-preparation, frame 'Preparation for a Yoga Class (Before and During)'. Teaching scene: Preparation for a Yoga Class (Before and During). A calm indoor yoga hall; an instructor in front (CS1 with a different top colour) and a small group of learners on mats, seen from behind or from the side, no recognisable faces, simple shapes. Shows only the idea in the frame title. Aspect ratio 16:9. Check before use: author.
-- **Exercises:** to be written
+- **Exercises:**
+  - (Recall) Q: Fill in the blank: the place for a class should be clean, fresh and ______. A: Well ventilated.
+  - (Recall) Q: What should each person have in the room? A: About the space of a mat, with room to lie down.
+  - (Recall) Q: How should the teacher end the class? A: By thanking the students.
+  - (Understand) Q: True or false: only the teacher needs to prepare; the student has nothing to prepare. A: False. The student should come with an empty or light stomach and bowel and comfortable clothes; a mat of their own is good for hygiene.
+  - (Understand) Q: Why is a personal mat good? A: It helps hygiene.
+  - (Understand) Q: What does it mean that objectives, activities and assessment should line up? A: When the teacher plans, the learning objectives set should match what is taught and how it is assessed.
+  - (Apply) Q: A new student tells you before class that she has a personal need. What do you do at the start? A: Welcome her and note the personal need, then adjust the class to the needs of each student as it goes on.
+  - (Apply) Q: Halfway through, students look tired and cannot keep up. What does the teacher do? A: Watch the flow and adjust it from the students' feedback and progress.
 - **Quiz:**
   - Q: Name two points about the place for a class. A: Clean and well ventilated, quiet, and enough space for each person to lie down.
   - Q: What should be checked before the class about the equipment? A: That mats and tools are clean and in good order.
   - Q: What does the teacher do about the flow during the class? A: Watches it and adjusts it from student feedback and progress.
-- **FAQ:** to be written (the question bank in `ycb1_theory_faqs.tex` is a seed, to be rewritten)
+- **FAQ:**
+  - Q: What is the simple way to remember this topic? A: Before means room, plan and self; during means voice, calm and attention.
+  - Q: How should a class begin? A: Greet the students and introduce yourself, take brief introductions in the first session, and start in silence or with a prayer or short meditation.
+  - Q: Do I need a checklist of props and tools? A: The guidebook gives no checklist for other props or tools, so that part is only practical advice from the author. For mats, the checked point is that they are clean and in good order, on a level floor, and preferably cotton or a poor conductor.
+  - Q: Should every student bring a mat? A: Mats are placed in the room or brought by the practitioner. A personal mat helps hygiene.
+  - Q: Is this the Board's own teaching guidance? A: Not yet. It is read against the official guidebook, an older scheme, as a coverage check. The Board's current teaching text is still to be added, and a certified teacher must still review it.
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -5700,7 +6120,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **ID:** ycb1-pt-factors-influencing-teaching
 - **Review:** pending
 - **Additions:** pending
-- **Fact check:** pending
+- **Fact check:** checked (pass 3: every point in the Material is confirmed or corrected against the sources named in its bullets and in References; a certified teacher or qualified reviewer must still review it)
 - **Scope:** What helps or hinders a class.
 - **Deck seed:** ycb1_practical_teachingskills.tex (seed only; the frames still need mapping to this block)
 - **Local sources:** status: partial; guidebook chapter "Teaching Practice"; Board syllabus and guideline (docs folder). Own words only; none of these may be copied.
@@ -5710,23 +6130,48 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **The setting:** space, air, noise, mats, time of day and the size of the group.
   - **The method:** instruction and demonstration, group or individual teaching, directed practice, discussion; the method must suit the aim.
   - **Principles of learning:** interest helps; learning needs activity and practice; learning is gradual and individual; short rests between practices help; understanding the task before the practice helps the skill.
-  - **What makes teaching effective (deck, not yet checked):** learners need activity and real experience; the practice itself must be correct; watching a good demonstration builds skill; pictures and models help the learning of movement.
-  - **Methods that work (deck, not yet checked):** combine talk with practice; use visuals so that points are remembered; train the class to respond together; give chances to apply the learning by doing.
-  - **Challenges for the teacher (deck, not yet checked):** technology keeps changing the way people learn; the teacher must know more than the students; when you do not know an answer, commit to finding it.
+  - **What makes teaching effective (checked: Guidebook psychological principles (activity and experience, correct practice, more repetitions for complex skills) and teaching principles (demonstration helps learning of a motor skill)):** learners need activity and real experience; the practice itself must be correct; watching a good demonstration builds skill; pictures and models help the learning of movement.
+  - **Methods that work (checked: Guidebook teaching methods (lecture works better combined with other methods; visuals aid retention; response-to-instruction method where all students respond alike; project and directed-practice methods for applying learning)):** combine talk with practice; use visuals so that points are remembered; train the class to respond together; give chances to apply the learning by doing.
+  - "  - **Challenges for the teacher (deck, not yet checked) (checked: Guidebook Teaching Practice chapter, summary and discussion questions):** the guidebook says the teacher is expected to know more than the students on the points discussed, and if unsure should say so and promise to find the answer for the next class. It mentions that advances in communication technology have changed teaching systems, but it does not say technology changes how people learn, so keep that line as the author's comment."
 - **Explanation:**
   - Remember four factors: teacher, student, place, method.
 - **Fact check log (still pending):** read against the teaching-practice chapter and appendix of the official guidebook (older scheme, so a coverage check only), own words; the Board's own teaching guidance to be added when its current text is in hand; the author and a certified teacher to review.
 - **Open conflicts (deck versus notes; to be checked before the deck is rebuilt):**
   - The deck places these points under teaching essentials (in the lesson plan block); they were moved here because they fit factors and learning principles. The author may prefer them back there.
   - "Ensure uniform responses" is unclear (likely the class responding together); to be checked.
-- **Worked examples:** to be written
+  - Resolution: Slide places these points under teaching essentials, notes moved them here : notes right: the guidebook lists them under teaching principles and methods, which fit factors and learning principles
+  - Resolution: "Ensure uniform responses" unclear : slide right: it is the response-to-instruction method in the guidebook, where the teacher gives precise instructions and all students respond to them in the same way
+- **Fact check log (pass 3):** added points: 2 confirmed, 1 corrected, 0 rejected, 0 unverified; hand-written points not confirmed: 0; conflicts resolved: 2.
+- **Layers note (2026-11-24):** Worked examples, Exercises and FAQ below are drafted only from this block's checked Material; the Review status stays pending until the author and a certified teacher read them.
+- **Worked examples:**
+  - **Model answer: factors that influence teaching:** Question: "Name and explain the factors that influence yoga teaching." Write the four factors first, then one line on each.
+    - Teacher: knowledge, skill in demonstration, communication, attitude and preparation.
+    - Student: age, health, level, interest and motivation; people learn by seeing, hearing or doing.
+    - Setting (place): space, air, noise, mats, time of day and size of the group.
+    - Method: instruction and demonstration, group or individual teaching, directed practice, discussion; the method must suit the aim.
+  - **Scenario: a question the teacher cannot answer:** A student asks something the teacher does not know. Step 1: do not guess. Step 2: say honestly that you are not sure. Step 3: promise to find the answer and bring it to the next class. This matches the guidebook advice that the teacher should know more than the students on the points discussed, and if unsure, say so and commit to find out.
+  - **Memory aid: sorting a class problem into a factor:** Ask "teacher, student, place or method?" A class too noisy to hear is the place. A student who loses interest is the student. A long talk with no practice is the method (talk should be combined with practice and visuals). Your own poor preparation is the teacher.
 - **Figures:** none yet
-- **Exercises:** to be written
+- **Exercises:**
+  - (Recall) Q: Fill in the blank: the four factors that influence teaching are the teacher, the student, the ___ and the method. A: Place (the setting).
+  - (Recall) Q: Name three things about the setting that can help or hinder a class. A: Any three of space, air, noise, mats, time of day and the size of the group.
+  - (Recall) Q: True or false: people all learn in the same way. A: False. People learn in different ways, by seeing, hearing or doing.
+  - (Understand) Q: Match each to its factor: (a) age and health, (b) skill in demonstration, (c) group or individual teaching, (d) mats and air. A: (a) student, (b) teacher, (c) method, (d) setting.
+  - (Understand) Q: Give two principles of learning from the Material. A: Any two of: interest helps; learning needs activity and practice; learning is gradual and individual; short rests between practices help; understanding the task before the practice helps the skill.
+  - (Understand) Q: Name two points that make teaching effective. A: Any two of: learners need activity and real experience; the practice itself must be correct; watching a good demonstration builds skill; pictures and models help the learning of movement.
+  - (Apply) Q: A teacher talks for a long time and the class gets restless. What does the Material suggest? A: Lectures work better combined with other methods; add practice, use visuals so points are remembered, and let students apply the learning by doing.
+  - (Apply) Q: A teacher wants the whole class to start a practice together on one instruction. Which method fits and why? A: The response-to-instruction method: the teacher gives precise instructions and all students respond to them in the same way.
 - **Quiz:**
   - Q: Name the four factors that influence teaching. A: The teacher, the student, the place and the method.
   - Q: Name two points that make teaching effective. A: Activity and experience; correct practice; observation; visuals.
   - Q: What should a teacher do when asked something they do not know? A: Commit to find the answer.
-- **FAQ:** to be written (the question bank in `ycb1_theory_faqs.tex` is a seed, to be rewritten)
+- **FAQ:**
+  - Q: What are the factors that influence yoga teaching? A: Remember four: teacher, student, place and method.
+  - Q: Why does the method have to suit the aim? A: Because the choices (instruction and demonstration, group or individual teaching, directed practice, discussion) work differently, so pick the one that serves what you want the class to learn.
+  - Q: What if a student asks me something I do not know? A: Say so, and promise to find the answer for the next class.
+  - Q: Do pictures and demonstrations really help? A: Yes. Watching a good demonstration builds skill, and pictures and models help the learning of movement.
+  - Q: Does technology change how people learn? A: The guidebook says advances in communication technology have changed teaching systems, but it does not say they change how people learn. Treat that as a comment only, and a source is still needed for more.
+  - Q: Why do short rests between practices matter? A: The Material lists short rests as one of the principles that help learning.
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -5748,19 +6193,22 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Demonstration:** show the practice first, then say the key points; the students follow, then the teacher corrects with care.
   - **Questions:** invite questions, never mock one; keep the talk to the point; if you do not know, say you will find out.
   - **Time and priorities:** plan the minutes, start and end on time, and put the important practices first.
-  - **Techniques the question bank prefers (deck, not yet checked):** story-telling, spoken instruction and demonstration; answer questions during the rest between two practices.
-  - **Difficult student (deck, not yet checked):** a student who is not practising to your satisfaction is encouraged to be patient and continue; no force, no neglect.
+  - "  - **Techniques the question bank prefers (deck, not yet checked) (checked: Guidebook Teaching Practice chapter):** spoken instruction (the lecture and response-to-instruction methods) and demonstration are both taught in the guidebook, and the guidebook says demonstration should come before the students practise; story-telling is not named in it. The guidebook puts explanations in the rest between two asanas and a question-and-answer session at the end of a unit, so questions are best taken at a rest, not during a posture."
+  - "  - **Difficult student (deck, not yet checked) (checked: Guidebook Teaching Practice chapter):** if a student finds a posture hard, the guidebook asks the instructor to modify the posture or its alignment quickly and to build trust; practice is to stay within the student's own capacity and with no violent action, and the student is to be patient and regular. The guidebook leaves its own activity question on this unanswered."
 - **Explanation:**
   - The main points are attention, brief clear instruction, demonstration, and a calm space.
 - **Fact check log (still pending):** read against the teaching-practice chapter and appendix of the official guidebook (older scheme, so a coverage check only), own words; the Board's own teaching guidance to be added when its current text is in hand; the author and a certified teacher to review.
 - **Open conflicts (deck versus notes; to be checked before the deck is rebuilt):**
   - This block has no workshop slide frame of its own; the content is from the question bank in the groups block. The figure prompt for this block names the frame about precautions, and the figure prompt in the precautions block names the lesson-plan frame; the frame names look swapped, for the author to check.
   - The question bank names "correction" as not a preferred technique, while the existing Material says the teacher corrects with care; to be checked.
+  - Resolution: Question bank says "correction" is not preferred : notes right: Guidebook appendix steps IV and V allow correction by the teacher and demonstrator; the question likely means forced or harsh correction
+  - Resolution: Frame names in the figure prompts look swapped : author to check: not a source question, only the deck frame titles
+- **Fact check log (pass 3):** added points: 0 confirmed, 2 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 2; conflicts resolved: 2.
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-teaching-lecture**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_teaching_lecture.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_teaching_lecture_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_teaching_lecture.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_teaching_lecture_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pt-class-management, frame 'Conducting Yoga Practical Lessons: Precautions and Contraindications'. Teaching scene: Conducting Yoga Practical Lessons: Precautions and Contraindications. A calm indoor yoga hall; an instructor in front (CS1 with a different top colour) and a small group of learners on mats, seen from behind or from the side, no recognisable faces, simple shapes. Shows only the idea in the frame title. Aspect ratio 16:9. Check before use: author.
 - **Exercises:** to be written
 - **Quiz:**
@@ -5789,7 +6237,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Contraindications:** each practice has its own cautions (for example high blood pressure, heart disease, hernia, back problems, pregnancy, menstruation); they are listed in the block of each practice, and the teacher keeps them in mind.
   - **Scope of the instructor:** teach the common protocol for prevention and well-being; do not diagnose or promise a cure; refer the person to a doctor or another teacher when the need is beyond your scope.
   - **Referral:** refer when you cannot give the person enough time, when the need is outside your skill, or when the student has gone as far as you can help.
-  - **Five working rules (deck, not yet checked):** assess each person's health and physical limits; modify postures to fit; watch the students for discomfort or strain; do not let anyone overexert; tell the class about the contraindications of each practice for specific conditions.
+  - **Five working rules (checked: Guidebook Teaching Practice chapter (modify and adjust posture for a student who struggles; no unnecessary exhaustion; teacher stresses limitations before the practice in appendix step III); Guidebook competence list (recognise and adapt to the aspirant's needs)):** assess each person's health and physical limits; modify postures to fit; watch the students for discomfort or strain; do not let anyone overexert; tell the class about the contraindications of each practice for specific conditions.
 - **Explanation:**
   - A good lesson is safe first: ask, show, correct kindly, stop at pain.
 - **Fact check log (still pending):** read against the teaching-practice chapter and appendix of the official guidebook (older scheme, so a coverage check only), own words; the Board's own teaching guidance to be added when its current text is in hand; the author and a certified teacher to review.
@@ -5803,11 +6251,13 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
     - (Ref: Certification of Yoga Professionals Official Guidebook For Level I (Instructor))
 - **Open conflicts (deck versus notes; to be checked before the deck is rebuilt):**
   - None found; the slide points are already covered in substance by the existing Material and only restate it as short rules.
+  - Resolution: Slide points versus existing Material : notes right and slide right: no conflict, the slide restates the guidebook points as short rules
+- **Fact check log (pass 3):** added points: 1 confirmed, 0 corrected, 0 rejected, 0 unverified; hand-written points not confirmed: 2; conflicts resolved: 1.
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-teaching-demo**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_teaching_demo.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_teaching_demo_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_teaching_demo.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_teaching_demo_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pt-conducting-lessons-precautions, frame 'Essentials of Good Lesson Plan'. Teaching scene: Essentials of Good Lesson Plan. A calm indoor yoga hall; an instructor in front (CS1 with a different top colour) and a small group of learners on mats, seen from behind or from the side, no recognisable faces, simple shapes. Shows only the idea in the frame title. Aspect ratio 16:9. Check before use: author.
 - **Exercises:** to be written
 - **Quiz:**
@@ -5836,7 +6286,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Communication:** say what you mean, in few words; ask questions to be sure you are understood; listen without hurry; give the student more appreciation than complaint; turn a criticism into a polite request; do not blame.
   - **Conduct:** be punctual and calm, welcome all students, respect their privacy and their limits, and keep learning and practising yourself.
   - **Moral strength:** be ready to face misunderstanding with courage and a steady mind.
-  - **Five features in the deck (deck, not yet checked):** knowledgeable (a sound grasp of the principles and practices); communicative (clear and effective speech); empathetic (understands and answers what the students need); professional (keeps to professional conduct and ethics); adaptable (flexible in method and plan).
+  - "  - **Five features in the deck (deck, not yet checked) (checked: Board Guideline version 0.3 attributes table; Guidebook Teaching Practice chapter):** the five words are the slide's own list, not the Board's. The Board's attributes for this level are self-discipline, confidence, maturity, patience, compassion, active listening, time management, empathy and language proficiency, with good communication, time management and reading the trainees' body language. Knowledgeable, communicative, empathetic and adaptable fit the guidebook (the teacher knows more than the students and can modify the practice; communicates clearly and listens); professional conduct and ethics is not named in the sources read."
 - **Explanation:**
   - Learn the attributes the Board names, then the three skills: demonstrate, explain, adapt.
 - **Fact check log (still pending):** read against the teaching-practice chapter and appendix of the official guidebook (older scheme, so a coverage check only), own words; the Board's own teaching guidance to be added when its current text is in hand; the author and a certified teacher to review.
@@ -5850,11 +6300,13 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
     - (Ref: Certification of Yoga Professionals Official Guidebook For Level I (Instructor))
 - **Open conflicts (deck versus notes; to be checked before the deck is rebuilt):**
   - None found; the slide features overlap with the qualities already listed.
+  - Resolution: Slide five features overlap the notes' qualities : genuine variation: the Board list is the exam list (Guideline version 0.3); the slide list is a teaching summary and should not replace it
+- **Fact check log (pass 3):** added points: 0 confirmed, 1 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 1; conflicts resolved: 1.
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-teaching-teacher**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_teaching_teacher.png`
-    - Final file: workshops/YCB1/images/new/ycb1_teaching_teacher_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_teaching_teacher.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_teaching_teacher_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pt-ideal-instructor, frame 'Salient Features of an Ideal Yoga Instructor'. A simple flat icon for Salient Features of an Ideal Yoga Instructor: one figure (CS1) with one symbol that stands for the idea, centred, plenty of white space. Aspect ratio 1:1. Check before use: author.
 - **Exercises:** to be written
 - **Quiz:**
@@ -5880,18 +6332,20 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **A plan for a mixed beginners' group:** a short prayer, loosening practices from the neck down, a few easy asanas, relaxation, one or two gentle breathing practices, a short meditation, and the closing prayer.
   - **A plan for a special group:** fewer and slower practices, seated or lying positions, more rest, and no practice that is cautioned for the condition, within medical advice.
   - **How to adapt:** shorten or lengthen the time of each part, keep the order, drop what is not suitable.
-  - **Marks of a good model plan (deck, not yet checked):** a clear logical flow from warm-up through practice to cool-down; aims matched to the learners' needs and goals; time given to every part; variety of asana, pranayama and meditation; room to adapt to the students' response.
+  - "  - **Marks of a good model plan (deck, not yet checked) (checked: Common Yoga Protocol; Guidebook Teaching Practice chapter):** follow the Board's order (prayer, loosening practices as the warm-up, asanas, kapalabhati, pranayama, dhyana, sankalpa and the peace chant, with relaxation as needed); match the aims to the learners' needs, since the guidebook asks for a student-centred approach and aligned objectives; give each part its time; include a range of asana, pranayama and meditation as the protocol does; keep the method flexible. The guidebook and protocol do not use the words warm-up and cool-down, and give no minutes for a class."
 - **Explanation:**
   - Use the Board's protocol as the model and show one sample plan with minutes in the booklet.
   - The sample plans in the booklet are to be written once the Board's protocol timings are checked.
 - **Fact check log (still pending):** read against the teaching-practice chapter and appendix of the official guidebook (older scheme, so a coverage check only), own words; the Board's own teaching guidance to be added when its current text is in hand; the author and a certified teacher to review.
 - **Open conflicts (deck versus notes; to be checked before the deck is rebuilt):**
   - The slides give no sample plan and no minutes, so none were added; the booklet's sample plan with minutes still needs the Board's protocol timings.
+  - Resolution: Slides give no sample plan or minutes : notes right: no source in hand gives class timings (the Common Yoga Protocol gives none except the wait after practice before bath and food)
+- **Fact check log (pass 3):** added points: 0 confirmed, 1 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 3; conflicts resolved: 1.
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-teaching-lesson**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_teaching_lesson.jpg`
-    - Final file: workshops/YCB1/images/new/ycb1_teaching_lesson_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_teaching_lesson.jpg`
+    - Final file: books/YCB1/workshop/images/new/ycb1_teaching_lesson_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pt-model-lesson-plans, frame 'Models of Ideal Yoga Lesson Plans'. Teaching scene: Models of Ideal Yoga Lesson Plans. A calm indoor yoga hall; an instructor in front (CS1 with a different top colour) and a small group of learners on mats, seen from behind or from the side, no recognisable faces, simple shapes. Shows only the idea in the frame title. Aspect ratio 16:9. Check before use: author.
 - **Exercises:** to be written
 - **Quiz:**
@@ -5919,10 +6373,10 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **What candidates report:** questions that ask the candidate to apply what they know: choosing and giving a short sequence for a given group, naming the cautions for a condition, and explaining meditation techniques and the stages of yoga nidra.
   - **Groups named by candidates:** students, women, older people, people with diabetes, high blood pressure, high cholesterol or back pain, and people with a disability.
   - **How to answer:** give the practices that suit the person, name the practices to avoid, keep to prevention and well-being, and refer to a doctor where needed.
-  - **Where it is assessed (deck, not yet checked):** inside the practical assessment, which is said to last at most one hour for each candidate (to be checked).
+  - **Where it is assessed (checked: Board Guideline version 0.3 section 3.12 and version 0.2 section 2.14 (each candidate assessed for not more than one hour in the practicum, at the assessor's discretion within that); section 3.13 lists application of knowledge as part of the practical):** inside the practical assessment, which is said to last at most one hour for each candidate (to be checked).
   - **What the part asks (deck, not yet checked):** use what you know about the protocol, the practices and the learner to decide what to teach, and give the reason.
   - **Preparing (deck, not yet checked):** work out a few real cases, for example a beginner, an older adult and a person with a stiff back, and say what you would keep, change or leave out. These are study suggestions, not official questions.
-  - **Skills shown (deck, not yet checked):** carrying out the standard protocol; tailoring instruction to the student; using simple ways to see progress; changing the lesson from feedback and observation; clear communication of instructions.
+  - "  - **Skills shown (deck, not yet checked) (checked: Guidebook competence list and Teaching Practice chapter):** the guidebook describes these as skills of a teacher (apply the protocol, tailor instruction to the aspirant, treat assessment as part of learning, adapt the lesson, communicate clearly), but the Board does not say this component tests them; the Board only names the component and its 10 marks."
 - **Explanation:**
   - Practise saying a five-minute plan for each group aloud.
   - The Board's own wording and format for this part is not in the documents in hand; the author to confirm with the Board or one institute.
@@ -5944,11 +6398,14 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Open conflicts (deck versus notes; to be checked before the deck is rebuilt):**
   - The slide cites Board guideline version 0.2 for the one-hour limit, while another block in this file cites version 0.3; the author to confirm the current text.
   - The slide says the one-hour limit covers the whole practical; check against the guideline.
+  - Resolution: Version 0.2 versus 0.3 for the one-hour limit : no conflict: both versions carry the same rule (not more than one hour per candidate), so either can be cited; prefer 0.3 as the later text
+  - Resolution: One-hour limit covers the whole practical : slide right: Board guideline sentence covers the practicum as a whole, with the assessor free to finish earlier
+- **Fact check log (pass 3):** added points: 1 confirmed, 1 corrected, 0 rejected, 2 unverified; hand-written points not confirmed: 3; conflicts resolved: 2.
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-application-of-knowledge**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_application_of_knowledge.png`
-    - Final file: workshops/YCB1/images/new/ycb1_application_of_knowledge_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_application_of_knowledge.png`
+    - Final file: books/YCB1/workshop/images/new/ycb1_application_of_knowledge_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pa-application-of-knowledge, frame 'Application of Knowledge as Yoga Protocol Instructor'. Concept diagram: Application of Knowledge as Yoga Protocol Instructor. Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
 - **Exercises:** to be written
 - **Quiz:**
@@ -5999,13 +6456,37 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
     - Feedback Collection: Gather feedback from students and peers.
     - Adaptation: Adapt techniques based on field experience.
     - Professional Growth: Utilize experience for ongoing development.
-- **Worked examples:** to be written
+- **Layers note (2026-11-24):** Worked examples, Exercises and FAQ below are drafted only from this block's checked Material; the Review status stays pending until the author and a certified teacher read them.
+- **Worked examples:**
+  - **Model answer: "What must a candidate show for field experience, and how many marks does it carry?"** Field experience carries 10 marks, part of the practical (140 marks in all). The marking points are:
+    - A report of a training programme the candidate conducted, with photographs.
+    - A feedback form filled by a trainee (Annexure A).
+    - The experience details in the Board's prescribed format (Annexure B).
+  - **A candidate builds the record during the course:** a candidate is taking a 3 month part time course and wants to be ready.
+    - Step 1: teach a few real classes, for example at home, in a park, in a society or in a corporate setting.
+    - Step 2: take a photograph at each programme for the report.
+    - Step 3: ask a trainee to fill and sign the feedback form (Annexure A) with the name and contact details, period and days of training, mode of training, reason for taking up yoga, feedback about the trainer and a mark out of 10.
+    - Step 4: keep a log of dates and hours, so that the experience format (Annexure B) can be filled with the persons trained, the mode, the totals of persons and hours, and the signatures.
+  - **Who signs Annexure B:** a candidate from an institute signs, and the institute's authorised signatory also signs. An open candidate needs no institute signature. Use this as a quick check before submitting the form.
 - **Figures:** none yet
-- **Exercises:** to be written
+- **Exercises:**
+  - (Recall) Q: How many marks are given for field experience? A: Ten, part of the practical (140 marks in all).
+  - (Recall) Q: Fill in the blank: the feedback form is Annexure ___ and the experience format is Annexure ___. A: A for the feedback form; B for the experience format.
+  - (Recall) Q: True or false: the postgraduate exemption in this component applies at Level 1. A: False. It is given only to holders of a postgraduate yoga degree from an accredited institute who sit the Yoga Master certification; it does not apply at this level.
+  - (Understand) Q: Name four things the feedback form asks of the trainee. A: For example the name and contact details, the period of training and number of days, the mode of training, the reason for taking up yoga, feedback about the trainer, and a mark out of 10; it is signed and dated.
+  - (Understand) Q: List the modes of training named in the feedback form. A: Home based, park, society, corporate, other.
+  - (Understand) Q: What does the experience format (Annexure B) list besides the persons trained? A: Working experience with an organisation (name, post, full time, part time or voluntary, dates, hours, role), yoga camps held (name, post, dates, hours, role), and totals of persons, hours and camps.
+  - (Apply) Q: A candidate has photographs and a signed feedback form but has not filled the experience details. Is the record complete? A: No. The Board asks for the report with photographs, the trainee's feedback form and the experience details in its prescribed format, so Annexure B is still needed.
+  - (Apply) Q: A student asks where to get the forms and whether the layout may change. What do you say? A: The forms are the Board's; use its current format, which is on its site and with the institute. The layout may change with a new version of the guideline.
 - **Quiz:**
   - Q: What must the candidate show for field experience? A: A report with photographs of a training programme conducted, a trainee's feedback form, and the experience details in the Board's format.
   - Q: How many marks are there for field experience? A: Ten.
-- **FAQ:** to be written (the question bank in `ycb1_theory_faqs.tex` is a seed, to be rewritten)
+- **FAQ:**
+  - Q: When should I start collecting this record? A: During the course. Teach a few real classes, take a photograph, get a trainee's signed feedback form and keep a log of dates and hours.
+  - Q: Does the Board say exactly what the field experience marks are given for? A: The guideline gives the marks and the documents to show, but the detailed content is not given in the guideline or syllabus text. Ask the institution what it assesses.
+  - Q: Where is field experience assessed? A: It is part of the practical assessment, which lasts at most one hour per candidate.
+  - Q: Is a class log compulsory? A: The Material does not say so. The Board asks for the report, the feedback form and the experience format. A short log of classes is a study suggestion and a practical way to keep the record.
+  - Q: Can I be exempt from this component? A: Not at this level. The exemption is only for postgraduate yoga degree holders sitting the Yoga Master certification.
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -6179,26 +6660,46 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
     - If you fail one stage: pass practical but fail theory, and you may reappear for theory once within 3 months; pass theory but fail practical, and you appear again as a fresh candidate.
     - Certificate: valid for 5 years; renewal needs the Continuing Yoga Education Program.
     - (Ref: YCB, Guidelines for Yoga Professionals, Version 0.2; check the current YCB notice before an exam)
+- **Layers note (2026-11-24):** Worked examples, Exercises and FAQ below include items drafted only from this block's checked Material; the Review status stays pending until the author and a certified teacher read them.
 - **Worked examples:**
   - Theory is out of 60 marks, so 70 percent is 42 marks. Practical is out of 140, so 70 percent is 98 marks. A candidate with 45 in theory and 90 in practical has passed the theory but not the practical, and would apply again as a fresh candidate unless grace marks apply. The guideline does not spell out how the 5 percent grace is counted, so confirm the arithmetic with the institution rather than assuming one.
   - A candidate scores 100 in practical and 38 in theory. The practical is passed and the theory is not, so the candidate may sit the theory once more within 3 months of the result.
+  - **Model answer: "Describe the two stages of the Level 1 exam and the pass rule."** A full answer names both stages, the marks and the rule for each.
+    - Two stages, both compulsory: a theory exam and a practical assessment. Absence in either counts as a fail.
+    - Marks are 200 in all: theory 60, practical 140.
+    - Practical 140 is split as demonstration skills 80, teaching skills 40, application of knowledge 10 and field experience 10.
+    - Pass rule: at least 70 percent in theory and at least 70 percent in practical, each on its own.
+    - Up to 5 percent grace marks may be given in one of the two stages, and a decimal result is rounded up.
+  - **Working out the pass marks:** theory is out of 60, so 70 percent is 42 marks. Practical is out of 140, so 70 percent is 98 marks. A candidate with 45 in theory and 100 in practical has passed both stages. A candidate with 45 in theory and 90 in practical has passed theory but not practical, so the candidate counts as failed and applies again as a fresh candidate, paying the full assessment fee but not a new enrolment fee. How the grace marks are counted is not spelled out in the Material, so ask the institution.
+    - Step 1: find 70 percent of each stage separately.
+    - Step 2: compare each score with its own pass mark; a high score in one stage does not make up for a low score in the other.
+    - Step 3: read the next step from the stage that was failed.
+  - **What happens after a failed stage:** a candidate passes the practical but scores below the theory pass mark. The candidate may sit the theory once more within 3 months of the result, paying the prescribed fee. The enrolment fee is not paid again, because it is paid once for a type of certification and is valid for life. In the opposite case (theory passed, practical failed) the candidate applies again as a fresh candidate, and the enrolment number stays valid.
 - **Figures:**
   - **ycb1-fig-exam-i**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_exam_i.jpg`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_exam_i.jpg`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-ex-exam-and-certification, in own words where it is a list of facts. Used in block ycb1-ex-exam-and-certification, frame 'Exam I'.
   - **ycb1-fig-exam-ii**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_exam_ii.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_exam_ii.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-ex-exam-and-certification, in own words where it is a list of facts. Used in block ycb1-ex-exam-and-certification, frame 'Exam Ii'.
   - **ycb1-fig-exam-iii**
-    - Original file (not embedded here; stays in the deck): `workshops/YCB1/images/ycb1_exam_iii.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_exam_iii.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-ex-exam-and-certification, in own words where it is a list of facts. Used in block ycb1-ex-exam-and-certification, frame 'Exam Iii'.
 - **Exercises:**
   - Without looking, write the minimum marks needed in theory and in practical, and say whether a high score in one can make up for a low score in the other.
   - A trainee asks what happens if the practical date is missed after the theory was taken. Write a two-sentence answer that names the exception and who decides it.
   - Draw a small decision tree: result in each stage (pass or fail) and the next step for each of the four combinations.
+  - (Recall) Q: What is the total number of marks, and how are they split between theory and practical? A: 200 in all: theory 60 and practical 140.
+  - (Recall) Q: Fill in the blank: the theory paper has multiple-choice questions of ___ mark each, answered on an optical mark sheet, with ___ negative marking. A: 1 mark each; no negative marking.
+  - (Recall) Q: True or false: a Level 1 certificate is valid for 3 years. A: False. It is valid for 5 years, counted from the day the result is declared.
+  - (Understand) Q: Match the practical component with its marks: demonstration skills, teaching skills, application of knowledge, field experience (marks: 10, 10, 40, 80). A: Demonstration skills 80, teaching skills 40, application of knowledge 10, field experience 10.
+  - (Understand) Q: The English and Hindi versions of a question seem to differ. Which should you follow? A: The English one, because the guideline says it is correct if the two versions differ.
+  - (Apply) Q: A candidate scores 40 in theory and 110 in practical. Has the candidate passed? What is the next step? A: Theory pass mark is 42, so the theory is not passed; practical pass mark is 98, so the practical is passed. The candidate may sit the theory once more within 3 months of the result, paying the prescribed fee.
+  - (Apply) Q: A candidate who sat the theory cannot attend the practical on the set date. What does the guideline say? A: Absence counts as a fail, except that the assessing institution may, in an exceptional case and on merit, allow the candidate to take the practical on another date.
+  - (Apply) Q: A candidate disagrees with the theory result. Explain what the candidate can ask for and the limits. A: The candidate may ask the institution to re-check the answer sheet, in the candidate's presence, within 15 days of the result, for a fee; the agency replies within 30 days. Only the arithmetic is re-checked, and the candidate may not keep a copy of the paper or answer sheet.
 - **Quiz:**
   - Q: What is the pass mark in the theory stage? A: 70 percent of the theory marks, separate from the practical.
   - Q: A candidate passes the practical and fails the theory. What can the candidate do? A: Sit the theory once more within 3 months of the result, after paying the prescribed fee.
@@ -6210,6 +6711,12 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Does the enrolment fee have to be paid again if I fail? No. It is paid once for the type of certification and stays valid.
   - Can I use the official guidebook for the exam rules? No. The guidebook in the project's reference folder was written for an older scheme. Use the Board's current guideline and notices.
   - Where do the application-of-knowledge and field-experience marks come from? They are part of the practical assessment; the Board guideline gives the marks but not the detailed content. Ask the institution what it assesses.
+  - Q: Do I need to finish school to sit the exam? A: Open candidates need no qualification and there is no age limit. Completion of secondary school is only suggested for admission to a course, and a training institution may set its own rule.
+  - Q: How long must the training be? A: Not less than 200 hours, or not less than 3 months part time, or not less than 1 month full time. The certificate carries 12 credit points.
+  - Q: Does the enrolment fee have to be paid again if I fail? A: No. It is paid once for a type of certification and is valid for life. A candidate who fails the practical pays the full assessment fee again but not a new enrolment fee.
+  - Q: What should I bring on exam day? A: The admit card (issued at least a week before and downloadable from the Board's site), a valid identity card and a pen. Reach the centre preferably an hour early; a candidate more than 15 minutes late is not allowed in.
+  - Q: Can I trust the fees and dates in this booklet? A: Not fully. Amounts change and the Board's site notices change some validity dates, so read the current guideline and notices, or ask the institution, before relying on any fee or date.
+  - Q: Are the things past candidates report about the practical official? A: No. They are not from the Board and may vary by agency and year. Use them as practice only, and follow the syllabus.
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)

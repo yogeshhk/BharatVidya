@@ -1,0 +1,48 @@
+% Book template for the YCB1 exam-guide booklet. Compile with XeTeX (Devanagari support).
+% Trade size 6x9 in, as the other books in this workspace. Plain: no heading numbers typed by hand,
+% the compiler numbers chapters and sections.
+\usepackage[paperwidth=6in, paperheight=9in,
+  inner=0.9in, outer=0.7in, top=0.8in, bottom=0.8in]{geometry}
+\usepackage{fontspec}
+\setmainfont{Segoe UI}
+\newfontfamily\devanagarifont[Script=Devanagari]{Nakula}
+% Sanskrit or Hindi text: \sa{...}
+\newcommand{\sa}[1]{{\devanagarifont #1}}
+
+\usepackage[dvipsnames,table]{xcolor}
+\definecolor{ycbsaffron}{RGB}{176, 82, 18}
+\definecolor{ycbgrey}{gray}{0.35}
+
+\usepackage{emptypage}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{enumitem}
+\setlist{nosep}
+\usepackage{booktabs}
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable}
+
+% Running header: chapter title on the left page, section title on the right page.
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\small\textcolor{ycbgrey}{\leftmark}}
+\fancyhead[RO]{\small\textcolor{ycbgrey}{\booktitleshort}}
+\fancyfoot[C]{\thepage}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\renewcommand{\headrulewidth}{0.4pt}
+\fancypagestyle{plain}{\fancyhf{}\fancyfoot[C]{\thepage}\renewcommand{\headrulewidth}{0pt}}
+
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries\raggedright\color{ycbsaffron}}{\chaptertitlename\ \thechapter}{12pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{-10pt}{24pt}
+\titleformat{\section}{\normalfont\Large\bfseries\color{ycbsaffron}}{\thesection}{0.6em}{}
+\titleformat{\subsection}{\normalfont\large\bfseries}{\thesubsection}{0.6em}{}
+
+\usepackage{xurl}
+\usepackage[hidelinks]{hyperref}
+
+% Boxes used by the chapters: a cautions box and a quick-recall box.
+\newtcolorbox{caution}{breakable, colback=red!4, colframe=red!55!black, title=Caution, fonttitle=\bfseries}
+\newtcolorbox{recall}{breakable, colback=ycbsaffron!6, colframe=ycbsaffron, title=Quick recall, fonttitle=\bfseries}

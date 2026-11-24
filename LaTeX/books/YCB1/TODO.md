@@ -8,9 +8,13 @@ Open actions only, terse. Rules live in `AUTHORING.md`, status in `README.md`. W
 - [x] Read the guidebook in `docs/` (two copies, identical text). Result: it belongs to the older four-level scheme, not to the current Yoga Protocol Instructor syllabus. It has no content for application of knowledge or field experience, and no dedicated section on the Gita, Prasthanatrayi, bhavas, dinacharya and ritucharya, or hrid gati. The notes carry a Local sources line per block with these gaps.
 - [ ] Find a named source for each block marked gap in the notes, and confirm the memorised sutra and sloka lists against the Board syllabus text. For application of knowledge and field experience ask the Board or an accredited institute what is assessed.
 - [ ] Decide which guidebook copy to keep (the two files have identical text); the author removes the other, I do not delete.
-- [ ] Deck corrections found while checking the notes (fix in `workshops/YCB1/ycb1_theory_texts.tex` when the deck is rebuilt from the notes): the Devanagari of Gita 2.49, 2.50 and 2.70 on the Gita frames is wrong (it is not those verses; use the checked text in the notes); the Yoga Sutra overview frame calls the sahabhuvas "accomplishments" (they are the companions of distraction: unhappiness, despair, trembling, irregular breath); the deck lists eleven principal Upanishads where the traditional commentary has ten; the first-aid frame gives the CPR depth as at least 5 cm where the Indian manual says 5 to 6 cm.
+- [ ] Deck corrections found while checking the notes (fix in `books/YCB1/workshop/ycb1_theory_texts.tex` when the deck is rebuilt from the notes): the Devanagari of Gita 2.49, 2.50 and 2.70 on the Gita frames is wrong (it is not those verses; use the checked text in the notes); the Yoga Sutra overview frame calls the sahabhuvas "accomplishments" (they are the companions of distraction: unhappiness, despair, trembling, irregular breath); the deck lists eleven principal Upanishads where the traditional commentary has ten; the first-aid frame gives the CPR depth as at least 5 cm where the Indian manual says 5 to 6 cm.
 - [x] The Param Yoga study notes PDF now lives on the author's Desktop, outside the repository (cited in the notes References as candidate study notes). The two large instructor-book PDFs and the `.gdraw` file are still in `docs/` and still need the same decision.
 - [ ] A Google Drawings link file (`YCB Protocol Instructor.gdraw`) in `docs/` carries a Google account identifier and email. Keep it out of the public repository.
+- [ ] `docs/Yoga_Booklet.pdf` (the Board's 2019 booklet, third-party) joins the two guidebook PDFs: keep out of the public repository.
+- [ ] Read the MDNIY monographs named in that booklet (sukshma vyayama, shatkarma, yogasana, pranayama) for the eight asanas still without a Board source, the sarvanga pushti and hrid gati rounds and cautions, and the hasta mudra forms. Findings so far: `../../../reports/ycb1_tools/open_sources_practical.md`.
+- [ ] Application of knowledge: no source describes what is assessed (only its 10 marks and one-hour limit). Ask the Board or an accredited institute. Findings: `../../../reports/ycb1_tools/open_sources_application.md`.
+- [ ] Check two FAQ answers set from an agent's own knowledge (Gita paths; kaivalya as asamprajnata samadhi) and the Sanskrit spellings of Yoga Sutra 1.23 to 1.29 and Gita 16.1 against a printed edition. Deck fix logs with their Needs source lists: `../../../reports/ycb1_tools/deck_fixes_*.md`.
 - [ ] Ask one accredited training institute how many candidates sit Level 1 a year and what the trainees use to study.
 
 ## Decisions still open
@@ -32,15 +36,15 @@ Open actions only, terse. Rules live in `AUTHORING.md`, status in `README.md`. W
 - [ ] Exam and certification block checked against the Board guideline.
 - [ ] Fact-check pass over every notes block (a gate: nothing flows to the deck or booklet from a block whose Fact check line is pending). Verify names, periods, numbers, Sanskrit text, steps, cautions, health statements and exam rules against primary or authoritative sources; note short variations where good sources differ. Rules in `AUTHORING.md`.
 - [ ] Brevity pass: check every written block against the main principle (short, plain, complete to the syllabus, nothing outside it) and trim.
-- [ ] Rewrite the question bank in `../../workshops/YCB1/ycb1_theory_faqs.tex` into the Quiz and FAQ layers, in own words.
+- [ ] Rewrite the question bank in `workshop/ycb1_theory_faqs.tex` into the Quiz and FAQ layers, in own words.
 
 ## Figures (see `docs/image_register.csv`)
-- [ ] Generate each picture with the common system prompt (`docs/image_system_prompt.md`) plus its description; save under `../../workshops/YCB1/images/new/`; uncomment the `% NEW-PIC` line in the deck so both show; review side by side; comment out the original only after approval.
+- [ ] Generate each picture with the common system prompt (`docs/image_system_prompt.md`) plus its description; save under `workshop/images/new/`; uncomment the `% NEW-PIC` line in the deck so both show; review side by side; comment out the original only after approval.
 - [ ] Trial: make three figures (one pose, one anatomy diagram, one vyayama pair) with the shared character sheet; fix the prompt wording; teacher check.
 - [ ] Draw the diagrams in TikZ or Python (anatomy, kosha, chakra, prana, history, bandha, breathing, stick figures).
 - [ ] Retype the table screenshots as LaTeX tables in own words; retire the exam screenshots.
 - [ ] Generate the people figures in sets with one character sheet; teacher reviews every pose; for the printed book replace with own photographs or commissioned line art.
-- [ ] Create `../../workshops/YCB1/images/new/`; in the deck comment out the old picture line (never delete) and add the new one under it; update the register status; later move retired originals to a backup folder only when the author says.
+- [ ] Create `workshop/images/new/`; in the deck comment out the old picture line (never delete) and add the new one under it; update the register status; later move retired originals to a backup folder only when the author says.
 
 ## Derived outputs
 - [ ] Re-author the deck frames from the notes (text that follows a web page or the guidebook closely must be rewritten); keep the deck compiling after each batch.

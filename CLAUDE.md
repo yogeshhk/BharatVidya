@@ -24,7 +24,7 @@ All LaTeX compilation uses **XeTeX** (required for Devanagari and Unicode suppor
 ```bat
 LaTeX\make_all.bat                              # every live family
 LaTeX\workshops\YogaSutra\make_yogasutra.bat    # Yoga Sutra workshop and its seminars
-LaTeX\workshops\YCB1\make_ycb1.bat              # YCB certification
+LaTeX\books\YCB1\workshop\make_ycb1.bat         # YCB certification (workshop lives inside the YCB1 book project)
 LaTeX\workshops\YogaNidra\make_yoganidra.bat
 LaTeX\workshops\Sharada\make_sharada.bat
 LaTeX\workshops\YogaShastra\make_yogashastra.bat  # retired, switched off
@@ -70,7 +70,7 @@ There is no code in this repository. The YogaSutraTrees knowledge graph by Giaco
 
 | Directory | Content |
 |-----------|---------|
-| `LaTeX/` | The slide system, grouped by topic: `workshops/` (YCB1, YogaSutra with its seminars, YogaNidra, Sharada, and the retired YogaShastra), `onepagers/`, `_shared/` (templates, shared topic files and images), `_leftovers/` (unused, kept), `books/` (planned) |
+| `LaTeX/` | The slide system, grouped by topic: `workshops/` (YogaSutra with its seminars, YogaNidra, Sharada, and the retired YogaShastra), `onepagers/`, `_shared/` (templates, shared topic files and images), `_leftovers/` (unused, kept), `books/` (`YCB1/` project folder: `docs/` notes, `workshop/` decks, later `book/`, as in QCNP) |
 | `YogaSutra/` | Notes on the Yoga Sutra, the Devanagari text, hand-drawn mind maps (`mindmaps/`), `SOURCES.md` and a long video list (`README.md`) |
 | `YogaNidra/` | Yoga Nidra overview (`README.md`), notes, a detailed practice script and a research reading list |
 | `Spirituality/` | A curated list of Yoga resources (`README.md`), a meditation note, and the GoodLife and Sketchnotes folders (renamed from `Yoga/`) |

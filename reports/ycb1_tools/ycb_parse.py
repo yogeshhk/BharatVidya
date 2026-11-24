@@ -1,6 +1,6 @@
 import re, glob, sys, os
 sys.stdout.reconfigure(encoding="utf-8")
-D = "D:/Yogesh/GitHub/BharatVidya/LaTeX/workshops/YCB1/"
+D = "D:/Yogesh/GitHub/BharatVidya/LaTeX/books/YCB1/workshop/"
 
 def strip_comments(src):
     out = []

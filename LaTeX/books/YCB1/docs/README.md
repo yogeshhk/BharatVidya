@@ -13,7 +13,7 @@ Check there before relying on a syllabus, because the Board revises them.
 - [Syllabus, level 3](Syllabus-for-level-3.pdf)
 
 ## Related in this repository
-- The author's slides for the level 1 workshop are built from `LaTeX/workshops/YCB1/` (see the folder README in `LaTeX/`); the textbook project that builds on them is `LaTeX/books/YCB1/`.
+- The author's slides for the level 1 workshop are built from `LaTeX/books/YCB1/workshop/` (see the folder README in `LaTeX/`); the textbook project that builds on them is `LaTeX/books/YCB1/`.
 - Videos and teachers for the exams are listed in the [Awesome Yoga list](../../../../Spirituality/README.md).
 
 Local reference only, not for the public repository: the two large instructor-book PDFs and the Common Yoga Protocol booklet

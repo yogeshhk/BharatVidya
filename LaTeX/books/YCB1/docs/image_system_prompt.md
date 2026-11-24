@@ -36,6 +36,6 @@ The description in the register follows this layout, so that each one is complet
 ## Review workflow (original and new together)
 
 - Today the original picture stays in the deck exactly as it is, with the prompt directly below it (a `% PROMPT` comment). The notes file holds no pictures, only the original file name and the prompt as text.
-- After a picture is generated, save it under `workshops/YCB1/images/new/` with the final name from the register. In the deck, uncomment the `% NEW-PIC` line below the original so that both show on the same frame. Review them side by side.
+- After a picture is generated, save it under `books/YCB1/workshop/images/new/` with the final name from the register. In the deck, uncomment the `% NEW-PIC` line below the original so that both show on the same frame. Review them side by side.
 - When the review is approved, comment out the original picture line (never delete it) and keep the new one. Set the register status to `approved`.
 - A generated people figure is a draft for the deck. For print, use the author's own photographs or commissioned line art, and have a certified teacher check every pose.

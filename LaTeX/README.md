@@ -6,7 +6,7 @@ This folder holds the Beamer presentations, article-format cheat sheets and buil
 
 | Folder | What it holds |
 |---|---|
-| `workshops/YCB1/` | The Yoga Certification Board Level 1 (Yoga Protocol Instructor) workshop: drivers, the `ycb1_*` topic files, its own `images/`, `make_ycb1.bat` |
+| `books/YCB1/workshop/` | The Yoga Certification Board Level 1 (Yoga Protocol Instructor) workshop: drivers, the `ycb1_*` topic files, its own `images/`, `make_ycb1.bat` |
 | `workshops/YogaSutra/` | The Yoga Sutra workshop, with its seminars in `seminars/` (Intro, Samadhipad, Sadhanapad, Vibhutipad, Kaivalyapad, Overview) |
 | `workshops/YogaNidra/` | The Yoga Nidra seminar (the guided practice: theory, instructions, teaching) |
 | `workshops/Sharada/` | The Sharada script seminar |
@@ -31,7 +31,7 @@ Each family has a batch script that finds and compiles its drivers, each from it
 | Script | Pattern | Family |
 |--------|---------|--------|
 | `workshops/YogaSutra/make_yogasutra.bat` | `Main_*_YogaSutra*.tex` (including `seminars/`) | Yoga Sutra workshop and seminars |
-| `workshops/YCB1/make_ycb1.bat` | `Main_*_YCB*.tex` | YCB certification |
+| `books/YCB1/workshop/make_ycb1.bat` | `Main_*_YCB*.tex` | YCB certification |
 | `workshops/YogaNidra/make_yoganidra.bat` | `Main_*_YogaNidra*.tex` | Yoga Nidra |
 | `workshops/Sharada/make_sharada.bat` | `Main_*_Sharada*.tex` | Sharada script |
 | `workshops/YogaShastra/make_yogashastra.bat` | `Main_*_YogaShastra*.tex` | Retired, switched off |
@@ -45,7 +45,7 @@ The decks share `_shared/template_presentation.tex` and `_shared/template_cheats
 
 | Workshop | Deck | What it is for |
 |---|---|---|
-| Yoga certification | `workshops/YCB1/Main_Workshop_YCB1_*` | The Yoga Certification Board Level 1 syllabus: theory units, asana demonstration, teaching skills |
+| Yoga certification | `books/YCB1/workshop/Main_Workshop_YCB1_*` | The Yoga Certification Board Level 1 syllabus: theory units, asana demonstration, teaching skills |
 | Yoga Sutra | `workshops/YogaSutra/Main_Workshop_YogaSutra_*` and its seminars | The text, pada by pada |
 | Yoga Nidra | `workshops/YogaNidra/Main_Seminar_YogaNidra_*` | The guided practice: theory, instructions, teaching |
 
