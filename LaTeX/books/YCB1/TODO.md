@@ -1,5 +1,7 @@
 # TODO: YCB Level 1 textbook
 
+**Status: parked as a 2027 project (author, 2026-11-24).** All notes blocks have book text and the book builds; what remains is the author's read, the teacher and reviewer pass, clearing the flagged pictures and generating the complicated figures. Pick up from the list below.
+
 Open actions only, terse. Rules live in `AUTHORING.md`, status in `README.md`. Work one task at a time, in this order; the author confirms before each.
 
 ## TOP PRIORITY (author, 2026-11-24): make the notes, the workshop and the book one consistent body of content
