@@ -226,11 +226,11 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-history**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_history.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_history_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_history.png`
+    - Final file: books/YCB1/images/new/ycb1_history_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-th-origin-history-development, frame 'History of Yoga'. Concept diagram: History of Yoga. Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
   - **ycb1-fig-teachers**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_teachers.jpg`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_teachers.jpg`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate portraits of real people. Replace with a plain timeline diagram of the teachers named in the checked notes block, or with photographs the author has permission to use. Used in block ycb1-th-origin-history-development, frame 'History of Yoga'.
 - **Exercises:** to be written
@@ -521,20 +521,20 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-chakras**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_chakras.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_chakras_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_chakras.jpg`
+    - Final file: books/YCB1/images/new/ycb1_chakras_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-th-principles-of-yoga, frame 'Chakra Mudras (Energy Center Gestures); Chakras'. Concept diagram: Chakra Mudras (Energy Center Gestures); Chakras. Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
   - **ycb1-fig-dhatus**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_dhatus.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_dhatus_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_dhatus.jpg`
+    - Final file: books/YCB1/images/new/ycb1_dhatus_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-th-principles-of-yoga, frame 'Dhatus'. Concept diagram: Dhatus. Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
   - **ycb1-fig-kosha**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_kosha.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_kosha_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_kosha.png`
+    - Final file: books/YCB1/images/new/ycb1_kosha_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-th-principles-of-yoga, frame '(Five Sheaths)'. Concept diagram: (Five Sheaths). Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
   - **ycb1-fig-pranas**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_pranas.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_pranas_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_pranas.jpg`
+    - Final file: books/YCB1/images/new/ycb1_pranas_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-th-principles-of-yoga, frame 'Pranas'. Concept diagram: Pranas. Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
 - **Exercises:** to be written
 - **Quiz:**
@@ -3162,115 +3162,115 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-autonomic-nervous-system**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Autonomic_Nervous_System.jpg`
-    - Final file: books/YCB1/workshop/images/new/Autonomic_Nervous_System_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/Autonomic_Nervous_System.jpg`
+    - Final file: books/YCB1/images/new/Autonomic_Nervous_System_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Autonomic Nervous System (ANS)'. Anatomy diagram: Autonomic Nervous System (ANS). A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-basic-brain-anatomy**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Basic-brain-anatomy.jpg`
-    - Final file: books/YCB1/workshop/images/new/Basic-brain-anatomy_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/Basic-brain-anatomy.jpg`
+    - Final file: books/YCB1/images/new/Basic-brain-anatomy_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Central Nervous System: Brain'. Anatomy diagram: Central Nervous System: Brain. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-cardiovascularsystem**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/CardiovascularSystem.jpg`
-    - Final file: books/YCB1/workshop/images/new/CardiovascularSystem_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/CardiovascularSystem.jpg`
+    - Final file: books/YCB1/images/new/CardiovascularSystem_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Cardiovascular System'. Anatomy diagram: Cardiovascular System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-heart-diagram**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Heart-diagram.png`
-    - Final file: books/YCB1/workshop/images/new/Heart-diagram_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/Heart-diagram.png`
+    - Final file: books/YCB1/images/new/Heart-diagram_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Blood Vessels and Heart'. Anatomy diagram: Blood Vessels and Heart. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-human-excretory-system**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Human-Excretory-System.jpg`
-    - Final file: books/YCB1/workshop/images/new/Human-Excretory-System_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/Human-Excretory-System.jpg`
+    - Final file: books/YCB1/images/new/Human-Excretory-System_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Excretory System'. Anatomy diagram: Excretory System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-human-male-reproductive-system-en**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Human_male_reproductive_system_en.jpg`
-    - Final file: books/YCB1/workshop/images/new/Human_male_reproductive_system_en_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/Human_male_reproductive_system_en.jpg`
+    - Final file: books/YCB1/images/new/Human_male_reproductive_system_en_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Male Reproductive System'. Anatomy diagram: Male Reproductive System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-mechnaism-of-muscle-contrtaction**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Mechnaism-of-muscle-contrtaction.png`
-    - Final file: books/YCB1/workshop/images/new/Mechnaism-of-muscle-contrtaction_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/Mechnaism-of-muscle-contrtaction.png`
+    - Final file: books/YCB1/images/new/Mechnaism-of-muscle-contrtaction_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Muscle Contraction'. Anatomy diagram: Muscle Contraction. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-muscle-chart-showing-the-muscular-system-labeled**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Muscle-chart-showing-the-muscular-system-labeled.jpg`
-    - Final file: books/YCB1/workshop/images/new/Muscle-chart-showing-the-muscular-system-labeled_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/Muscle-chart-showing-the-muscular-system-labeled.jpg`
+    - Final file: books/YCB1/images/new/Muscle-chart-showing-the-muscular-system-labeled_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Muscular System Overview'. Anatomy diagram: Muscular System Overview. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-peripheral-nervous-system**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Peripheral_Nervous_System.jpg`
-    - Final file: books/YCB1/workshop/images/new/Peripheral_Nervous_System_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/Peripheral_Nervous_System.jpg`
+    - Final file: books/YCB1/images/new/Peripheral_Nervous_System_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Peripheral Nervous System: Overview'. Anatomy diagram: Peripheral Nervous System: Overview. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-reciprocal-inhibition**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Reciprocal-Inhibition.jpg`
-    - Final file: books/YCB1/workshop/images/new/Reciprocal-Inhibition_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/Reciprocal-Inhibition.jpg`
+    - Final file: books/YCB1/images/new/Reciprocal-Inhibition_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Reflex Action and Reciprocal Inhibition'. Anatomy diagram: Reflex Action and Reciprocal Inhibition. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-somatic-nervous-system**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Somatic_nervous_system.jpg`
-    - Final file: books/YCB1/workshop/images/new/Somatic_nervous_system_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/Somatic_nervous_system.jpg`
+    - Final file: books/YCB1/images/new/Somatic_nervous_system_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Somatic Nervous System (SNS)'. Anatomy diagram: Somatic Nervous System (SNS). A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-spinal-chord**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/Spinal_chord.png`
-    - Final file: books/YCB1/workshop/images/new/Spinal_chord_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/Spinal_chord.png`
+    - Final file: books/YCB1/images/new/Spinal_chord_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Central Nervous System: Spinal Cord'. Anatomy diagram: Central Nervous System: Spinal Cord. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-article-respiration-muscles-wc1**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/article-Respiration-Muscles-WC1.jpg`
-    - Final file: books/YCB1/workshop/images/new/article-Respiration-Muscles-WC1_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/article-Respiration-Muscles-WC1.jpg`
+    - Final file: books/YCB1/images/new/article-Respiration-Muscles-WC1_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Muscle Breathing'. Anatomy diagram: Muscle Breathing. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-breathing**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/breathing.jpg`
-    - Final file: books/YCB1/workshop/images/new/breathing_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/breathing.jpg`
+    - Final file: books/YCB1/images/new/breathing_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Muscles of Respiration'. Anatomy diagram: Muscles of Respiration. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-digestive-system**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/digestive-system.jpg`
-    - Final file: books/YCB1/workshop/images/new/digestive-system_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/digestive-system.jpg`
+    - Final file: books/YCB1/images/new/digestive-system_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Digestive System'. Anatomy diagram: Digestive System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-endocrine-system**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/endocrine-system.jpg`
-    - Final file: books/YCB1/workshop/images/new/endocrine-system_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/endocrine-system.jpg`
+    - Final file: books/YCB1/images/new/endocrine-system_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Endocrine System'. Anatomy diagram: Endocrine System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-endocrine**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/endocrine.jpg`
-    - Final file: books/YCB1/workshop/images/new/endocrine_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/endocrine.jpg`
+    - Final file: books/YCB1/images/new/endocrine_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Endocrine Glands: Pineal, Thyroid, and Parathyroid'. Anatomy diagram: Endocrine Glands: Pineal, Thyroid, and Parathyroid. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-female-reproductive-system**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/female-reproductive-system.jpg`
-    - Final file: books/YCB1/workshop/images/new/female-reproductive-system_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/female-reproductive-system.jpg`
+    - Final file: books/YCB1/images/new/female-reproductive-system_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Female Reproductive System'. Anatomy diagram: Female Reproductive System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-joints**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/joints.jpg`
-    - Final file: books/YCB1/workshop/images/new/joints_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/joints.jpg`
+    - Final file: books/YCB1/images/new/joints_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Types of Joints'. Anatomy diagram: Types of Joints. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-overview-nervious-system**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/overview_nervious_system.jpg`
-    - Final file: books/YCB1/workshop/images/new/overview_nervious_system_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/overview_nervious_system.jpg`
+    - Final file: books/YCB1/images/new/overview_nervious_system_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Overview of Nervous System'. Anatomy diagram: Overview of Nervous System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-pituitary-gland**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/pituitary-gland.jpg`
-    - Final file: books/YCB1/workshop/images/new/pituitary-gland_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/pituitary-gland.jpg`
+    - Final file: books/YCB1/images/new/pituitary-gland_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Endocrine Glands: Hypothalamus and Pituitary'. Anatomy diagram: Endocrine Glands: Hypothalamus and Pituitary. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-reprosys**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/reprosys.jpg`
-    - Final file: books/YCB1/workshop/images/new/reprosys_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/reprosys.jpg`
+    - Final file: books/YCB1/images/new/reprosys_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Overview of Reproductive System'. Anatomy diagram: Overview of Reproductive System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-respiratory-system**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/respiratory-system.jpg`
-    - Final file: books/YCB1/workshop/images/new/respiratory-system_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/respiratory-system.jpg`
+    - Final file: books/YCB1/images/new/respiratory-system_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Respiratory System'. Anatomy diagram: Respiratory System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-skeleton**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/skeleton.jpg`
-    - Final file: books/YCB1/workshop/images/new/skeleton_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/skeleton.jpg`
+    - Final file: books/YCB1/images/new/skeleton_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Components of the Skeletal System'. Anatomy diagram: Components of the Skeletal System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-skeleton-divisions**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/skeleton_divisions.jpg`
-    - Final file: books/YCB1/workshop/images/new/skeleton_divisions_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/skeleton_divisions.jpg`
+    - Final file: books/YCB1/images/new/skeleton_divisions_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Divisions of the Skeletal System'. Anatomy diagram: Divisions of the Skeletal System. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-spinal-movements**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/spinal_movements.jpg`
-    - Final file: books/YCB1/workshop/images/new/spinal_movements_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/spinal_movements.jpg`
+    - Final file: books/YCB1/images/new/spinal_movements_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Types of Spinal Movements'. Anatomy diagram: Types of Spinal Movements. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-vertebral-column**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/vertebral_column.jpg`
-    - Final file: books/YCB1/workshop/images/new/vertebral_column_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/vertebral_column.jpg`
+    - Final file: books/YCB1/images/new/vertebral_column_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-hl-human-body-introduction, frame 'Vertebral Column'. Anatomy diagram: Vertebral Column. A simple schematic in front or side view, whichever shows the structure best; main parts as flat shapes with thin outlines, grayscale-safe. Labels: only the terms listed under this figure in the notes block (list them here before generating); each label short, horizontal, with a leader line. One idea only; leave out finer detail. Aspect ratio 4:3. Check before use: qualified subject reviewer (health and anatomy facts).
   - **ycb1-fig-bodysystems**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_bodysystems.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_bodysystems.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-hl-human-body-introduction, in own words where it is a list of facts. Used in block ycb1-hl-human-body-introduction, frame 'Body System, Organs and their Functions'.
 - **Exercises:** to be written
@@ -4331,12 +4331,12 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-hymns**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_hymns.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_hymns_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_hymns.jpg`
+    - Final file: books/YCB1/images/new/ycb1_hymns_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-prayer-pranava-hymns, frame 'Concept of Hymns'. Concept diagram: Concept of Hymns. Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
   - **ycb1-fig-pranav**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_pranav.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_pranav_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_pranav.jpg`
+    - Final file: books/YCB1/images/new/ycb1_pranav_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-prayer-pranava-hymns, frame 'Concept of Pranava'. Concept diagram: Concept of Pranava. Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
 - **Exercises:** to be written
 - **Quiz:**
@@ -4457,28 +4457,28 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - A beginner finds the chest and shoulders moving with every breath. Put a hand on the lower abdomen, practise slow pulls with a relaxed chest, and add speed only when the chest stays still.
 - **Figures:**
   - **ycb1-fig-basti**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_basti.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_basti_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_basti.jpg`
+    - Final file: books/YCB1/images/new/ycb1_basti_new.png
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-cleansing-techniques, frame 'Basti'. Cleansing technique: Basti. A clean schematic only: the practitioner (CS1) in the starting posture of the technique with a small simple inset showing the path or the area involved, as a flat outline with no internal organs drawn in detail and nothing graphic. Show the posture and the direction of the action with thin arrows. No tools or fluids drawn realistically. Aspect ratio 4:3. This technique is taught only under a qualified teacher; the picture is a memory aid. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-dhauti**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_dhauti.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_dhauti_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_dhauti.jpg`
+    - Final file: books/YCB1/images/new/ycb1_dhauti_new.png
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-cleansing-techniques, frame 'Dhauti'. Cleansing technique: Dhauti. A clean schematic only: the practitioner (CS1) in the starting posture of the technique with a small simple inset showing the path or the area involved, as a flat outline with no internal organs drawn in detail and nothing graphic. Show the posture and the direction of the action with thin arrows. No tools or fluids drawn realistically. Aspect ratio 4:3. This technique is taught only under a qualified teacher; the picture is a memory aid. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-kapalbhati**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_kapalbhati.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_kapalbhati_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_kapalbhati.png`
+    - Final file: books/YCB1/images/new/ycb1_kapalbhati_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-cleansing-techniques, frame 'Kapalabhati (Skull Shining Breath); Kapalabhati'. Practice: Kapalabhati (Skull Shining Breath); Kapalabhati. One adult practitioner (CS1), seated, front three-quarter view, in the posture of the notes block. Show the key action in a small inset: the abdomen drawn in sharply for kapalabhati, the throat narrowed softly for ujjayi, the steady gaze on a candle flame at eye level for trataka, the tongue position for the mukh mudra. Use only the inset that matches Kapalabhati (Skull Shining Breath); Kapalabhati. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-nauli**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_nauli.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_nauli_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_nauli.png`
+    - Final file: books/YCB1/images/new/ycb1_nauli_new.png
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-cleansing-techniques, frame 'Nauli'. Cleansing technique: Nauli. A clean schematic only: the practitioner (CS1) in the starting posture of the technique with a small simple inset showing the path or the area involved, as a flat outline with no internal organs drawn in detail and nothing graphic. Show the posture and the direction of the action with thin arrows. No tools or fluids drawn realistically. Aspect ratio 4:3. This technique is taught only under a qualified teacher; the picture is a memory aid. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-neti**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_neti.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_neti_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_neti.png`
+    - Final file: books/YCB1/images/new/ycb1_neti_new.png
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-cleansing-techniques, frame 'Neti'. Cleansing technique: Neti. A clean schematic only: the practitioner (CS1) in the starting posture of the technique with a small simple inset showing the path or the area involved, as a flat outline with no internal organs drawn in detail and nothing graphic. Show the posture and the direction of the action with thin arrows. No tools or fluids drawn realistically. Aspect ratio 4:3. This technique is taught only under a qualified teacher; the picture is a memory aid. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-tratak**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_tratak.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_tratak_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_tratak.png`
+    - Final file: books/YCB1/images/new/ycb1_tratak_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-cleansing-techniques, frame 'Trataka'. Practice: Trataka. One adult practitioner (CS1), seated, front three-quarter view, in the posture of the notes block. Show the key action in a small inset: the abdomen drawn in sharply for kapalabhati, the throat narrowed softly for ujjayi, the steady gaze on a candle flame at eye level for trataka, the tongue position for the mukh mudra. Use only the inset that matches Trataka. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
 - **Exercises:** to be written
 - **Quiz:**
@@ -4597,72 +4597,72 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - An older student with a stiff neck joins a class. Teach the four neck stages seated on a chair, a small range, shoulders relaxed, and say that they should stop at any pain.
 - **Figures:**
   - **ycb1-fig-abductors**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_abductors.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_abductors_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_abductors.png`
+    - Final file: books/YCB1/images/new/ycb1_abductors_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Abductors'. Muscle action: Abductors. Simple stick figure in side view, two overlapping positions (start and end) in light and dark line, the working muscle group drawn as a thick coloured line along the limb, one thin arrow for the movement. Label only with the single word 'Abductors'. Aspect ratio 4:3. Check before use: qualified subject reviewer.
   - **ycb1-fig-adductors**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_adductors.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_adductors_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_adductors.png`
+    - Final file: books/YCB1/images/new/ycb1_adductors_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Adductors'. Muscle action: Adductors. Simple stick figure in side view, two overlapping positions (start and end) in light and dark line, the working muscle group drawn as a thick coloured line along the limb, one thin arrow for the movement. Label only with the single word 'Adductors'. Aspect ratio 4:3. Check before use: qualified subject reviewer.
   - **ycb1-fig-bhuja**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_bhuja.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_bhuja_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_bhuja.png`
+    - Final file: books/YCB1/images/new/ycb1_bhuja_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Shoulder Movement'. Movement practice: Shoulder Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-extensors**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_extensors.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_extensors_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_extensors.png`
+    - Final file: books/YCB1/images/new/ycb1_extensors_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Extensors'. Muscle action: Extensors. Simple stick figure in side view, two overlapping positions (start and end) in light and dark line, the working muscle group drawn as a thick coloured line along the limb, one thin arrow for the movement. Label only with the single word 'Extensors'. Aspect ratio 4:3. Check before use: qualified subject reviewer.
   - **ycb1-fig-flexors**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_flexors.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_flexors_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_flexors.png`
+    - Final file: books/YCB1/images/new/ycb1_flexors_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Flexors'. Muscle action: Flexors. Simple stick figure in side view, two overlapping positions (start and end) in light and dark line, the working muscle group drawn as a thick coloured line along the limb, one thin arrow for the movement. Label only with the single word 'Flexors'. Aspect ratio 4:3. Check before use: qualified subject reviewer.
   - **ycb1-fig-greeva**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_greeva.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_greeva_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_greeva.jpg`
+    - Final file: books/YCB1/images/new/ycb1_greeva_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Neck Movement'. Movement practice: Neck Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-greevabend**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_greevabend.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_greevabend_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_greevabend.jpg`
+    - Final file: books/YCB1/images/new/ycb1_greevabend_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Neck Movement'. Movement practice: Neck Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-gulpha**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_gulpha.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_gulpha_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_gulpha.png`
+    - Final file: books/YCB1/images/new/ycb1_gulpha_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Ankle Movement'. Movement practice: Ankle Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-jangha**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_jangha.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_jangha_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_jangha.png`
+    - Final file: books/YCB1/images/new/ycb1_jangha_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Jangha'. Movement practice: Jangha. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-jangha-1**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_jangha_1.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_jangha_1_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_jangha_1.png`
+    - Final file: books/YCB1/images/new/ycb1_jangha_1_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Thighs Movement'. Movement practice: Thighs Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-jangha-2**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_jangha_2.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_jangha_2_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_jangha_2.png`
+    - Final file: books/YCB1/images/new/ycb1_jangha_2_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Thighs Movement'. Movement practice: Thighs Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-janu-1**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_janu_1.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_janu_1_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_janu_1.png`
+    - Final file: books/YCB1/images/new/ycb1_janu_1_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Knee Movement'. Movement practice: Knee Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-janu-2**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_janu_2.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_janu_2_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_janu_2.png`
+    - Final file: books/YCB1/images/new/ycb1_janu_2_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Knee Movement'. Concept illustration: Knee Movement. One practitioner (CS1) performing the practice described in the notes block, plus one small clean schematic if the concept needs it, nothing else. Aspect ratio 4:3. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-kati**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_kati.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_kati_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_kati.png`
+    - Final file: books/YCB1/images/new/ycb1_kati_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Trunk Movement'. Movement practice: Trunk Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-pada**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_pada.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_pada_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_pada.png`
+    - Final file: books/YCB1/images/new/ycb1_pada_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Ankle Movement'. Movement practice: Ankle Movement. One adult practitioner (CS1), standing, front or side view as the joint needs. Show the start position and the end position of the movement in one picture, as two overlapping figures in light and normal tone, with one thin curved arrow for the direction. The moving joint is clearly visible; the rest of the body stays still. No props. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-rotators**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_rotators.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_rotators_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_rotators.png`
+    - Final file: books/YCB1/images/new/ycb1_rotators_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Rotators'. Muscle action: Rotators. Simple stick figure in side view, two overlapping positions (start and end) in light and dark line, the working muscle group drawn as a thick coloured line along the limb, one thin arrow for the movement. Label only with the single word 'Rotators'. Aspect ratio 4:3. Check before use: qualified subject reviewer.
   - **ycb1-fig-sukshma**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_sukshma.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_sukshma_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_sukshma.jpg`
+    - Final file: books/YCB1/images/new/ycb1_sukshma_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sukshma-vyayama, frame 'Sukshma Vyayama: Concept'. Concept illustration: Sukshma Vyayama: Concept. One practitioner (CS1) performing the practice described in the notes block, plus one small clean schematic if the concept needs it, nothing else. Aspect ratio 4:3. Check before use: certified teacher confirms the form against the steps in the notes block.
 - **Exercises:** to be written
 - **Quiz:**
@@ -4768,16 +4768,16 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-sthula**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_sthula.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_sthula_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_sthula.png`
+    - Final file: books/YCB1/images/new/ycb1_sthula_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sthula-vyayama, frame 'Sthula Vyayama: Concept'. Concept illustration: Sthula Vyayama: Concept. One practitioner (CS1) performing the practice described in the notes block, plus one small clean schematic if the concept needs it, nothing else. Aspect ratio 4:3. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-sthula-hrid**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_sthula_hrid.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_sthula_hrid_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_sthula_hrid.png`
+    - Final file: books/YCB1/images/new/ycb1_sthula_hrid_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sthula-vyayama, frame 'Hrid Gati (Engine Daud)'. Posture: Hrid Gati (Engine Daud). One adult practitioner (CS1) in the final held position of Hrid Gati (Engine Daud), side view. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-sthula-sarvanga**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_sthula_sarvanga.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_sthula_sarvanga_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_sthula_sarvanga.jpg`
+    - Final file: books/YCB1/images/new/ycb1_sthula_sarvanga_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-sthula-vyayama, frame 'Sarvanga Pushti'. Posture: Sarvanga Pushti. One adult practitioner (CS1) in the final held position of Sarvanga Pushti, side view. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
 - **Exercises:** to be written
 - **Quiz:**
@@ -4898,16 +4898,16 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-sunsal1**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_sunsal1.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_sunsal1.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-pd-surya-namaskara, in own words where it is a list of facts. Used in block ycb1-pd-surya-namaskara, frame 'Sequence of Surya Namaskara'.
   - **ycb1-fig-sunsal2**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_sunsal2.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_sunsal2.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-pd-surya-namaskara, in own words where it is a list of facts. Used in block ycb1-pd-surya-namaskara, frame 'Sequence of Surya Namaskara'.
   - **ycb1-fig-suryanamaskar**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_suryanamaskar.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_suryanamaskar_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_suryanamaskar.jpg`
+    - Final file: books/YCB1/images/new/ycb1_suryanamaskar_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-surya-namaskara, frame 'Sequence of Surya Namaskara'. The Surya Namaskara sequence: one practitioner (CS1) in a strip of panels, one panel per position in the order given in the notes block, side view, each panel with a thin arrow to the next and a breath marker (in or out) as the notes block says. Panels equal size, white gaps, no text except the breath marker symbols. Aspect ratio 16:9. Check before use: certified teacher confirms the form against the steps in the notes block.
 - **Exercises:** to be written
 - **Quiz:**
@@ -5251,128 +5251,128 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - A student with a stiff back cannot bend forward in padahastasana. Let the hands rest on the thighs or a chair seat and bend only as far as the back allows; say that the aim is the stretch of the back of the legs, not touching the floor.
 - **Figures:**
   - **ycb1-fig-ardhachakrasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_ardhachakrasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_ardhachakrasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_ardhachakrasan.png`
+    - Final file: books/YCB1/images/new/ycb1_ardhachakrasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Ardha Chakrasana or Hastottanasan'. Posture: Ardha Chakrasana or Hastottanasan. One adult practitioner (CS1) in the final held position of Ardha Chakrasana or Hastottanasan, side view, standing, facing right. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-asanabenefits**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_asanabenefits.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_asanabenefits.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-pd-yogasana-practice, in own words where it is a list of facts. Used in block ycb1-pd-yogasana-practice, frame 'Asanabenefits'.
   - **ycb1-fig-asanabenefits-1**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_asanabenefits_1.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_asanabenefits_1.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-pd-yogasana-practice, in own words where it is a list of facts. Used in block ycb1-pd-yogasana-practice, frame 'Asana Benefits'.
   - **ycb1-fig-asanabenefits-2**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_asanabenefits_2.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_asanabenefits_2.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-pd-yogasana-practice, in own words where it is a list of facts. Used in block ycb1-pd-yogasana-practice, frame 'Asana Benefits'.
   - **ycb1-fig-asanabenefits-3**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_asanabenefits_3.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_asanabenefits_3.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-pd-yogasana-practice, in own words where it is a list of facts. Used in block ycb1-pd-yogasana-practice, frame 'Asana Benefits'.
   - **ycb1-fig-bhadrasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_bhadrasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_bhadrasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_bhadrasan.png`
+    - Final file: books/YCB1/images/new/ycb1_bhadrasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Bhadrasana'. Posture: Bhadrasana. One adult practitioner (CS1) in the final held position of Bhadrasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-bhujangasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_bhujangasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_bhujangasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_bhujangasan.png`
+    - Final file: books/YCB1/images/new/ycb1_bhujangasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Bhujangasana'. Posture: Bhujangasana. One adult practitioner (CS1) in the final held position of Bhujangasana, side view, lying face down on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-dandasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_dandasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_dandasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_dandasan.png`
+    - Final file: books/YCB1/images/new/ycb1_dandasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Dandasana'. Posture: Dandasana. One adult practitioner (CS1) in the final held position of Dandasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-gomukhasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_gomukhasan.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_gomukhasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_gomukhasan.jpg`
+    - Final file: books/YCB1/images/new/ycb1_gomukhasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Gomukhasana'. Posture: Gomukhasana. One adult practitioner (CS1) in the final held position of Gomukhasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-katichakrasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_katichakrasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_katichakrasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_katichakrasan.png`
+    - Final file: books/YCB1/images/new/ycb1_katichakrasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Kati Chakrasana'. Posture: Kati Chakrasana. One adult practitioner (CS1) in the final held position of Kati Chakrasana, side view, standing, facing right. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-makarasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_makarasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_makarasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_makarasan.png`
+    - Final file: books/YCB1/images/new/ycb1_makarasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Makarasana'. Posture: Makarasana. One adult practitioner (CS1) in the final held position of Makarasana, side view, lying face down on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-mandukasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_mandukasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_mandukasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_mandukasan.png`
+    - Final file: books/YCB1/images/new/ycb1_mandukasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Mandukasana'. Posture: Mandukasana. One adult practitioner (CS1) in the final held position of Mandukasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-padahastasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_padahastasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_padahastasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_padahastasan.png`
+    - Final file: books/YCB1/images/new/ycb1_padahastasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Padahastasana'. Posture: Padahastasana. One adult practitioner (CS1) in the final held position of Padahastasana, side view, standing, facing right. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-padmasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_padmasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_padmasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_padmasan.png`
+    - Final file: books/YCB1/images/new/ycb1_padmasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Padmasana'. Posture: Padmasana. One adult practitioner (CS1) in the final held position of Padmasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-pashchimottansasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_pashchimottansasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_pashchimottansasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_pashchimottansasan.png`
+    - Final file: books/YCB1/images/new/ycb1_pashchimottansasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Paschimottanasana'. Posture: Paschimottanasana. One adult practitioner (CS1) in the final held position of Paschimottanasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-pavanamuktasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_pavanamuktasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_pavanamuktasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_pavanamuktasan.png`
+    - Final file: books/YCB1/images/new/ycb1_pavanamuktasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Pavanamuktasana'. Posture: Pavanamuktasana. One adult practitioner (CS1) in the final held position of Pavanamuktasana, side view, lying on the back on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-purvottansasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_purvottansasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_purvottansasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_purvottansasan.png`
+    - Final file: books/YCB1/images/new/ycb1_purvottansasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Purvottanasana'. Posture: Purvottanasana. One adult practitioner (CS1) in the final held position of Purvottanasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-saralmatsyasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_saralmatsyasan.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_saralmatsyasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_saralmatsyasan.jpg`
+    - Final file: books/YCB1/images/new/ycb1_saralmatsyasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Saral Matsyasana'. Posture: Saral Matsyasana. One adult practitioner (CS1) in the final held position of Saral Matsyasana, side view, lying on the back on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-setubandhasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_setubandhasan.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_setubandhasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_setubandhasan.jpg`
+    - Final file: books/YCB1/images/new/ycb1_setubandhasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Setubandhasana'. Posture: Setubandhasana. One adult practitioner (CS1) in the final held position of Setubandhasana, side view, lying on the back on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-shalabhasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_shalabhasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_shalabhasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_shalabhasan.png`
+    - Final file: books/YCB1/images/new/ycb1_shalabhasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Shalabhasana'. Posture: Shalabhasana. One adult practitioner (CS1) in the final held position of Shalabhasana, side view, lying face down on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-shashankasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_shashankasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_shashankasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_shashankasan.png`
+    - Final file: books/YCB1/images/new/ycb1_shashankasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Shashankasana'. Posture: Shashankasana. One adult practitioner (CS1) in the final held position of Shashankasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-sukhasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_sukhasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_sukhasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_sukhasan.png`
+    - Final file: books/YCB1/images/new/ycb1_sukhasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Sukhasana'. Posture: Sukhasana. One adult practitioner (CS1) in the final held position of Sukhasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-tadasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_tadasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_tadasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_tadasan.png`
+    - Final file: books/YCB1/images/new/ycb1_tadasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Tadasana'. Posture: Tadasana. One adult practitioner (CS1) in the final held position of Tadasana, side view, standing, facing right. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-trikonasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_trikonasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_trikonasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_trikonasan.png`
+    - Final file: books/YCB1/images/new/ycb1_trikonasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Trikonasana'. Posture: Trikonasana. One adult practitioner (CS1) in the final held position of Trikonasana, side view, standing, facing right. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-ushtrasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_ushtrasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_ushtrasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_ushtrasan.png`
+    - Final file: books/YCB1/images/new/ycb1_ushtrasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Ushtrasana'. Posture: Ushtrasana. One adult practitioner (CS1) in the final held position of Ushtrasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-uttanamandukasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_uttanamandukasan.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_uttanamandukasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_uttanamandukasan.jpg`
+    - Final file: books/YCB1/images/new/ycb1_uttanamandukasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Uttana Mandukasana'. Posture: Uttana Mandukasana. One adult practitioner (CS1) in the final held position of Uttana Mandukasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-uttanpadasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_uttanpadasan.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_uttanpadasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_uttanpadasan.jpg`
+    - Final file: books/YCB1/images/new/ycb1_uttanpadasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Uttanapadasana'. Posture: Uttanapadasana. One adult practitioner (CS1) in the final held position of Uttanapadasana, side view, lying on the back on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-vajrasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_vajrasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_vajrasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_vajrasan.png`
+    - Final file: books/YCB1/images/new/ycb1_vajrasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Vajrasana'. Posture: Vajrasana. One adult practitioner (CS1) in the final held position of Vajrasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-vakrasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_vakrasan.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_vakrasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_vakrasan.jpg`
+    - Final file: books/YCB1/images/new/ycb1_vakrasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Vakrasana'. Posture: Vakrasana. One adult practitioner (CS1) in the final held position of Vakrasana, front three-quarter view, seated on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-vipartikarni**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_vipartikarni.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_vipartikarni_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_vipartikarni.png`
+    - Final file: books/YCB1/images/new/ycb1_vipartikarni_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Vipareetakarani'. Posture: Vipareetakarani. One adult practitioner (CS1) in the final held position of Vipareetakarani, side view, lying on the back on a plain mat. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 3:2 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-vrikshasan**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_vrikshasan.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_vrikshasan_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_vrikshasan.png`
+    - Final file: books/YCB1/images/new/ycb1_vrikshasan_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-yogasana-practice, frame 'Vrikshasana'. Posture: Vrikshasana. One adult practitioner (CS1) in the final held position of Vrikshasana, side view, standing, facing right. The whole body in frame with a small margin; head, spine, arms, hands, legs and feet positions exactly as in the notes block for this posture; weight and support points clear. No props unless the notes block names one. No labels. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
 - **Exercises:** to be written
 - **Quiz:**
@@ -5467,20 +5467,20 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-abdominalbreathing**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_abdominalbreathing.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_abdominalbreathing_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_abdominalbreathing.png`
+    - Final file: books/YCB1/images/new/ycb1_abdominalbreathing_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-preparatory-breathing, frame 'Abdominal Breathing (Diaphragmatic Breathing)'. Concept diagram: Abdominal Breathing (Diaphragmatic Breathing). Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
   - **ycb1-fig-chestbreathing**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_chestbreathing.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_chestbreathing_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_chestbreathing.png`
+    - Final file: books/YCB1/images/new/ycb1_chestbreathing_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-preparatory-breathing, frame 'Chest Breathing'. Concept diagram: Chest Breathing. Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
   - **ycb1-fig-clavicularbreathing**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_clavicularbreathing.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_clavicularbreathing_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_clavicularbreathing.jpg`
+    - Final file: books/YCB1/images/new/ycb1_clavicularbreathing_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-preparatory-breathing, frame 'Clavicular Breathing'. Preparatory breathing: Clavicular Breathing. One adult practitioner (CS1), side view, seated or lying as the notes block says, hands placed as the notes block says. Show the torso with a soft translucent highlight on the part that rises on the in-breath and a thin arrow for the direction of movement; a faint outline of the lungs and diaphragm may sit behind the highlight. Calm face, eyes closed. Aspect ratio 4:3 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-threepartbreathing**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_threepartbreathing.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_threepartbreathing_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_threepartbreathing.jpg`
+    - Final file: books/YCB1/images/new/ycb1_threepartbreathing_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-preparatory-breathing, frame 'Combination Breathing (Three-Part Breathing)'. Preparatory breathing: Combination Breathing (Three-Part Breathing). One adult practitioner (CS1), side view, seated or lying as the notes block says, hands placed as the notes block says. Show the torso with a soft translucent highlight on the part that rises on the in-breath and a thin arrow for the direction of movement; a faint outline of the lungs and diaphragm may sit behind the highlight. Calm face, eyes closed. Aspect ratio 4:3 landscape. Check before use: certified teacher confirms the form against the steps in the notes block.
 - **Exercises:** to be written
 - **Quiz:**
@@ -5607,24 +5607,24 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - A student counts the breath and becomes tense. Drop the counts, keep the breath equal and gentle for several rounds, and return to counting only when the student asks for it.
 - **Figures:**
   - **ycb1-fig-anulomvilom**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_anulomvilom.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_anulomvilom_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_anulomvilom.png`
+    - Final file: books/YCB1/images/new/ycb1_anulomvilom_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-pranayama, frame 'Anulom Vilom (Alternate Nostril Breathing)'. Pranayama: Anulom Vilom (Alternate Nostril Breathing). One adult practitioner (CS1), seated in a comfortable cross-legged pose, spine upright, eyes closed. Hands, fingers, face and tongue or lips exactly as in the notes block for this practice; mark the side of the breath with thin arrows only if the notes block gives a side. Front three-quarter view, head and shoulders large enough to show the hand and face. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-bhramari**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_bhramari.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_bhramari_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_bhramari.png`
+    - Final file: books/YCB1/images/new/ycb1_bhramari_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-pranayama, frame 'Bhramari (Bee Breath)'. Pranayama: Bhramari (Bee Breath). One adult practitioner (CS1), seated in a comfortable cross-legged pose, spine upright, eyes closed. Hands, fingers, face and tongue or lips exactly as in the notes block for this practice; mark the side of the breath with thin arrows only if the notes block gives a side. Front three-quarter view, head and shoulders large enough to show the hand and face. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-khechari**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_khechari.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_khechari_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_khechari.png`
+    - Final file: books/YCB1/images/new/ycb1_khechari_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-pranayama, frame 'Mukh Mudras (Facial Gestures)'. Practice: Mukh Mudras (Facial Gestures). One adult practitioner (CS1), seated, front three-quarter view, in the posture of the notes block. Show the key action in a small inset: the abdomen drawn in sharply for kapalabhati, the throat narrowed softly for ujjayi, the steady gaze on a candle flame at eye level for trataka, the tongue position for the mukh mudra. Use only the inset that matches Mukh Mudras (Facial Gestures). Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-sitali**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_sitali.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_sitali_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_sitali.png`
+    - Final file: books/YCB1/images/new/ycb1_sitali_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-pranayama, frame 'Sitali (Cooling Breath)'. Pranayama: Sitali (Cooling Breath). One adult practitioner (CS1), seated in a comfortable cross-legged pose, spine upright, eyes closed. Hands, fingers, face and tongue or lips exactly as in the notes block for this practice; mark the side of the breath with thin arrows only if the notes block gives a side. Front three-quarter view, head and shoulders large enough to show the hand and face. Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-ujjayi**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_ujjayi.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_ujjayi_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_ujjayi.png`
+    - Final file: books/YCB1/images/new/ycb1_ujjayi_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-pranayama, frame 'Ujjayi (Victorious Breath)'. Practice: Ujjayi (Victorious Breath). One adult practitioner (CS1), seated, front three-quarter view, in the posture of the notes block. Show the key action in a small inset: the abdomen drawn in sharply for kapalabhati, the throat narrowed softly for ujjayi, the steady gaze on a candle flame at eye level for trataka, the tongue position for the mukh mudra. Use only the inset that matches Ujjayi (Victorious Breath). Aspect ratio 4:5 portrait. Check before use: certified teacher confirms the form against the steps in the notes block.
 - **Exercises:** to be written
 - **Quiz:**
@@ -5710,8 +5710,8 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-bandhas**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_bandhas.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_bandhas_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_bandhas.jpg`
+    - Final file: books/YCB1/images/new/ycb1_bandhas_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-bandha, frame 'Bandhas (Internal Locks)'. Concept diagram: Bandhas (Internal Locks). Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
 - **Exercises:** to be written
 - **Quiz:**
@@ -5807,12 +5807,12 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-hastamudra**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_hastamudra.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_hastamudra_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_hastamudra.jpg`
+    - Final file: books/YCB1/images/new/ycb1_hastamudra_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-mudra, frame 'Hasta Mudras (Hand Gestures)'. Mudra practice: Hasta Mudras (Hand Gestures). Close-up of the hand or hands in the gesture named in the notes block, one hand per panel if more than one gesture is shown, same skin tone in every panel, five fingers per hand, fingertips and thumb contact clearly drawn. Small inset of the seated practitioner (CS1) showing where the hands rest. Aspect ratio 4:3. Check before use: certified teacher confirms the form against the steps in the notes block.
   - **ycb1-fig-kayamudra**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_kayamudra.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_kayamudra_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_kayamudra.jpg`
+    - Final file: books/YCB1/images/new/ycb1_kayamudra_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pd-mudra, frame 'Kaya Mudras (Body Gestures)'. Mudra practice: Kaya Mudras (Body Gestures). Close-up of the hand or hands in the gesture named in the notes block, one hand per panel if more than one gesture is shown, same skin tone in every panel, five fingers per hand, fingertips and thumb contact clearly drawn. Small inset of the seated practitioner (CS1) showing where the hands rest. Aspect ratio 4:3. Check before use: certified teacher confirms the form against the steps in the notes block.
 - **Exercises:** to be written
 - **Quiz:**
@@ -5997,8 +5997,8 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-teaching-group**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_teaching_group.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_teaching_group_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_teaching_group.jpg`
+    - Final file: books/YCB1/images/new/ycb1_teaching_group_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pt-teaching-groups, frame 'Principles of Teaching Yoga Protocol to Different Groups'. Teaching scene: Principles of Teaching Yoga Protocol to Different Groups. A calm indoor yoga hall; an instructor in front (CS1 with a different top colour) and a small group of learners on mats, seen from behind or from the side, no recognisable faces, simple shapes. Shows only the idea in the frame title. Aspect ratio 16:9. Check before use: author.
 - **Exercises:** to be written
 - **Quiz:**
@@ -6106,8 +6106,8 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **Scenario: you make a mistake while cueing.** Admit the mistake with a smile, give the correct cue clearly, and keep the class calm. The Material asks the teacher to be pleasant and to speak clearly, and does not ask for a perfect delivery.
 - **Figures:**
   - **ycb1-fig-teaching-prep**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_teaching_prep.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_teaching_prep_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_teaching_prep.jpg`
+    - Final file: books/YCB1/images/new/ycb1_teaching_prep_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pt-class-preparation, frame 'Preparation for a Yoga Class (Before and During)'. Teaching scene: Preparation for a Yoga Class (Before and During). A calm indoor yoga hall; an instructor in front (CS1 with a different top colour) and a small group of learners on mats, seen from behind or from the side, no recognisable faces, simple shapes. Shows only the idea in the frame title. Aspect ratio 16:9. Check before use: author.
 - **Exercises:**
   - (Recall) Q: Fill in the blank: the place for a class should be clean, fresh and ______. A: Well ventilated.
@@ -6227,8 +6227,8 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-teaching-lecture**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_teaching_lecture.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_teaching_lecture_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_teaching_lecture.jpg`
+    - Final file: books/YCB1/images/new/ycb1_teaching_lecture_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pt-class-management, frame 'Conducting Yoga Practical Lessons: Precautions and Contraindications'. Teaching scene: Conducting Yoga Practical Lessons: Precautions and Contraindications. A calm indoor yoga hall; an instructor in front (CS1 with a different top colour) and a small group of learners on mats, seen from behind or from the side, no recognisable faces, simple shapes. Shows only the idea in the frame title. Aspect ratio 16:9. Check before use: author.
 - **Exercises:** to be written
 - **Quiz:**
@@ -6276,8 +6276,8 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-teaching-demo**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_teaching_demo.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_teaching_demo_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_teaching_demo.jpg`
+    - Final file: books/YCB1/images/new/ycb1_teaching_demo_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pt-conducting-lessons-precautions, frame 'Essentials of Good Lesson Plan'. Teaching scene: Essentials of Good Lesson Plan. A calm indoor yoga hall; an instructor in front (CS1 with a different top colour) and a small group of learners on mats, seen from behind or from the side, no recognisable faces, simple shapes. Shows only the idea in the frame title. Aspect ratio 16:9. Check before use: author.
 - **Exercises:** to be written
 - **Quiz:**
@@ -6325,8 +6325,8 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-teaching-teacher**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_teaching_teacher.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_teaching_teacher_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_teaching_teacher.png`
+    - Final file: books/YCB1/images/new/ycb1_teaching_teacher_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pt-ideal-instructor, frame 'Salient Features of an Ideal Yoga Instructor'. A simple flat icon for Salient Features of an Ideal Yoga Instructor: one figure (CS1) with one symbol that stands for the idea, centred, plenty of white space. Aspect ratio 1:1. Check before use: author.
 - **Exercises:** to be written
 - **Quiz:**
@@ -6364,8 +6364,8 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-teaching-lesson**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_teaching_lesson.jpg`
-    - Final file: books/YCB1/workshop/images/new/ycb1_teaching_lesson_new.png
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_teaching_lesson.jpg`
+    - Final file: books/YCB1/images/new/ycb1_teaching_lesson_new.png
     - Prompt (SP-FIG, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pt-model-lesson-plans, frame 'Models of Ideal Yoga Lesson Plans'. Teaching scene: Models of Ideal Yoga Lesson Plans. A calm indoor yoga hall; an instructor in front (CS1 with a different top colour) and a small group of learners on mats, seen from behind or from the side, no recognisable faces, simple shapes. Shows only the idea in the frame title. Aspect ratio 16:9. Check before use: author.
 - **Exercises:** to be written
 - **Quiz:**
@@ -6424,8 +6424,8 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
 - **Worked examples:** to be written
 - **Figures:**
   - **ycb1-fig-application-of-knowledge**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_application_of_knowledge.png`
-    - Final file: books/YCB1/workshop/images/new/ycb1_application_of_knowledge_new.pdf
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_application_of_knowledge.png`
+    - Final file: books/YCB1/images/new/ycb1_application_of_knowledge_new.pdf
     - Prompt (SP-DIAGRAM, with the common system prompt in `image_system_prompt.md`): Used in block ycb1-pa-application-of-knowledge, frame 'Application of Knowledge as Yoga Protocol Instructor'. Concept diagram: Application of Knowledge as Yoga Protocol Instructor. Boxes, circles and arrows only, drawn from the structure given in the notes block (the names and their order are listed there); Sanskrit terms in Roman letters with the English meaning in brackets, nothing else added. Flat colours that still read in grayscale. Best redrawn later in TikZ. Aspect ratio 4:3. Check before use: author and the Sanskrit check in the notes.
 - **Exercises:** to be written
 - **Quiz:**
@@ -6698,15 +6698,15 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **What happens after a failed stage:** a candidate passes the practical but scores below the theory pass mark. The candidate may sit the theory once more within 3 months of the result, paying the prescribed fee. The enrolment fee is not paid again, because it is paid once for a type of certification and is valid for life. In the opposite case (theory passed, practical failed) the candidate applies again as a fresh candidate, and the enrolment number stays valid.
 - **Figures:**
   - **ycb1-fig-exam-i**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_exam_i.jpg`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_exam_i.jpg`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-ex-exam-and-certification, in own words where it is a list of facts. Used in block ycb1-ex-exam-and-certification, frame 'Exam I'.
   - **ycb1-fig-exam-ii**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_exam_ii.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_exam_ii.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-ex-exam-and-certification, in own words where it is a list of facts. Used in block ycb1-ex-exam-and-certification, frame 'Exam Ii'.
   - **ycb1-fig-exam-iii**
-    - Original file (not embedded here; stays in the deck): `books/YCB1/workshop/images/ycb1_exam_iii.png`
+    - Original file (not embedded here; stays in the deck): `books/YCB1/images/ycb1_exam_iii.png`
     - Final file: no image file (see register)
     - Prompt (SP-NONE, with the common system prompt in `image_system_prompt.md`): Do not generate a picture. This is a screenshot of a table. Retype it as a LaTeX table (deck) and a Markdown table (notes) from the checked notes block ycb1-ex-exam-and-certification, in own words where it is a list of facts. Used in block ycb1-ex-exam-and-certification, frame 'Exam Iii'.
 - **Exercises:**

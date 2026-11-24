@@ -52,13 +52,21 @@
 % Figure with its generation prompt below it: \ycbfig{<figure_id>} (ids and prompts come from
 % ycb1_book_figures.tex, generated from docs/image_register.csv). When the final picture file does
 % not exist yet, an empty frame stands in; the prompt line stays under it either way.
+% Order of choice: the final picture (own work, drawn or generated) if its file exists; else the original
+% workshop picture, with a "permission to be cleared before print" line when the register marks it high
+% risk; else an empty frame. An optional credit line (register column `credit`) is printed when known.
+\newcommand{\ycbfigshow}[1]{\includegraphics[width=0.8\linewidth,height=0.3\textheight,keepaspectratio]{#1}}
 \newcommand{\ycbfig}[1]{%
   \begin{figure}[H]\centering
   \ifcsname figfile@#1\endcsname\edef\ycbfigfile{\csname figfile@#1\endcsname}\else\def\ycbfigfile{none}\fi
-  \IfFileExists{\ycbfigfile}{%
-    \includegraphics[width=0.8\linewidth,height=0.3\textheight,keepaspectratio]{\ycbfigfile}}{%
-    \fbox{\parbox[c][5em][c]{0.8\linewidth}{\centering\footnotesize\textcolor{ycbgrey}{Figure to be made}}}}\par\smallskip
-  {\footnotesize\itshape\textcolor{ycbgrey}{Prompt: \ifcsname figprompt@#1\endcsname\csname figprompt@#1\endcsname\else to be written (see the image register, #1)\fi}\par}
+  \ifcsname figorig@#1\endcsname\edef\ycbfigorig{\csname figorig@#1\endcsname}\else\def\ycbfigorig{none}\fi
+  \IfFileExists{\ycbfigfile}{\ycbfigshow{\ycbfigfile}\def\ycbfigold{0}}{%
+    \IfFileExists{\ycbfigorig}{\ycbfigshow{\ycbfigorig}\def\ycbfigold{1}}{%
+      \fbox{\parbox[c][5em][c]{0.8\linewidth}{\centering\footnotesize\textcolor{ycbgrey}{Figure to be made}}}\def\ycbfigold{0}}}\par\smallskip
+  {\footnotesize\itshape\textcolor{ycbgrey}{%
+    \ifcsname figcredit@#1\endcsname Credit: \csname figcredit@#1\endcsname.\ \fi
+    \if1\ycbfigold\ifcsname figclear@#1\endcsname Original workshop picture; permission to be cleared before print.\ \fi\fi
+    Prompt: \ifcsname figprompt@#1\endcsname\csname figprompt@#1\endcsname\else to be written (see the image register, #1)\fi}\par}
   \end{figure}}
 
 % Draft label for a chapter written from a notes block whose Fact check is still pending

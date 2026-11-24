@@ -14,7 +14,7 @@ The rule to make true:
 
 Constraints to carry into that work: the fact-check gate still applies (a block flows to the deck and the book only when `Fact check: checked`; pending blocks are written as unverified, never presented as certain); no hard-typed numbering; no cure claims; the book stays one chapter per syllabus unit or topic group with the order only in `book/book_ycb1_content.tex`; compile once per batch and run `/verify-pdf` at the end.
 
-Open decision for that session: for the 40 blocks that are still pending, either (a) write the book text from the pending Material clearly labelled as unverified, or (b) leave the chapter as a stub until the block is checked. The author wanted the book to hold all notes content, so decide this first.
+Decided 2026-11-24: (a), pending blocks are written into the book with a "Not yet fact-checked" box at the chapter opening. Done the same day: every block now has book text (231-page interior), figures placed with their prompts, coverage script and report in `reports/ycb1_tools/` (`ycb1_coverage.py`). Still open: the author's read of the new chapters, the reviewer pass, and taking the box off each chapter as its blocks are checked.
 
 ## Close the open checks (before any chapter text)
 - [ ] Download the Board's own current Level 1 syllabus from yogacertificationboard.nic.in and replace the local copy in `docs/` (the current copy carries a private institute's contact footer). Check whether the Board has revised the syllabus, the marks or the exam rules since version 0.3 of its guideline.
@@ -53,12 +53,12 @@ Open decision for that session: for the 40 blocks that are still pending, either
 - [ ] Rewrite the question bank in `workshop/ycb1_theory_faqs.tex` into the Quiz and FAQ layers, in own words.
 
 ## Figures (see `docs/image_register.csv`)
-- [ ] Generate each picture with the common system prompt (`docs/image_system_prompt.md`) plus its description; save under `workshop/images/new/`; uncomment the `% NEW-PIC` line in the deck so both show; review side by side; comment out the original only after approval.
+- [ ] Generate each picture with the common system prompt (`docs/image_system_prompt.md`) plus its description; save under `images/new/`; uncomment the `% NEW-PIC` line in the deck so both show; review side by side; comment out the original only after approval.
 - [ ] Trial: make three figures (one pose, one anatomy diagram, one vyayama pair) with the shared character sheet; fix the prompt wording; teacher check.
 - [ ] Draw the diagrams in TikZ or Python (anatomy, kosha, chakra, prana, history, bandha, breathing, stick figures).
 - [ ] Retype the table screenshots as LaTeX tables in own words; retire the exam screenshots.
 - [ ] Generate the people figures in sets with one character sheet; teacher reviews every pose; for the printed book replace with own photographs or commissioned line art.
-- [ ] Create `workshop/images/new/`; in the deck comment out the old picture line (never delete) and add the new one under it; update the register status; later move retired originals to a backup folder only when the author says.
+- [ ] Create `images/new/`; in the deck comment out the old picture line (never delete) and add the new one under it; update the register status; later move retired originals to a backup folder only when the author says.
 
 ## Derived outputs
 - [ ] Re-author the deck frames from the notes (text that follows a web page or the guidebook closely must be rewritten); keep the deck compiling after each batch.

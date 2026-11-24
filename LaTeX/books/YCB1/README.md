@@ -24,7 +24,7 @@ Decisions taken: licence for the book is all rights reserved (`LICENSE_BOOK.md`)
 | `book/` | The book project: `Main_Book_YCB1_interior.tex`, `Main_Book_YCB1_covers.tex`, `book_ycb1_content.tex` (the only place chapter order lives), front matter, references, `template_book.tex`, `make_book_ycb1.bat` (XeTeX). Skeleton only, no chapters yet; a chapter is added as one `\input` line once its notes block is checked |
 | `README.md`, `TODO.md`, `AUTHORING.md` | This guide, the open actions, the working rules |
 
-The workshop deck this book grows from is `workshop/`. Its pictures are in `workshop/images/`; replacements will go in `workshop/images/new/` (not created yet). Every picture line in the deck carries a comment with its figure ID, current file and planned final path.
+The workshop deck this book grows from is `workshop/`. Its pictures are in `images/`; replacements will go in `images/new/` (not created yet). Every picture line in the deck carries a comment with its figure ID, current file and planned final path.
 
 ## Sync rule
 
