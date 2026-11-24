@@ -1,6 +1,6 @@
 # Yoga Nidra workshop: session plan (draft for the author)
 
-A plan for delivering the existing deck (`LaTeX/Main_Seminar_YogaNidra_*`) as a practice-led workshop. The timings are proposals, not measured; the author adjusts them after the first delivery. No new slides are needed. The practice itself follows [YogaNidraDetailedScript.md](YogaNidraDetailedScript.md).
+A plan for delivering the existing deck (`LaTeX/workshops/YogaNidra/Main_Seminar_YogaNidra_*`) as a practice-led workshop. The timings are proposals, not measured; the author adjusts them after the first delivery. No new slides are needed. The practice itself follows [YogaNidraDetailedScript.md](YogaNidraDetailedScript.md).
 
 ## Settings and length
 

@@ -1,6 +1,33 @@
 # Status log (resume point)
 
-Updated 2026-11-14, end of the clean-up day. Plan: `upgrade_nontech_14112026.md`. Read this first in a new session.
+Read this first in a new session. Latest block is "Session 2026-11-24" directly below; the older log follows it.
+
+## Session 2026-11-24 (latest, kept in step while working)
+
+Author is away and asked for autonomous work; if a session stops, continue from the first unticked item.
+
+Done:
+- [x] LaTeX reorganised into `LaTeX/workshops/` (YCB1, YogaSutra with `seminars/`, YogaNidra, Sharada, YogaShastra retired), `LaTeX/onepagers/`, `LaTeX/_shared/` (templates, shared topic files, shared images), `LaTeX/_leftovers/` (unused, kept). Hash-checked; one deck per family compiled. Manifest: `reports/latex_reorg_manifest.csv`. Folder guide: `LaTeX/README.md`.
+- [x] `Yoga/` renamed `Spirituality/`; its certification folder moved into the YCB1 book docs and later flattened there by the author.
+- [x] YCB Level 1 textbook scaffold in `LaTeX/books/YCB1/`: `README.md`, `TODO.md`, `AUTHORING.md`, `docs/Notes YCB1.md` (master notes, one block per syllabus topic), `docs/image_register.csv` (one row per deck image: current name, prompt or brief, final name and path). Deck picture lines carry `% FIG` comments. Analysis and proposal: `reports/ycb1_textbook_analysis.md`.
+- [x] Source review of `LaTeX/books/YCB1/docs/`: the guidebook there (two identical copies) is for the older four-level scheme; the notes have a Local sources line per block (covered, partial, gap).
+- [x] Notes block written: the exam and certification block (from the Board guideline and the Level 1 syllabus).
+- [x] Publications `KEEP_NOTES.md` and `TODO.md` synced to the author's Keep text plus the YCB1 lines (author copies them into Google Keep).
+
+- [x] Root tidy done: `LICENSE_CONTENT.md` and `MOVED_MATERIAL.md` merged into `NOTICE.md` (now licences, third-party notice, what was removed); `CODE_OF_CONDUCT.md` folded into `CONTRIBUTING.md`; `CONTENTS.md` folded into `README.md` (a map section). The four merged files are removed; `LICENSE` (MIT text unchanged), `CITATION.cff`, `CLAUDE.md`, `TODO.md` stay. Root now holds README, LICENSE, NOTICE, CITATION.cff, CONTRIBUTING, CLAUDE, TODO.
+- [x] Links fixed after the tidy and after the author's own reshuffles: `Samskrit/README.md` (flat layout, no Arthashastra list because the file does not exist anywhere in the repo), `YogaSutra/README.md` and `SOURCES.md` (texts now in `YogaSutra/refs/`), root `README.md`. Local Markdown link check: 0 broken (reports excluded).
+
+In progress (this block is updated as each step finishes):
+- [ ] Continue the YCB1 notes blocks one at a time, starting with the practical demonstration blocks or the covered theory blocks (the author chose the exam block first; it is done). See `LaTeX/books/YCB1/TODO.md`.
+
+Open, for the author:
+- The two large instructor-book PDFs and the `.gdraw` link file in `LaTeX/books/YCB1/docs/` must stay out of the public repository (decide: ignore pattern or move to the private Drive).
+- `Samskrit/Awesome_arthashastra.md` is gone; the Arthashastra list is no longer mentioned in the READMEs. Restore the file and the mentions if it should stay.
+- Book licence for `LaTeX/books/YCB1/` (separate from the deck licence) is undecided; `NOTICE.md` says a book project keeps its own licence.
+
+## Earlier log
+
+Updated 2026-11-14, end of the clean-up day. Plan: `upgrade_nontech_14112026.md`.
 
 ## Rules in force
 No git commands. No CI or workflows. Personal items are flag-only. Nothing from `ImpDocs` unless the author has granted access to its `Yoga` folder. Compile once per batch with `texify --engine=xetex -cp`. No em dashes. Move, hash-check and list; do not delete without being told.

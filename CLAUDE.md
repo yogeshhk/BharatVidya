@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 The repo was closed in August 2026 and reopened in November 2026 for a bounded upgrade: Orientation
 frames in the intro and glance decks, removal of third-party and personal material (moved out to the maintainer's
-private Google Drive), a cut down to what is original and complete (see `MOVED_MATERIAL.md`), a landing-page
+private Google Drive), a cut down to what is original and complete (see `NOTICE.md`), a landing-page
 README and licence files. The plan and its progress are in
 `reports/upgrade_nontech_14112026.md` and `reports/STATUS.md` (read STATUS first in a new session).
 
@@ -19,24 +19,25 @@ BharatVidya is a study archive on Indian Knowledge Systems (IKS) under NEP 2020,
 
 ## Compiling LaTeX Documents
 
-All LaTeX compilation uses **XeTeX** (required for Devanagari and Unicode support). Each domain has a dedicated batch script in `LaTeX/`:
+All LaTeX compilation uses **XeTeX** (required for Devanagari and Unicode support). The slides are grouped by topic under `LaTeX/` (`workshops/`, `onepagers/`, `_shared/`), and each family has its own batch script beside its drivers:
 
 ```bat
-LaTeX\make_yogashastra.bat       # Yoga philosophy documents
-LaTeX\make_yogasutra.bat         # Yoga Sutra compilations
-LaTeX\make_onepagers.bat         # Summary one-pager sheets
-LaTeX\make_sharada.bat           # Sharada script documents
-LaTeX\make_ycb1.bat              # YCB certification materials
-LaTeX\make_yoganidra.bat
+LaTeX\make_all.bat                              # every live family
+LaTeX\workshops\YogaSutra\make_yogasutra.bat    # Yoga Sutra workshop and its seminars
+LaTeX\workshops\YCB1\make_ycb1.bat              # YCB certification
+LaTeX\workshops\YogaNidra\make_yoganidra.bat
+LaTeX\workshops\Sharada\make_sharada.bat
+LaTeX\workshops\YogaShastra\make_yogashastra.bat  # retired, switched off
+LaTeX\onepagers\make_onepagers.bat
 ```
 
-Scripts use `texify --engine=xetex -cp` and recursively find files matching their domain's pattern, for example `Main_*_YogaSutra*.tex`. To compile a specific `.tex` file manually:
+Scripts use `texify --engine=xetex -cp` and recursively find files matching their family's pattern, for example `Main_*_YogaSutra*.tex`, and compile each from its own folder because the sources use relative paths. To compile one driver manually, change into its folder first:
 
 ```bat
 texify --engine=xetex -cp <filename>.tex
 ```
 
-The decks share `LaTeX/template_presentation.tex` and `LaTeX/template_cheatsheet.tex`.
+The decks share `LaTeX/_shared/template_presentation.tex` and `LaTeX/_shared/template_cheatsheet.tex`; shared images are in `LaTeX/_shared/images/`.
 
 ### The custom headline in `template_presentation.tex` -- do not revert it
 
@@ -69,14 +70,14 @@ There is no code in this repository. The YogaSutraTrees knowledge graph by Giaco
 
 | Directory | Content |
 |-----------|---------|
-| `LaTeX/` | The slide system: Beamer decks, cheat sheets, topic files, images and build scripts |
+| `LaTeX/` | The slide system, grouped by topic: `workshops/` (YCB1, YogaSutra with its seminars, YogaNidra, Sharada, and the retired YogaShastra), `onepagers/`, `_shared/` (templates, shared topic files and images), `_leftovers/` (unused, kept), `books/` (planned) |
 | `YogaSutra/` | Notes on the Yoga Sutra, the Devanagari text, hand-drawn mind maps (`mindmaps/`), `SOURCES.md` and a long video list (`README.md`) |
 | `YogaNidra/` | Yoga Nidra overview (`README.md`), notes, a detailed practice script and a research reading list |
-| `Yoga/` | A curated list of Yoga resources (`README.md`) and a meditation note |
+| `Spirituality/` | A curated list of Yoga resources (`README.md`), a meditation note, and the GoodLife and Sketchnotes folders (renamed from `Yoga/`) |
 | `Samskrit/` | Curated lists on Sanskrit and the Arthashastra, and a reading list of papers on Sanskrit and computing |
 | `reports/` | The upgrade plans and `STATUS.md` (read it first) |
 
-Everything else that used to be here was moved out; see `MOVED_MATERIAL.md`.
+Everything else that used to be here was moved out; see `NOTICE.md`.
 
 ## LaTeX Conventions
 
@@ -86,7 +87,7 @@ Everything else that used to be here was moved out; see `MOVED_MATERIAL.md`.
 
 ## YogaSutra Seminar System
 
-The YogaSutra material in `LaTeX/` is structured as a workshop plus independent seminars, each with a matching cheat sheet.
+The YogaSutra material in `LaTeX/workshops/YogaSutra/` (seminars in its `seminars/` folder) is structured as a workshop plus independent seminars, each with a matching cheat sheet.
 
 **Presentations (built by `make_yogasutra.bat`, glob: `Main_*_YogaSutra*.tex`):**
 
@@ -119,4 +120,4 @@ Each has a corresponding `*_CheatSheet.tex`.
 
 The three workshops are Yoga certification (`Main_Workshop_YCB1_*`), Yoga Sutra (`Main_Workshop_YogaSutra_*`) and Yoga Nidra (`Main_Seminar_YogaNidra_*`); open items are in `TODO.md`. The YogaShastra deck is retired: it is not built (`make_yogashastra.bat` is switched off) and its topic files are sources to reuse; do not extend it.
 
-The retired deck is `LaTeX/Main_Workshop_YogaShastra_Presentation.tex` (content via `workshop_yogashastra_content.tex`). Do not convert new transcripts into it; its `yogashastra_*` topic files are to be mined for the three workshops (see `TODO.md`).
+The retired deck is `LaTeX/workshops/YogaShastra/Main_Workshop_YogaShastra_Presentation.tex` (content via `workshop_yogashastra_content.tex` in the same folder). Do not convert new transcripts into it; its `yogashastra_*` topic files are to be mined for the three workshops (see `TODO.md`).

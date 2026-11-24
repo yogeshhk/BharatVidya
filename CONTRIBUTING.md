@@ -1,23 +1,26 @@
 # Contributing to BharatVidya
 
-We invite you to contribute to the development of this repository. Here are some ways you can get involved:
+You are welcome to contribute. Ways to get involved:
 
-- **Contribute Content:** Share your knowledge and insights on any aspect of the Indian Knowledge System by adding or editing existing content.
-- **Suggest Enhancements:** Provide suggestions for improving the structure, organization, or any other aspect of the repository.
-- **Report Issues:** If you come across any issues or errors, please report them so that we can address and fix them promptly.
+- **Contribute content:** share your knowledge of the Indian Knowledge System by adding to or correcting existing notes. Corrections to the Sanskrit, transliteration or commentary are especially welcome.
+- **Suggest enhancements:** propose improvements to the structure or organisation of the repository.
+- **Report issues:** report errors so they can be fixed.
 
-## How to Submit Changes
+## How to submit changes
 
-1. **Fork the Repository**: Click on the 'Fork' button at the top right of this repository page.
-2. **Clone the Forked Repository**: Clone the repository to your local machine using `git clone <your-forked-repo-url>`.
-3. **Create a New Branch**: Create a new branch for your changes using `git checkout -b <new-branch-name>`.
-4. **Make Changes**: Add your changes and improvements.
-5. **Commit Changes**: Commit your changes with a meaningful commit message using `git commit -m "Description of changes"`.
-6. **Push Changes**: Push your changes to your forked repository using `git push origin <new-branch-name>`.
-7. **Submit a Pull Request**: Go to the original repository and submit a pull request, with a detailed description of your changes and any relevant information.
+Fork the repository, make your changes on a new branch, and open a pull request with a clear description of what you changed and why. Keep pull requests small, documented, and in line with the style of the existing content.
 
-Contributions are welcome. Please ensure your pull requests are well-documented and align with the overall content and style of the repository.
+## Third-party material
 
-## A Note on Third-Party Material
+This is a personal study archive. Add only your own original notes, summaries, or work you have the rights to share, not full copies of copyrighted books, papers, or course materials belonging to others. See [NOTICE.md](./NOTICE.md) for how third-party material is treated and for the licences.
 
-This repository is a personal study archive. When contributing content, please add only your own original notes, summaries, or work you have the rights to share, rather than full copies of copyrighted books, papers, or course materials belonging to others.
+## Conduct
+
+This is a space for learning about traditional knowledge, and people with many backgrounds and beliefs take part in it.
+
+- Be respectful. Disagree with ideas, not with people.
+- Treat traditions and teachers with care, and mark your own opinion as your own.
+- Cite sources. Do not post other people's books, recordings or private material.
+- No harassment, personal attacks or advertising.
+
+Maintainers may edit or remove comments, issues and changes that break these rules. To report a problem, open an issue or contact the maintainer through the profile on GitHub.

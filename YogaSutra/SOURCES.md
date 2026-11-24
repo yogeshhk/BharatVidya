@@ -20,7 +20,7 @@ The slides use its interpretations, tagged with initials.
 - Audio recordings of the sutras: http://yogasutrastudy.info/links/ysp-multi-track.html
 - About the maintainer: http://yogawithsubhash.com/about/
 
-[`YogSutra_Devnagari.txt`](YogSutra_Devnagari.txt) in this folder is the Devanagari text of the sutras. If you reuse it, check the source site first for how it should be credited.
+[`YogSutra_Devnagari.txt`](refs/YogSutra_Devnagari.txt) in this folder is the Devanagari text of the sutras. If you reuse it, check the source site first for how it should be credited.
 
 ## Maayboli: Patanjali Yogasutra in Marathi
 https://www.maayboli.com/node/12263, https://www.maayboli.com/node/12291, https://www.maayboli.com/node/12306 and https://www.maayboli.com/node/12307 (the four parts, in order).
@@ -38,6 +38,6 @@ A machine-readable knowledge graph of the Yoga Sutras by Giacomo De Luca. A copy
 ## Other sources cited by the slides
 - Yogic Journey, "30 Days of Yogic Journey" by Saatvik Life on Medium: https://saatviklife.medium.com/
 - IGNOU, the Yoga Sutra course blocks (BSKS-187): search for the course code at IGNOU.
-- The Yoga Sutra references frame of the slides (`LaTeX/yogasutra_refs.tex`) lists the books and articles used.
+- The Yoga Sutra references frame of the slides (`LaTeX/workshops/YogaSutra/yogasutra_refs.tex`) lists the books and articles used.
 
 If you are an author or rights holder and want something changed, open an issue. See [NOTICE.md](../NOTICE.md).

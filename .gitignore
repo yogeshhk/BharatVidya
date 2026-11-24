@@ -180,4 +180,4 @@ cython_debug/
 .claude/settings.local.json
 
 # Compiled decks are published as GitHub Release assets, not stored in the tree
-LaTeX/Main_*.pdf
+LaTeX/**/Main_*.pdf
