@@ -26,6 +26,8 @@ for r in csv.DictReader(io.open(B + "docs/image_register.csv", encoding="utf-8")
     out.append(d("figfile", fid, "../images/new/%s" % os.path.basename(r["final_path"] or "")))
     if r["type"] != "table_screenshot":
         out.append(d("figorig", fid, "../images/%s" % r["current_name"]))
+    if r["status"] == "drawn":
+        out.append(d("figdrawn", fid, "1"))
     if r["risk"] == "high":
         out.append(d("figclear", fid, "1"))
     if (r.get("credit") or "").strip():

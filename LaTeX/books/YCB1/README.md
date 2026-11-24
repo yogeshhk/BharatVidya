@@ -20,11 +20,11 @@ Decisions taken: licence for the book is all rights reserved (`LICENSE_BOOK.md`)
 | `docs/Syllabus-YPI-Version-0.2-Board.pdf`, `docs/Guideline-for-YP-Version-0.3-Board.pdf` | The Board's own syllabus and guideline for this level, downloaded from the Board site; these are the authority for the exam rules and the syllabus |
 | `docs/*.pdf` and `docs/README.md` | Reference PDFs kept beside the notes: the Board's syllabi and guideline, the Common Yoga Protocol, a mind map, and two large official or published instructor books, with a README written for the Board papers. None of these is the author's work. The level syllabus copy carries a private institute's contact footer: replace it with the Board's own file before citing. The two large books are copyrighted and are not for the public repository (see `TODO.md`) |
 | `docs/ycb1_exam*` | Copies of the deck's exam source and exam screenshots, placed here by the author |
-| `workshop/` | The YCB1 workshop deck and cheat sheet (drivers, `ycb1_*` topic files, `images/`, `make_ycb1.bat`), clubbed here with the book as in QCNP and the Game Theory Workbook (`docs/`, `workshop/`, later `book/`) |
+| `workshop/` | The YCB1 workshop deck and cheat sheet (drivers, `ycb1_*` topic files, `make_ycb1.bat`; its pictures are in the shared `../images/`), clubbed here with the book as in QCNP and the Game Theory Workbook (`docs/`, `workshop/`, later `book/`) |
 | `book/` | The book project: `Main_Book_YCB1_interior.tex`, `Main_Book_YCB1_covers.tex`, `book_ycb1_content.tex` (the only place chapter order lives), front matter, references, `template_book.tex`, `make_book_ycb1.bat` (XeTeX). Skeleton only, no chapters yet; a chapter is added as one `\input` line once its notes block is checked |
 | `README.md`, `TODO.md`, `AUTHORING.md` | This guide, the open actions, the working rules |
 
-The workshop deck this book grows from is `workshop/`. Its pictures are in `images/`; replacements will go in `images/new/` (not created yet). Every picture line in the deck carries a comment with its figure ID, current file and planned final path.
+The workshop deck this book grows from is `workshop/`. All pictures, for the deck and the book, are in the shared `images/` folder; replacements go in `images/new/` (the line diagrams drawn for the book are already there). Every picture line in the deck carries a comment with its figure ID, current file and planned final path.
 
 ## Sync rule
 

@@ -66,7 +66,8 @@
   {\footnotesize\itshape\textcolor{ycbgrey}{%
     \ifcsname figcredit@#1\endcsname Credit: \csname figcredit@#1\endcsname.\ \fi
     \if1\ycbfigold\ifcsname figclear@#1\endcsname Original workshop picture; permission to be cleared before print.\ \fi\fi
-    Prompt: \ifcsname figprompt@#1\endcsname\csname figprompt@#1\endcsname\else to be written (see the image register, #1)\fi}\par}
+    \ifcsname figdrawn@#1\endcsname Line diagram drawn for this book.\else
+    Prompt: \ifcsname figprompt@#1\endcsname\csname figprompt@#1\endcsname\else to be written (see the image register, #1)\fi\fi}\par}
   \end{figure}}
 
 % Draft label for a chapter written from a notes block whose Fact check is still pending
