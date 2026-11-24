@@ -353,6 +353,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Q: Some slides say to wait 40 to 60 minutes and avoid water after practice. Which is right? A: Use the Material: about 20 to 30 minutes before a bath or meal, as in the Common Yoga Protocol. No source supports avoiding water.
   - Q: Who gave the five-point guide to a yogic life? A: Sivananda Yoga Vedanta Centres credit it to Swami Vishnudevananda, developed from Swami Sivananda's teaching.
   - Q: Is the material reviewed by a certified teacher? A: Not yet. It is checked against the sources named, but a certified teacher or qualified reviewer must still review it.
+- **Deck frames added by the sync (titles only; the content is in the Material above):** Practice: Before, During and After; When Not to Practise, and Food
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -1529,6 +1530,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - C) पुरुष (Purush)
   - D) समाचि (Samachi)
   - Answer: B) प्रणव (Pranav)
+- **Deck frames added by the sync (titles only; the content is in the Material above):** The Twelve Sutras in Order
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -1641,6 +1643,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - C) योग (Yoga)
   - D) संन्यास (Sanyasa)
   - Answer: C) योग (Yoga)
+- **Deck frames added by the sync (titles only; the content is in the Material above):** Sense of the Five Shlokas
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -1977,6 +1980,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - C) Hatha Ratnavali
   - D) शिव योग दीपिका (Shiv Yoga Dipika)
   - Answer: B) भगवद गीता (Bhagavad Gita)
+- **Deck frames added by the sync (titles only; the content is in the Material above):** Hatha Yoga Pradipika: Laya Yoga and Nadanusandhana; Hatha Yoga Pradipika: Samadhi as the Aim; Middle Path and General Rules for Asana Practice
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -2079,6 +2083,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Q: Are the Brahma Sutras and the Vedanta Sutras different texts? A: No. The Brahma Sutras are also called the Vedanta Sutras.
   - Q: Do I need to know the list of principal Upanishads or the number of verses? A: The core Material for this topic does not require them. The deck lists of Upanishads and the verse and sutra counts are still unchecked, and the number of principal Upanishads varies between lists, so do not rely on them until a named source is added.
   - Q: Is the Prasthanatrayi covered in the official guidebook? A: No. The guidebook does not cover it. The notes rest on a secondary reference page that states it the same way as textbooks do, so a named source is still needed.
+- **Deck frames added by the sync (titles only; the content is in the Material above):** Prasthanatrayee: Heard, Remembered, Reasoned
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -2415,6 +2420,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Q: Does it improve stamina and circulation? A: The guidebook does not state these, so do not claim them in the exam.
   - Q: Is meditation part of hatha yoga? A: No. Meditation is a goal that hatha prepares for. The four limbs are asana, pranayama, mudra and bandha, and nada-anusandhana.
   - Q: Where are the verses for the Hatha Pradipika and Gheranda Samhita points? A: Verse numbers still have to be checked in a standard edition, so a source is still needed.
+- **Deck frames added by the sync (titles only; the content is in the Material above):** What Each Hatha Practice Adds
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -2514,6 +2520,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Q: Is mindfulness a named practice here? A: No. Mindfulness of thoughts and feelings is a modern word for the same awareness, not a named practice in the guidebook.
   - Q: Who elaborated the five states of the mind? A: The question bank says Vyasa in his commentary, but this is still to be checked, so a source is still needed.
   - Q: Why do English names for the vrittis and obstacles differ between books? A: Translations differ between commentaries. Keep the Sanskrit term with one English word.
+- **Deck frames added by the sync (titles only; the content is in the Material above):** Nine Obstacles and Four Companions; A Clear and Steady Mind: Means and Remedy
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -2591,6 +2598,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Q: Is samadhi the same as enlightenment? A: The guidebook defines it as spiritual absorption, so use "absorption" in answers.
   - Q: Do I have to learn the limbs in order? A: Yes. Students should name all eight in order, and each limb prepares the next.
   - Q: Are the outer and inner limbs separate paths? A: The notes say to put it as the outer limbs preparing the inner. Steady practice of the limbs is said to thin impurities until discriminative knowledge dawns.
+- **Deck frames added by the sync (titles only; the content is in the Material above):** Five Yamas and Five Niyamas
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -3294,6 +3302,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - C) Maintaining the constant environment only during night
   - D) Maintaining the constant environment only during day
   - Answer: A) Maintaining a constant environment in the body
+- **Deck frames added by the sync (titles only; the content is in the Material above):** Functions of Circulatory System; Functions of Respiratory System; Functions of Excretory System
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -3789,6 +3798,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Q: What does yoga aim to do about future suffering? A: Prevent it before it arises.
   - Q: Which levels of well-being does the holistic view cover? A: Physical, mental, social and spiritual.
 - **FAQ:** to be written (the question bank in `ycb1_theory_faqs.tex` is a seed, to be rewritten)
+- **Deck frames added by the sync (titles only; the content is in the Material above):** Yoga, Care and Well-being
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -3910,6 +3920,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Q: Do the Indian manual and the American Heart Association give different figures? A: No. The AHA rate, depth and 30 to 2 ratio agree with the Indian manual. Use the Indian manual for the exam.
   - Q: What about the first aid kit list and the steps for wounds, burns and fractures? A: These come from the workshop deck, are still unchecked, and the manual treats them in later chapters. They are not part of the checked Material yet.
   - Q: Is CPR certification compulsory for yoga teachers in India? A: The deck says it is not, but this is still to be checked. A course is worth taking in any case.
+- **Deck frames added by the sync (titles only; the content is in the Material above):** Moving a Casualty, Food and Drink; CPR: Doing It Well; Stopping CPR and the Instructor's Role
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -4211,6 +4222,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Q: Which cleansing practice uses warm salted water for the nose? A: Jala neti.
   - Q: Which three cleansing actions are named for the digestive tract? A: Dhauti, nauli and basti.
 - **FAQ:** to be written (the question bank in `ycb1_theory_faqs.tex` is a seed, to be rewritten)
+- **Deck frames added by the sync (titles only; the content is in the Material above):** Respiratory \& Metabolic Health: Yogic Prevention
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -6116,6 +6128,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Q: Do I need a checklist of props and tools? A: The guidebook gives no checklist for other props or tools, so that part is only practical advice from the author. For mats, the checked point is that they are clean and in good order, on a level floor, and preferably cotton or a poor conductor.
   - Q: Should every student bring a mat? A: Mats are placed in the room or brought by the practitioner. A personal mat helps hygiene.
   - Q: Is this the Board's own teaching guidance? A: Not yet. It is read against the official guidebook, an older scheme, as a coverage check. The Board's current teaching text is still to be added, and a certified teacher must still review it.
+- **Deck frames added by the sync (titles only; the content is in the Material above):** Preparing the Room, the Student and the Opening
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -6178,6 +6191,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Q: Do pictures and demonstrations really help? A: Yes. Watching a good demonstration builds skill, and pictures and models help the learning of movement.
   - Q: Does technology change how people learn? A: The guidebook says advances in communication technology have changed teaching systems, but it does not say they change how people learn. Treat that as a comment only, and a source is still needed for more.
   - Q: Why do short rests between practices matter? A: The Material lists short rests as one of the principles that help learning.
+- **Deck frames added by the sync (titles only; the content is in the Material above):** Factors Influencing Yoga Teaching
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -6493,6 +6507,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Q: Where is field experience assessed? A: It is part of the practical assessment, which lasts at most one hour per candidate.
   - Q: Is a class log compulsory? A: The Material does not say so. The Board asks for the report, the feedback form and the experience format. A short log of classes is a study suggestion and a practical way to keep the record.
   - Q: Can I be exempt from this component? A: Not at this level. The exemption is only for postgraduate yoga degree holders sitting the Yoga Master certification.
+- **Deck frames added by the sync (titles only; the content is in the Material above):** The Board's Two Forms
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)
@@ -6723,6 +6738,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Q: What should I bring on exam day? A: The admit card (issued at least a week before and downloadable from the Board's site), a valid identity card and a pen. Reach the centre preferably an hour early; a candidate more than 15 minutes late is not allowed in.
   - Q: Can I trust the fees and dates in this booklet? A: Not fully. Amounts change and the Board's site notices change some validity dates, so read the current guideline and notices, or ask the institution, before relying on any fee or date.
   - Q: Are the things past candidates report about the practical official? A: No. They are not from the Board and may vary by agency and year. Use them as practice only, and follow the syllabus.
+- **Deck frames added by the sync (titles only; the content is in the Material above):** Who Can Sit, and Pass Marks; After the Result; On the Exam Day; References for Level 1 Exam
 - **References:**
   - Certification of Yoga Professionals, Official Guidebook for Level I (Instructor), Ministry of AYUSH and Quality Council of India, Excel Books, 2016 (older scheme; used as a coverage check and for detail, in own words)
   - Board syllabus for Level 1, Yoga Protocol Instructor (Yoga Certification Board)

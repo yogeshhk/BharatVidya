@@ -42,11 +42,28 @@
 
 \usepackage{xurl}
 \usepackage[hidelinks]{hyperref}
+\usepackage[nameinlink,capitalise]{cleveref}
 
 % Fewer overfull lines: allow a little extra stretch, and let microtype adjust spacing.
 \usepackage[expansion=false]{microtype}
 \setlength{\emergencystretch}{3em}
 \hbadness=3000
+
+% Figure with its generation prompt below it: \ycbfig{<figure_id>} (ids and prompts come from
+% ycb1_book_figures.tex, generated from docs/image_register.csv). When the final picture file does
+% not exist yet, an empty frame stands in; the prompt line stays under it either way.
+\newcommand{\ycbfig}[1]{%
+  \begin{figure}[H]\centering
+  \ifcsname figfile@#1\endcsname\edef\ycbfigfile{\csname figfile@#1\endcsname}\else\def\ycbfigfile{none}\fi
+  \IfFileExists{\ycbfigfile}{%
+    \includegraphics[width=0.8\linewidth,height=0.3\textheight,keepaspectratio]{\ycbfigfile}}{%
+    \fbox{\parbox[c][5em][c]{0.8\linewidth}{\centering\footnotesize\textcolor{ycbgrey}{Figure to be made}}}}\par\smallskip
+  {\footnotesize\itshape\textcolor{ycbgrey}{Prompt: \ifcsname figprompt@#1\endcsname\csname figprompt@#1\endcsname\else to be written (see the image register, #1)\fi}\par}
+  \end{figure}}
+
+% Draft label for a chapter written from a notes block whose Fact check is still pending
+% (author's decision 2026-11-24: write it now, labelled; remove the box when the block is checked).
+\newtcolorbox{unverified}{breakable, colback=yellow!8, colframe=orange!70!black, title=Not yet fact-checked, fonttitle=\bfseries}
 
 % Boxes used by the chapters: a cautions box and a quick-recall box.
 \newtcolorbox{caution}{breakable, colback=red!4, colframe=red!55!black, title=Caution, fonttitle=\bfseries}
