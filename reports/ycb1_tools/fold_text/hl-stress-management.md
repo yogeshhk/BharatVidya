@@ -1,0 +1,33 @@
+  - **Psychology and behaviour (deck, not yet checked):** psychology is the scientific study of mental processes and behaviour, and it touches family life, education and health. Overt behaviour is what can be seen from outside (actions and reactions to a stimulus); covert behaviour is the inner mental activity.
+  - **Consciousness in the yogic view (deck, not yet checked):** the practices are said to widen awareness, with the traditional goal of union of the individual Self (Atman) with the Supreme Self (Paramatman); this is a school-specific statement, so learn it as the yogic view.
+  - **Five sheaths and what feeds them (deck, not yet checked):**
+    - Annamaya kosha, the food sheath, is fed by food (anna).
+    - Pranamaya kosha, the vital sheath, is fed by prana, the life energy.
+    - Manomaya kosha, the mental sheath, is fed by pratyahara, the drawing in of the senses (to be checked).
+    - Vijnanamaya kosha, the intellect sheath, is fed by dhyana, meditation (to be checked).
+    - Anandamaya kosha, the bliss sheath, is fed by samadhi (to be checked).
+  - **Gunas and the mind (deck, not yet checked):** sattva gives steadiness (love, compassion, honesty, calm); rajas gives activity (drive, ambition, desire, leadership); tamas gives inertia (laziness, sleep, dullness, aversion). The vrittis (mental modifications) and pravritti (urge to act) are shown as expressions of the gunas.
+  - **How a thought becomes a feeling (deck, not yet checked):** the senses (indriyas) bring in information; the intellect, helped by memory, processes it; emotion then colours it. Thoughts are compared to waves on the sea.
+  - **Negative and positive emotions (deck, not yet checked):** anger, fear, hatred and jealousy feed stress and the mind-born disorders called adhi; peace, contentment and happiness refresh and build up. In the question bank, adhija vyadhi is a disturbance at the mental level, linked to the manomaya kosha, and anadhija vyadhi is a bodily ailment, mainly of the annamaya kosha.
+  - **Mental hygiene (deck, not yet checked):** the habit of keeping the mind healthy by watching and managing one's thoughts and feelings. Aims: to realise one's potential, to respect oneself and others, to accept the limits of self and others, to bring harmony and happiness, to adjust well to life, and to know one's true Self.
+  - **Three yogic attitudes for a healthy mind (deck, not yet checked):** pratipaksha bhavana, cultivating the opposite thought to cancel a disturbing one; anitya bhavana, seeing that bodily experiences are impermanent, which grows detachment (vairagya); sakshi bhavana, watching one's own actions as a witness, which grows self-awareness and evenness of mind.
+  - **Mental health in yoga (deck, not yet checked):** a state of well-being in which a person knows their abilities, copes with the usual stresses, works productively and serves the community. Patanjali's yoga is the stilling of the vrittis, by abhyasa (steady repeated practice) and vairagya (detachment); the inner limbs named here are pratyahara, dharana, dhyana and samadhi.
+  - **Prayer and meditation (deck, not yet checked):** prayer is said to bring relaxation, ease the strain of trying to control everything, raise positive feeling, fit a person's beliefs and join body, mind and spirit; the slide also calls it a placebo and "the most widely used healing practice", so treat those two as claims to be checked. Om meditation makes the mind one-pointed, helps with focus, clears information overload and is a tool for self-realisation.
+  - **Psychosocial stress (deck, not yet checked):** the climate and culture of a workplace, and the strain that comes from dealing with other people, are sources of stress.
+  - **Stress effects (deck, not yet checked):** the body is prepared for "fight or flight": more energy, faster heart and higher blood pressure, blood diverted to the muscles and sharper senses; stress that is not resolved can end in psychosomatic disorders.
+  - **Likes and dislikes (deck, not yet checked):** strong liking and disliking upset the balance of the mind and give rise to stress (adhi).
+  - **Four yogic means of managing stress (deck, not yet checked):** ahara, right food; vihara, proper recreation and rest; vichara, positive thinking; vyavahara, correct conduct and action.
+  - **Cyclic meditation and karma yoga (deck, not yet checked):** cyclic meditation is reported to lower stress, raise attention and emotional steadiness and ease anxiety (to be checked against a named study). Karma yoga, with regular practice, non-attachment and balance, leads to a steady mind.
+CONFLICTS:
+- The slides call prayer a "placebo" and "the most widely practised healing modality" and say it "reduces stress of control"; unsupported or oddly worded, to be checked or dropped.
+- The mapping of pratyahara, dhyana and samadhi as the "nourishers" of the manomaya, vijnanamaya and anandamaya koshas is not the usual textbook wording (other sources use other practices); to be checked.
+- The slide says consciousness is a "non-physical entity that creates, retains and annihilates concepts of Self and Universe"; doctrinal, wording is unclear, only the safer paraphrase was used.
+- The slide says cyclic meditation "boosts attention and emotional quotient" and "reduces anxiety" as research; no source is given; kept as a hedged claim.
+- The slide lists the four yogic means (ahara, vihara, vichara, vyavahara); the existing Material lists the yoga means differently (asana, pranayama, meditation, conduct). Not contradictory, but the author may want one list.
+FAQ-QUIZ:
+- Q: What does adhija vyadhi mean? A: A disturbance at the mental level, linked to the manomaya kosha.
+- Q: Which kosha is mainly affected by anadhija vyadhi? A: The annamaya kosha (physical ailments).
+- Q: Name the four yogic means of stress management. A: Ahara (right food), vihara (rest and recreation), vichara (positive thinking) and vyavahara (correct conduct).
+- Q: What is pratipaksha bhavana? A: Cultivating the opposite thought to cancel a disturbing one.
+- Q: What is the term for the feeling of being upset because one cannot change or achieve something? A: Frustration.
+- Q: What is the purpose of yoga as taught by the ancients? A: Self-realisation.

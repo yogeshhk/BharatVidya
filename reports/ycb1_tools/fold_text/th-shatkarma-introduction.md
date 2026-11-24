@@ -1,0 +1,23 @@
+  - **Aims and benefits as taught in the deck (deck, not yet checked):** cleansing to remove waste, give vitality and steady the mind; it prepares for deeper yoga practice and spiritual growth, lessens mental clutter and stress, and works on the physical, mental and energy levels together. Say "traditionally used for cleansing", not cure.
+  - **Short line for each, as the deck gives it (deck, not yet checked):** kapalabhati, skull shining breath; neti, nasal cleansing with water or salt water; basti, cleansing of the colon; dhauti, cleansing of the digestive tract by various means; trataka, steady gazing for focus and for the eyes; nauli, massage of the abdomen through the abdominal muscles.
+  - **Exam facts from the deck's question bank (deck, not yet checked):**
+    - Kapalabhati is named bhalabhati in the Gheranda Samhita.
+    - Kapalabhati types: vatakrama, vyutkrama and sheetkrama (to be checked).
+    - Kapalabhati is avoided with high blood pressure, heart problems, stroke and epilepsy.
+    - Achamana kriya relates to taking water; abhyanga means body massage.
+    - The seven dhatus of Ayurveda: rasa, rakta, mamsa, meda, asthi, majja, shukra.
+    - Pinda and brahmanda: the individual (microcosm) and the universe (macrocosm); two principles of Sankhya: purusha (consciousness) and prakriti (matter).
+CONFLICTS:
+- The deck says kapalabhati clears nasal passages and energises; the Material says it cleans the front of the head and the lungs.
+- The deck claims shatkarma boosts immunity and improves digestion; left out as health claims.
+- The deck question bank names shraddha, virya, smriti, samadhi and prajna as the sadhaka tattva "as per Hatha Pradipika"; these five are from the Yoga Sutra (to be checked).
+- The deck question bank says hrid dhauti has two types; the Gheranda Samhita is usually read as listing three (danda, vamana, vastra) (to be checked).
+- The deck question bank gives vatakrama, vyutkrama and sheetkrama as kapalabhati types; these come from the Gheranda Samhita, not the Hatha Pradipika (to be checked).
+- The deck order of the six differs from the order of the text in the Explanation; schools vary.
+FAQ-QUIZ:
+- Q: What is kapalabhati called in the Gheranda Samhita? A: Bhalabhati.
+- Q: Name the types of kapalabhati in the deck. A: Vatakrama, vyutkrama and sheetkrama.
+- Q: Name the seven dhatus of Ayurveda. A: Rasa, rakta, mamsa, meda, asthi, majja and shukra.
+- Q: What do pinda and brahmanda mean? A: The individual (microcosm) and the universe (macrocosm).
+- Q: Name the two principles of Sankhya. A: Purusha (consciousness) and prakriti (matter).
+- Q: Which shatkarma is gentle abdominal massage by muscle control? A: Nauli.

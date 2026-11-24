@@ -1,0 +1,54 @@
+  - **Skeletal parts (deck, not yet checked):** bones (adult count about 206; living tissue with a good blood supply), cartilage (elastic, cushions joints), ligaments (bone to bone), tendons (muscle to bone) and joints (where bones meet).
+  - **Skeletal divisions (deck, not yet checked):** the axial part is the skull, the vertebral column and the rib cage (the ribs guard the lungs and heart); the appendicular part is the shoulder girdle (shoulder blades and collar bones), the arm bones (humerus, radius, ulna, wrist bones, hand bones, finger bones), the pelvis and the leg bones (femur, patella, tibia, fibula, ankle bones, foot bones, toe bones).
+  - **Skeletal functions (deck, not yet checked):** framework, support, protection, blood-cell formation (in marrow) and storage of minerals.
+  - **Vertebral column (deck, not yet checked):** a column of vertebrae joined by cartilage and ligaments, with the spinal cord in the central canal. Regions from top: cervical, thoracic, lumbar, sacral (fused) and coccygeal (fused). Natural curves: cervical, thoracic, lumbar and pelvic.
+    - Faulty posture can exaggerate the curves: kyphosis (more thoracic curve), lordosis (more lumbar curve), scoliosis (sideways curve).
+    - Asana practice is said to support good posture by balancing and strengthening the muscles (to be checked).
+  - **Spinal movements with sample asanas (deck, not yet checked):**
+    - Flexion (forward bend): Paschimottanasana, Padahastasana.
+    - Extension (back bend): Bhujangasana, Dhanurasana.
+    - Rotation (twist): Ardha Matsyendrasana; largest between the first two neck vertebrae (atlas and axis).
+    - Side bending: Trikonasana.
+    - Circumduction (circular sway): Chakki Chalan.
+    - Elongation (stretch upwards): Tadasana, Urdhva Hastasana.
+  - **Joint types (deck, not yet checked):** fibrous (almost no movement, for example skull sutures), cartilaginous (strong and slightly flexible, for example rib to breastbone, which helps breathing) and synovial (most mobile; cartilage-coated ends inside a fluid-filled capsule; several sub-kinds for different movements).
+  - **Muscle types (deck, not yet checked):** voluntary (consciously controlled; walking, balance, writing), involuntary (autonomic control; digestion, blood flow) and cardiac (self-rhythmic, heart only). Muscles turn chemical energy into movement.
+  - **Muscle functions (deck, not yet checked):** movement, posture against gravity, protection of organs, heat production, energy store and working of internal organs.
+  - **Muscle contraction (deck, not yet checked):** fibres hold thin (actin) and thick (myosin) filaments that slide over each other and shorten the fibre. Isotonic: the muscle changes length under a steady load. Isometric: the muscle keeps its length while tension rises.
+  - **Reflex and reciprocal inhibition (deck, not yet checked):** proprioceptors report body position to the brain and help posture and coordination. The stretch reflex is a quick contraction when a muscle is suddenly lengthened. Reciprocal inhibition: when one muscle contracts its opposite relaxes (biceps and triceps), giving smooth movement. Slow movement is said to suit deep breathing.
+  - **Movement terms (deck, not yet checked):** flexion (angle decreases), extension (angle increases), abduction (away from the midline), adduction (towards the midline), elevation and depression (up and down, as in shoulders), pronation (palms down), supination (palms up), rotation, and sphincter action (narrowing or widening an opening). Matching muscle groups: flexors, extensors, abductors, adductors, rotators.
+  - **Muscle energy (deck, not yet checked):** aerobic (with oxygen; steady long activity such as dance or distance running) and anaerobic (little oxygen; fast, heavy effort; lactic acid is formed). After effort, oxygen clears the lactic acid; the oxygen needed for this is the oxygen debt.
+  - **Blood (deck, not yet checked):** plasma is the largest share, then red cells (carry oxygen and carbon dioxide; made in bone marrow; live about 120 days), white cells (immunity) and platelets (stop bleeding by plugging damaged vessels).
+  - **Vessels and heart (deck, not yet checked):** arteries carry blood away from the heart, then arterioles, capillaries (exchange), venules and veins (back to the heart). Systemic circulation serves the body; pulmonary circulation serves the lungs. The heart has two atria (receive blood) and two ventricles (pump it out); valves stop backflow (tricuspid on the right, bicuspid or mitral on the left).
+  - **Circulatory functions (deck, not yet checked):** transport, protection through immunity, and homeostasis.
+  - **Respiratory tract (deck, not yet checked):** nose (filters, warms and moistens air; smell), pharynx, larynx (voice box), trachea (windpipe held open by cartilage rings), bronchi, bronchioles and alveoli (gas exchange). The right lung has three lobes and the left has two. Mucus lining traps dust; sinuses are air spaces near the nose that can get blocked.
+  - **Muscles of breathing (deck, not yet checked):** diaphragm (dome below the lungs, separates chest from abdomen), intercostals (between ribs; lift the rib cage for inhalation, lower it for exhalation), accessory neck muscles (help in clavicular breathing) and abdominal muscles (forced exhalation).
+  - **Respiratory functions (deck, not yet checked):** gas exchange, acid-base (pH) balance and speech.
+  - **Digestive tract (deck, not yet checked):** mouth (chewing; saliva starts carbohydrate digestion), oesophagus (passage only), stomach (churning; acid; protein digestion starts; no absorption), small intestine (duodenum, jejunum, ileum; main digestion and absorption; villi widen the surface), large intestine (water absorption; ascending, transverse and descending colon, rectum, anus). Food moves by peristalsis (waves of contraction).
+  - **Excretory parts (deck, not yet checked):** kidneys (filter blood; nephrons), ureters (carry urine by peristalsis), bladder (stores urine) and urethra (passage out).
+  - **Excretory functions (deck, not yet checked):** remove waste, regulate blood volume and pressure, control electrolytes and blood pH.
+  - **Hormones (deck, not yet checked):** chemical messengers released into blood, acting on target organs, needed in small amounts; too much or too little disturbs health. Kinds: water-soluble (proteins, amines) and lipid-soluble (steroids).
+  - **Hypothalamus and pituitary (deck, not yet checked):** the hypothalamus controls the pituitary by releasing and inhibiting hormones. The pituitary (called the master gland) releases growth hormone, FSH, LH, prolactin (milk), TSH (thyroid), ACTH (adrenals), ADH (water retention) and oxytocin (uterine contraction).
+  - **Other glands named (deck, not yet checked):** pineal (melatonin; sleep rhythm), thyroid (thyroxine and calcitonin; metabolism and calcium) and parathyroids (calcium balance).
+  - **Reproductive system (deck, not yet checked):** male parts: testes (sperm), scrotum, seminal vesicles, prostate, penis. Female parts: ovaries (eggs), oviducts (fertilisation site), uterus (nurtures embryo), vagina. Fertilisation gives a zygote, then embryo, then fetus.
+  - **Nervous system divisions (deck, not yet checked):** the neuron is the basic unit. Central part: brain (cerebrum, cerebellum for balance and coordination, medulla for vital functions, diencephalon with thalamus and hypothalamus; guarded by skull and meninges) and spinal cord (from the medulla to the lumbar region; reflexes; carries sensory and motor signals). Peripheral part: somatic (voluntary; sensory and motor nerves; cranial and spinal nerve pairs) and autonomic (involuntary; sympathetic "fight or flight", parasympathetic "rest and digest").
+
+CONFLICTS:
+- Slide says the skull has 23 bones; usual teaching is 22 (cranium and face), more if ear bones are counted. Left out of the bullets.
+- Slide says anaemia is when red cells fall below 30 percent; anaemia is normally defined by low haemoglobin (or haematocrit). Left out.
+- Slide says platelets live about 4 days; usual figures are about 8 to 10 days. Left out.
+- Slide says the alimentary canal is 12 m long; usual figure is about 9 m. Left out.
+- Slide says hormones are "not stored in the body"; some (thyroid hormones, steroids in part) are stored or made on demand. Left out.
+- Three slides titled "Functions of Muscular System" actually list circulatory, respiratory and excretory functions (title error in the deck).
+- Slide says fibrous joints allow "least movement" and also "immovable"; skull sutures are the example.
+- Slide lists "chakki chalavan"; the usual spelling is chakki chalan (to be checked).
+- Slide says "Anaemia", "Asana Benefits" frame has only a guidebook reference and no content.
+- Slide says asanas "can help correct posture" and slow movement "supports deep breathing"; kept as soft statements, to be checked.
+
+FAQ-QUIZ:
+- Q: Name the muscles of breathing. A: Diaphragm, intercostals, accessory neck muscles and (for forced exhalation) abdominal muscles.
+- Q: Which gland is called the master gland? A: The pituitary.
+- Q: What is reciprocal inhibition? A: When one muscle contracts, its opposite relaxes (biceps and triceps).
+- Q: Which hormone does the pineal gland make? A: Melatonin, linked to the sleep rhythm.
+- Q: Which spinal movement is shown by Bhujangasana? A: Extension (back bend).
+- Q: Which valve lies between the left atrium and left ventricle? A: The bicuspid (mitral) valve.

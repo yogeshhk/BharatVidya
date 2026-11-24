@@ -1,0 +1,26 @@
+  - **Schools of Indian philosophy (deck, not yet checked):** astika (accepting the Vedas as authority): Nyaya (Gautama), Vaisheshika (Kanada), Samkhya (Kapila), Mimamsa (Jaimini), Yoga (Patanjali), Vedanta (Badarayana). Nastika: Jain (Mahavira), Buddhist (Buddha), Charvaka (Brihaspati).
+  - **Paths of yoga named on the deck (deck, not yet checked):** jnana, bhakti, karma, raja, hatha and mantra yoga.
+  - **Jnana yoga, means (deck, not yet checked):** the path of discerning the real from the unreal, in a non-dual view. Its practice runs through shravana (listening to the teaching), manana (reflection and reasoning) and nididhyasana (repeated meditation to make the conviction firm). The student's preparation is viveka (discrimination), vairagya (detachment), the group of six virtues (shama calm, dama self-control, uparati withdrawal, titiksha endurance, shraddha faith, samadhana focus) and mumukshutva (strong longing for liberation).
+  - **Bhakti yoga, means (deck, not yet checked):** the path of unconditional love for God, as in the Narada Bhakti Sutra. Forms of devotion with the example named for each: shravana (listening to stories of God; Parikshit), kirtana (singing; Mirabai, Narada), smarana (remembrance; Prahlada), padasevana (service at the feet; Bharata on the slide), archana (worship; Ekalavya on the slide), dasya (service as servant; Hanuman), sakhya (friendship; Sudama on the slide) and atmanivedana (offering oneself; King Bali). Four kinds of devotee in the Bhagavad Gita: the distressed (arta), the seeker of wealth (artharthi), the curious (jijnasu) and the wise (jnani).
+  - **Karma yoga, principles (deck, not yet checked):** act from a sense of duty; stay free of strong attachment to the outcome; do not let worry about results disturb the mind while working; accept success and failure with evenness. The aim is to melt the ego into selfless action, offering the fruit to God.
+  - **Raja yoga (deck, not yet checked):** the royal yoga, based on the eight limbs (ashtanga) of the Yoga Sutra of Patanjali, aiming at stilling the movements of the mind so that the true self stands in its purity. The Hatha Yoga Pradipika calls hatha yoga a staircase leading to raja yoga; raja yoga is more the final state than a separate technique. Raja yoga works on the mind, hatha yoga on the body.
+  - **Hatha yoga, in more detail (deck, not yet checked):** physically oriented, linked to the Tantric background, and stressing cleansing (shodhana, the shat kriyas) rather than the yamas and niyamas. Main texts: Hatha Yoga Pradipika (Svatmarama), Gheranda Samhita (Gheranda), Goraksha Samhita (Gorakshanath), also Shiva Samhita and others. The word is explained as "ha" (sun) and "tha" (moon), a union of opposites (heat, effort, masculine against coolness, surrender, feminine); it does not mean stubbornness. The text describes joining the sun channel (pingala) and moon channel (ida), waking kundalini, which rises through the central channel (sushumna), passes the chakras and reaches the crown (sahasrara), where self and the highest self unite.
+  - **Mantra yoga (deck, not yet checked):** the yoga of sound. The word mantra is explained as that which protects the one who reflects (man, mind; tra, protect). A mantra is a sacred sound with spiritual power, used for deep meditation; Om is called the great mantra (mahamantra).
+  - **Quiz facts from the deck (deck, not yet checked):** the Kaivalyadhama institute was founded by Swami Kuvalayananda; the Upanishads belong to the knowledge portion (jnana kanda) of the Vedas; raja yoga is the yoga of controlling the mind; smarana is remembering God at all times.
+
+CONFLICTS:
+- The slide lists manas, buddhi, chitta and ahamkara under "sadhana chatustaya"; those are the four parts of the inner instrument. The fourfold preparation of the jnana student is viveka, vairagya, the six virtues and mumukshutva, as the slide itself says next. Fix the heading.
+- The slide's list of the six virtues includes viveka and vairagya; they are separate from the six virtues (shama, dama, uparati, titiksha, shraddha, samadhana). Check.
+- The bhakti examples differ from the usual list (commonly Shukadeva for kirtana, Lakshmi for padasevana, Prithu for archana, Arjuna for sakhya, Akrura for vandana); the slide omits vandana and is nonstandard in places. Check.
+- The slide marks kirtana as the most important form; check.
+- The slide states hatha yoga "originates from Tantra"; check against a source.
+- The slide says the Hatha Pradipika "describes union of pingala and ida"; check the original text.
+- The slide describes hatha yoga as "removing" or being unlike yama and niyama; the Hatha Yoga Pradipika itself does list restraints and observances, so this contrast may overstate (to be checked).
+
+FAQ-QUIZ:
+- Q: Name the stages of jnana yoga practice. A: Shravana, manana and nididhyasana.
+- Q: Which text on devotion is named on the deck? A: The Narada Bhakti Sutra.
+- Q: Which kinds of devotee does the Gita name? A: The distressed, the seeker of wealth, the curious and the wise.
+- Q: What does hatha mean according to the tradition? A: Union of sun (ha) and moon (tha), not stubbornness.
+- Q: Who wrote the Hatha Yoga Pradipika? A: Svatmarama.
+- Q: What does the word mantra suggest? A: That which protects the mind.

@@ -1,0 +1,21 @@
+  - **Five pillars of a yogic way of life (deck, not yet checked):** exercise (asana), breathing (pranayama), rest (shavasana), food (vegetarian) and positive thinking with meditation.
+  - **Meaning of health (deck, not yet checked):** the World Health Organization describes health as complete physical, mental and social well-being (the deck adds spiritual), not only the absence of disease. In Sanskrit health is swasthya, from swa (self) and stha (abiding): abiding in one's own self, the nature of being, consciousness and bliss (sat-chit-ananda).
+  - **Health according to yoga, in the deck (deck, not yet checked):** relaxed muscles, loose joints that save energy, a low metabolic rate, efficient use of energy, and organ systems that stay coordinated even under stress.
+  - **Strength and balance (deck, not yet checked):** naukasana, utkatasana and bhujangasana build muscle strength; vrikshasana trains standing on one leg and so balance. Yoga moves joints in ways walking and running do not, which widens the range of movement.
+  - **Texts on health (deck, not yet checked):** the Shvetashvatara Upanishad names lightness, health, freedom from craving, a clear complexion, a pleasant voice, a pleasant smell and little waste as signs of the body that yoga brings. The Yoga Sutra names beauty, grace, strength and a firm body as qualities of a perfect body, and links mastery of samana vayu with radiance (to be checked).
+  - **Practices by level of well-being (deck, not yet checked):**
+    - Physical: asana (flexibility, strength, balance), pranayama (breathing capacity), shavasana (rest and recovery), kriyas (cleansing) and bandhas (body locks, support of stability).
+    - Mental: meditation (dhyana), mindfulness and mantra chanting.
+    - Emotional: bhakti yoga (devotion) and gratitude.
+    - Overall: a balanced daily routine, personalised to the individual.
+CONFLICTS:
+- The deck's "kriyas detoxify and purify" and "meditation reduces stress" are health claims; kept only as traditionally credited.
+- The deck adds "spiritual" to the WHO definition; the official definition has physical, mental and social well-being (to be checked).
+- Samana vayu and the radiance claim link to the Yoga Sutra (Vibhuti pada); the sutra reference is to be checked.
+- The deck's "low metabolic rate" as a sign of health is unusual and to be checked.
+FAQ-QUIZ:
+- Q: What does swasthya mean? A: Abiding in one's own self (swa, self; stha, abiding).
+- Q: Name the five pillars of a yogic way of life in the deck. A: Exercise, breathing, rest, vegetarian food and positive thinking with meditation.
+- Q: Which poses build strength? A: Naukasana, utkatasana and bhujangasana, among others.
+- Q: Which pose teaches balance on one leg? A: Vrikshasana (tree pose).
+- Q: Which practice supports emotional balance? A: Bhakti yoga and gratitude.
