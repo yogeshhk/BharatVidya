@@ -14,7 +14,7 @@ This folder holds the Beamer presentations, article-format cheat sheets and buil
 | `onepagers/` | The summary one-page cheat sheets |
 | `_shared/` | The two templates, the Yoga Sutra topic files used by more than one deck family (`topics/`), and the images used by more than one family (`images/`) |
 | `_leftovers/` | Files and images that no deck uses; kept, not deleted |
-| `books/YCB1/` | The planned YCB Level 1 textbook: notes (the master), image register, the Board's syllabus copies, README, TODO and authoring rules. No chapters yet |
+| `books/YCB1/` | The YCB Level 1 textbook (parked as a 2027 project): notes (the master), `book/` (LaTeX build), image register, the Board's syllabus copies, README, TODO and authoring rules |
 
 Each family keeps its own images in its own `images/` folder. Images used by several families sit in `_shared/images/`.
 
@@ -38,8 +38,6 @@ Each family has a batch script that finds and compiles its drivers, each from it
 | `onepagers/make_onepagers.bat` | `Main_*_OnePager*.tex` | One-pagers |
 
 The decks share `_shared/template_presentation.tex` and `_shared/template_cheatsheet.tex`. Drivers reach them with a relative path (`../../_shared/` from a workshop folder, `../../../_shared/` from a seminar folder, `../_shared/` from `onepagers/`). Compiled PDFs sit beside their drivers and are not stored in the repository; build them with the scripts above.
-
----
 
 ## The three workshops
 
@@ -99,8 +97,6 @@ seminar_yogasutra_overview_content.tex   (seminars/)  standalone short overview 
 The books and articles the slides draw on are listed in `yogasutra_refs.tex` and, with links, in
 [`YogaSutra/SOURCES.md`](../YogaSutra/SOURCES.md). The PDFs themselves are not hosted here.
 
----
-
 ## Yoga Shastra deck (retired)
 
 Retired as a fourth workshop: it overlapped the three above. It is no longer built (`make_yogashastra.bat` is switched off); the topic files stay in `workshops/YogaShastra/` as sources for the three workshops.
@@ -113,8 +109,6 @@ Retired as a fourth workshop: it overlapped the three above. It is no longer bui
 | `yogashastra_<name>.tex` | Individual teacher or topic files |
 
 The topic files and their order are listed in `workshop_yogashastra_content.tex`.
-
----
 
 ## File naming convention
 

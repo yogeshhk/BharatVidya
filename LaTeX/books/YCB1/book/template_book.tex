@@ -1,4 +1,4 @@
-% Book template for the YCB1 exam-guide booklet. Compile with XeTeX (Devanagari support).
+% Book template for the YCB1 yoga textbook. Compile with XeTeX (Devanagari support).
 % Trade size 6x9 in, as the other books in this workspace. Plain: no heading numbers typed by hand,
 % the compiler numbers chapters and sections.
 \usepackage[paperwidth=6in, paperheight=9in,
@@ -9,6 +9,11 @@
 % Sanskrit or Hindi text: \sa{...}
 \newcommand{\sa}[1]{{\devanagarifont #1}}
 
+% Print switch: \printbwtrue turns every colour in the interior into a grey tone (print build).
+% Use \printbwfalse for a colour screen PDF. The covers file is separate and keeps its colour.
+\newif\ifprintbw
+\printbwtrue
+\ifprintbw\PassOptionsToPackage{gray}{xcolor}\fi
 \usepackage[dvipsnames,table]{xcolor}
 \definecolor{ycbsaffron}{RGB}{176, 82, 18}
 \definecolor{ycbgrey}{gray}{0.35}

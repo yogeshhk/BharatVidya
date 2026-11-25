@@ -1,15 +1,15 @@
 # Notes YCB1: Yoga Certification Board Level 1 (Yoga Protocol Instructor)
 
-Golden source for the Level 1 workshop deck, its cheat sheet and the exam-guide booklet. One block per syllabus topic. A change is made here first, then carried down to the deck and the booklet by hand.
+Golden source for the Level 1 workshop deck, its cheat sheet and the textbook. One block per syllabus topic. A change is made here first, then carried down to the deck and the textbook by hand.
 
 ## Main principle
 
-This is an easy-to-use exam guide: a small booklet, not a second textbook. The official guidebook already exists and is long, formal and hard to study from. This guide is the opposite.
+This is an easy-to-use textbook for the exam. The official guidebook already exists and is long, formal and hard to study from. This textbook is the opposite.
 
 - **Small and simple.** Short notes in plain words. One idea per line. No padding, no long explanations, no formal or orthodox tone.
 - **Complete to the dot.** Every topic and sub-topic of the Board's Level 1 syllabus is covered, and nothing outside the syllabus is added. If a syllabus line exists, it has a block here; if it is not in the syllabus, it stays out.
 - **Exam first.** For each topic say what to know, what to remember and what to do: key terms, steps, cautions, a quick check. A student should be able to revise a topic in a few minutes.
-- **One source, every view.** The deck, the cheat sheet and the booklet are all short views of these notes. A block that is too long for a page is cut, not stretched.
+- **One source, every view.** The deck, the cheat sheet and the textbook are all short views of these notes. A block that is too long for a page is cut, not stretched.
 - **Test for every block:** could a tired student read it the night before the exam and remember it?
 
 
@@ -17,7 +17,7 @@ Each block carries a stable ID, a Review status and an Additions status, then Sc
 
 ## Fact-check pass
 
-All content lives in these notes and flows down to the deck, the cheat sheet and the booklet, so every fact here must be right before it flows. Each block has a Fact check line: pending or checked. Nothing is carried down from a pending block. Check names, periods, numbers, Sanskrit text, definitions, the steps and cautions of every practice, health statements and every exam rule against a primary or authoritative source. Where good sources differ and a student could be asked, note the variation in one short line and say which one the exam follows; do not write a survey. An unverified claim is removed or marked as unverified.
+All content lives in these notes and flows down to the deck, the cheat sheet and the textbook, so every fact here must be right before it flows. Each block has a Fact check line: pending or checked. Nothing is carried down from a pending block. Check names, periods, numbers, Sanskrit text, definitions, the steps and cautions of every practice, health statements and every exam rule against a primary or authoritative source. Where good sources differ and a student could be asked, note the variation in one short line and say which one the exam follows; do not write a survey. An unverified claim is removed or marked as unverified.
 
 ## Sources on the shelf
 
@@ -1472,7 +1472,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Q: Which two means stop the movements of the mind? A: Practice (abhyasa) and dispassion (vairagya).
 - **FAQ:**
   - Q: Which sutras must I know? A: The syllabus names the first twelve sutras of the first pada, with a short sense of each. Recite them with their meaning.
-  - Q: Is the Devanagari in this booklet final? A: Not yet. It was converted mechanically from the checked romanised text, so a printed edition should confirm the spelling and the avagraha in 1.3 before print.
+  - Q: Is the Devanagari in this textbook final? A: Not yet. It was converted mechanically from the checked romanised text, so a printed edition should confirm the spelling and the avagraha in 1.3 before print.
   - Q: Who wrote the Yoga Sutra, and when? A: Tradition names Patanjali as the compiler. His dates are uncertain, and the details of his life come from legends, so say "traditionally". This point is still to be checked.
   - Q: How many sutras are there in each pada? A: Counts from the workshop deck are about 51, 55, 55 and 34, about 195 in all, and they vary slightly between editions. These are not yet checked.
   - Q: What is the aim of the Sutra? A: According to the workshop deck, kaivalya (freedom) by managing the mind, through the eight-limbed path. This point is not yet checked.
@@ -1625,7 +1625,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Q: What are the two definitions of yoga in the second chapter? A: Evenness of mind in success and failure, and skill in action.
 - **FAQ:**
   - Q: Which verses must I recite? A: The syllabus names 2.47, 2.48, 2.49, 2.50 and 2.70. Learn the text with its meaning, and be ready to give the sense in your own words.
-  - Q: Is the recitation text in this booklet reliable? A: The Devanagari, transliteration and sense of every verse were read against one edition. A second edition is still to be set against it before print.
+  - Q: Is the recitation text in this textbook reliable? A: The Devanagari, transliteration and sense of every verse were read against one edition. A second edition is still to be set against it before print.
   - Q: The workshop slides show different text for 49, 50 and 70. Which do I follow? A: Follow the recitation text in this block, which was read against the edition. The slide text for those verses was not checked.
   - Q: How big is the Gita and what are its themes? A: The workshop deck says about 700 verses in 18 chapters, with the themes of dharma (duty), karma yoga, bhakti yoga, jnana yoga and self-realisation. These details are not yet checked.
   - Q: Which text defines yoga as skill in action? A: The Bhagavad Gita, in 2.50.
@@ -6354,11 +6354,11 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - **How to adapt:** shorten or lengthen the time of each part, keep the order, drop what is not suitable.
   - "  - **Marks of a good model plan (deck, not yet checked) (checked: Common Yoga Protocol; Guidebook Teaching Practice chapter):** follow the Board's order (prayer, loosening practices as the warm-up, asanas, kapalabhati, pranayama, dhyana, sankalpa and the peace chant, with relaxation as needed); match the aims to the learners' needs, since the guidebook asks for a student-centred approach and aligned objectives; give each part its time; include a range of asana, pranayama and meditation as the protocol does; keep the method flexible. The guidebook and protocol do not use the words warm-up and cool-down, and give no minutes for a class."
 - **Explanation:**
-  - Use the Board's protocol as the model and show one sample plan with minutes in the booklet.
-  - The sample plans in the booklet are to be written once the Board's protocol timings are checked.
+  - Use the Board's protocol as the model and show one sample plan with minutes in the textbook.
+  - The sample plans in the textbook are to be written once the Board's protocol timings are checked.
 - **Fact check log (still pending):** read against the teaching-practice chapter and appendix of the official guidebook (older scheme, so a coverage check only), own words; the Board's own teaching guidance to be added when its current text is in hand; the author and a certified teacher to review.
 - **Open conflicts (deck versus notes; to be checked before the deck is rebuilt):**
-  - The slides give no sample plan and no minutes, so none were added; the booklet's sample plan with minutes still needs the Board's protocol timings.
+  - The slides give no sample plan and no minutes, so none were added; the textbook's sample plan with minutes still needs the Board's protocol timings.
   - Resolution: Slides give no sample plan or minutes : notes right: no source in hand gives class timings (the Common Yoga Protocol gives none except the wait after practice before bath and food)
 - **Fact check log (pass 3):** added points: 0 confirmed, 1 corrected, 0 rejected, 1 unverified; hand-written points not confirmed: 3; conflicts resolved: 1.
 - **Worked examples:** to be written
@@ -6736,7 +6736,7 @@ Shared character sheet for generated people figures (CS1): Character sheet CS1: 
   - Q: How long must the training be? A: Not less than 200 hours, or not less than 3 months part time, or not less than 1 month full time. The certificate carries 12 credit points.
   - Q: Does the enrolment fee have to be paid again if I fail? A: No. It is paid once for a type of certification and is valid for life. A candidate who fails the practical pays the full assessment fee again but not a new enrolment fee.
   - Q: What should I bring on exam day? A: The admit card (issued at least a week before and downloadable from the Board's site), a valid identity card and a pen. Reach the centre preferably an hour early; a candidate more than 15 minutes late is not allowed in.
-  - Q: Can I trust the fees and dates in this booklet? A: Not fully. Amounts change and the Board's site notices change some validity dates, so read the current guideline and notices, or ask the institution, before relying on any fee or date.
+  - Q: Can I trust the fees and dates in this textbook? A: Not fully. Amounts change and the Board's site notices change some validity dates, so read the current guideline and notices, or ask the institution, before relying on any fee or date.
   - Q: Are the things past candidates report about the practical official? A: No. They are not from the Board and may vary by agency and year. Use them as practice only, and follow the syllabus.
 - **Deck frames added by the sync (titles only; the content is in the Material above):** Who Can Sit, and Pass Marks; After the Result; On the Exam Day; References for Level 1 Exam
 - **References:**

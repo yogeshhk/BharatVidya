@@ -1,12 +1,12 @@
-# AUTHORING: YCB Level 1 exam-guide booklet
+# AUTHORING: YCB Level 1 yoga textbook
 
 Working rules for this folder. The BharatVidya `CLAUDE.md` applies as well (XeTeX, no git commands, no CI, no em dashes, compile once per batch).
 
 ## Main principle
-An easy-to-use exam guide, a small booklet, not a second textbook. The official guidebook is long, formal and hard to study from; this is the opposite. Short notes in plain words, one idea per line, no padding. Complete to the dot against the Board's Level 1 syllabus: every syllabus topic is covered and nothing outside it is added. Exam first: what to know, remember and do; a student can revise a topic in a few minutes. The same short notes feed the deck, the cheat sheet and the booklet. If a block is too long for a page, cut it. The principle is also stated at the top of `docs/Notes YCB1.md`.
+An easy-to-use textbook for the exam. The official guidebook is long, formal and hard to study from; this is the opposite. Short notes in plain words, one idea per line, no padding. Complete to the dot against the Board's Level 1 syllabus: every syllabus topic is covered and nothing outside it is added. Exam first: what to know, remember and do; a student can revise a topic in a few minutes. The same short notes feed the deck, the cheat sheet and the textbook. If a block is too long for a page, cut it. The principle is also stated at the top of `docs/Notes YCB1.md`.
 
 ## Fact-check pass (a gate)
-All content lives in the notes and flows down from them, so the notes must be right before anything flows. Every block has a `Fact check` line: `pending` or `checked`. Nothing is carried to the deck, cheat sheet or booklet from a block that is still pending.
+All content lives in the notes and flows down from them, so the notes must be right before anything flows. Every block has a `Fact check` line: `pending` or `checked`. Nothing is carried to the deck, cheat sheet or textbook from a block that is still pending.
 - Check every claim that can be wrong: names and attributions, dates and periods, numbers, Sanskrit text and transliteration, definitions, steps and cautions of a practice, health statements, and every exam rule, mark and fee-related fact.
 - Check against a primary or an authoritative source (the Board's own documents, the primary text in a standard edition, a government health source), and a second source where the first is a secondary one. The reference documents in `docs/` are useful but are not the only check, and the old-scheme guidebook never settles an exam rule.
 - Where reliable sources differ and a student could be asked, record the variations in one short line (for example two common spellings, two accepted counts, two forms of a practice) and say which one the exam follows. Do not write a research survey: keep it to what a candidate must know.
@@ -14,7 +14,7 @@ All content lives in the notes and flows down from them, so the notes must be ri
 - A block flips to `checked` only after the pass. Re-check a block whenever its facts change. A time-sensitive fact is re-read before use.
 
 ## The chain
-Notes first, then deck, cheat sheet and book. The master is `docs/Notes YCB1.md`. A fact, point, exercise, figure or quiz item is fixed in the notes first and carried down by hand with the author's confirmation. Presentation-only choices (layout, a diagram style, audience wording) stay in the deck. The deck is a seed for the notes, never an authority: where they disagree, the notes win.
+Notes first, then deck, cheat sheet and textbook. The master is `docs/Notes YCB1.md`. A fact, point, exercise, figure or quiz item is fixed in the notes first and carried down by hand with the author's confirmation. Presentation-only choices (layout, a diagram style, audience wording) stay in the deck. The deck is a seed for the notes, never an authority: where they disagree, the notes win.
 
 ## Notes block format
 Each block has a stable ID (`ycb1-` and a topic slug; never renamed), a Review status and an Additions status, then Scope, Material, Explanation, Worked examples, Figures, Exercises, Quiz, FAQ, References and Videos. `Review: pending` is the normal state; do not mark a block reviewed yourself. A new factual point added while authoring sets `Additions: pending`. Match on the ID, never on the heading text. A layer that is not yet written says "to be written".
@@ -41,10 +41,10 @@ The notes are the universal golden source, so everything the current workshop de
 - Diagrams are drawn in TikZ or Python, simple, labelled, readable in grayscale, never by colour alone. Images go in the family `images/` folder, no spaces in file names.
 
 ## Style
-No em dashes or long dashes in generated content. No hard-typed chapter, section, table or figure numbers or counts of chapters or sections: refer to a topic by name; in LaTeX use `\label` and `\ref`. Name files by topic only; the order lives in the content driver. No one-line paragraphs in prose. Every chapter opens with a plain italic, question-led paragraph. Learner-facing text: one term per concept, short imperative steps, about 20 words per bullet.
+No em dashes or long dashes in generated content. No hard-typed chapter, section, table or figure numbers or counts of chapters or sections: refer to a topic by name; in LaTeX use `\label` and `\ref`. Name files by topic only; the order lives in the content driver. No one-line paragraphs in prose. Every chapter opens with a plain italic, question-led paragraph. Learner-facing text: one term per concept, short imperative steps, about 20 words per bullet. Interior pages print in black and white (`\printbwtrue` in `book/template_book.tex` greys every colour; the covers keep colour). Never mark a box or a heading by colour alone: the box title carries the meaning.
 
 ## Licence and publishing
-The deck repository is CC BY-NC-SA for content. The book needs its own licence notice so it can be sold; the choice is open (see `TODO.md`). Do not send the book to a publisher, or any draft outside this machine, without the author. A publisher that is LaTeX native is preferred; ask before signing.
+The deck repository is CC BY-NC-SA for content; the textbook is all rights reserved (`LICENSE_BOOK.md`). Route: self publish first; Sakal or a Marathi edition only after the English draft and a demand check. Do not send the textbook to a publisher, or any draft outside this machine, without the author. Format: docx is fine (a Word export from the notes is allowed), so a publisher need not be LaTeX native; the LaTeX project in `book/` is the build that exists.
 
 ## Records
 When this folder changes, update `README.md` and `TODO.md` in the same pass. The Publications entry is in `D:\Yogesh\GitHub\Publications\TODO.md` and `KEEP_NOTES.md`; the author copies the lines into Google Keep.
