@@ -1,0 +1,10 @@
+# Pass 4 verdict: ycb1-hl-bhavas
+
+Source: Samkhya Karika 23, 44 and 45 (Ganganath Jha 1896 translation; Raghavan Iyer translation, Theosophy Trust; Wikipedia Samkhyakarika for dating).
+
+- Meaning: "bhava is a state of mind: a feeling, emotion or attitude. Yogic practices work on the mind by bringing up a particular bhava within oneself." | CORRECTED | new: "In Samkhya the bhavas are dispositions of buddhi, the deciding intellect. Its sattvic form shows as four positive bhavas; its tamasic form as their four opposites." Source: Samkhya Karika 23. The second sentence of the old text (practices bring up a bhava) has no source: drop it.
+- Four negative bhavas: "adharma, raga, dvesha, ajnana" | CORRECTED | new: "adharma (unrighteousness), ajnana (ignorance), avairagya (attachment) and anaishvarya (weakness)." Source: Samkhya Karika 23 (the reverse of the sattvic four). Add one variation line: "The workshop deck lists adharma, raga, dvesha and ajnana; no named source was found for that list." The Explanation already carries this variation; keep it consistent.
+- Practices that support the positive bhavas, and posture examples (forward bends for vairagya, chest openers) | REMOVE-OR-MARK-UNVERIFIED | searched Board texts, the guidebook and Samkhya sources; no named text pairs postures with bhavas. Keep only as "the author's workshop teaching, not a sourced fact", or remove.
+- Relevance to well-being | CORRECTED | new: "Samkhya ties each bhava to a result: dharma leads upward, adharma downward; jnana to freedom, its reverse to bondage; vairagya to absorption in prakriti, attachment to rebirth; aishvarya to freedom from obstruction." Source: Samkhya Karika 44 and 45. Drop the unsourced "restlessness and distress" line.
+
+BLOCK RESULT: CAN-BE-CHECKED

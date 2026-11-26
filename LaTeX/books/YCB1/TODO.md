@@ -35,6 +35,7 @@ Constraints: the fact-check gate applies (pending blocks are written as unverifi
 ## Derived outputs
 - [ ] Re-author the deck frames from the notes (text that follows a web page or the guidebook closely must be rewritten); keep the deck compiling.
 - [ ] Mock exam and answer key.
+- [ ] Claude editorial review (`/book-editorial-review`) once the fact-check pass is done; report in `docs/reviews/`.
 - [ ] One compile batch, page review, `/verify-pdf`, then the self-publish route (print-ready PDF under the author's control).
 
 ## Records

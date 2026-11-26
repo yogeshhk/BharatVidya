@@ -1,0 +1,12 @@
+# Pass 4 verdict: ycb1-hl-dinacharya-ritucharya
+
+Sources: Ashtanga Hridaya Sutrasthana chapters 1, 12 and 13 (translations at easyayurveda.com, siva.sh, satyori.com; verse numbers vary by edition); Charaka Samhita Sutrasthana 6, Tasyashitiya (carakasamhitaonline.com; wisdomlib.org English translation).
+
+- Dosha hours of the day (deck, not yet checked): clock windows 2 to 6, 6 to 10, 10 to 2 | CORRECTED | new: "Each half of the day and of the night has three parts: kapha rules the first part, pitta the middle, vata the last. The clock hours often quoted (vata about 2 to 6, kapha about 6 to 10, pitta about 10 to 2) are a modern teaching, not in the classical text." Source: Ashtanga Hridaya Sutrasthana 1 (verse on time of dominance, numbered 1.8 in most editions).
+- Ritucharya example: "cold weather raises vata and lowers pitta, and dryness can raise kapha." | CORRECTED | new: "for example cold and dry weather raise vata, heat raises pitta, and cold, heavy, moist food raises kapha." Source: Ashtanga Hridaya Sutrasthana 1 (qualities: vata dry, light, cold; kapha unctuous, cold, heavy). Dryness is a quality of vata, not kapha.
+- Season and dosha table from the deck bank (relied on a commercial page) | CONFIRMED | Ashtanga Hridaya Sutrasthana 12 (verses 26 to 30, siva.sh) and 13: kapha accumulates in the cold season (hemanta and shishira), aggravates in vasanta; pitta accumulates in varsha, aggravates in sharad. Add: "Ashtanga Hridaya counts kapha's accumulation in the cold season (hemanta and shishira together)."
+- Sattu harmful in grishma (bank question) | CORRECTED | the classical text recommends the opposite: a cool sweet drink of saktu (mantha) in grishma. Source: Charaka Sutrasthana 6 (grishma regimen) and Sutrasthana 27 (mantha: saktu churned with ghee, sugar and cold water, good in summer). Remove the bank question or set its answer to "not harmful; saktu mantha is advised in summer".
+- Ritusandhi: "since colds, flu and fever are common" | CORRECTED | remove that clause; keep "change diet and routine gradually". Source: Charaka Ritucharya page (states the junction and gradual change only).
+- Benefits as traditionally taught: "better immunity and fewer seasonal illnesses" | CORRECTED | new: "the text says that one who knows and follows the seasonal regimen gains strength and a good complexion; the focus is prevention." Source: Charaka Sutrasthana 6, opening verse (vigour and complexion; wisdomlib and carakasamhitaonline translations).
+
+BLOCK RESULT: CAN-BE-CHECKED

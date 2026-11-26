@@ -4,6 +4,19 @@
 
 Built notes first: one Markdown notes file is the master; the workshop deck, its cheat sheet and the textbook are derived from it by hand. Keep this README in step with the folder; update it in the same pass as any change.
 
+## At a glance
+
+| | |
+|---|---|
+| Stage | Drafting: every notes block has textbook text and the book builds, but the blocks are not yet fact-checked |
+| Master and flow | `docs/Notes YCB1.md`, then `workshop/` (deck, cheat sheet) and `book/`; one way, by hand |
+| Build | `book/make_book_ycb1.bat` (XeTeX) |
+| Review | No Claude review yet |
+| Proposal | `docs/proposal/YCB1_Book_Proposal.md`, PDF via `docs/proposal/build_proposal.bat`; route is self publish first |
+| Cover | `book/Main_Book_YCB1_covers.tex`, QCNP theme |
+
+Cross-repo book standard: `Publications/Books/CONVENTIONS.md`, "All book projects". Rules: `AUTHORING.md`, `CLAUDE.md`.
+
 ## Status
 
 Parked as a 2027 project. Every notes block has textbook text and the LaTeX book builds (chapter files in `book/`, one `\input` line each). The notes are all `Review: pending`; blocks not yet fact-checked open with a "Not yet fact-checked" box in the book. Open work (the author's read, teacher and reviewer pass, pictures, fact-check) is in `TODO.md`. The guidebook in `docs/` belongs to the older four-level scheme, so the Board's current Level 1 syllabus is the spine, not the guidebook.
@@ -23,7 +36,7 @@ Decisions: licence is all rights reserved (`LICENSE_BOOK.md`); a bounded project
 | `workshop/` | The workshop deck and cheat sheet (drivers, `ycb1_*` topic files, `make_ycb1.bat`) |
 | `book/` | The textbook: `Main_Book_YCB1_interior.tex`, `Main_Book_YCB1_covers.tex`, `book_ycb1_content.tex` (the only place chapter order lives), `ycb1_book_*` chapter files, `template_book.tex`, `make_book_ycb1.bat` (XeTeX) |
 | `images/` | All pictures for deck and book; replacements in `images/new/` |
-| `LICENSE_BOOK.md`, `README.md`, `TODO.md`, `AUTHORING.md` | Licence notice, this guide, open actions, working rules |
+| `LICENSE_BOOK.md`, `README.md`, `TODO.md`, `AUTHORING.md`, `CLAUDE.md` | Licence notice, this guide, open actions, working rules, rules for Claude |
 
 Every picture line in the deck carries a comment with its figure ID, current file and planned final path.
 
