@@ -20,3 +20,6 @@ Sources used in this file:
 - **Shape of a plan (deck, not yet checked; already carries a pass 3 source).** CONFIRMED. Same order as the Common Yoga Protocol 2019; the protocol is 45 minutes, and institutions may add 15 minutes of their own practices before the sankalpa.
 
 BLOCK RESULT: CAN-BE-CHECKED (a certified teacher still reviews the teaching content, as for every block).
+
+APPLIED (2026-11-26, second round after the author's approval): changed: Why plan and Order of a class corrected with sources; stray quotes stripped from "Shape of a plan" (first round). Skipped: the References additions (NIOS Unit 8, NIOS lesson plan format, Common Yoga Protocol 2019), refused by the permission classifier; the sources are named inline in the corrected bullets.
+Ready for the author to mark checked: yes (add the three References lines by hand when convenient).

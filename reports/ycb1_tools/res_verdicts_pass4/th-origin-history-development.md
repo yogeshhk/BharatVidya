@@ -7,3 +7,5 @@
 Note (format, not a fact): the bullets "Origin and lore", "Timeline by period, with names", "How practices evolved" and "Preparatory exercises" carry a stray `"  - ` prefix and a trailing `"` from pass 3; strip them when the block is edited.
 
 BLOCK RESULT: CAN-BE-CHECKED
+
+APPLIED (2026-11-26): two "Resolution (pass 4)" lines added under Open conflicts (sun salutation not Vedic; no removal of practices from Tantra; neither claim was in the Material, so nothing was removed from it); nastika teachers corrected in "Indian philosophical schools, by name"; Mallinson and Singleton, Britannica and World History Encyclopedia added to References; stray quotes stripped from "Origin and lore", "Timeline by period" and "How practices evolved". NOT APPLIED: "Preparatory exercises" keeps its leading `"  - ` (edit refused; its trailing quote was already removed, so the quotes are unbalanced); Fact check line stays pending (refused, author-only).

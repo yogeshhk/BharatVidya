@@ -16,3 +16,6 @@ Sources used in this file:
 - Note for the author: the Special CYEP notice says the guidelines were revised (three levels named), and a 2026 circular extends the validity of listed certificates. No newer guideline version than 0.3 was found by search. The notes already say to re-read Board notices before use; keep that line.
 
 BLOCK RESULT: CAN-BE-CHECKED (no open deck item; re-read the Board site before print, as the block already says).
+
+APPLIED (2026-11-26): changed: nothing needed (no CORRECTED or REMOVE item in this block).
+Ready for the author to mark checked: yes (nothing open from this pass; the core points were already checked).

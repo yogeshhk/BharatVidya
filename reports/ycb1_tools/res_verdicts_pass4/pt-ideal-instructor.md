@@ -14,3 +14,6 @@ Sources used in this file:
 - **Personal qualities (hand-written).** CONFIRMED (same Board attribute list).
 
 BLOCK RESULT: CAN-BE-CHECKED once "respect their privacy" is removed or labelled.
+
+APPLIED (2026-11-26, second round after the author's approval): changed: Conduct corrected with the Board source (this removed "respect their privacy"); References gained Board Guideline version 0.3; stray quotes stripped (first round). Skipped: none.
+Ready for the author to mark checked: yes.

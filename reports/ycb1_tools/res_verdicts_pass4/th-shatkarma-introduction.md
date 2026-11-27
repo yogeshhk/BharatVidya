@@ -8,3 +8,5 @@
 - Verse numbers of the Hatha Pradipika "still to be checked in a standard edition" | REMOVE-OR-MARK-UNVERIFIED | Numbering differs between editions; cite the list as "the second chapter of the Hatha Pradipika" without a verse number unless a named edition is checked.
 
 BLOCK RESULT: CAN-BE-CHECKED (a certified teacher still reviews the practice cautions, as for every practice block)
+
+APPLIED (2026-11-26): kapalabhati types tagged checked (Gheranda Samhita 1.55 to 1.60); achamana and abhyanga line corrected; the sadhaka tattva and kapalabhati-type conflict lines marked checked; four References lines added. Hatha Pradipika verse numbers left as "to be checked" in References (no edition read). NOT APPLIED: stray quotes left on "Aims and benefits as taught in the deck"; Fact check line stays pending (refused, author-only).

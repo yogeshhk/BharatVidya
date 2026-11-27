@@ -20,3 +20,6 @@ Sources used in this file:
 - **Frame names in the figure prompts look swapped.** NEEDS-HUMAN (author), but this is a deck housekeeping point, not a fact; it does not hold the block back.
 
 BLOCK RESULT: CAN-BE-CHECKED (the swapped frame names are a deck task for the author; a certified teacher still reviews the teaching content).
+
+APPLIED (2026-11-26, second round after the author's approval): changed: Meaning and Need corrected with sources; the story-telling sentence corrected with the NCPCR source; References gained NIOS D.El.Ed Unit 5 and NCPCR; stray quotes stripped (first round). Skipped: none.
+Ready for the author to mark checked: yes (the swapped deck frame names remain a deck task).

@@ -6,3 +6,5 @@
 Note (format, not a fact): the bullet "Practices by level of well-being" carries a stray `"  - ` prefix and a trailing `"`; strip them when the block is edited.
 
 BLOCK RESULT: CAN-BE-CHECKED
+
+APPLIED (2026-11-26): "gratitude" removed from the Quiz answer on emotional balance (now "Bhakti yoga (devotion)"); Common Yoga Protocol added to References. Mindfulness and gratitude were never in the Material. NOT APPLIED: stray quotes left on "Meaning of health", "Texts on health" and "Practices by level of well-being"; Fact check line stays pending (refused, author-only).

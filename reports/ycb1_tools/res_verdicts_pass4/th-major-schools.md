@@ -8,3 +8,5 @@
 Note (format, not a fact): the bullets "Jnana yoga, means" and "Bhakti yoga, means" carry a stray `"  - ` prefix and a trailing `"`; strip them when the block is edited.
 
 BLOCK RESULT: CAN-BE-CHECKED
+
+APPLIED (2026-11-26): nastika teachers corrected in "Schools of Indian philosophy"; Tattvabodha named as the source of the fourfold list in "Jnana yoga, means"; Tattvabodha, Bhagavata Purana, Britannica and World History Encyclopedia added to References. Exemplar names were already absent from the Material (no change). NOT APPLIED: stray quotes left on "Jnana yoga", "Bhakti yoga", "Hatha yoga, in more detail" and "Quiz facts" (not attempted after earlier refusals); Fact check line stays pending (refused, author-only).

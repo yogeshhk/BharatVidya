@@ -29,14 +29,14 @@ Each chapter is written for revision: plain explanations, the steps and cautions
 
 ## Competing and Comparable Titles
 
-The first two are named from the copies the author holds; the last two rows are categories whose titles are to be confirmed against current listings before use.
+The first two are named from the copies the author holds; the last two are named from current retail listings (Amazon India), described as their listings describe them.
 
 | Title | Position | How this book differs |
 | :---- | :---- | :---- |
 | Yoga Certification Board, *Certification of Yoga Professionals: Official Guidebook for Level I (Instructor)*, first edition (New Delhi, 2016) | Official, long and formal (about 225 pages); written for the older four-level scheme | Short and plain; follows the Board's current Level 1 syllabus exactly |
 | Ministry of AYUSH, *Common Yoga Protocol* (International Day of Yoga booklet) | Official booklet of the protocol practices | Covers the whole Level 1 syllabus, theory and practice, not only the protocol |
-| Instructor books from training institutes (titles to be confirmed) | Course books for a single institute's programme | Independent of any institute; complete to the Board's syllabus and sourced |
-| Exam question banks and coaching notes (titles to be confirmed) | Question practice without explanation | Explains each topic, with sources, and carries a quiz per chapter |
+| Ayushman Yog, *Yoga Protocol Instructor: YCB Level 1 – 200 Hours* (Clever Fox Publishing, 2023); Sumit Kundargi, *Yoga Protocol Instructor: Yoga Level 1* (2021) | Study guides from a training school and an individual author; notes compiled from several sources, with multiple-choice questions | Independent of any training school; every fact carries its source; follows the Board's current syllabus and guideline only |
+| Satpal Khichar, *Yoga Question Bank: Yoga Certification & UGC-NET Yoga*; *Yoga MCQ Series for YCB (Level 1, 2, 3) & UGC-NET/JRF Yoga* (Notion Press, 2020) | Question practice across all YCB levels and the UGC-NET yoga paper | Teaches each Level 1 topic before testing it, with sources, and carries a quiz per chapter |
 
 ## Contents
 
@@ -61,4 +61,4 @@ The first two are named from the copies the author holds; the last two rows are 
 
 ## About the Author
 
-**Dr. Yogesh Haribhau Kulkarni.** Independent educator, author and technical consultant. Pune, India. He has more than two decades of experience in research, software development and management, with Bachelor's, Master's and Doctoral degrees in Mechanical Engineering. He is a published author of books on Artificial Intelligence, Mental Models and Game Theory, and designs and delivers seminars and workshops, including a workshop for the Level 1 exam on which this book builds.
+**Dr. Yogesh Haribhau Kulkarni.** Independent educator, author and technical consultant. Pune, India. He is a Yoga Protocol Instructor (Level 1) certified by the Yoga Certification Board. He has more than two decades of experience in research, software development and management, with Bachelor's, Master's and Doctoral degrees in Mechanical Engineering. He is a published author of books on Artificial Intelligence, Mental Models and Game Theory, and designs and delivers seminars and workshops, including a workshop for the Level 1 exam on which this book builds.

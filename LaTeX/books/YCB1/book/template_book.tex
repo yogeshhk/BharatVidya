@@ -78,6 +78,8 @@
 % Draft label for a chapter written from a notes block whose Fact check is still pending
 % (author's decision 2026-11-24: write it now, labelled; remove the box when the block is checked).
 \newtcolorbox{unverified}{breakable, colback=yellow!8, colframe=orange!70!black, title=Not yet fact-checked, fonttitle=\bfseries}
+% Room for three-digit page numbers in the table of contents (avoids slightly overfull TOC lines).
+\makeatletter\renewcommand\@pnumwidth{2.2em}\makeatother
 
 % Boxes used by the chapters: a cautions box and a quick-recall box.
 \newtcolorbox{caution}{breakable, colback=red!4, colframe=red!55!black, title=Caution, fonttitle=\bfseries}

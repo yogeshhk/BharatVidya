@@ -10,3 +10,5 @@ Sources: Ashtanga Hridaya Sutrasthana chapters 1, 12 and 13 (translations at eas
 - Benefits as traditionally taught: "better immunity and fewer seasonal illnesses" | CORRECTED | new: "the text says that one who knows and follows the seasonal regimen gains strength and a good complexion; the focus is prevention." Source: Charaka Sutrasthana 6, opening verse (vigour and complexion; wisdomlib and carakasamhitaonline translations).
 
 BLOCK RESULT: CAN-BE-CHECKED
+
+APPLIED (2026-11-26): corrected the ritucharya example (dryness raises vata, not kapha), ritusandhi (illness clause removed), benefits (Charaka: strength and complexion), dosha hours (classical thirds, clock hours marked modern; label kept), and the sattu sentence in the season bullet; removed the sattu question from the question bank; stripped quote marks from three bullets; added Ashtanga Hridaya and Charaka to References. Left as is (CONFIRMED): the season and dosha table. Nothing skipped. Ready for the author to mark checked: yes

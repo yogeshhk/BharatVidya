@@ -4,3 +4,5 @@
 - Twelve postures in surya namaskara; "invigorates overall health" | already settled in pass 3; no action.
 
 BLOCK RESULT: CAN-BE-CHECKED (a certified teacher still reviews the practice cautions, as for every practice block)
+
+APPLIED (2026-11-26): "Balanced use" corrected (healthy body weight through regular physical activity, WHO source in its label); WHO fact sheet added to References. NOT APPLIED: stray quotes left on "Sukshma and sthula, short meaning"; Fact check line stays pending (refused, author-only).

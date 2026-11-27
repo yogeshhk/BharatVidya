@@ -15,3 +15,5 @@
 Note (format, not a fact): the "Vedantic key terms" bullet carries a stray `"  - ` prefix and a trailing `"`; strip them when the block is edited.
 
 BLOCK RESULT: CAN-BE-CHECKED
+
+APPLIED (2026-11-26): element body-roles sentence removed; Taittiriya 2.1.1 added to the mahabhuta label; tanmatras bullet relabelled checked; tri dosha lists corrected; pancha prana locations corrected to Gheranda Samhita 5.61 to 5.65 and upaprana functions corrected (krikala variation; "hiccup", "coughing" and "drowsiness" dropped as not found); Ajna wording corrected; quiz-bullet sources added; six References lines added; stray quotes stripped from "Vedantic key terms", "Three bodies", "Organs of action" and "Sapta dhatu" (with the Ashtanga Hridaya source). NOT APPLIED: "Five sheaths in short" keeps its leading `"  - ` (edit refused; trailing quote already removed, so unbalanced); Fact check line stays pending (refused, author-only).

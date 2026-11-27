@@ -1,8 +1,55 @@
 # Status log (resume point)
 
-Read this first in a new session. Latest block is "Session 2026-11-24" directly below; the older log follows it.
+Read this first in a new session. Latest block is "Session 2026-11-27" directly below; the older log follows it.
 
-## Session 2026-11-24 (latest, kept in step while working)
+## Session 2026-11-27 (latest): pass 4 fully applied
+
+- [x] The 2026-11-26 block below is out of date: teaching, exam and texts were applied in a second round that day (each verdict file has its APPLIED line). This session applied the last group, practical: all 11 `pd-*` verdict files (APPLIED 2026-11-27 line in each). Every pass 4 verdict is now applied. Stray quote marks stripped from 16 lines in the practical blocks. Notes backup before the quote strip: session scratchpad only.
+- [x] `ycb1_coverage.py` re-run: 52 blocks (12 checked, 40 pending), all with book text; 0 deck frames missing from the notes; 13 notes deck-layer frame titles no longer in the deck (see `ycb1_tools/ycb1_coverage_report.md`).
+- [x] Marked checked on the author's decision of 2026-11-27: all 37 blocks whose pass 4 verdict is ready (32 from pending, 5 upgraded from "checked for the core points", which already counted as checked); their 49 "(deck, not yet checked)" labels now read "(deck, checked in pass 4)". Coverage: 52 blocks, 44 checked, 8 pending (first aid counts as checked for its core points). The "Not yet fact-checked" boxes in the book chapters come off at the next book rebuild. Notes backup before marking: session scratchpad only.
+- [x] No longer tracked (author's decision, 2026-11-27); the blocks stay pending in the notes and their chapters keep the box. Were pending for a person: mudra (Board: chin versus jnana, the name dhyana mudra); sukshma and sthula vyayama (set the Brahmachari reprint against the MDNIY monograph or the original); yogasana (saral matsyasana; purvottanasana unverified); first aid, bhavas, application of knowledge, conducting lessons, teaching groups (see their verdict files).
+- [x] YCB1 editorial review: `LaTeX/books/YCB1/docs/reviews/review_YCB1_2026-11-27.md` (MAJOR REVISION).
+- [x] Notes fixes from the review applied 2026-11-27: F5 (112, four places), F9, F10, F11, F12, F13 to F18. F2 to
+  F4 are re-sync policy (strip checking labels and author instructions from reader text).
+- [ ] Chapter re-sync from the checked notes, in driver order (tick as done; compile once at the end):
+  meaning-history, guiding-principles, principles-schools, practices-intro, texts, hatha-diet-living, human-body,
+  health-promotion, lifestyle-stress, first-aid-cpr, prayer, cleansing, vyayama, surya-namaskara, asanas,
+  breathing-pranayama, bandha-mudra, meditation, teaching-class, lessons, application, field-experience, exam.
+  Done so far (all 23 chapters, 2026-11-27): guiding-principles (no change needed), first-aid-cpr (112, opener,
+  box), teaching-class (opener), lessons (pass 4 teaching fixes; box kept), application (box kept), field-experience
+  (opener), exam (opener, 60 questions in two hours), meaning-history, principles-schools, practices-intro, human-body, health-promotion (box kept for
+  the bhavas section), lifestyle-stress, texts, hatha-diet-living, bandha-mudra, prayer, surya-namaskara,
+  breathing-pranayama, cleansing, vyayama, asanas, meditation (the methods for
+  pranava and soham recitation, body and breath awareness and yoga nidra are still a writing gap: named source
+  needed). Method: the book was written after pass 3, so each chapter
+  takes the pass 4 verdict corrections of its blocks (`reports/ycb1_tools/res_verdicts_pass4/`), drops the box
+  where all its blocks are checked, and keeps reader text free of checking labels.
+- [x] Compile batch done 2026-11-27: interior 261 pages, XeTeX clean (one 2.5 pt Sanskrit line), verify-pdf (dash
+  flags are glyph false positives: no dash characters in sources or PDF text), copied to ToPrint. TOC page-number
+  width widened in `book/template_book.tex`.
+- [x] Polish (review F2) 2026-11-27: leftover checking notes removed from checked chapters (human body, principles,
+  lifestyle, hatha, texts, first aid, teaching class); interior rebuilt and in ToPrint (08:16). Kept on purpose:
+  "unverified" purvottanasana, Devanagari "to be set against a printed edition", pending first-aid items, and the
+  "Source: NIOS/CBSE, secondary" labels on asanas from government secondary sources.
+- [ ] Polish F3 (optional, readability): turn "the guidebook says" narration into plain statements, chapter by chapter.
+- [x] Deck pass 4 carry-over 2026-11-27: AUM line (Mandukya), mudra groups, dhyana mudra name note, mukha and chakra
+  mudra frames commented out (outside the syllabus), bhastrika FAQ rewritten; the TODO's deck corrections (sahabhuvas,
+  ten principal Upanishads, CPR depth) were already in. Deck and cheat sheet build clean (XeTeX), PDFs beside the
+  sources (not delivered yet, so not in ToPrint).
+- [ ] Deck, remaining: the full "re-author the deck frames from the notes" task in `LaTeX/books/YCB1/TODO.md`
+  (Derived outputs) stays open; the Gita Devanagari of 2.49, 2.50, 2.70 in `ycb1_theory_texts.tex` still to be
+  set from the checked notes text.
+
+## Session 2026-11-26: YCB1 fact-check pass 4
+
+- [x] Notes backed up before the pass: scratchpad copy `Notes_YCB1_before_pass4.md` (756,384 bytes).
+- [x] Pass 4 research (five parallel workers): every open item of the 40 pending blocks and the deck bullets of the six partly checked blocks was set against named sources. Verdict files, one per block, with exact old and new text: `reports/ycb1_tools/res_verdicts_pass4/` (46 files). 37 blocks or parts can be checked once applied; 9 stay pending for a person (first-aid deck bullets need a qualified reviewer against the Indian First Aid Manual; application of knowledge needs the Board; sukshma and sthula vyayama need the priced MDNIY monograph; saral matsyasana and the chin, jnana and dhyana mudra forms need a certified teacher or the Board).
+- [x] Applied to the notes: intro theory (nine blocks: 16 corrections, 5 removals) and health promotion (ten blocks: 22 corrections, 12 removals). Every Fact check line and every "deck, not yet checked" label is unchanged: the permission system refused marking anything checked, which matches the YCB1 rule that only the author marks a block checked.
+- [ ] Not applied (the permission system refused further content edits while the author was away): teaching and exam, texts, practical. Their verdict files hold the exact old and new text; apply them, or approve the edits, next session. Texts and practical disagree on vajrasana after meals (no official source versus Satyananda's textbook): state both with their sources.
+- [ ] For the author: mark checked the blocks whose verdict file ends "Ready for the author to mark checked: yes" (the nine intro-theory blocks, eight health blocks, and the exam block), then relabel their "deck, not yet checked" bullets from the verdict files. Two health edits were refused and stay to do (bhavas Meaning line; a stray OpenStax note in the human-body vertebral label). Stray quote marks remain on some bullets (intro theory and two teaching bullets).
+- [ ] YCB1 editorial review: held until the corrections are applied and the blocks marked checked, so the review reads final text.
+
+## Session 2026-11-24
 
 Author is away and asked for autonomous work; if a session stops, continue from the first unticked item.
 

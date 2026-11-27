@@ -18,3 +18,6 @@ Sources used in this file:
   - Source: Board Guideline version 0.3, functions of the Yoga Protocol Instructor and the separate Yoga Therapy category; Common Yoga Protocol Disclaimer (not a substitute for the medical advice of a physician).
 
 BLOCK RESULT: CAN-BE-CHECKED once the two unsourced phrases are removed or labelled (health-adjacent: a certified teacher and a qualified reviewer still review it).
+
+APPLIED (2026-11-26, second round after the author's approval): changed: Safety corrected with the Common Yoga Protocol source (this also removed "touch only with consent" and "stop at dizziness or breathlessness"); References gained the Common Yoga Protocol 2019 and Board Guideline version 0.3. Skipped: the Scope of the instructor correction, refused by the permission classifier, not retried.
+Ready for the author to mark checked: no (Scope of the instructor still says "do not diagnose or promise a cure" without a named source).

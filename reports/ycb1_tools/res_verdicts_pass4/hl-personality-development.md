@@ -4,3 +4,5 @@
 - Personality in the Indian view: svabhava shaped by the gunas (checked in pass 3 by the guidebook only) | CONFIRMED | Bhagavad Gita 18.41 (duties divided by the qualities born of one's own nature, svabhava) and Gita chapter 14 (the three gunas); holy-bhagavad-gita.org.
 
 BLOCK RESULT: CAN-BE-CHECKED
+
+APPLIED (2026-11-26): removed the unsourced slide list of gains from the Gains bullet (guidebook-tied qualities kept) and stripped its quote marks. Left as is (CONFIRMED): the svabhava line (Gita 18.41 is in this verdict file only). Nothing skipped. Ready for the author to mark checked: yes

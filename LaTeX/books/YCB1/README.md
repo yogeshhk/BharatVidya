@@ -8,10 +8,10 @@ Built notes first: one Markdown notes file is the master; the workshop deck, its
 
 | | |
 |---|---|
-| Stage | Drafting: every notes block has textbook text and the book builds, but the blocks are not yet fact-checked |
+| Stage | Drafting: 44 of 52 notes blocks fact-checked (first aid partly); the book chapters are being re-synced from the checked notes |
 | Master and flow | `docs/Notes YCB1.md`, then `workshop/` (deck, cheat sheet) and `book/`; one way, by hand |
 | Build | `book/make_book_ycb1.bat` (XeTeX) |
-| Review | No Claude review yet |
+| Review | `docs/reviews/review_YCB1_2026-11-27.md` (MAJOR REVISION: re-sync the chapters from the checked notes) |
 | Proposal | `docs/proposal/YCB1_Book_Proposal.md`, PDF via `docs/proposal/build_proposal.bat`; route is self publish first |
 | Cover | `book/Main_Book_YCB1_covers.tex`, QCNP theme |
 

@@ -11,3 +11,6 @@ Sources used in this file:
   - Source: Board Guideline version 0.3, section 3.14 and Annexures A and B. "Feedback from peers", "adapting techniques from experience" and "growing as a teacher" have no Board source: dropped.
 
 BLOCK RESULT: CAN-BE-CHECKED (the deck bullet, once replaced, needs no further source; the core points were already checked).
+
+APPLIED (2026-11-26, second round after the author's approval): changed: the "What the experience shows" bullet text corrected with the Board source (its "deck, not yet checked" label kept as instructed); References gained Board Guideline version 0.3 (section 3.14, Annexures A and B). Skipped: none.
+Ready for the author to mark checked: yes.

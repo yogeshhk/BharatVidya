@@ -30,3 +30,6 @@ Sources used in this file:
 - **FAQ "start in silence" versus prayer.** CONFIRMED as both right: Common Yoga Protocol says start with a prayer; it ends in meditation or deep silence. Teach: settle in silence, then the prayer.
 
 BLOCK RESULT: CAN-BE-CHECKED (a certified teacher still reviews the teaching content).
+
+APPLIED (2026-11-26, second round after the author's approval): changed: References gained NCPCR Guidelines for Child Yoga, the Board Chair Yoga syllabus and the Common Yoga Protocol 2019; stray quotes stripped from "Adapting by group, in short" (first round). Skipped: the four CORRECTED bullets (children, youth, women, older adults), refused by the permission classifier as one edit, not retried. The quiz answer "seated or against a wall" was outside the verdict scope and was left.
+Ready for the author to mark checked: no (the four group bullets still carry the old, partly unsourced wording, including "against a wall" and "shorter holds").

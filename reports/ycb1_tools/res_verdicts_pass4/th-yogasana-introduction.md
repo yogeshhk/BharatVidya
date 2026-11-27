@@ -6,3 +6,5 @@
 Note (format, not a fact): the bullet "Benefits in the deck" carries a stray `"  - ` prefix and a trailing `"`; strip them when the block is edited.
 
 BLOCK RESULT: CAN-BE-CHECKED (a certified teacher still reviews every pose, as for every practice block)
+
+APPLIED (2026-11-26): "Benefits in the deck" corrected with the Common Yoga Protocol per-asana benefits; Protocol added to References. NOT APPLIED: stray quotes left on "Aim and principles in the deck" and "Benefits in the deck"; Fact check line stays pending (refused, author-only).

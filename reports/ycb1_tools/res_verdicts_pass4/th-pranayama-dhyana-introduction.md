@@ -9,3 +9,5 @@
 Note (format, not a fact): the bullet "Dhyana, aims in the deck" carries a stray `"  - ` prefix and a trailing `"`; strip them when the block is edited.
 
 BLOCK RESULT: CAN-BE-CHECKED (a certified teacher still reviews the breathing and meditation instructions, as for every practice block)
+
+APPLIED (2026-11-26): "Check before starting" corrected, but as a pranayama checklist rather than the meditation wording above: the bullet sits in the pranayama part of the block, and for pranayama the Protocol (Nadishodhana) places the left hand in jnana mudra on the left knee. The applied text uses the Protocol's General Guidelines (calm and quiet place, empty or light stomach, nostril breathing, no breath holding unless the practice says so) and the Nadishodhana technique. "Two ways of practice" removed; "For beginners" and "Health benefits of meditation" corrected; the "Dhyana, aims" label gains the Protocol source; Protocol added to References. NOT APPLIED: stray quotes left on "Dhyana, aims in the deck"; Fact check line stays pending (refused, author-only).

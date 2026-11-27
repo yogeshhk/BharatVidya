@@ -10,3 +10,5 @@ Open items taken from the pass 3 verdict (UNVERIFIED, unsettled) and the FAQ lay
 Note (format, not a fact): three Material bullets ("More definitions, with source", "Aims and objectives in short", "Extra misconceptions") start with a stray `"  - ` and end with a stray `"`, left over from pass 3. Strip the quote marks and the duplicated bullet marker when the block is edited.
 
 BLOCK RESULT: CAN-BE-CHECKED
+
+APPLIED (2026-11-26): "Extra misconceptions" now corrects 'only relaxation' and 'only for the young' from Guidebook ch.1 sec 1.3 and ch.10; FAQ header marked answers checked; Common Yoga Protocol added to References; stray quotes stripped from all three bullets. NOT APPLIED: the Fact check line stays pending (setting it to checked was refused by the permission classifier; YCB1 CLAUDE.md says only the author marks a block checked).

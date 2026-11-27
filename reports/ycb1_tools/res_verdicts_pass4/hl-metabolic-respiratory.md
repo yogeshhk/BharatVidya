@@ -7,3 +7,5 @@
 - Hatha yoga for the abdomen: "(to be checked)" | CONFIRMED | Hatha Pradipika 2.21 (shatkarma for those with excess fat or phlegm) and Guidebook ch.2 (learn from a teacher, medical advice); the Common Yoga Protocol omits dhauti, nauli and basti. Remove the marker.
 
 BLOCK RESULT: CAN-BE-CHECKED
+
+APPLIED (2026-11-26): corrected The idea (WHO risk factors) and Cautions (Common Yoga Protocol kapalabhati list; severe asthma and long breath holding dropped); removed the unsourced "upper and lower passages are linked" sentence (label kept) and the rejected "Digestion and metabolism" bullet; added WHO and the Common Yoga Protocol to References. Left as is (CONFIRMED): the "(to be checked)" note on Hatha yoga for the abdomen. Nothing skipped. Ready for the author to mark checked: yes

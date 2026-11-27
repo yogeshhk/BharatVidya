@@ -8,3 +8,5 @@
 - Practical steps for a class (hand-written, not confirmed) | REMOVE-OR-MARK-UNVERIFIED | these are teaching tips, not facts; mark the line "teaching suggestion" so it is not read as a sourced claim.
 
 BLOCK RESULT: CAN-BE-CHECKED
+
+APPLIED (2026-11-26): removed the three "(to be checked)" markers on the sheath lines and added the S-VYASA variation line with its source; removed the placebo and "most widely used healing practice" phrases (now "explanations offered, not proven effects"); marked Practical steps "(unverified: no named source found; a teaching suggestion)"; stripped quote marks from the cyclic meditation bullet; added the two PMC papers to References. Left as is (CONFIRMED): "(chapter 18)" for Gita 18.23 and the cyclic meditation wording. Nothing skipped. Ready for the author to mark checked: yes

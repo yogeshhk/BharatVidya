@@ -17,3 +17,6 @@ Sources used in this file:
 - **One-hour limit and where it is assessed.** CONFIRMED: Board Guideline version 0.3, sections 3.12 and 3.13. Remove the "(to be checked)" tag on that bullet.
 
 BLOCK RESULT: STAYS-PENDING. Reason: what this component assesses is not described in any Board document found; it needs the Board's practical assessment format or a written statement from an approved institute.
+
+APPLIED (2026-11-26, second round after the author's approval): changed: How to answer corrected with sources; "(to be checked)" removed from "Where it is assessed"; trailing stray quote on "Skills shown" stripped (the leading one in the first round); References gained Board Guideline version 0.3 and the Common Yoga Protocol 2019. Skipped: none.
+Ready for the author to mark checked: no (what this component assesses still needs the Board or an approved institute).

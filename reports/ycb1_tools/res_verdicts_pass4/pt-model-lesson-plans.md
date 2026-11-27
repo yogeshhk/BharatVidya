@@ -21,3 +21,6 @@ Sources used in this file:
   - Source: Common Yoga Protocol 2019 (sequence, institutional-practice note, contraindications kept in mind).
 
 BLOCK RESULT: CAN-BE-CHECKED (a certified teacher still reviews the sample plans).
+
+APPLIED (2026-11-26, second round after the author's approval): changed: the special-group plan and How to adapt corrected with sources ("more rest" removed); References gained the Common Yoga Protocol 2019 and the Board Chair Yoga syllabus; stray quotes stripped (first round). Not applied: the 45-minute addition to the "Marks of a good model plan" bullet, which carries a "deck, not yet checked" label the scope keeps unchanged; the 45 minutes is recorded in the References line instead.
+Ready for the author to mark checked: yes (the deck-labelled bullet stays for the author).

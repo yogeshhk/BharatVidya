@@ -8,3 +8,5 @@ Source: Samkhya Karika 23, 44 and 45 (Ganganath Jha 1896 translation; Raghavan I
 - Relevance to well-being | CORRECTED | new: "Samkhya ties each bhava to a result: dharma leads upward, adharma downward; jnana to freedom, its reverse to bondage; vairagya to absorption in prakriti, attachment to rebirth; aishvarya to freedom from obstruction." Source: Samkhya Karika 44 and 45. Drop the unsourced "restlessness and distress" line.
 
 BLOCK RESULT: CAN-BE-CHECKED
+
+APPLIED (2026-11-26): corrected the four negative bhavas to Samkhya Karika 23 with a variation line for the deck list; corrected Relevance to well-being (Samkhya Karika 44 and 45); removed the unsourced "Practices that support the positive bhavas" bullet; stripped quote marks from the posture-examples bullet (already marked unsourced); added Samkhya Karika to References. Skipped: the Meaning correction (refused by the permission check; not retried), so Meaning still reads "a feeling, emotion or attitude ... practices bring up a bhava". Ready for the author to mark checked: no (the Meaning line needs the Samkhya Karika 23 wording first)

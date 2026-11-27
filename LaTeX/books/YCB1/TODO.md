@@ -8,19 +8,17 @@ Constraints: the fact-check gate applies (pending blocks are written as unverifi
 - [ ] Workshop = notes, terse: every deck section maps to a block; no deck point absent from the notes.
 - [ ] Textbook = notes, verbose: each chapter carries all of its block as full prose (explanation, examples, exercises, FAQ); fix chapters that are thinner than the deck.
 - [ ] Re-run `../../../reports/ycb1_tools/ycb1_coverage.py` after each batch; its report is the acceptance test (keep it local).
-- [ ] Author reads the new chapters; reviewer pass; remove the "Not yet fact-checked" box per chapter as its block is checked.
+- [ ] Author reads the re-synced chapters (`D:\Yogesh\GDrive\ToPrint\Main_Book_YCB1_interior.pdf`); certified teacher and qualified reviewer pass. Boxes now remain only where a block is pending.
 
 ## Close the open checks
 - [ ] Download the Board's current Level 1 syllabus and replace the local copy in `docs/` (the current copy carries a private institute's footer); check for revisions to syllabus, marks and exam rules since guideline version 0.3.
 - [ ] Decide which of the two identical guidebook copies to keep (the author removes the other). The two guidebook PDFs, `docs/Yoga_Booklet.pdf` and `docs/YCB Protocol Instructor.gdraw` stay out of the public repository (gitignore; untrack by hand if ever committed).
 - [ ] Find a named source for each block marked gap; confirm the memorised sutra and sloka lists against the Board syllabus text. For application of knowledge and field experience, ask the Board or an accredited institute what is assessed (keep the honest wording until then: `../../../reports/ycb1_tools/open_sources_application.md`).
-- [ ] Read the MDNIY monographs (sukshma vyayama, shatkarma, yogasana, pranayama) for the asanas still without a Board source, the sarvanga pushti and hrid gati rounds and cautions, and the hasta mudra forms (`../../../reports/ycb1_tools/open_sources_practical.md`).
 - [ ] Check two FAQ answers (Gita paths; kaivalya as asamprajnata samadhi) and the Sanskrit spellings of Yoga Sutra 1.23 to 1.29 and Gita 16.1 against a printed edition (`../../../reports/ycb1_tools/deck_fixes_*.md`).
-- [ ] Deck corrections in `workshop/ycb1_theory_texts.tex` when the deck is rebuilt from the notes: Devanagari of Gita 2.49, 2.50 and 2.70 is wrong (use the checked text in the notes); the sahabhuvas are companions of distraction, not "accomplishments"; eleven principal Upanishads where the traditional commentary has ten; CPR depth should read 5 to 6 cm per the Indian manual.
 - [ ] Ask one accredited training institute how many candidates sit Level 1 a year and what the trainees use to study.
 
 ## Notes blocks (author reviews each; a certified teacher reviews practical and health blocks)
-- [ ] Fact-check pass over every block (verify names, periods, numbers, Sanskrit text, steps, cautions, health statements, exam rules); health and first-aid blocks need a qualified reviewer.
+- [ ] Write the methods for pranava and soham recitation, body and breath awareness, and yoga nidra from a named source (meditation chapter gap).
 - [ ] Brevity pass: trim each written block to the main principle.
 - [ ] Rewrite the question bank in `workshop/ycb1_theory_faqs.tex` into the Quiz and FAQ layers, in own words.
 - [ ] Write the design authority file: audience, promises, tone, safety rules, image policy, syllabus-to-topic map.
@@ -35,8 +33,8 @@ Constraints: the fact-check gate applies (pending blocks are written as unverifi
 ## Derived outputs
 - [ ] Re-author the deck frames from the notes (text that follows a web page or the guidebook closely must be rewritten); keep the deck compiling.
 - [ ] Mock exam and answer key.
-- [ ] Claude editorial review (`/book-editorial-review`) once the fact-check pass is done; report in `docs/reviews/`.
-- [ ] One compile batch, page review, `/verify-pdf`, then the self-publish route (print-ready PDF under the author's control).
+- [ ] Optional readability pass F3 from `docs/reviews/review_YCB1_2026-11-27.md` (turn "the guidebook says" narration into plain statements). The review's other findings are applied and the book is re-synced, rebuilt and in ToPrint (2026-11-27).
+- [ ] Self-publish route (print-ready PDF under the author's control) after the person-only checks, the figures and the author's read.
 
 ## Records
 - [ ] Keep `README.md` and `Publications/TODO.md` in step with each change.

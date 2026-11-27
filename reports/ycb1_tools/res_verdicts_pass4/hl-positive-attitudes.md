@@ -8,3 +8,5 @@ Why it stayed pending after pass 3 (ALL-CHECKED): three open markers in the bloc
 - Effects listed for the attitudes (relationships, personal growth) | REMOVE-OR-MARK-UNVERIFIED | already marked in the Material as interpretation, not in the Guidebook; keep that marking or cut.
 
 BLOCK RESULT: CAN-BE-CHECKED
+
+APPLIED (2026-11-26): corrected "Why they matter" (Vyasa on 1.33); replaced the garbled Devanagari of 1.33 with the author-checked deck text; stripped stray quote marks; added Vyasa to References. Left as is (CONFIRMED, author's call): the "(to be checked in a standard edition)" marker on the Sutra reference bullet. Ready for the author to mark checked: yes
