@@ -1,0 +1,18 @@
+% ycb1-fig-pranav. Labels from notes block ycb1-pd-prayer-pranava-hymns, "Pranava" bullet
+% (checked: Mandukya Upanishad 9 to 12: A waking, U dreaming, M deep sleep, the silence after is the fourth).
+\documentclass[border=6pt]{standalone}
+\input{ycb1_fig_preamble}
+\begin{document}
+\begin{tikzpicture}[s/.style={box, minimum width=18mm, font=\large\bfseries}]
+\node[font=\small\bfseries] at (4.05,1.1) {AUM and the states of consciousness (Mandukya Upanishad)};
+\node[s] (a) at (0,0) {A};
+\node[s] (u) at (2.7,0) {U};
+\node[s] (m) at (5.4,0) {M};
+\node[s, dashed, font=\large] (si) at (8.1,0) {silence};
+\node[note, below=3mm of a] {waking};
+\node[note, below=3mm of u] {dreaming};
+\node[note, below=3mm of m] {deep sleep};
+\node[note, below=3mm of si] {the fourth state};
+\draw[link] (a) -- (u); \draw[link] (u) -- (m); \draw[link] (m) -- (si);
+\end{tikzpicture}
+\end{document}

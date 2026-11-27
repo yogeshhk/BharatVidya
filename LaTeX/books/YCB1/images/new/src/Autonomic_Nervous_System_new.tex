@@ -1,0 +1,15 @@
+% ycb1-fig-autonomic-nervous-system. Labels from notes block ycb1-hl-human-body-introduction
+% ("Nervous" bullet and the deck layer: fight or flight, rest and digest; checked).
+\documentclass[border=6pt]{standalone}
+\input{ycb1_fig_preamble}
+\begin{document}
+\begin{tikzpicture}
+\node[head] (ans) {Autonomic nervous system\\{\normalfont\footnotesize works without our will; controls the internal organs}};
+\node[box, below left=10mm and 4mm of ans, text width=38mm] (sym) {\textbf{Sympathetic}\\activates\\``fight or flight''};
+\node[box, below right=10mm and 4mm of ans, text width=38mm] (par) {\textbf{Parasympathetic}\\calms\\``rest and digest''};
+\draw[link] (ans.south) -- (sym.north);
+\draw[link] (ans.south) -- (par.north);
+\draw[{Stealth[length=2mm]}-{Stealth[length=2mm]}, dashed] (sym.east) -- node[above, note] {balance} (par.west);
+\node[note, below=4mm of par] {slow breathing, rest and a calm mind\\shift the balance towards this side};
+\end{tikzpicture}
+\end{document}

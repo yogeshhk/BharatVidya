@@ -1,0 +1,13 @@
+% ycb1-fig-skeleton-divisions. Labels from notes block ycb1-hl-human-body-introduction,
+% "Skeletal divisions" bullet (checked in pass 4).
+\documentclass[border=6pt]{standalone}
+\input{ycb1_fig_preamble}
+\begin{document}
+\begin{tikzpicture}
+\node[head] (sk) {Skeleton};
+\node[box, below left=9mm and 6mm of sk, text width=40mm] (ax) {\textbf{Axial}\\skull\\vertebral column\\rib cage (guards lungs and heart)};
+\node[box, below right=9mm and 6mm of sk, text width=58mm] (ap) {\textbf{Appendicular}\\shoulder girdle (shoulder blades, collar bones)\\arm bones (humerus, radius, ulna, wrist, hand, fingers)\\pelvis\\leg bones (femur, patella, tibia, fibula, ankle, foot, toes)};
+\draw[link] (sk.south) -- (ax.north);
+\draw[link] (sk.south) -- (ap.north);
+\end{tikzpicture}
+\end{document}

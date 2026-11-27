@@ -76,8 +76,13 @@ for b in blocks:
 deck = []
 for f in sorted(glob.glob(R + "workshop/ycb1_*.tex")):
     t = "\n".join(l for l in read(f).split("\n") if not l.lstrip().startswith("%"))
-    for x in re.findall(r"\\begin\{frame\}(?:\[[^\]]*\])?\{([^}]*)\}", t) + re.findall(r"\\frametitle\{([^}]*)\}", t):
-        deck.append((os.path.basename(f), x))
+    # titles may hold nested braces (\textit{...}), so read each one to its matching brace
+    for m in re.finditer(r"\\begin\{frame\}(?:\[[^\]]*\])?\{|\\frametitle\{", t):
+        depth, j = 1, m.end()
+        while j < len(t) and depth:
+            depth += {"{": 1, "}": -1}.get(t[j], 0)
+            j += 1
+        deck.append((os.path.basename(f), t[m.end():j - 1]))
 deck_norm = lambda x: norm(re.sub(r"\\[a-zA-Z]+", "", x))
 allnotes = norm("\n".join(b["text"] for b in blocks))
 deck_not_in_notes = [(f, x) for f, x in deck if deck_norm(x) and deck_norm(x) not in allnotes and not re.match(r"Question \d+", x)]
@@ -96,7 +101,9 @@ for f in glob.glob(R + "book/ycb1_book_*.tex"):
     t = read(f)
     book_text_all[os.path.basename(f)] = t
 book_fig_ids = set(re.findall(r"\\ycbfig\{(ycb1-fig-[a-z0-9-]+)\}", "\n".join(v for k, v in book_text_all.items() if k != "ycb1_book_figures.tex")))
-fig_missing_in_book = [r["figure_id"] for r in reg if r["figure_id"] not in book_fig_ids]
+# retired figures (retyped as a table, or dropped) are not expected in the book
+fig_missing_in_book = [r["figure_id"] for r in reg if r["figure_id"] not in book_fig_ids
+                       and r["status"] not in ("retyped_table", "dropped")]
 
 # ---- book coverage per block
 def terms(text):

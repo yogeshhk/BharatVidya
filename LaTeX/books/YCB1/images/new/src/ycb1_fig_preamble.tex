@@ -1,0 +1,13 @@
+% Shared preamble for the YCB1 line diagrams (standalone TikZ, XeTeX). Black and white only; labels come from
+% the checked notes block named in each diagram file. Build: make_figures.bat in this folder.
+\usepackage{fontspec}
+\setmainfont{Segoe UI}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,shapes.geometric,calc,decorations.pathreplacing}
+\hyphenpenalty=10000 \exhyphenpenalty=10000 % no hyphenated labels
+\tikzset{
+  box/.style={draw, rounded corners=2pt, align=center, inner sep=4pt, font=\small, minimum height=1.6em},
+  head/.style={box, font=\small\bfseries},
+  note/.style={align=center, font=\footnotesize},
+  link/.style={-{Stealth[length=2mm]}, thin},
+}

@@ -1,0 +1,17 @@
+% ycb1-fig-overview-nervious-system. Labels from notes block ycb1-hl-human-body-introduction,
+% "Nervous system divisions" and "Nervous" bullets (checked).
+\documentclass[border=6pt]{standalone}
+\input{ycb1_fig_preamble}
+\begin{document}
+\begin{tikzpicture}[level distance=13mm]
+\node[head] (ns) {Nervous system};
+\node[box, below left=9mm and 14mm of ns] (cns) {Central\\(brain, spinal cord)};
+\node[box, below right=9mm and 14mm of ns] (pns) {Peripheral\\(nerves)};
+\node[box, below left=9mm and -2mm of pns] (som) {Somatic\\voluntary};
+\node[box, below right=9mm and -2mm of pns] (aut) {Autonomic\\works without our will};
+\node[box, below left=9mm and -6mm of aut] (sym) {Sympathetic\\activates};
+\node[box, below right=9mm and -6mm of aut] (par) {Parasympathetic\\calms};
+\foreach \a/\b in {ns/cns, ns/pns, pns/som, pns/aut, aut/sym, aut/par}
+  \draw[link] (\a.south) -- (\b.north);
+\end{tikzpicture}
+\end{document}

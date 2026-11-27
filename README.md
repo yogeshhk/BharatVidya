@@ -12,7 +12,7 @@ What you will find here:
 - **[`YogaNidra/`](./YogaNidra/README.md):** Yoga Nidra notes, a detailed practice script and a [research reading list](./YogaNidra/Reading_list_research.md).
 - **[`Spirituality/`](./Spirituality/README.md):** a curated list of Yoga resources and a meditation note.
 - **[`Samskrit/`](./Samskrit/README.md):** a curated list on Sanskrit, the author's notes, and a reading list of [papers on Sanskrit and computing](./Samskrit/Reading_list_papers.md).
-- **[`LaTeX/books/YCB1/`](./LaTeX/books/YCB1/README.md):** a textbook for the Yoga Certification Board Level 1 exam, parked as a 2027 project (notes first, then the workshop deck and the textbook; all rights reserved).
+- **[`LaTeX/books/YCB1/`](./LaTeX/books/YCB1/README.md):** a textbook for the Yoga Certification Board Level 1 exam, closed as a complete draft on 2026-11-27 (notes first, then the workshop deck and the textbook; all rights reserved).
 
 Books, recordings, course packs and coursework are not kept here; see [NOTICE.md](./NOTICE.md), which also holds the licences and the list of what was removed. Content is under CC BY-NC-SA 4.0 and code under MIT. Corrections to the Sanskrit, transliteration or commentary are especially welcome; see [CONTRIBUTING.md](./CONTRIBUTING.md). To cite this work, use [CITATION.cff](./CITATION.cff). Progress of the current upgrade: [reports/STATUS.md](./reports/STATUS.md).
 

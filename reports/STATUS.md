@@ -1,8 +1,48 @@
 # Status log (resume point)
 
-Read this first in a new session. Latest block is "Session 2026-11-27" directly below; the older log follows it.
+Read this first in a new session. Latest block is "Session 2026-11-27 (afternoon)" directly below; the older log follows it.
 
-## Session 2026-11-27 (latest): pass 4 fully applied
+## Session 2026-11-27 (afternoon, latest): YCB1 follow-ups, autonomous
+
+- [x] Deck Gita frames: verses 2.47 to 2.70 already carried the checked Devanagari; ASCII bars replaced by dandas to
+  match the notes. The open STATUS line about 2.49, 2.50 and 2.70 is closed.
+- [x] `ycb1_coverage.py` fixed: frame titles with nested braces (`\textit{...}`) were cut at the first brace and
+  reported as missing; retired figures (`retyped_table`, `dropped`) no longer count as missing from the book.
+- [x] Notes deck-layer titles brought in step with the deck (renamed frames retitled; removed or commented-out
+  frames relabelled as such, content kept). Coverage: every gap is 0.
+- [x] Polish F3 applied: 35 plain-fact "the guidebook says" narrations in 11 chapters turned into direct statements
+  (and the F13 shatkarma wording and two F4 author instructions in practices-intro). Kept on purpose: Sources lines,
+  contrasts between sources, contested and health claims. Chapter backup: session scratchpad only.
+- [x] Table screenshots: body systems and surya namaskara retyped as LaTeX tables (book and deck) from the checked
+  notes; the four asana-benefit screenshots dropped (cure claims), their deck frames commented out; exam screenshots
+  marked dropped. Register statuses and notes Final file lines updated. Book template gains `array` and an `L` column.
+- [x] Design authority file written: `LaTeX/books/YCB1/docs/DESIGN.md` (decisions, reader contract, voice, safety,
+  image policy, syllabus-to-block-to-chapter map).
+- [x] Mock exam drafted as the last section of the notes (60 one-mark questions with keys and source blocks, from the
+  Quiz layers of checked blocks only); not carried to the book until the author confirms.
+- [x] Unassigned question bank triaged (two items merged into Quiz layers; the rest left with reasons).
+- [x] Six more line diagrams drawn in TikZ from the checked notes (nervous system overview, autonomic, skeleton
+  divisions, vertebral column, AUM, reciprocal inhibition); sources now kept in `LaTeX/books/YCB1/images/new/src/`
+  with `make_figures.bat`; register marked drawn; deck NEW-PIC lines left commented for the author's side-by-side review.
+- [x] Author decisions applied (later the same afternoon): mock exam into the book as a generated appendix
+  (`ycb1_make_mock_exam.py`); Yoga Sutra 1.31 companions with Sanskrit names in the mental well-being block and the
+  texts chapter (dakshinayana dropped); surya namaskara Quiz item corrected to two positions; the 18 drawn diagrams
+  shown beside their originals in the deck; meditation methods written from Satyananda (block set back to pending,
+  boxed in the chapter); SmolLM2 base model for the FrugalAI demo downloaded into the user HF_HOME.
+- [x] Deck re-author from the notes done by five parallel agents (one per file group), in place, titles kept;
+  reports kept in `reports/ycb1_tools/deck_reauthor_2026-11-27/`. Deck and cheat sheet compiled once (XeTeX,
+  clean); every page looked at; twelve frames that ran past the footer set in footnotesize; coverage gaps all 0
+  (live frames 470 after the FAQ bank and unsupported frames were commented out). Not delivered, so not in ToPrint.
+- [x] Author decisions on the deck review (evening): five yogic means of stress (with achara) in notes, book,
+  mock exam; pending-block asana step fixes kept; Preksha attributed to Acharya Mahapragya; retitles applied in deck
+  and notes; school-name dividers made generic (names moved to the references); three Devanagari typos fixed; Bhoja's
+  Rajamartanda replaces the Raja Bhoj line, "Supreme Yoga" commented out, Ishvara line matches the notes; all 18 drawn
+  diagrams approved (originals commented out, never deleted). FrugalAI finetune-slm demo path run end to end offline
+  (fine-tuned 6 of 6, base 2 of 6); cache note in its README.
+- [x] Meditation methods checked against web sources (soham, rotation, sankalpa, yoga nidra stages, breath
+  awareness, pranava); unconfirmed details removed; block re-marked checked on the author's decision (44 of 52).
+  Mock exam reviewed: every key confirmed against its block; answer letters rebalanced to 15 each (answers unchanged).
+- [x] YCB1 closed as a complete draft (author, 2026-11-27): TODO emptied; the reopen list is in the YCB1 README.
 
 - [x] The 2026-11-26 block below is out of date: teaching, exam and texts were applied in a second round that day (each verdict file has its APPLIED line). This session applied the last group, practical: all 11 `pd-*` verdict files (APPLIED 2026-11-27 line in each). Every pass 4 verdict is now applied. Stray quote marks stripped from 16 lines in the practical blocks. Notes backup before the quote strip: session scratchpad only.
 - [x] `ycb1_coverage.py` re-run: 52 blocks (12 checked, 40 pending), all with book text; 0 deck frames missing from the notes; 13 notes deck-layer frame titles no longer in the deck (see `ycb1_tools/ycb1_coverage_report.md`).
@@ -31,14 +71,13 @@ Read this first in a new session. Latest block is "Session 2026-11-27" directly 
   lifestyle, hatha, texts, first aid, teaching class); interior rebuilt and in ToPrint (08:16). Kept on purpose:
   "unverified" purvottanasana, Devanagari "to be set against a printed edition", pending first-aid items, and the
   "Source: NIOS/CBSE, secondary" labels on asanas from government secondary sources.
-- [ ] Polish F3 (optional, readability): turn "the guidebook says" narration into plain statements, chapter by chapter.
+- [x] Polish F3 (optional, readability): done in the afternoon session.
 - [x] Deck pass 4 carry-over 2026-11-27: AUM line (Mandukya), mudra groups, dhyana mudra name note, mukha and chakra
   mudra frames commented out (outside the syllabus), bhastrika FAQ rewritten; the TODO's deck corrections (sahabhuvas,
   ten principal Upanishads, CPR depth) were already in. Deck and cheat sheet build clean (XeTeX), PDFs beside the
   sources (not delivered yet, so not in ToPrint).
 - [ ] Deck, remaining: the full "re-author the deck frames from the notes" task in `LaTeX/books/YCB1/TODO.md`
-  (Derived outputs) stays open; the Gita Devanagari of 2.49, 2.50, 2.70 in `ycb1_theory_texts.tex` still to be
-  set from the checked notes text.
+  (Derived outputs) stays open; the Gita Devanagari was found already set (afternoon session).
 
 ## Session 2026-11-26: YCB1 fact-check pass 4
 
